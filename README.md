@@ -33,6 +33,32 @@ Text Analysis in AntConc is licensed under a <a href="http://creativecommons.org
 
 # Table of Contents
 
+- [Background](#background)
+- [University Archive Digital Collections](#university-archive-digital-collections)
+- [Voyant Tools](#voyant-tools)
+  * [Uploading Data](#uploading-data)
+  * [Voyant Interface](#voyant-interface)
+  * [Voyant's Tools](#voyants-tools)
+    * [Cirrus](#cirrus)
+    * [Reader](#reader)
+    * [Trends](#trends)
+    * [Summary](#summary)
+    * [Contexts](#contexts)
+  * [Interacting With Voyant Tools](#interacting-with-voyant-tools
+  * [Exporting in Voyant](#exporting-in-voyant)
+  * [Final Voyant Reflection Questions](#final-voyant-reflection-questions)
+- [DataBasic](#databasic)
+  * [WordCounter](#wordcounter)
+  * [SameDiff](#samediff)
+- [Distant Reader](#on-your-own-distant-reader)
+   * [Reflection Questions](#distant-reader-reflection-questions)
+- [AntConc](#antconc)
+- [Python](#python)
+- [Next Steps](next-steps)
+- [Lab Notebook Components](#lab-notebook-components)     
+
+[Link to Google Drive folder with lab materials and resources, including notebook template](https://drive.google.com/drive/folders/1ewsgmrPNeWJYzi5f8EXr05VjPnlRCATz?usp=sharing) (ND Users)
+
 # Background
 
 To prepare for this lab, we read Kirsten Bussière's “[Chapter 4- Text Analysis](https://carletonu.pressbooks.pub/digh5000/chapter/chapter-4-text-analysis/)” in *Digital Humanities: A Primer* (Carleton University) and explored Alex Wermer-Colan's "[Computational Text Analysis](https://guides.temple.edu/corpusanalysis)" Temple University Library Guide.
@@ -90,7 +116,7 @@ We'll start by using a web-based textual analysis tool to engage with the resour
 - What do you have questions about, or what is confusing and not immediately clear?
 - Based on your initial scan, what function do you think these various components serve?
 
-## Editing in Voyant
+## Voyant Interface
 
 6-In the default editing environment, Voyant displays five panels: Cirrus, Reader, Trends, Summary, and Contexts.
 
@@ -339,7 +365,7 @@ Once the carrel has been processed, you can click the "View" option to see Dista
 
 Spend some time exploring the carrel analysis and visualization.
 
-## Reflection Questions
+## Distant Reader Reflection Questions
 
 - What did you find engaging or interesting about Distant Reader?
 - What types of historical research questions could a researcher have about a text or collection of texts?
@@ -360,6 +386,6 @@ PLACEHOLDER TEXT
 
 PLACEHOLDER TEXT
 
-# Lab Notebook
+# Lab Notebook Components
 
 PLACEHOLDER TEXT
