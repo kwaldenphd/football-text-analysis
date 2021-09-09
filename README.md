@@ -52,7 +52,18 @@ Text Analysis in AntConc is licensed under a <a href="http://creativecommons.org
   * [SameDiff](#samediff)
 - [Distant Reader](#on-your-own-distant-reader)
    * [Reflection Questions](#distant-reader-reflection-questions)
+   * [For More on Distant Reader](#for-more-on-distant-reader-including-more-advanced-on-campus-workshops)
 - [AntConc](#antconc)
+  * [Data](#data)
+  * [Downloading AntConc and Loading Data](#downloading-antconc-and-loading-data)
+  * [AntConc's Functionality](#antconcs-functionality)
+    * [Searching Key Words in Context](#searching-key-words-in-context)
+    * [Visualizing Key Words in Context](#visualizing-key-words-in-context)
+    * [Search Operators](#search-operators)
+    * [Clusters and N-Grams](#clusters-and-n-grams)
+    * [Exporting in AntConc ]#exporting-in-antconc)
+    * [Collocates and Word Lists](#collocates-and-word-lists)
+    * [Reflection Questions](#antconc-reflection-questions)
 - [Python](#python)
 - [Next Steps](next-steps)
 - [Lab Notebook Components](#lab-notebook-components)     
@@ -499,47 +510,58 @@ Developed by Laurence Anthony, <a href="http://www.laurenceanthony.net/software/
 
 87-Search for `m?n` and `wom?n` and compare your results.
 
-<blockquote>Note on operators:
-
-88-The * operator is often used in Boolean searching. The ? operator is more specific because it stands in for only one character. For example, searching m*n will bring back results that include men, mean, mellon, etc. Searching m?n  will return men, man, and min. Similarly, wom?n will return woman and women.</blockquote>
+88-A few notes on operators:
+- The `*` operator is often used in Boolean searching.
+- The `?` operator is more specific because it stands in for only one character. 
+- For example, searching `m*n` will bring back results that include `men`, `mean`, `mellon`, etc. 
+- Searching `m?n`  will return `men`, `man`, and `min`. 
+- Similarly, `wom?n` will return `woman` and `women`.
 
 ### Clusters and N-Grams
 
 <p align="center"><a href="https://github.com/kwaldenphd/AntConc-tutorial/blob/master/screenshots/Capture_8.PNG?raw=true"><img class="aligncenter size-full wp-image-579" src="https://github.com/kwaldenphd/AntConc-tutorial/blob/master/screenshots/Capture_8.PNG?raw=true" alt="" width="791" height="597" /></a></p>
 
-89-Click on the <strong>Clusters/N-Grams tab</strong> and search for sport.
+89-Click on the Clusters/N-Grams tab and search for "sport."
 
 90-AntConc ranks your search results, calculates frequency, and range (number of files in which the cluster appears), while also displaying the text in the cluster.
 
 <p align="center"><a href="https://github.com/kwaldenphd/AntConc-tutorial/blob/master/screenshots/Capture_9.PNG?raw=true"><img class="aligncenter size-full wp-image-580" src="https://github.com/kwaldenphd/AntConc-tutorial/blob/master/screenshots/Capture_9.PNG?raw=true" alt="" width="790" height="595" /></a></p>
 
-91-The default <strong>Search Term Position</strong> places the search term on the left side of the cluster. <strong>Change the Search Term Position</strong> selection to <strong>On Right</strong> and click <strong>Start</strong> to re-run the search. How did your search results change?
+91-The default Search Term Position places the search term on the left side of the cluster. Change the Search Term Position selection to "On Right" and click "Start" to re-run the search. How do your search results change?
 
-92-<strong>Cluster Size</strong> determines the range for the number of terms AntConc searches and displays. How are your search results different when you change this range?
+92-Cluster Size determines the range for the number of terms AntConc searches and displays. How are your search results different when you change this range?
 
 ## Exporting in AntConc
 
-93-After you are satisfied with a search result, click <strong>File-&gt;Save Output</strong> to save the search result as a text file (*.txt).
+93-After you are satisfied with a search result, click the "File" menu option and then "Save Output" to save the search result as a plain-text (`.txt`) file.
 
-94-Save the file as [SEARCH TERM]_cluster_search or another descriptive name.
+94-Save the file as `SEARCHTERM_cluster_search` or another descriptive name.
 
-95-<strong>Conduct another Cluster search</strong> for study, customize your results, and export as a text file.
+95-Conduct another Cluster search for a keyword of your choosing. Customize your results, and export the results as a text (`.txt`) file.
 
-96-<strong>Right click</strong> on the exported text files and <strong>open</strong> in Notepad or Notepad++ to compare search results.
+96-Open the exported file in a text editor (Notepad or Notepad++ for PC users and Text Edit for Mac users) to explore the exported results.
 
 ## Collocates and Word Lists
 
-97-As mentioned earlier in the tutorial, <strong>Clusters</strong> analyzes what words appear most frequently alongside your search term.
+97-As mentioned earlier in the tutorial, Clusters analyzes what words appear most frequently alongside your search term.
 
-98-<strong>Collocates</strong> calculates what terms are statistically probable to appear near your search term. <strong>Freq</strong> calculates overall frequency, <strong>Freq(L)</strong> looks at frequency for terms to the left of your search term, and <strong>Freq(R)</strong> calculates frequency for terms to the right of your search term. <strong>Stat</strong> uses the Mutual Information (MI) and T-score calculations outlined in Stubbs (1995) to calculate the statistical probability of term collocation.
+98-Collocates calculates what terms are statistically probable to appear near your search term. 
+- **Freq** calculates overall frequency
+- **Freq(L)** looks at frequency for terms to the left of your search term
+- **Freq(R)** calculates frequency for terms to the right of your search term
+- **Stat** uses the Mutual Information (MI) and T-score calculations outlined in Michael Stubbs's 1995 article "On inference theories and code theories: Corpus evidnece for semantic schemas" to calculate the statistical probability of term collocation.
+  * Michael Stubbs, "[On inference theories and code theories: Corpus evidnece for semantic schemas](http://people.cs.pitt.edu/~wiebe/courses/CS3730/Spring05/stubbs01.pdf)" *Text* 21:3 (1995): 437-465.
 
 <p align="center"><a href="https://github.com/kwaldenphd/AntConc-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true"><img class="aligncenter size-full wp-image-582" src="https://github.com/kwaldenphd/AntConc-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true" alt="" width="791" height="597" /></a></p>
 
-99-Use the name of a historic campus building as your search term.
+99-Use the name of a historic campus figure or building as your search term.
+- "Rockne" is a good place to start.
 
-100-AntConc will display a pop-up window message about needing to generate a Word List. <strong>Click OK</strong> to have AntConc generate that list automatically.
+100-AntConc will display a pop-up window message about needing to generate a Word List. Click "OK" to have AntConc generate that list automatically.
 
-101-What terms are statistically likely to appear in proximity to your search term? What happens when you change the <strong>Window Span</strong> (number of words to the right and left of your search term AntConc will include in the analysis)?
+101-Reflection questions:
+- What terms are statistically likely to appear in proximity to your search term?
+- What happens when you change the Window Span (number of words to the right and left of your search term AntConc will include in the analysis)?
 
 ## AntConc Reflection Questions
 
@@ -550,6 +572,10 @@ Developed by Laurence Anthony, <a href="http://www.laurenceanthony.net/software/
 - What types of historical research questions can you see textual analysis being useful to answer or respond to (especially related to the conversations we've been having about college football/ND football)?
 
 # Python
+
+PLACEHOLDER TEXT
+
+# Next Steps
 
 PLACEHOLDER TEXT
 
