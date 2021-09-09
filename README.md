@@ -75,7 +75,7 @@ We'll start by using a web-based textual analysis tool to engage with the resour
 <p align="center"><a href="https://github.com/kwaldenphd/Voyant-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true"><img class="aligncenter size-large wp-image-549" src="https://github.com/kwaldenphd/Voyant-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true" alt="" width="676" height="523" /></a></p>
 
 3-Upload the PDF you explored in the previous section of the lab and click Reveal.
-  * If you want to work with a collection of texts, download the zip folder included in this repository and upload that to Voyant. The zip folder includes Scholastic football review issues from 1901-1931. Link to access this corpus via Google Drive.
+  * If you want to work with a collection of texts, download the zip folder included in this repository and upload that to Voyant. The zip folder includes Scholastic football review issues from 1901-1931. [Link to access this corpus via Google Drive](https://drive.google.com/drive/folders/1zK99DK_Cd-w9tu2u2M5vlAOSidZYdVTd?usp=sharing)
 
 <p align="center"><a href="https://github.com/kwaldenphd/Voyant-tutorial/blob/master/screenshots/Capture_2.PNG?raw=true"><img class="aligncenter size-large wp-image-550" src="https://github.com/kwaldenphd/Voyant-tutorial/blob/master/screenshots/Capture_2.PNG?raw=true" alt="" width="676" height="355" /></a></p>
 
@@ -230,7 +230,7 @@ According to [its website,](https://databasic.io) “DataBasic is a suite of eas
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_5.jpg?raw=true" alt="Capture" /></p>
 
-37-Download a plain-text file for one of the Scholastic football reviews. Link to Google Drive folder with sample files.
+37-Download a plain-text file for one of the Scholastic football reviews. [Link to Google Drive folder with sample files](https://drive.google.com/drive/folders/1zK99DK_Cd-w9tu2u2M5vlAOSidZYdVTd?usp=sharing).
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_6.jpg?raw=true" alt="Capture" /></p>
 
@@ -286,7 +286,7 @@ A comma-separated value file (CSV) is a structured tabular data format in which 
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_10.PNG?raw=true" alt="Capture" /></p>
 
-51-Take the single text file you used in the previous section of the lab, and compare it with the combined Scholastic football reviews from 1901-1931 (file name `Scholastic-Combined.txt`).
+51-Take the single text file you used in the previous section of the lab, and compare it with the combined Scholastic football reviews from 1901-1931 (file name `Scholastic-Combined.txt`, [Link to download from Google Drive](https://drive.google.com/file/d/1Law1fb8c1xZOdwLyNCO-p3opI020kovn/view?usp=sharing)).
 
 52-Click the Compare icon. 
 
@@ -311,7 +311,7 @@ A comma-separated value file (CSV) is a structured tabular data format in which 
 - What additional questions do you have about these resources? Where would you go next using this tool? 
 - Other comments/questions/observations
 
-# Distant Reader
+# ON YOUR OWN: Distant Reader
 
 "The Distant Reader takes text as input, does analysis against it, and outputs sets of structured data called 'study carrels', which students, researchers, or scholars can use to do both close and distant reading...[it is] a tool intended to supplement the traditional reading process. Given a set of one or more texts acquired through a variety of means, the Reader: 1) applies different forms of text mining and natural language processing against the texts, 2) saves the results as a set of structured data amenable to computing, 3) summarizes everything in a set of interactive HTML reports, 4) compresses everything into a .zip file, and 5) provides the means for you to view the results online or download the whole thing to your computer. This resulting .zip file is affectionately called a 'study carrels."
 - Morgan, Eric Lease. (2020, April 10). Distant Reader (Version Alpha). Zenodo. https://doi.org/10.5281/zenodo.3747777.
@@ -319,6 +319,38 @@ A comma-separated value file (CSV) is a structured tabular data format in which 
 To learn more about Distant Reader:
 - [About](https://distantreader.org/about)
 - [Getting Started](https://distantreader.org/getting-started)
+
+You will need to have or create an ORCID to use Distant Reader.
+- [Link to register](https://orcid.org/register)
+
+Once you have an ORCID, log in to Distant Reader.
+
+Let's create a carrel for the scholastic football review materials:
+- Click on the "Create Carrels" menu item on the top of the page.
+- Select the option to create a "New Carrel."
+- Select the "Zip file" option
+- Give your carrel a name
+- Upload the `zip` folder of scholastic football reviews from 1901-1931 ([Link to download from Google Drive](https://drive.google.com/drive/folders/1zK99DK_Cd-w9tu2u2M5vlAOSidZYdVTd?usp=sharing)
+- Click the "Create" button
+
+The process of creating a carrel will take some time. Give it a few hours, come back, and you should see the new carrel under "Browse Carrels" and "Browse Your Carrels."
+
+Once the carrel has been processed, you can click the "View" option to see Distant Reader's analysis of your text.
+
+Spend some time exploring the carrel analysis and visualization.
+
+## Reflection Questions
+
+- What did you find engaging or interesting about Distant Reader?
+- What types of historical research questions could a researcher have about a text or collection of texts?
+- How effectively might Distant Reader be able to address those questions?
+- What challenges, frustrations, or limitations did you encounter while using Distant Reader?
+- What words or features stood out in each representation of the textual analysis?
+- How did you understand the textual analysis differently based on how it was presented? 
+- What questions do you have about how this tool calculated these results (or what can we tell about how the tool is calculating results/generating visualizations)? 
+- What remaining questions do you have about the source you focused on?
+- How would you move forward with Distant Reader as a tool for historical textual analysis?
+- Other questions/observations
 
 # AntConc
 
