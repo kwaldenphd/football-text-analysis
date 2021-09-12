@@ -652,6 +652,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/alumnus.ipynb)
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/alumnus.ipynb)
 - [Google CoLab]
 
 ## Bagby Glass Plate Negative Collection
@@ -662,6 +663,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/bagby_negatives.ipynb)
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/bagby_negatives.ipynb)
 - [Google CoLab]
 
 ## Annual Bulletins and Catalogs
@@ -672,6 +674,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/bulletins_catalogs.ipynb)
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/bulletins_catalogs.ipynb)
 - [Google CoLab]
 
 ## Capstan
@@ -682,6 +685,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/capstan.ipynb)
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/capstan.ipynb)
 - [Google CoLab]
 
 ## Commencement Programs
@@ -692,6 +696,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/commencement_programs.ipynb)
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/commencement_programs.ipynb)
 - [Google CoLab]
 
 ## Daily
@@ -702,6 +707,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/daily.ipynb)
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/daily.ipynb)
 - [Google CoLab]
 
 ## Directories
@@ -712,6 +718,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/directories.ipynb)
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/directories.ipynb)
 - [Google CoLab]
 
 ## Magazine
@@ -722,6 +729,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/magazine.ipynb)
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/magazine.ipynb)
 - [Google CoLab]
 
 ## Observer
@@ -732,6 +740,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/observer.ipynb)
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/observer.ipynb)
 - [Google CoLab]
 
 ## Scholastic
@@ -742,6 +751,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/scholastic.ipynb)
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/scholastic.ipynb)
 - [Google CoLab]
 
 ## Scholastic Football Review
@@ -752,6 +762,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/scholastic_football_review.ipynb)
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/scholastic_football_review.ipynb)
 - [Google CoLab]
 
 ## Voice
@@ -762,6 +773,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/voice.ipynb)
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/voice.ipynb)
 - [Google CoLab]
 
 # Optical Character Recognition
