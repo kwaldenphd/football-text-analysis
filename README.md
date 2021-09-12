@@ -42,6 +42,38 @@ Any text and data mining endeavor is supported by heroic and ongoing work that h
 
 # Table of Contents
 
+## Abbreviated Table of Contents
+
+- [Background](#background)
+- [University Archive Digital Collections](#university-archive-digital-collections)
+- [Voyant Tools](#voyant-tools)
+  * [Uploading Data](#uploading-data)
+  * [Voyant Interface](#voyant-interface)
+  * [Voyant's Tools](#voyants-tools)
+  * [Interacting With Voyant Tools](#interacting-with-voyant-tools)
+  * [Exporting in Voyant](#exporting-in-voyant)
+  * [Final Voyant Reflection Questions](#final-voyant-reflection-questions)
+- [DataBasic](#databasic)
+  * [WordCounter](#wordcounter)
+  * [SameDiff](#samediff)
+- [Distant Reader](#on-your-own-distant-reader)
+   * [Reflection Questions](#distant-reader-reflection-questions)
+   * [For More on Distant Reader](#for-more-on-distant-reader-including-more-advanced-on-campus-workshops)
+- [AntConc](#antconc)
+  * [Data](#data)
+  * [Downloading AntConc and Loading Data](#downloading-antconc-and-loading-data)
+  * [AntConc's Functionality](#antconcs-functionality)
+- [Python](#python)
+  * [Bulk Download](#bulk-download)
+  * [Optical Character Recognition](#optical-character-recognition)
+  * [Text Analysis in Python](#text-analysis-in-python)
+- [Next Steps](next-steps)
+- [Lab Notebook Components](#lab-notebook-components)     
+
+[Link to Google Drive folder with lab materials and resources, including notebook template](https://drive.google.com/drive/folders/1ewsgmrPNeWJYzi5f8EXr05VjPnlRCATz?usp=sharing) (ND Users)
+
+## Expanded Table of Contents
+
 - [Background](#background)
 - [University Archive Digital Collections](#university-archive-digital-collections)
 - [Voyant Tools](#voyant-tools)
@@ -93,7 +125,7 @@ Any text and data mining endeavor is supported by heroic and ongoing work that h
   * [Text Analysis in Python](#text-analysis-in-python)
     * [Python Text Analysis Next Steps and Additional Resources](#python-text-analysis-next-steps-and-additional-resources)
       * [More documentation on the tools covered in this notebook](#more-documentation-on-the-tools-covered-in-this-notebook)
-      * [Other Tutorials, Packages, and Methods](#other-tutorials-packages-and-methods
+      * [Other Tutorials, Packages, and Methods](#other-tutorials-packages-and-methods)
 - [Next Steps](next-steps)
 - [Lab Notebook Components](#lab-notebook-components)     
 
