@@ -878,7 +878,7 @@ Jupyter Notebook:
 
 ## Python Text Analysis Next Steps and Additional Resources
 
-## More documentation on tools covered in this notebook
+### More documentation on tools covered in this notebook
 
 **`wordcloud`**
 - wordcloud, "[WordCloud for Python documentation](https://amueller.github.io/word_cloud/)"
@@ -901,7 +901,7 @@ Jupyter Notebook:
 - Zoë Wilkinson Saldaña, "Sentiment Analysis for Exploratory Data Analysis," The Programming Historian 7 (2018), https://doi.org/10.46430/phen0079.
 - François Dominic Laramée, "Introduction to stylometry with Python," The Programming Historian 7 (2018), https://doi.org/10.46430/phen0078.
 
-## Other Tutorials, Packages, and Methods
+### Other Tutorials, Packages, and Methods
 
 For a more detailed overview of text analysis methods- START HERE before diving into a new method/tutorial:
 - Heather Froelich, "[Text Analysis: An Introduction, Methods](https://guides.libraries.psu.edu/c.php?g=829065&p=5922906)" *PennState University Library Guide*
