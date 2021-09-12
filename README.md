@@ -651,7 +651,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Alumnus Digital Collection](http://archives.nd.edu/Alumnus/)
 
 Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/alumnus.ipynb)
+- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/alumnus.ipynb)
 - [Google CoLab]
 
 ## Bagby Glass Plate Negative Collection
@@ -661,7 +661,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Bagby Glass Plate Negative Collection (Notre Dame Sports), 1920s-1930s](http://archives.nd.edu/Bagby/index.htm/)
 
 Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/bagby_negatives.ipynb)
+- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/bagby_negatives.ipynb)
 - [Google CoLab]
 
 ## Annual Bulletins and Catalogs
@@ -671,7 +671,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Annual Catalogues or Bulletins, 1850 - 1914](http://archives.nd.edu/bulletin/)
 
 Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/bulletins_catalogs.ipynb)
+- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/bulletins_catalogs.ipynb)
 - [Google CoLab]
 
 ## Capstan
@@ -681,7 +681,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Capstan, 1943-1945, Digital Collection](http://archives.nd.edu/Capstan/)
 
 Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/capstan.ipynb)
+- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/capstan.ipynb)
 - [Google CoLab]
 
 ## Commencement Programs
@@ -691,7 +691,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Commencement Programs, 1845 - 2018](http://archives.nd.edu/Commencement/)
 
 Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/commencement_programs.ipynb)
+- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/commencement_programs.ipynb)
 - [Google CoLab]
 
 ## Daily
@@ -701,7 +701,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Daily (student newspaper), 1923 - 1924](http://archives.nd.edu/Daily/)
 
 Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/daily.ipynb)
+- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/daily.ipynb)
 - [Google CoLab]
 
 ## Directories
@@ -711,7 +711,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Directories, 1922 - 1974](http://archives.nd.edu/dir/)
 
 Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/directories.ipynb)
+- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/directories.ipynb)
 - [Google CoLab]
 
 ## Magazine
@@ -721,7 +721,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame: A Magazine, 1948-1965](http://archives.nd.edu/ndm/)
 
 Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/magazine.ipynb)
+- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/magazine.ipynb)
 - [Google CoLab]
 
 ## Observer
@@ -731,7 +731,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [The Observer (student newspaper), 1966 - 2015](http://archives.nd.edu/Observer/)
 
 Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/observer.ipynb)
+- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/observer.ipynb)
 - [Google CoLab]
 
 ## Scholastic
@@ -741,7 +741,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Scholastic (student magazine), 1867 - 2011](http://archives.nd.edu/Scholastic/)
 
 Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/scholastic.ipynb)
+- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/scholastic.ipynb)
 - [Google CoLab]
 
 ## Scholastic Football Review
@@ -751,7 +751,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Football Review, 1901 - 2010](http://archives.nd.edu/Football/)
 
 Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/scholastic_football_review.ipynb)
+- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/scholastic_football_review.ipynb)
 - [Google CoLab]
 
 ## Voice
@@ -761,7 +761,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 - [Notre Dame Voice (student newspaper), 1963 - 1966](http://archives.nd.edu/Voice/)
 
 Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/voice.ipynb)
+- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/voice.ipynb)
 - [Google CoLab]
 
 # Optical Character Recognition
