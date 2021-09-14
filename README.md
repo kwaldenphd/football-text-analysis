@@ -644,6 +644,12 @@ Each Jupyter Notebook goes into more detail about the sample Python code present
 
 Prof. Walden has built out Jupyter notebooks for bulk downloading PDFs for the following collections.
 
+NOTE: Prof. Walden has already loaded PDFs for these publications into Google Drive. If you want or need to download files to your personal computer, you can- but just know we're talking about gigabytes of material. My recommendation is for folks to make copies of the Jupyter Notebooks within Google Drive so you can run them through Google CoLab, mount the files in Google Drive, and not have to deal with storage and processing constraints/limitations on your personal computer. 
+
+To mount Google Drive files within CoLab:
+- [Google Colab, "External Data: Local Files, Drive, Sheets, and Cloud Storage"](https://colab.research.google.com/notebooks/io.ipynb#scrollTo=XDg9OBaYqRMd)
+- Mdkaish Ansari, "[How to Connect Google Colab with Google Drive](https://www.marktechpost.com/2019/06/07/how-to-connect-google-colab-with-google-drive/)" *Markettechpost* (7 June 2019)
+
 ## Alumnus
 
 From the [University Archives](http://archives.nd.edu/digital/):
@@ -799,6 +805,15 @@ Jupyter Notebook:
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/ocr-roadmap.ipynb)
 - [Google CoLab](https://drive.google.com/file/d/1WbGTAvs1WCGrC5XZeADyhminFn8QMEHT/view?usp=sharing) *ND users*
 
+## Hacking Google CoLab
+
+Given the scale of the processing jobs you may end up running, you will likely want to optimize Google CoLab's performance:
+- Under `Runtime`, select `Change runtime type`
+- Select `Python 3` for `Runtime type` and `GPU` for `Hardware accelerator`
+  * Source: Matthew Mayo, "[3 Essential Google Colaboratory Tips and Tricks](https://www.kdnuggets.com/2018/02/essential-google-colaboratory-tips-tricks.html)" *KD Nuggets* (February 2018)
+
+Let's see where we can get with enhanced Google CoLab functionality for this lab. But if folks need to go beyond what their personal computers or CoLab can handle, we do have access to high-performance computing (HPC) resources through Notre Dame's [Center for Research Computing](https://crc.nd.edu/). Contact Prof. Walden to learn more and discuss next steps.
+
 ## OCR Next Steps and Additional Resources
 
 There are a number of options and next steps for refining or further building out an OCR workflow.
@@ -886,8 +901,9 @@ The workflow includes sample code for the following steps or tasks:
 - Create TD-IDF model and show TD-IDF weights using `gensim`
 
 Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/nd-digital-archives/blob/main/text-analysis-roadmap.ipynb)
-- [Google CoLab]
+- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/text-analysis-roadmap.ipynb)
+- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/text-analysis-roadmap.ipynb)
+- [Google CoLab](https://drive.google.com/file/d/1S2W6NQfLC_9kbcg7_RwYZ163yZ6R7n1K/view?usp=sharing)
 
 ## Python Text Analysis Next Steps and Additional Resources
 
@@ -913,6 +929,32 @@ Jupyter Notebook:
 - Shaumik Daityari, "[How to Perform Sentiment Analysis in Python 3 using the Natural Langauge Toolkit (NLTK)](https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk)" *Digital Ocean* (26 September 2019)
 - Zoë Wilkinson Saldaña, "Sentiment Analysis for Exploratory Data Analysis," The Programming Historian 7 (2018), https://doi.org/10.46430/phen0079.
 - François Dominic Laramée, "Introduction to stylometry with Python," The Programming Historian 7 (2018), https://doi.org/10.46430/phen0078.
+
+### On-Campus Resources and Workshops
+
+Eric Lease Morgan, the lead developer and project coordinator for Distant Reading is the Digital Initiatives Librarian here at ND, in the Navari Family Center for Digital Scholarship.
+- [Eric's library profile](https://directory.library.nd.edu/directory/employees/emorgan)
+
+He teaches a number of specialized workshops on text mining and data analysis, including many on the topics, tools, and methods covered in this lab. 
+
+A list of his Fall 2021 workshops:
+- [Introduction to Text Mining, Tuesday 9/21, 11am-12pm](https://library.nd.edu/event/introduction-to-text-mining-2021-09-21)
+- [Using the Distant Reader, multiple dates/times](https://library.nd.edu/events/recurring/using-the-distant-reader-fall-2021)
+- [Preparing Files for Text and Data Mining, Friday 9/24, 12:30-1:30pm](https://library.nd.edu/event/preparing-files-for-text-and-data-mining-2021-09-24)
+- [Using Topic Modeling Against a Corpora, Wednesday 9/29, 12:30-1:30pm](https://library.nd.edu/event/using-topic-modeling-against-a-corpora-2021-09-29)
+- [Extracting the Who, What, and When from a Text, Monday 10/4, 12:30-1:30pm](https://library.nd.edu/event/extracting-the-who-what-when-from-a-text-2021-10-04)
+- [Using a Concordance with AntConc, Wednesday 10/6, 12:30-1:30pm](https://library.nd.edu/event/using-a-concordance-2021-10-06)
+- [Introduction to Natural Language Processing With Python, Tuesday 10/12, 11am-12pm](https://library.nd.edu/event/introduction-to-natural-language-processing-with-python-2021-10-12)
+
+I highly encourage to attend workshops that connect to tools/methods you want to explore in more detail, especially if you come back to these tools/methods for work you're doing in the final project.
+
+We also have a deep bench of expertise in the [Navari Family Center for Digital Scholarship](https://cds.library.nd.edu/):
+- [Eric Morgan Lease](https://directory.library.nd.edu/directory/employees/emorgan), Digital Initiatives Librarian
+  * Eric specializes in text mining and large scale computational text analysis. 
+- [Daniel Johnson](https://directory.library.nd.edu/directory/employees/djohns27), English Literature and Digital Humanities Librarian
+  * Daniel specializes in many things, most germane to this class, digital methods for literary study and computational text analysis.
+
+We'll come back to these on-campus resources when we start working on the final project.
 
 ### Other Tutorials, Packages, and Methods
 
@@ -967,7 +1009,63 @@ From their "[Software](https://nlp.stanford.edu/software/)" page: "The Stanford 
 **`scikit-learn`**
 - `scikit-learn`, "[Working With Text Data](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)": The `scikit-learn` machine-larning library includes a nubmer of modules and resources for natural language processing, including tasks like feature extraction and linear models for categorization.
 
-# Next Steps
+# Next Steps (aka, now it's your turn!)
+
+By this point in the lab we've covered a number of different tools for (computational) text analysis, including some that run in a web browser, some that run are your local computer, and some that involve working within a programming language.
+
+Now it's your turn to come up with a small-scale question, topic, etc. related to the period of ND football history we've been looking at (or some of the broader themes we've been talking about) that you could explore using some of the primary sources and analysis/research methods covered in this lab.
+
+This section of the lab will resemble a more "traditional" lab report:
+- Background or context for the research question or topic you're exploring
+  * At least 500 words (or 5 minutes audio/video) on how the question you're asking or topic you're exploring is grounded in the texts we've been reading and conversations we've been having about ND football history and cultural significance.
+  * To put it another way, this is a "background" section.
+- Sources and research/analysis methods you'll be using
+  * At least 200 words (or 2 minutes audio/video) on how the specific sources you're engaging with and research/analysis methods you're using animate or connect to the question(s) you're asking or the topic(s) you're exploring.
+  * To put it another way, this is a "methods" or "methodology" section
+- What you found through the exploration/analysis
+  * At least 500 words (or 5 minutes audio/video) on what you found through analyzing this source material using specific research/analysis methods. Folks are encouraged to include visualizations/screenshots/figures/etc in this section.
+  * To put it another way, this is a "findings" section
+- Conclusions and next steps
+  * At least 250 words (or 2-3 minutes asudio/video) on how your findings relate to the broader context or background you outlined at the start of the report. 
+  * How can the work you did in this lab inform how we think about or understand ND football's history and cultural significance? How does it connect to the readings and conversations we've been having in class?
+  * Where would you go next with this research? What questions emerged through doing this work? What questions were you not able to address? 
+  * To put it another way, this is a hybrid "discussion" and "conclusion" section
+- Any PDF or TXT files you created or worked with (that aren't already in the Lab 1 Google Drive)
+- Any Python scripts/Jupyter Notebooks (or RStudio/RMarkdown files) used in the lab
+- Individual reflections
+  * At least 200 words (or 2-3 minutes audio/video) from each member of the group, addressing the following questions:
+    * Your contribution to the lab report
+    * Challenges you faced in this lab and how you solved them
+    * What you learned about text analysis through this lab
+    * How you're thinking about text analysis (and ND football history/primary sources) differently after this lab
+    * Other comments/questions/observations
+
+## Collaborating Well
+
+Collaboration is also your friend here- you don't have to come up with all the ideas or do all the work on your own. For example, folks with Python skills can focus on assembling a corpus of primary source materials as plain-text formats. Folks who are more comfortable with statistical analysis and/or data analysis/visualization can focus on those aspects of the project. Folks who are more comfortable with close reading approaches for analyzing primary sources can focus on the components of the lab that ask you to think about background/context/broader significance.
+
+In short, leverage the group's strengths. And divide/conquer.
+
+Folks are welcome to meet with me (individually or as a group) to ask questions and think about next steps for how to approach this lab.
+
+## Where to Start: Articulating a Research Question or Topic
+
+Our end-point for this class is an open-ended final project that takes up course topics/themes/etc. This lab is not a final project.
+
+We'll have in-class work time on Thursday 9/23 to continue working on this lab, and folks should anticipate spending 5-7 hours (total) outside class time working on this lab.
+
+Given the limited scope of this assignment, I encourage folks to drill down and narrow their focus for what you want to analyze or explore.
+- This could be a particular player, team, or coach. 
+- Or you could focus on a particular season or period of time. 
+- It could be a specific publication or type of source material.
+
+The final project is a space where you take up more advanced computational methods or engage in larger-scale, multi-faceted research questions- hanging out in the world of exploratory data analysis is absolutely fine for this lab.
+
+For now, think about the questions you might be interested in asking or the topics you might be interested in exploring- we've already done some brainstorming in this direction with our in-class work.
+
+## Building a Corpus
+
+Then, thinking about the primary sources or materials that would be useful for exploring this question/topic.
 
 For more background and context on the various University Archive publications and collections, users are encouraged to consult Thomas E. Blantz's *[The University of Notre Dame: A History](https://undpress.nd.edu/9780268108212/the-university-of-notre-dame/)* (University of Notre Dame Press, 2020).
 - [Link to online access via Hesburgh Libraries (ND users)](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_askewsholts_vlebooks_9780268108243)
@@ -978,7 +1076,7 @@ We can extract plain-text from scanned documents using a process called "optical
 
 For folks with Python proficiency, the Python portions of the lab include a sample OCR workflow that converts digitized PDFs to image files, then takes the image files as binary data and extracts text. The notebooks provided in that section of the lab also include a number of resources for refining or further developing/customizing an OCR workflow.
 
-## Acrobat Adobe Pro
+### Acrobat Adobe Pro
 
 But, depending on the number of documents you're working with as well as the quality of OCR output needed for your project, Adobe Acrobat Pro will likely get you where you need to go.
 - NOTE: This is a different program than the Adobe Acrobat Reader DC free program you may have on your computer.
@@ -1010,6 +1108,57 @@ To export multiple PDFs as TXT files from Adobe Pro (using "Action Wizard"):
 - Source: StackOverflow, "[How to convert batch pdf files to text using Adobe Acrobat Pro?](https://stackoverflow.com/questions/25212228/how-to-convert-batch-i-e-huge-pdf-files-to-text-using-adobe-acrobat-pro)" *StackOverflow* (2015)
 - For more on Action Wizard: Adobe Acrobat User Guide, "[Action Wizard (Acrobat Pro)](https://helpx.adobe.com/acrobat/using/action-wizard-acrobat-pro.html#about_action_wizards)" *Adobe* (2 June 2020)
 
+## Address Your Research Question
+
+Any of the tools and methods covered in this lab are fair game. Folks are also welcome to branch out and/or go more deeply into any of these areas.
+
+But the tools you choose and the analysis methods you land on should be driven by your topic/question and what you want to know about it.
+
+For example, are we wanting to show relationships, similarity, difference. Or change over time. Or comparison. 
+
+The "Text Analysis Flow Guide" visual is a great place to start for thinking about your options.
+
+<p align="center"><a href="https://github.com/kwaldenphd/football-text-analysis/blob/main/text-analysis-flow-guide.png?raw=true"><img class="aligncenter size-full wp-image-582" src="https://github.com/kwaldenphd/football-text-analysis/blob/main/text-analysis-flow-guide.png?raw=true" alt="" width="791" height="597" /></a></p>
+
+Ferdio's [DataVizProject](https://datavizproject.com/) is another useful resource, although it focuses more on general data analysis/visualization and not specifically text sources.
+
+Some questions from [the "Distant Reader" documentation](https://distantreader.org/getting-started) that might get you started:
+- "The aforementioned process is a kin to the application of descriptive statistics and merely provides an overview of the results. For more in-depth analysis and understanding, you will want to do more than read frequencies. For example, you will want to identify documents containing interesting words or phrases (search). You will want to read in context where those words occur; employ a concordance. You may want to count & tabulate more specific things, like only the people in a set of given documents; refine the results. You may want to create a timeline or plot things on a map (geolocate). You might want to employ some machine learning techniques that can extract latent themes and plot those themes over time (topic model). You may want to characterize some or all of your carrel into set of nodes and edges, and then visualize the resulting network graph."
+
+The thought experiments in Jennifer Guiliano's "Toward a Praxis of Critical Digital Sport History" might also be a starting point.
+- Jennifer Guiliano, “Toward a Praxis of Critical Digital Sport History” *Journal of Sport History* 44:2 (2017): 146-159. [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_crossref_primary_10_5406_jsporthistory_44_2_0146).
+
 # Lab Notebook Components
 
-PLACEHOLDER TEXT
+- Reflections/observations from Thursday 9/9 in-class work (Voyant Tools and Distant Reader)
+- Reflections/observations from Thursday 9/16 in-class work (AntConc and Python)
+- Report from your own textual analysis experiment (outline below)
+- Any PDF or TXT files you worked with
+- Any Python scripts/Jupyter Notebooks used in the lab
+
+If you’re working in or using Google Drive, you can download the project folder as a compressed zip folder and submit to Canvas. You can also include a link to the Google Drive folder as part of the lab notebook. 
+
+Template/outline for the report:
+- Background or context for the research question or topic you're exploring
+  * At least 500 words (or 5 minutes audio/video) on how the question you're asking or topic you're exploring is grounded in the texts we've been reading and conversations we've been having about ND football history and cultural significance.
+  * To put it another way, this is a "background" section.
+- Sources and research/analysis methods you'll be using
+  * At least 200 words (or 2 minutes audio/video) on how the specific sources you're engaging with and research/analysis methods you're using animate or connect to the question(s) you're asking or the topic(s) you're exploring.
+  * To put it another way, this is a "methods" or "methodology" section
+- What you found through the exploration/analysis
+  * At least 500 words (or 5 minutes audio/video) on what you found through analyzing this source material using specific research/analysis methods. Folks are encouraged to include visualizations/screenshots/figures/etc in this section.
+  * To put it another way, this is a "findings" section
+- Conclusions and next steps
+  * At least 250 words (or 2-3 minutes asudio/video) on how your findings relate to the broader context or background you outlined at the start of the report. 
+  * How can the work you did in this lab inform how we think about or understand ND football's history and cultural significance? How does it connect to the readings and conversations we've been having in class?
+  * Where would you go next with this research? What questions emerged through doing this work? What questions were you not able to address? 
+  * To put it another way, this is a hybrid "discussion" and "conclusion" section
+- Any PDF or TXT files you created or worked with (that aren't already in the Lab 1 Google Drive)
+- Any Python scripts/Jupyter Notebooks (or RStudio/RMarkdown files) used in the lab
+- Individual reflections
+  * At least 200 words (or 2-3 minutes audio/video) from each member of the group, addressing the following questions:
+    * Your contribution to the lab report
+    * Challenges you faced in this lab and how you solved them
+    * What you learned about text analysis through this lab
+    * How you're thinking about text analysis (and ND football history/primary sources) differently after this lab
+    * Other comments/questions/observations
