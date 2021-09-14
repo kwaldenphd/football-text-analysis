@@ -64,10 +64,9 @@ Any text and data mining endeavor is supported by heroic and ongoing work that h
   * [Downloading AntConc and Loading Data](#downloading-antconc-and-loading-data)
   * [AntConc's Functionality](#antconcs-functionality)
 - [Python](#python)
-  * [Bulk Download](#bulk-download)
   * [Optical Character Recognition](#optical-character-recognition)
   * [Text Analysis in Python](#text-analysis-in-python)
-- [Next Steps](next-steps)
+- [Next Steps (aka, now it's your turn!)](#next-steps-aka-now-its-your-turn)
 - [Lab Notebook Components](#lab-notebook-components)     
 
 [Link to Google Drive folder with lab materials and resources, including notebook template](https://drive.google.com/drive/folders/1ewsgmrPNeWJYzi5f8EXr05VjPnlRCATz?usp=sharing) (ND Users)
@@ -120,13 +119,20 @@ Any text and data mining endeavor is supported by heroic and ongoing work that h
     * [Scholastic Football Review](#scholastic-football-review)
     * [Voice](#voice)
   * [Optical Character Recognition](#optical-character-recognition)
+    * [Hacking Google CoLab](#hacking-google-colab)
     * [OCR Next Steps and Additional Resources](#ocr-next-steps-and-additional-resources) 
       * [Acrobat Adobe Pro](#acrobat-adobe-pro)
   * [Text Analysis in Python](#text-analysis-in-python)
     * [Python Text Analysis Next Steps and Additional Resources](#python-text-analysis-next-steps-and-additional-resources)
       * [More documentation on the tools covered in this notebook](#more-documentation-on-the-tools-covered-in-this-notebook)
+      * [On-Campus Resources and Workshops](#on-campus-resources-and-workshops)
       * [Other Tutorials, Packages, and Methods](#other-tutorials-packages-and-methods)
-- [Next Steps](next-steps)
+- [Next Steps (aka, now it's your turn!)](#next-steps-aka-now-its-your-turn)
+  * [Collaborating Well](#collaborating-well)
+  * [Where to Start: Articulating a Research Question or Topic](#where-to-start-articulating-a-research-question-or-topic)
+  * [Building a Corpus](#building-a-corpus)
+    * [Acrobat Adobe Pro](#acrobat-adobe-pro)
+  * [Address Your Research Question](#address-your-research-question)
 - [Lab Notebook Components](#lab-notebook-components)     
 
 [Link to Google Drive folder with lab materials and resources, including notebook template](https://drive.google.com/drive/folders/1ewsgmrPNeWJYzi5f8EXr05VjPnlRCATz?usp=sharing) (ND Users)
@@ -1110,7 +1116,7 @@ To export multiple PDFs as TXT files from Adobe Pro (using "Action Wizard"):
 
 ## Address Your Research Question
 
-Any of the tools and methods covered in this lab are fair game. Folks are also welcome to branch out and/or go more deeply into any of these areas.
+Any of the tools and methods covered in this lab are fair game. Folks are also welcome to branch out and/or go more deeply into any of these areas, keeping in mind the limited assignment scope.
 
 But the tools you choose and the analysis methods you land on should be driven by your topic/question and what you want to know about it.
 
