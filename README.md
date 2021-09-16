@@ -911,6 +911,19 @@ Jupyter Notebook:
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/text-analysis-roadmap.ipynb)
 - [Google CoLab](https://drive.google.com/file/d/1S2W6NQfLC_9kbcg7_RwYZ163yZ6R7n1K/view?usp=sharing)
 
+## Python Reflection Questions
+
+- What did you find engaging or interesting about the different aspects of these Python workflows?
+- What challenges, frustrations, or limitations did you encounter while using and/or modifying these Python workflows?
+- What words or features stood out in each component of the sample text analysis workflow?
+- What types of historical research questions could a researcher have about a text or collection of texts?
+- How did you understand the textual analysis differently based on how it was presented?
+- What questions do you have about how the sample text analysis workflow and related Python libraries generated the analysis presented (or what can we tell about how the tool is calculating results/generating visualizations)?
+- What remaining questions do you have about the source you focused on?
+- How would you move forward with specific components of the sample Python text analysis workflow and related libraries as a tool for historical textual analysis?
+  * To put that another way, what types of historical research questions could a researcher have about a text or collection of texts? How effectively might the different Python libraries and analysis methods highlighted be able to address those questions?
+- Other questions/observations
+
 ## Python Text Analysis Next Steps and Additional Resources
 
 ### More documentation on tools covered in this notebook
