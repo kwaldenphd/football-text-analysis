@@ -676,7 +676,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/bagby_negatives.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/bagby_negatives.ipynb)
-- [Google CoLab](https://drive.google.com/file/d/1D3_LhB3TcuNOiePnz8VubWpiP2Xl3rzn/view?usp=sharing) *ND users*
+- [Google CoLab](https://drive.google.com/file/d/18Z19MYeu3iJzcjbItJQ97FPHWvSBVV4i/view?usp=sharing) *ND users*
 
 ## Annual Bulletins and Catalogs
 
@@ -687,7 +687,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/bulletins_catalogs.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/bulletins_catalogs.ipynb)
-- [Google CoLab](https://drive.google.com/file/d/1cH6qsO5F5kh6KBYhk-rsugraGjt3gs-Z/view?usp=sharing) *ND users*
+- [Google CoLab](https://drive.google.com/file/d/1D3_LhB3TcuNOiePnz8VubWpiP2Xl3rzn/view?usp=sharing) *ND users*
 
 ## Capstan
 
@@ -698,7 +698,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/capstan.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/capstan.ipynb)
-- [Google CoLab](https://drive.google.com/file/d/1Cssj7PnOnb1XI0WuLKzQLDi5mWSna-E9/view?usp=sharing) *ND users*
+- [Google CoLab](https://drive.google.com/file/d/1cH6qsO5F5kh6KBYhk-rsugraGjt3gs-Z/view?usp=sharing) *ND users*
 
 ## Commencement Programs
 
@@ -720,7 +720,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/daily.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/daily.ipynb)
-- [Google CoLab](https://drive.google.com/file/d/19qTFmbhp7qJTdpCHcKTk-0GXvPc_N2-D/view?usp=sharing) *ND users*
+- [Google CoLab](https://drive.google.com/file/d/1zwheUyZaZ9ut-ewYIx90ltFsaxXQgESS/view?usp=sharing) *ND users*
 
 ## Directories
 
@@ -731,7 +731,7 @@ From the [University Archives](http://archives.nd.edu/digital/):
 Jupyter Notebook:
 - [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/directories.ipynb)
 - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/directories.ipynb)
-- [Google CoLab](https://drive.google.com/file/d/19qTFmbhp7qJTdpCHcKTk-0GXvPc_N2-D/view?usp=sharing) *ND users*
+- [Google CoLab](https://drive.google.com/file/d/1Usoq-kxdywEnuUzp0F4GZKSjlI0YWx9V/view?usp=sharing) *ND users*
 
 ## Magazine
 
