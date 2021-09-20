@@ -55,7 +55,7 @@ Any text and data mining endeavor is supported by heroic and ongoing work that h
 - [DataBasic](#databasic)
   * [WordCounter](#wordcounter)
   * [SameDiff](#samediff)
-- [Distant Reader](#on-your-own-distant-reader)
+- [Distant Reader](#distant-reader)
    * [Reflection Questions](#distant-reader-reflection-questions)
    * [For More on Distant Reader](#for-more-on-distant-reader-including-more-advanced-on-campus-workshops)
 - [AntConc](#antconc)
@@ -424,7 +424,7 @@ A comma-separated value file (CSV) is a structured tabular data format in which 
 - What additional questions do you have about these resources? Where would you go next using this tool? 
 - Other comments/questions/observations
 
-# ON YOUR OWN: Distant Reader
+# Distant Reader
 
 "The Distant Reader takes text as input, does analysis against it, and outputs sets of structured data called 'study carrels', which students, researchers, or scholars can use to do both close and distant reading...[it is] a tool intended to supplement the traditional reading process. Given a set of one or more texts acquired through a variety of means, the Reader: 1) applies different forms of text mining and natural language processing against the texts, 2) saves the results as a set of structured data amenable to computing, 3) summarizes everything in a set of interactive HTML reports, 4) compresses everything into a .zip file, and 5) provides the means for you to view the results online or download the whole thing to your computer. This resulting .zip file is affectionately called a 'study carrels."
 - Morgan, Eric Lease. (2020, April 10). Distant Reader (Version Alpha). Zenodo. https://doi.org/10.5281/zenodo.3747777.
