@@ -37,7 +37,6 @@ Any text and data mining endeavor is supported by heroic and ongoing work that h
 - [University Archives](http://archives.nd.edu/) (Patrick Milhoan, Scott Kirycki, Joseph Smith, and Matthew Wilken)
 - [Rare Books and Special Collections](https://rarebooks.library.nd.edu/) (Rachel Bohlmann, Tracy Bergstrom, Sara Weber)
 - [Navari Family Center for Digital Scholarship](https://cds.library.nd.edu/) (Daniel Johnson, Eric Lease Morgan, Matthew Sisk)
-- [Metadata Services](https://cds.library.nd.edu/expertise/Digitization.shtml) (Peggy Griesinger)
 - [Digital Services](https://directory.library.nd.edu/directory/departments/1195) (Mikala Narlock)
 
 # Table of Contents
@@ -70,6 +69,11 @@ Any text and data mining endeavor is supported by heroic and ongoing work that h
 - [Lab Notebook Components](#lab-notebook-components)     
 
 [Link to Google Drive folder with lab materials and resources, including notebook template](https://drive.google.com/drive/folders/1ewsgmrPNeWJYzi5f8EXr05VjPnlRCATz?usp=sharing) (ND Users)
+
+FOR NON-ND USERS: 
+- [Link to make a copy of the lab notebook template](https://docs.google.com/document/d/1mBiPpxjRfBlEZI9XIc8rzSpSuHfAlrfV6l5ivjih1Vo/copy) (Google Doc)
+- [Lab notebook template as a plain-text `.md` file](https://github.com/kwaldenphd/football-text-analysis/blob/main/lab-notebook-template.md)
+- [Lab notebook template as a PDF](https://github.com/kwaldenphd/football-text-analysis/blob/main/Text_Analysis_Lab_Notebook_Template.pdf)
 
 ## Expanded Table of Contents
 
@@ -132,10 +136,15 @@ Any text and data mining endeavor is supported by heroic and ongoing work that h
   * [Where to Start: Articulating a Research Question or Topic](#where-to-start-articulating-a-research-question-or-topic)
   * [Building a Corpus](#building-a-corpus)
     * [Acrobat Adobe Pro](#acrobat-adobe-pro)
-  * [Address Your Research Question](#address-your-research-question)
+  * [Addressing Your Research Question](#addressing-your-research-question)
 - [Lab Notebook Components](#lab-notebook-components)     
 
 [Link to Google Drive folder with lab materials and resources, including notebook template](https://drive.google.com/drive/folders/1ewsgmrPNeWJYzi5f8EXr05VjPnlRCATz?usp=sharing) (ND Users)
+
+FOR NON-ND USERS: 
+- [Link to make a copy of the lab notebook template](https://docs.google.com/document/d/1mBiPpxjRfBlEZI9XIc8rzSpSuHfAlrfV6l5ivjih1Vo/copy) (Google Doc)
+- [Lab notebook template as a plain-text `.md` file](https://github.com/kwaldenphd/football-text-analysis/blob/main/lab-notebook-template.md)
+- [Lab notebook template as a PDF](https://github.com/kwaldenphd/football-text-analysis/blob/main/Text_Analysis_Lab_Notebook_Template.pdf)
 
 # Background
 
@@ -1127,7 +1136,7 @@ To export multiple PDFs as TXT files from Adobe Pro (using "Action Wizard"):
 - Source: StackOverflow, "[How to convert batch pdf files to text using Adobe Acrobat Pro?](https://stackoverflow.com/questions/25212228/how-to-convert-batch-i-e-huge-pdf-files-to-text-using-adobe-acrobat-pro)" *StackOverflow* (2015)
 - For more on Action Wizard: Adobe Acrobat User Guide, "[Action Wizard (Acrobat Pro)](https://helpx.adobe.com/acrobat/using/action-wizard-acrobat-pro.html#about_action_wizards)" *Adobe* (2 June 2020)
 
-## Address Your Research Question
+## Addressing Your Research Question
 
 Any of the tools and methods covered in this lab are fair game. Folks are also welcome to branch out and/or go more deeply into any of these areas, keeping in mind the limited assignment scope.
 
@@ -1148,6 +1157,13 @@ The thought experiments in Jennifer Guiliano's "Toward a Praxis of Critical Digi
 - Jennifer Guiliano, “Toward a Praxis of Critical Digital Sport History” *Journal of Sport History* 44:2 (2017): 146-159. [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_crossref_primary_10_5406_jsporthistory_44_2_0146).
 
 # Lab Notebook Components
+
+[Link to Google Drive folder with lab materials and resources, including notebook template](https://drive.google.com/drive/folders/1ewsgmrPNeWJYzi5f8EXr05VjPnlRCATz?usp=sharing) (ND Users)
+
+FOR NON-ND USERS: 
+- [Link to make a copy of the lab notebook template](https://docs.google.com/document/d/1mBiPpxjRfBlEZI9XIc8rzSpSuHfAlrfV6l5ivjih1Vo/copy) (Google Doc)
+- [Lab notebook template as a plain-text `.md` file](https://github.com/kwaldenphd/football-text-analysis/blob/main/lab-notebook-template.md)
+- [Lab notebook template as a PDF](https://github.com/kwaldenphd/football-text-analysis/blob/main/Text_Analysis_Lab_Notebook_Template.pdf)
 
 - Reflections/observations from Thursday 9/9 in-class work (Voyant Tools and Distant Reader)
 - Reflections/observations from Thursday 9/16 in-class work (AntConc and Python)
