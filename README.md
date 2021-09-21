@@ -1165,6 +1165,7 @@ FOR NON-ND USERS:
 - [Lab notebook template as a plain-text `.md` file](https://github.com/kwaldenphd/football-text-analysis/blob/main/lab-notebook-template.md)
 - [Lab notebook template as a PDF](https://github.com/kwaldenphd/football-text-analysis/blob/main/Text_Analysis_Lab_Notebook_Template.pdf)
 
+Components:
 - Reflections/observations from Thursday 9/9 in-class work (Voyant Tools and Distant Reader)
 - Reflections/observations from Thursday 9/16 in-class work (AntConc and Python)
 - Report from your own textual analysis experiment (outline below)
