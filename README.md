@@ -863,11 +863,7 @@ But, depending on the number of documents you're working with as well as the qua
 Notre Dame students have access to the Adobe Pro software title through the Adobe Creative Cloud Desktop Application, available free through OIT.
 - NOTE: The full Adobe Creative Cloud suite is available on any [OIT lab computer](https://nd.service-now.com/kb_view.do?sysparm_article=KB0013524) and can be accessed through the OIT general purpose [Virtual Computer Lab](https://inside.nd.edu/task/all/virtual-computer-lab)
 
-To get Adobe Pro on your own computer:
-- Download the program: [OIT, Adobe Creative Cloud Desktop Application](https://oit.nd.edu/services/software/software-downloads/adobe-creative-cloud-desktop-application/)
-- Request a license: OIT, "[Request a license for Adobe Creative Cloud](https://nd.service-now.com/kb_view.do?sysparm_article=KB0017960)," *ND Service Now*
-
-Once you have Adobe Pro on your own computer, you can use the expanded features to run an OCR workflow on a single PDF or multiple PDFs. 
+Once you have access to Adobe Pro, you can use the expanded features to run an OCR workflow on a single PDF or multiple PDFs. 
 
 Adobe Pro also allows you to export the contents of a single PDF or multiple PDFs to plain-text (`.txt`) files.
 
@@ -1112,11 +1108,9 @@ But, depending on the number of documents you're working with as well as the qua
 Notre Dame students have access to the Adobe Pro software title through the Adobe Creative Cloud Desktop Application, available free through OIT.
 - NOTE: The full Adobe Creative Cloud suite is available on any [OIT lab computer](https://nd.service-now.com/kb_view.do?sysparm_article=KB0013524) and can be accessed through the OIT general purpose [Virtual Computer Lab](https://inside.nd.edu/task/all/virtual-computer-lab)
 
-To get Adobe Pro on your own computer:
-- Download the program: [OIT, Adobe Creative Cloud Desktop Application](https://oit.nd.edu/services/software/software-downloads/adobe-creative-cloud-desktop-application/)
-- Request a license: OIT, "[Request a license for Adobe Creative Cloud](https://nd.service-now.com/kb_view.do?sysparm_article=KB0017960)," *ND Service Now*
+Once you have access to Adobe Pro, you can use the expanded features to run an OCR workflow on a single PDF or multiple PDFs. 
 
-Once you have Adobe Pro on your own computer, you can use the expanded features to run an OCR workflow on a single PDF or multiple PDFs. 
+Adobe Pro also allows you to export the contents of a single PDF or multiple PDFs to plain-text (`.txt`) files.
 
 Adobe Pro also allows you to export the contents of a single PDF or multiple PDFs to plain-text (`.txt`) files.
 
