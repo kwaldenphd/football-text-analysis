@@ -1,0 +1,2882 @@
+
+
+Sosa fever 
+Unlucky in love? 
+
+Monday
+After his record-breaking home run 
+Scene reviews a Web site that offers advice 
+
+Saturday, Sosa powered two homers to 
+on relationships and a chance to 
+
+beat the Brewers 8-7. 
+"measure your mojo. " 
+
+SEPTEMBER 20, 
+page 24 
+page 14 
+
+1999 
+THE 
+
+
+
+The Independent Newspaper Serving Notre Dame and Saint Mary's 
+VOL XXXIII NO. 20 r . . • 
+
+
+
+Driver hits, injures three on St. Peter 
+By FINN PRESSLY 
+Assist.mt News Editor 
+Two NotrP Dame stud•!nts 
+and a recent graduate Wflre 
+injured in a hit-and-run acci­
+dent Friday night on St. Peter 
+StrPct. 
+The accident occurred at 
+approximately 10:50 p.m., in 
+the neighborhood south of 
+campus. 
+"I walked out of tlrn taxicab, and I crossed the street, and I was hit by a car," said junior Lisa Pellegrino, who sustained injurins to her legs. "Basically it was mostly bruises and scrapPs." 
+Greg Williams, a 1998 Notre Dame graduate from Chicago, arrived in South Bend earlier that evening for the Notre Damn-Michigan State game. Williams was knocked uncon­scious, and as a result, has no memory of the incident. 
+Williams is waiting the 
+rPsults of' a CAT scan and X­
+rays. 
+All thre1~ victims of the acci­dl'nt W('rt' transported to Saint Joseph MPdical Center and discharged later that night. 
+
+HTTP://OBSERVER.ND.EDU 
+Saint Mary's 
+Class of 2003 
+
+votes today 
+By SARAH RYKOWSKI 
+News Writer 
+Saint Mary's freshmen will return 
+to the polls today to vote in a run-off 
+election for class president. 
+Presidential candidate Stephanie 
+Pace and vice-presidential candidate 
+Alison Joseph make up one of two 
+tickets. Jeni Hackbush and Caroline 
+Dixon are on the second ticket. 
+In the primary elections held last 
+president and vice president posi­
+tions. Because none of the 11 tickets 
+received more than 50 percent of the 
+vote, the elections committee called 
+for a run-off. 
+Elections commissioner Cristine 
+Renner was pleased with the interest 
+in student government expressed by 
+the Class of 2003. 
+"We've never had a response like this before," Renner said. "In the ini­tial mandatory informational meet­ings, I coud tell right away the 
+see RUN-OFF/page 4 
+
+
+
+Researchers chart Web stats 
+By KYLE ANDRE\'\1S :,..;,:ws WritL'r 
+Tim World Wid(' vVeb. lauded for its piv­<Hal role in communications, still remains, in part. a mystery. Although the number of documents on the WdJ is accepted to be around 800 million, the actual topography of tlw w,~b has not been seriously drnrted. 
+Two NotrP Dame graduate students and onP profossor are ,vork­ing to change that. 
+"\Ve are studying the properties of very large ne twor k s, .. sat ·d Barabasi Associate Professor of Physics Albert-L,iszl6 Barabasi, of his work with graduate students Heka Albert and Hawoong Jeong. "The scientific community has ignored this area of complexity. We don't have real data on these networks." 
+
+··we wanted to find examples of systems whew we could find the topology," said Barabasi. "The inhomogeneity of the Web has not been properly quantified yet." 
+"There are a finite number of Web pages." added JPong. "If we know thn topography, we can use that information to make a model of the entire Internet." 
+\rVhat they found was that the growth of the Web follows a power-law distribution, typical of social or biological systems. The power law is typically found in self orga­nizing systems like magnetic fields or plant growth. not what one would expect from a random network. 
+A typical mathematical model of a ran­dom m~twork would be a bell curve. If this were true, then it would follow that a majority of \Veb sites would have a moder• ate number of links, while there would be a few sih\S that would have either many or a few links. But this was found to be false. 
+"There is a very large number of sites with very many connections," said Barab,isi. Additionally, there are many sites that have a small number of links, thus making the bell curve inapplicable. 
+This allowed the researchers to develop a model of the Web that could be used to project the shape of the entire vVeb. What they found was that, although the Web is very large. any t\vo randomly selected doc­uments are separated by an average of 19 links. 
+This information regarding the "diame­ter" or the \Veb is important for many rea­sons. Most practically, it will help search engine developers make more efficient search engines. 
+Brute force, name_ly identifying informa­tion by matching strings, is inefficient in searching the entire Web. The search engine with the most coverage, Northern Light, is only able to search 38 percent of the published documents. A more discern­ing search engine would be able to make use of the interconnectedness of the \,Veb, allowing for greater and quicker coverage. 
+In order to come to their findings, Jeong first developed a robot that analyzed web sites and their links. Using the Notre Dame Web site as an example, he found a rela­tionship between the size of the web site and its connectedness. 
+Taking this information regarding link distribution, Albert was able to construct a model that reflected the actual Web. 
+see WEB/page 4 
+
+CLASH OF THE TITANS 
+
+JOB TURNER/The Observer Saturday's battle on the gridiron spilled onto the sidelines as the Notre Dame leprechaun and the Michigan State spartan stage an Impromptu fight. Check out the Irish Insider for all the game stats. 
+
+....... 
+
+page 2 The Observer . INSIDE Monday, September 20, 1999 
+INSIDE COLUMN 
+
+Notre Dame Renaissance 
+Like most football fans at Notre Dame, last Saturday's performance brought my spirits down and left me sulking. Notre Dame football has been a part of my fall Saturdays since I was very young, and that won't change anytime soon. 
+But you'll read plenty of 
+analyses, whining and dis­gust. So football will not be the emphasis of this column. 
+Instead, I want to center my attention on the neglect­ed aspects of my being which have taken a backseat to football for so long. I want 
+
+
+to explore my appreciation for the arts and help to  Dustin Ferrell  
+improve the creative atmos­ 
+phere on campus. In short, I  Assistant  
+want to start a Notre Dame  Viewpoint  
+Renaissance.  editor  
+A'i a business major. such  
+
+an endeavor might not excite the artsy folks on campus. I do not, however, have any less right to speak for the arts than the 7,000 or so football experts around here who have to tell us how much better they could coach the football team. And, like the high school heroes-turned-analysts running around, I too have many suggestions. 
+First of all sueh an endeavor on my part would have two central goals. The movement must typi­fy everything that has made Notre Dame and America great. 
+Additionally, it must serve as a sense of pride for students, and must allow for a "hands-on" approach at times. And in this spirit, I formulat­ed a few ideas that might be helpful, as we strive for a new era in Notre Dame culture. 
+If any single ingredient facilitates the entire movement. it is inspiration. We must have mod­els to emulate, we already have the resources with movies at the Snite and the literary festivals and readings already popular on campus. The current shovvings do not inspire the unselfish devotion and patriotism so utterly lacking on campus. We must familiarize students \Vith Stallone, Schwarzenegger, Eastwood, and the other artistic geniuses who receive very little fan­fare from the more snooty folks around here. Taking a lesson from these legends counters the Ally McBeal-ites out there who already infested our sacred University. 
+These menaces have the theme song from "Party of Five." We have the masterpieces from "Conan the Destroyer" and "The Good, Tlw Bad and The Ugly." Speaking of literature, it also might be a good idea to invite Tom Clancy back to campus every year for the Sophomore Literary Festival. 
+Now that we have the direction and the moti­vation, all we require is the opportunity to cre­ate. We have a wonderful art department, and I do not wish to take away from them. But this movement involves the mainstream, bringing a wide variety of artwork to campus. Every month we could allow a new student, preferably from engineering or business, to create a ne'w sculp­ture-metal thingy to display in the quad. 
+Once we involve the entire community in this project, we will experience an artistic era like no other, resulting in a better Notre Dame. 
+The views expressed in the Inside Column are those of the author and not necessarily those ofThe Observer. 
+TODAY'S STAFF 
+News  Scene  
+Finn Pressly  Mike Vanegas  
+Mike Romanchek  Graphics  
+Erin Piroutek  Score Hardy  
+Sports  Production  
+Bill Hart  Mark DeBoy  
+Viewpoint  Lab Tech  
+Colleen Gaughen  Joe Stark  
+
+The Observer (USPS 599 2-4000) is puhli,hcd Mor1ddy through Friday except during exam and vacation period,, The Oh,crver is• member of rhc As,ociarcd Pre,s. All reproduction rights arc reserved, 
+THIS WEEK ON CAMPUS  
+Monday  Tuesday  Wednesday  Thursday  
+. Film: "Vertigo,"  . Lecture: "The Custom of  . Blood Drive: Holfs  . Blood Drive: Rolfs  
+• Annenberg Auditorium,  Foul Deed: The Effects of  Recreation and Sports  Recreation and Sports  
+Snite Museum of Art,  Violence on Peace  Center, 9 a.m. -3:30 p.m.  Center, 9 a.m. -3:30 p.m.  
+7p.m.  Processes," Hesburgh  . Lecture: "Contemplative  . Lecture: "Death Penalty:  
+. Saint Mary's Freshman  Center, 4:15 p.m.  Meditation," Stapleton  Choose Life," Stapleton  
+Class Election: Dining hall,  . Lecture: Lynn Martin,  Lounge. Le Mans Hall,  Lounge, Le Mans Hall,  
+7 a.m. -9 a.m., 11 a.m. -2  former Secretary of Labor.  7:30 p.m.  12:10 p.m.  
+p.m., 5 p.m. -7 p.m.  COBA, 7:30 p.m.  
+
+OUTSIDE THE DOME Compiled from U-Wire reports 
+TCU mourns death of recent graduate 
+FOHT WORTH, Texas Southwestern Theological Seminary,
+"She would tell you that if 
+
+Every lifetime, a person comes in the fall to pursue a master's of
+you knew her before. you
+
+along with a smile so brilliant and a divinity. purpose so clear she cannot help but wouldn't believe [the change]. To those who knew her, Jones' life make a positive impact on everyone Her enthusiasm for Jesus was and sudden death have left a deep she meets. impression.
+just so evident in her life ... 
+
+According to friends, Kim Jones "It's hard to talk about her in the
+Joyce Allman
+
+was one of those people. past tense," said former TCU faculty 
+"She was just an all-around amaz­friend of Kim Jones member Joyce Allman, now the ing person," one friend said. "She assistant dean of arts and sciences did everything she could to put God at the University of Oklahoma. "She
+started a Bible study in her chapter
+in people's lives." was very vivacious -absolutely joy­
+and continued to lead weekly meet­
+Jones, who graduated from TCU ful and not at all ashamed of her
+ings even as a graduate this fall.
+last December with a speech com­Christianity."
+Members said the group has grown
+munication degree, was one of seven Allman, who taught Jones in an
+from Jones and another Delta
+victims shot down Wednesday at advanced public ·speaking course
+Gamma member to a weekly event
+Wedgwood Baptist Church, where last fall, said Jones' life proved to
+that attracts about 20 women from
+she worked with youth. her God's power to change people.
+several different sororities. 
+Her brother, Tim Jones, is a junior "She would tell you that if you
+After graduating, she spent last
+
+at TCU. knew her before, you wouldn't
+spring in the Netherlands on a mis­
+Kim Jones came to TCU in the fall believe [the change!," she said. "Her
+sion trip. She. returned to the United
+of 1994 and pledged Delta Gamma. enthusiasm for Jesus was just so evi­
+States in May and enrolled at
+After her sophomore year, Jones dent in her life." 
+
+Pair pleads not guilty in MIT death
+Tropical storm hits Princeton 
+CAMBHIDGE, Mass.
+PRINCETON, N.J. 
+Hain and heavy winds from Tropical Storm Floyd 
+MIT senior Susan Mosher and Rene Huiz. a recent 
+graduate, have pled not guilty to several charges relat­
+battered the campus Thursday, leaving flooded 
+ing to the death of MIT junior Hichard A. Guy Ill. Guy
+buildings and uprooted trees in its wake and 
+died on Aug. 31. Mosher and Huiz were arraigned S(~pt.
+prompting the University to close its offices.Vice 
+10, charged with four counts of possession with intent to 
+President for Finance and Administration Richard 
+distribute psilocybin, amphetamines, marijuana and
+Spies, who made the decision to send home all non­
+essential employees at 11 a.m., said the main reason 
+nitrous oxide. The two will appear in court on Oct. 15. 
+Guy, a physics major, died as a result of asphyxiation
+for the closing was f1ooding on area roads. "It didn't 
+from inhalation of nitrous oxide. l lis funeral was held
+make sense to make people go home in the worst of 
+Wednesday. "My brief earlier acquaintance with him
+it," Spies said of Floyd, which was downgraded from 
+makes this tragedy painfully real," said MIT president
+a hurricane to a tropical storm before it hit 
+Charles M. Vest shortly after Guy's death. "And it is a
+Princeton. Spies explained that information received 
+grim reminder of so many other needless deaths
+from government agencies also affected the 
+throughout the country, every year, of young people how 
+University's decision. On Wednesday, New Jersey 
+foolishly involve themselves with drugs." The investiga­
+Gov. Christie \Vhitman declared a state of emer­
+tion is ongoing, according to oflicials in the MIT police
+gency, which remained in effect yesterday. She also 
+department. Guy's death has raised questions about
+advised yesterday morning that all non-emergency 
+vehicles stay off the roads. Despite the weather, the 
+MIT's ability to find and help students dealing with drug 
+academic schedule remained in place, and drenched 
+and alcohol issues. In the wake of' Guy's death, many 
+students braved the elements to attend the semes­
+have recalled the alcohol-related death of first-year 
+ter's first day of classes. 
+Scott M. Krueger in the fall of 1997. 
+
+LOCAL WEATHER NATIONAL WEATHER 
+5 Day South Bend Forecast 
+
+AccuWeatherw forecast for daytime conditions and high temperatures 
+H  L  
+Monday  ~ '''' '  63 55  
+Tuesday  ~ ' " ' '  '  51 47  
+Wednesday~ 59 38 Thursday (f 69 44 Frid~y ;, ( ,.. (f 72 51 
+
+
+µ· ,r.,.,.,,.-..,., 't/ 
+The AccuWeather«> forecast for noon, Monday, Sept. 20. 
+70s Lines separate h,gh temperature zones for !he day, 40s 
+80s 
+FRONTS: 
+.&...&..
+...-.­
+
+01999 AccuWeather, Inc. COI..D WARM STATIONARY
+•-• 
+Pffft.utt: ,
+® © G D D t::::::1 D f:~:::':J O ~~; *~#., 
+High Low Showers Rain T--storma flurries Snow fee Sunny Pl. Cloudy Cloudy 
+V,a As5oetaled Press 
+
+Atlanta 75 66 Las Vegas 91 67 Richmond n 56 Baltimore 75 57 Memphis 85 66 Sacramento 85 56 
+Boston 70 57 Milwaukee 59 54 St. Louis 67 61
+
+
+
+Q,~-~qQQ i) ~ ~ 
+Chicago 63 56 New York 74 60 Tampa 85 76 
+Showers T-storms Rain Fl~rrles S~ Ice Sunny Pt. Cloudy Cloudy 
+Houston 95 65 Philadelphia 76 57 Tulsa 74 61 
+V,a Associated Pn,ss Qraph,csNet 
+
+...--------------------_,,:---------------------~-----------­
+" 
+Monday, September 20, 1999 The Observer . NEWS page 3 
+INDIA 
+
+
+
+
+Fourth generation of Gandhi dynasty wows citizens 
+She was out solo Sunday, cam­former Prime Minister Indira party, now trying desperately to "Let this election get over, we
+Associated Press 
+paigning for her mother, Gandhi. regain its place as the country's will certainly do something for Congress. party president and de Contrary to her mother., still dominant political force. you," she assured her.
+AMETIII facto candidate for prime minis­haunted by the deaths of her Accompanied by her business­"Six children? You have sixShe stood tall with her arms 
+ter, Sonia Gandhi. But Mrs. husband and mother-in-law, man husband, Mrs. Vadra children'? I must do somethingoutstretched in the back of a 
+Vadra made it dear for the first Mrs. Vadra campaigns with the walked briskly to the middle of a for you," she told another
+I.and Hover, then ignored her 
+time that she would never join exuberance of her great-grand­largo crowd of poor villagers woman who listened spellbound. 
+machirwgun-toting guards and Indian politics herself. father. India's first prime minis­waiting for her at Amethi. Mrs. Vadra, who joined her
+plunged into the crowd. 
+"No never, I love my country, ter, Jawaharlal Nf~hru and her "What happened?" Mrs. Vadra mother at several election ralliesThe people went wild. 
+and I am sure I can do a lot for it grandmother, Indira. asked in surprise as a young last month to prop up her cam­Campaigning in tlw parliamen­without being a politfcian," shP Sine-.~ India gained indepen­woman bowed and held her feet paign, fueled speculation of atary district that oncP belonged told reporters. dence from Britain in 1947, the in a sign of deep reverence in political career last year when
+to lwr assassinated father, for­
+Under the circumstances, her Nehru-Gandhi family has been this Hindu nation. The village she joined Congress. 
+mer PrinH• Minister Hajiv 
+reluctance doesn't seem surpris­regarded with the kind of rever­woman was a widow, and her The personal touch in herGandhi, Priyanka Vadra. 27, rep­ing. Besides her father, India's ence usually reserved for mon­family told Mrs. Vadra the campaign is giving nightmares toresents tlw fourth gPneration of 
+rough-and-tumble politics also archs. It has become synony­woman had little earning to sup­the elite commandos who guardIndia's Nehru-Gandhi political 
+cost the life of her grandmother, mous with India's Congress port her. her.
+dynasty. 
+
+
+
+ofller ,gg 
+
+Peachey Fund, Inc. for Breast Cancer Research 
+
+3 & 6 MILE RUNS, 2 MILE WALK AND PANCAKE BREAKFAST 
+SATURDAY, SEPTEMBER 25 11:00 -STEPAN CENTER 
+T-SHIRTS TO ALL FINISHERS REGISTER IN ADVANCE AT RECSPORTS $6.00 IN ADVANCE AND $7.00 DAY OF RACE 
+DEADLINE FOR ADVANCE REGISTRATION IS 9/24/99 AT 5:00PM 
+STUDENT AND STAFF DIVISIONS 
+
+
+Election Web site features ND prof 
+. American Studies chair offers critique of electoral system 
+Special to The Observer 
+An Internet political forum focusing on the 2000 presiden• tial election will feature the work of a Notre Dame profes­sor on its World Wide Web site this week. 
+PrimaryDiner.com, a nonpar­tisan online service fostering debate and discussion about the electoral process, has selected "Demanding Democracy" by Robert Schmuhl as its political book of the week. 
+Schmuhl, professor and chairman of the department of 
+
+
+Heaflh Advaa is currently conducting astudy for women suffering from yeast Infections. Some symptoms that may lndicale the presence of a,east Infection include burmng, Itching, and discharge. 
+This study will compare "' effectiveness of the tnvestlgaUonal medlcaUon to the effectiveness of an already approved treatment. 
+
+To ouarttv You Must: 
+• Be 18 years of age or older 
+• Be experienci1g the symptoms of ayeast Infection 
+Qualified participants wfll receive astudr-related medical evaluation and study-related med1catlon at no charge, 
+For more intormation, call Health Advance at 
+219·288·0931, or 1-800-RX-Studv (1•800·797-88391! 
+
+
+American Studies and the director of the Notre Dame program in Journalism, Ethics and Democracy, also con­tributed an essay on reforming the presidential selection sys­tem to the Web site's political coverage. 
+Based in New Hampshire, where the first presidential primary takes place, PrimaryDiner.com provides news and analyses about the upcoming campaign and politi­cal issues in America. It offers links to candidates' Web sites and to other sources of politi­cal information and interpreta­tion. Its Internet address is: 
+http://primarydiner.com. 
+"Demanding Democracy," published by Notre Dame Press, is a study of the interac­
+tion between contemporary political life and popular forms of communication. In the book, Schmuhl proposes a methodi­cal, national process to select presidential nominees, rather than the every-state-for•itself approach that is currently in place and that overemphasizes the first contests, in Iowa and New Hampshire. 
+Schmuhl, a member of the Notre Dame faculty since 1980, is the author or editor of nine books, including "Statecraft and Stagecraft: American Political Life in the Age of Personality" and "Wounded Titans: American Presidents and the Perils of Power." His new book, "Indecent Liberties," will be published by Notre Dame Press in October. 
+BUILDING YOUR RESUME WORKSIIOP l\1onday, Septcn1bcr 20, 1999 4:00 p.111. -5:30 p.111. G-20 Flanner Hall Objective Obtain tools for starting, designing and refining a resume The Basics Build the Foundation .m Design Content Format Presentation Polishing touches Electronic Scannable J;J.Online Activities Attend Building Your Resume Workshop Bring resume or favorite example of style  
+
+
+
+
+• , ~ ' . -. . '\t I • -; • . •• 
+~ ~ 
+page 4 The Observer . NEWS Monday, September 20, 1999 
+percent of the class who did not vote last VVednesday.
+
+Artificial reef fosters growth 
+Run-off 
+Both tickets emphasize continued from page 1 class unity as a part of their 1.00E KEY NATIONAL home for livo coral. paint, new walls and new car­
+platforms. The Pace-Joseph
+MAHINE SANCTUAHY. Fla. Since the Looe Key restora­pet," he said. 
+enthusiam of the class. Over ticket wants to organize
+Over thousands of years, tion was completed last The Florida reef tract is the 
+l 00 people showed up." class <Wents such as dinners, coral species can build waving month, corals and other reef­most extensive living coral 
+The Pace-Joseph ticket trips, retreats and Masses. 
+forests of sea whips or form dv,clling animals have been reef system in North American 
+received 23 percent of the Hackbush and Dixon look to 
+bouldPrs the size of an adult returning to their reconstruct­waters, stretching about 200 
+vote, while Hackbush and shortening quiet hours, 
+human. ed habitat. miles from Fowey Hocks off Dixon drew 13 percent. Last improving bus schedules and 
+But .,.,·hat takes nature cen­Boaters. snorkelers and Miami's Biscayne Bay down to 
+Wednesday, 260 freshmen food services and organizing
+turies to create -coral grows divers forced to stay away the Dry Tortugas. It's the 
+voted, roughly 57 percent of more on-campus events. 
+as littlP as a centimeter a year during nearly two months of third largest system in the the freshman class. "No matter what happens, -man can destroy in a span construction also are return­world. 
+"[Those figures! are it was worth it," Pace said. 
+of hours. ing to get a glimpse of the It's an environment protect­
+impressive for a freshman "We feel a step closer to our 
+A research ship ran aground newly repaired reef along the ed by the Florida Keys election," Renner said. class." 
+in 1994, crushing a portion of shallow mile stretch of Looe National Marine Sanctuary, 
+Both candidates were plan­The election run-off will be 
+Looe Key the size of a tennis Key. which is visited by more than 
+ning to do last-minute cam­held today, outside Saint 
+court and killing or displacing "The average person is 1.68 million peopll~ a year, 
+paigning on Sunday night. Mary's dining hall. Freshmen 
+sea fans, fish. sponges and probably not going to notice many of whom enjoy fishing 
+"We just really want more can vote from 7 a.m. -9 
+other marine life. the tiny transplanted coral for and diving. 
+people voting," Hackbush a.m., 11 a.m. -2 p.m., and After the accident, biolo­years and years," said Ed The Columbus lselin from said in response to the 43 from 5 p.m. -7 p.m.
+gists. engineers and construc­Lotkowictz, a boat captain the University of Miami tion crews tried to give nature from Underseas, a dive shop smashed into the reef in LoclC a head start in its healing on Big Pine Key ·five miles Key while on a voyage to process. They replaced the from the site. study the currents in the natural foundation of the reef "It wouldn't be the same as Florida Straits and gather with boulders, then cemented walking into a house that was information to help clean up them in place to create a nevv restored, and seeing new oil spills. 
+Discover Financial Services, Inc. a business unit of Morgan Stanley Dean Witter & Co., 
+operates all Discover Brands with more than 46 million cardmembers and the .
+OFFICE OF INTERNATIONAL STUDY PROGRAMS 
+
+Discover'"/Novus Network*. The network is the largest independent credit card network in the United States with more than 3 million merchant and cash access locations. We are
+
+INFORMATION MEETING 
+
+currently seeking individuals with experience in any of the following areas: 
+COBOL ¦ CICS ¦ VSAM ¦ DB/2 • JCL continued from page 1 
+Web 
+C ¦ C++ •JAVA• ORACLE• UNIX ASSEMBLER ¦ WINDOWS 95/NT ¦ OOP
+
+
+MEXICO 
+
+PL/1 ¦ DATA WAREHOUSING • OUZ
+"\Vith the model. we can study the distancP between two points in the Internet", 
+
+PROGRAMS
+
+savs Albert. If the Web is taken as 800 million docu­ments and plugged into the 
+Professor Juan Rivera model, the shortest distance 
+Claudia Kseln1an 
+
+between two random points 
+was found to be 18.59, or an 
+Student Returnees average of 19 clicks. Additionally, tlw deter­
+Monday September 20, 1999 
+
+We offer a wide array of workp!ace amenities including excellent
+mined logarithmic function 
+salaries and benefits, 401 K, profit sharing, tuition reimbursement, fitness center and a
+of the \,Veb increases slowly, 
+casual dress environment. If unab,e to attend, please send your scanable resume to:
+which means that even the 
+Discover Financial Services, Inc.
+
+126 DeBartolo 
+
+projected 1,000 percent 
+Human Rtesources, IT Recruiter
+increase in Web size over 
+2500 Lake Cook Road• Riverwoods, IL 60015
+the next few years will not 
+
+4:45 PM 
+
+Fax: (847) 405-1388
+dramatically change the 
+diameter. In fact, the num­
+Visit our Web Site at 
+
+ber of clicks would only rise 
+www.novusnet.com
+
+
+IT'S NOT TOO LATE TO APPLY FOR SPRING 2000 
+
+to 21 from 19. 
+EOE M/F/0N
+
+
+
+
+l'il 
+Apply on the web 
+
+
+2 0 0 0 
+
+PulliamJournalism Fellowships
+and get up to•~!! of 
+Graduating college seniors are invited to apply for the 27th annual Pulliam Journalism Fellowships. We will grant 10-week summer internships to 20 journalis1n or liberal arts majors in the August 1999-June 2000 graduating 
+FREE calling time: 
+
+• •!!: of FREE calling • Get a !!:% rebate 
+classes. 
+
+time just for applying. towards calling on Previous internship or part-time experience at a newspaper is desired, or
+all purchases.+
+
+• Apply on the internet 
+other demonstration of writing and reporting ability. Those who go through 
+and get an additional • No annual fee. 
+
+the Fellowships often find new professional opportunities opening up at other 
+•, !!: of FREE calling 
+
+newspapers during and after the program. Winners will receive a $5,500
+• No credit historytime when you make 
+
+stipend and will work at either The Indianapolis SJar or The Arizona Republic. 
+required.
+your first purchase. 
+
+Opportunities for online training are available, along with reporting experience (•!!: if you apply 
+at our major metropolitan daily newspapers. 
+by phone.) 
+
+Early-admissions application postmark deadline is Nov. 15, 1999. By Dec. 15, 1999, up to five early-admissions winners will be notified. All other entries rnust be postmarked by March 1, 2000, and will be consid­ered with remaining early-admissions applicants. Successful applicants
+I!!!. I!!I!!i.Y 
+
+will be notified on or before April 1, 2000, and will be asked to r~spond immediately with a letter of intent, at which time one-third of the cash 
+.,.!!II!!I!!!. y ! 
+grant will be mailed to the Fellow. 
+
+To request an application packet, visit our Web site, e-mail us or write:
+www.gtecard.com 
+
+Russell B. Pullian1 
+or 
+
+Pulliam Fellowships Director 1-888-591-7900 
+Indianapolis Newspapers 
+Web site: www.stamews.com/pjf P.O. Box 145 E-mail: pulliam@stamews.com 
+Indianapolis, IN 46206-0145 
+Call our toll-frea number or visit our web site for complete disclosu,. of term• and conditions. 
+.. 
+
+
+Monday, September 20, 1999 COMPILED FROM THE OBSERVER WIRE SERVICES page 5 
+WORLD NEWS BRIEFS 
+Columbian rebels release kidnapped bishop 
+BOGOTA. Colombia 
+
+Leftist rnbels freed a Homan Catholic bishop they had kidnapped a month ago, but demand­ed that he leave the war-torn northern Colombian region where he \vorkcd. Jose de Jesus Quintero, the bishop of Tibu, was released live on national television by masked gunmen from the Popular Liberation Army, or EPL. who handfld him over to a joint commis­sion from the church, the international Hcd Cross, and the state human rights office. Speaking to Caracol television. a rebel com­mander with his face hidden by a red bandana callN1 on tlw church to transfer Quintero from the region of La Gabarra near the Venezuelan border. Quintero has been an outspoken critic of human rights abuses in the region long racked by violence. 
+Skydiving plane crashes, kills five 
+
+BHYAN, Texas 
+
+A skydiving plane crashed Saturday, killing all live passengPrs. Minutes after the Cessna 182 took off Saturday from the Ags Over Texas skydiving club, it app1~arnd to stall, then banked right and nosedived into a field, witnesses said. Pilot James Hobert Puryear, 22, instructors .Jonathan \Alayne Warden, 25, and Mark vVoodings, 28. and Rebecca Miller, 18, died on impact. Witnesses pulled 27-ycar-old Lela Futch from the wreckage. She died at a nearby hospital. Woodings' girlfriend, Allison Hoderick, witnnssed the crash. Shn was working in the ortices of the skydiving school and waiting to sne the jump. "Mark loved waching people about skydiving and hmv to skydive, that was his f'avoritn thing," she said Sunday. It was the first accident in the 17-year history of the club, Hodcrick said. Shn said the 1958 Cessna never had serious mnchanit:al problems. 
+Inline skating collision injures 50 in tunnel 
+AMSTERDAM, Netherlands 
+
+llundreds of in-line skaters racing through a tunnel in tho Dutch capital collided Sunday, creating a huge human pileup. At least 50 com­petitors were injured. The collision happened in midafternoon just moments after the race began and took 4,000 skaters through the IJ tunnel. One skater fell, tripping up those around him, and the pileup grew as more skaters slammed into those on the ground, Dutch television reported. Those most seriously injured suffered broken arms and legs as well as cuts and abrasions and were taken to local hospitals. Witnesses described a scene of panic in the tunnel as screaming skaters pushed and shoved in frantic efforts to get out. The race was one of several road events held on a "car­free Sunday" in which automobiles were banned fro111 the heart of Amsterdam and dozens of other Dutch cities. 
+
+S&P 500: Composite Volume:
+1335.42
+
+10803.63 738,900,000
++16.94 
+VOLUME LEADERS 
+
+COMPANY TICKER .. CHAHGI: i CKANGE PkICE 
+NICII.OSOFT COP.i'  MSr'r  +.2.50  +2.,,0  96.H  
+CISCO SYST&IIS  csco  +4 • .26  •3. 0000  73.50  
+INT&L CORP D-&LL COMPUTER  IN'l'C 011:LL  +2.,1 ..,.s,  +1.9950 •2. 1300  U.62 0.81  
+OJlACt.:Z  COJlP  OIi.CL  +3.25  +l-3725  43. 56  
+ANJ:UCA OllLilm  AOL  -1.U  -1.UH  85.88  
+NCI WOllLOCON  IN  WCON  •0.6-'  +0.5050  78.88  
+INTL llOS  lll<CHUI  IBM  -3.55  -t.6'100  ll5 .38  
+SUN NICl'.OSYSTDl  SUNW  ...... 73  +4.00l5  81-0  
+VITll T&CB  IIIC  VI:TJt  +201.56  +ll.2500  '8.25  
+
+CENTRAL AFRICAN REPUBLIC 
+
+
+Associated Press 
+BANGUI 
+Elections for a new presi­dent in the Central African Republic were largely trou­ble-free Sunday despite charges of voter fraud ar.d fears of political bloodshed. a senior U.N. peacekeeper said. · 
+Soldiers, police and U.N. peacekeepers had raised security on the eve of the ballot after violent threats by supporters of rival presi­dential candidates. 
+"AU that could be expect­ed on voting day was achieved here," said Oluyemi Adeniji, the head of the 1,300-strong U.N. peacekeeping force in this nation of 3 million. "People voted l'reely and peaceful­
+' y." Adeniji said only scat­tered problems of voter fraud were uncovered Sunday, but it remained to be seen whether the ballot counting would go as smoothly. Central African Republic has remained an unstable and isolated country that at times appears to be teeter­ing on anarchy since tyran­nical rule in the 1960s and 70s by the late army Col. Jean-Bede! Bokassa. Two ruling party support­ers were killed and dozens injured in an attack Sept. 11 during a rally called by President Ange-Felix Patasse's Movement for the Liberation of the People of Centrafrique. The attack was launched 
+
+by about 100 stone-throw­
+ing supporters of former 
+President Andre Kolingba, 
+the most prominent of the 
+nine candidates vying to 
+oust Patasse. 
+
+The last presidential elec­
+tions were in 1993. 
+Turnout in Sunday's elec­. tions was estimated by 
+observers at around 60 per­
+cent. 
+
+If no candidate earns 50 
+percent of the vote, the top 
+candidates will go on to the 
+second round of voting on 
+Oct. 10. 
+
+Even before voting began, 
+opposition candidates 
+accused Patasse of rigging 
+the ballot, which has been 
+delayed twice because of 
+bureaucratic problems. 
+A senior Kolingba aide, National Assembly member David Yakata, was arrested after he allegedly gave bribes to an elderly woman in Bangui, U.N. officials said. 
+Police were also search­ing for two men who allegedly destroyed ballots to prevent people from vot­ing in a Bangui neighbor­hood where Patasse is high­ly favored to win, the United Nations confirmed. 
+During the past week, a number of political activists have been arrested on ille­gal weapons charges, inc1uding two men and a woman linked to Kolingba's organization, local newspa­pers reported. 
+Most voters seemed unconcerned by the threats of violence. 
+EAST TIMOR 
+
+Armed peacekeepers arrive in Dili 
+Associated Press 
+DILi, Indonesia 
+Ht~avily-armed intt~rna­tional peacekeepers land­ed in East Timor at dawn Monday, clearing See Also 
+the way 
+for a U.N. "Leader plans approved new goverment" f o r c e charged page 7 
+w i t h restoring order and help­ing usher the Indonesian province toward indepen­dence. 
+A camouflage-green 
+Hercules C-130 transport plane set down at Dili air­port, the first in a wave of planes and ships expected by the end of the day. About a dozen elite Australian troops in full combat gear quickly took up defensive positions. 
+About two-dozen Indonesian troops greeted the Australians, and the first minutes of the arrival appeared cordial. 
+Indonesian troops had to chase a herd of goats off the runway shortly before the dawn touchdown as sirens wailed to warn sev­eral dozen onlookers. 
+
+A second plane arrived 30 minutes later, carrying vehicles and other equip­ment. 
+By Monday afternoon, 2,500 soldiers, helicopters and armored personnel carriers would be on the ground in Dili, East Timor's capital, Australian Defense Minister John Moore said from the peacekeepers staging area in Darwin, Australia. 
+Nine warships from Australia, Britain and New Zealand. were sailing toward East Timor with troops from more than a half-dozen nations. 
+Indonesian troops ringed the port. preparing for the first ship to dock and unload armored personrn.~I carriers for the peacekeep­ers. A small contingent of 
+U.S. Marines was provid­ing logistical support in Darwin. 
+The announcement two weeks ago that 78.5 per­cent of East Timor's voters approved a break with Indonesia led to a murder­ous rampage by pro­Indonesia militias that drove more than 300,000 people from their homes and cost at least several, hundred lives. 
+Monday, September 20, 1999 
+page 6 The Observer . INTERNATIONAL NEWS 
+______________-_-_-_-_-_-_-_-_:_-_-_-_-_-_-_:_:_-_-_-_-_:_-_-_:-_-_-_-_-_-_~_-_-_-_-_-___::::-:_:-_________
+-_::-_-_::-_-----=--------=--------=-------_-_-::_-_-_-_-_-_-_-_-_---~-~-~ 
+
+TAIWAN 
+New assertions challenge China 
+Associated Press 
+TAIPEI 
+
+Taiwan's leader rankled 
+Beijing and made Washington 
+squirm by saying his govern­
+ment should be able to deal 
+with China as a political 
+equal. Although he's facing 
+tremendous pressure to take 
+back the statement, he'll 
+probably stick to it. 
+President Lee Teng-hui rel­
+ishes a good spat with China 
+and has too much to lose by 
+ditching his new claim that 
+Taiwan is a sovereign state, 
+not a local government that 
+should be controlled by 
+Beijing. 
+Taiwan has long been one 
+of Beijing's biggest frustra­
+tions. Since 1949, the island 
+90 miles off China's eastern 
+coast has resisted Communist 
+rule. Beijing wants both sides 
+to reunify now, but Taiwan 
+wants to wait until China is 
+more democratic and eco­
+nomically developed. 
+Two months ago, when Lee 
+said the two sides should 
+handle their affairs on a 
+"special state-to-state basis," 
+China thought it was part of a 
+secret plan by the Taiwanese 
+leader to break away perma­
+nently from the mainland ­
+a move Beijing has repeated­
+ly threatened to use force to 
+block. 
+Trying to get Lee to scrap 
+his claim, China has used 
+fiery rhetoric and has staged 
+massive mock invasions of 
+the island with warplanes, 
+ships and thousands of 
+troops. Adding to the pres­
+sure, Taiwan's biggest ally, 
+the United States, has blamed Lee for needlessly stirring up criticized as failing to show trouble. leadership on China issues. 
+But chances are slim Lee Backing down could cause an will cave in to the pressure. exodus of voters to other par­With seven months left in his ties willing to take a bolder term, he seems to be focused stand and it would also bol­on his historical legacy. ster the minority view that 
+Already, he's guaranteed a Lee acted rashly. long chapter in Taiwan's his­And, if past elections are tory books for presiding over any guide, the Chinese numerous reforms, including threats should help the party. the first direct presidential When China tested missiles election in 1996. which he near Taiwan during the 1996 won handi-presidential 
+election,
+ly. 
+Now, Lee Now, Lee is standing up many voters supported
+is standing to China and demanding up to China t h e
+that Taiwan get the 
+Nationalists,
+a n d 
+demanding respect he thinks it viewing them that Taiwan deserves as an equal, as best able. 
+get the to protect 
+he sovereign state. 
+the island. 
+respect thinks it deserves as an equal. sovereign state, not a breakaway province that should listen to Beijing. His position could carve out his final legacy as guardian of Taiwan's sovereignty. 
+Polls say Lee's statement has been immensely popular with Taiwan's 22 million peo­ple, who view it as a long overdue description of fact. Backing away from his policy -which he has publicly repeated over and over ­would make Lee look like he's turning his back on real­ity. 
+Buckling to Chinese pres­sure would also likely create a fierce backlash for Lee's ruling Nationalist Party in the run-up to March presidential elections. 
+The party's candidate, Vice President Lien Chan, is trail­ing in the polls and has been 
+C h i n a 
+might decide to keep up the pressure while waiting until after the March elections to reassess the situ­ation. If that happens, Lee may succeed in raising a fuss without bringing serious con­sequences to Taiwan. 
+Part of the fallout from the recent tensions might be Beijing's cancellation of a his­torical trip to Taiwan by senior envoy Wang Daohan, tentatively scheduled to visit this fall. But the event was to be mostly symbolic and not a great loss to Taiwan if can­celed. 
+Meanwhile, Lee seems to be enjoying the tension that has thrust attention-starved Taiwan into the world's headlines. Recently, a grin­ning Lee told a crowd of sup­porters, "Bring on the noise. The louder the noise the bet­ter." 
+
+
+
+All Creatures Need }
+{ 
+To Communicate. 
+SOME JUST DO IT BE 11 ER THAN OTHERS 
+Want to do more than bring home the bacon? A career at Tellabs allows you to experience success on a global scale. As a leader in the telecommunications industry, we create the hardware and software that keeps local phone service, long distance, cable and the internet moving forward. So, join Tellabs today and start a future worth squealing about. See us at the: 
+INDUSTRY DAY -FITZPATRICK HALL 
+SEPTEMBER 22ND, 1999 
+EOE -M/F/ON 
+TELLABS. A NEW BREED OF CAREERS 
+SOMALIA 
+
+Mogadishu opens new international terminal 
+Associaied Press 
+
+MOGADISHU 
+A privately financed airport capable of handling medium size air planes was inaugurat­ed north of Mogadishu on Sunday after four months of construction to expand the airstrip. 
+Mogadishu's international 
+airport and seaport have been 
+closed for several years 
+because faction leaders have failed to agree on their man­agement. 
+lssaley airport is about 10 miles north of Mogadishu and had two runways that arc 8,250 feet long and 1,056 feet long. It can handle planes weighing up to 35 tons. Camel Trading and Transport Company spent $700,000 to upgrade the old airstrip, Ali Rageh Shirar, the firm's chief executive, told journalists. 
+~0~ v~· JOIN THE 
+.~e 
+
+0 ~5>" INNER-CITY ~~ TEACHING CORPS 
+INFORMATIONAL MEETING 
+Tomorrow 4:30PM & 7:30PM 
+Center for Social Concerns 
+Cl Teach in inner-city Chicago Cl After school activities, including coaching 
+. Alternative Teacher Certification Program through Northwestern University (credits toward a Masters in Education) 
+
+Can you make this team? 
+
+ANSWER :W. THECALL ~ 
+
+Fr. Jim King, C.S.C. Fr. Bill Wack, C.S.C. 
+www.nd.edu/,._vocation 
+
+
+Monday, September 20, 1999 
+The Observer . INTERNATIONAL NEWS page 7 
+
+
+Miss America vows to help disabled veterans 
+or SPV()ll (veterans) just since
+
+Associated Press 
+last night. They said they're 
+ATLANTIC CITY really grateful that someone 
+
+Tlw new Miss Aml'.rica, likn her can b(~ a spokesperson whose father is a disablnd for them. It's about time the Vietnam v1~tcran. say~ she veterans had a spokesperson." hopes to use her crown to French had dreamed of spotlight homelessness among becoming Miss America since Vf1tnrans. shP was about nine years old. 
+Miss Anwrica :rnoo 111.. atlwr lwr molh<'r said. HencP Frnnch, 24, of Maysvilln. Shi~ pursued it doggedly, Ky.. a graduat1., · entering the design student Miss Ohio who has donn "fl ·s about time the pageant voluntenr work once and
+veterans had a 
+
+for thP competing in
+spokesperson.,.
+
+V c t t) r a n s thC' Miss Administration, Kentucky will campaign pageant
+Heather Renee French 
+
+for incr«>. ase d three times
+Miss America 
+
+government before win­assistance for ning it on down-and-out her fourth veterans during her rnign. and q u a Ii fy in g for a shot at 
+"We havP over 250,000 Miss Amnrica. homeless v1>.terans. spr1)ad On Saturday, she sang "As If nationwido," she said Sunday. We Nc~ver Said Goodbye" for "A larg,., population. or coursP, her talent offering during the am in Washington. D.C., and in nationally-televised 79th annu­largP cities. You find thny con­al pageant. She won a $40,000 gn~gate in the largPr areas scholarship and became the· bocause that's where the facili­lirst Miss Kentucky 1wer to win ties are that treat thos,~ tlrn Miss America Pageant from needs." that state. 
+Iler fatlrnr, Hon French, 52, ThP scholarship money, servnd in tlw U.S. Marinn together with the pageant's Corps in ViPtnarn and was decision to drop a 50-year-old woundPd in combat -lw was ban on abortion and divorce. shot in tlw wrist -narlv in his madP for comic fodder during four-y1!,tr hitch. · tlw t<decast. 
+lln said lw b1dit1vns his Prior to French's coronation, daught(~r will mak,~ a differ­co-host Marie Osmond joked ence as a high-prolile spokos­that the new Miss America woman for veterans. would split the scholarship 
+"I'vP already lrnard from six money. 
+EAST TIMOR 
+
+Leader plans new government 
+death threats. eral elections.
+Associated Press 
+
+Darwin, staging area for the Carrascalao said Gusmao 
+DARWIN. Australia multinational peacekeeping was. sending a group of pro­
+East TimoresP indepen­force heading into East fessionals to Washington on 
+dence leader Jose Alexandre Timor, is an hour's flight from Sept. 29 to seek support from 
+"Xanana" Gusmao is making the half-island territory. The the v\1orld Bank. Internationa1 
+plans for a transitional gov­peacekeeping troops were to lenders are believed to look 
+ernment and sending a dele­start arriving in East Timor positively on loans for the 
+gation to the shortly after dawn on impoverished region. 
+World Bank Monday. Carrascalao also said
+See Also 
+
+later this "The main purpose of his Gusman will begin setting up month, a "Armed peace-trip is to discuss plans for the an administration to plan for spokesman keepers arrive development of East Timor," East Timor's development, said Sunday. spokesman Joao Carrascalao and will commute between
+in Dili"
+
+Voters in told The Associated Press. He Darwin and Dili, the capital of 
+East Timor page 5 said that included the forma­the former Portuguese colony. 
+approved tion of the government of the Gusman will lead a meeting 
+independence for the territory future nation. in Darwin soon on East 
+in an Aug. 30 referendum, Gusmao, head of the Timor's transition from a 
+after a quarter-century of National Council for East province of Indonesia to a 
+brutal Indonesian rule. Timor Resistance (CNHT), is sovereign nation, Indonesia's 
+Gusmao fled from Jakarta widely expected to become Antara news agency reported. 
+on Saturday night to set up the first president of indepen­The spokesman said the 
+the headquarters of his resis­dent East Timor, a process 53-year-old Gusmao had left 
+tance movement in Darwin. 
+
+that could take 18 months or for Australia because of death Australia, after receiving more and would include gen-threats. 
+ITALY 
+
+Man dies in cargo hold of airplane 
+The body was discovered wearing the uniform of an air­
+Associated Press 
+
+the morning after the char­port worker, but did not elab­
+tered Boeing 767 arrived at orate. 
+MALPENSA Malpensa airport near Milan The chartered Boeing 767 
+The body of a Cuban man from the Egyptian resort of had made several trips since it was found Sunday in the Sharm el-Sheikh. was last in Cuba on Sept. 10, wheel well of an Italian jetlin­ANSA said investigators ANSA said. It was operated by er which last traveled to Cuba identified the man from docu­Eurofly, the charter division of nine days ago, the ANSA news ments as Roberto Garcia Alitalia, the Italian national agency said. Quinta, 4 7. It said he was airline. 
+
+The Multicultural Executive Council is looking for new members. 
+Sponsored by: Muhicultural Executive Council 
+., 
+• 
+.. 
+Come to an Informational Session Monday, September 20, 1999 
+5:00 pm 
+Sorin Room Lafortune Student Center 
+
+
+page 8 The Observer . INTERNATIONAL NEWS Monday, September 20, 1999 
+PERU 
+Cubans endure harsh life in Peruvian exile 
+. After nearly 20 years, immigrants lose hope of return 
+Associated Press 
+LIMA 
+
+Luisa Toledano fled her tropi­cal home in Cuba in search of a better life. Nearly 20 years later, she's stuck in a desert shanty­town earning barely enough to feed herself and her four chil­dren. 
+In Pachacamac, on the out­skirts of Lima. a coastal fog known as "garua" blots out the sun for much of the year. The 
+odor of burning garbage hangs
+f in the chill mist. There arc no tall palm trees to break the wind, or to offer shade from the intense sun when it returns fleetingly each December for Lima's short summer. "For Cubans, this weather is 
+"For Cubans. this
+
+like death, slow and trying to death," says weather is like death, provide them Toledano, bun­the same
+slow death.·· 
+
+dled in a worn opportunities blue sweater. as the rest of Toledano was Luisa Toledano society. just out of high Cuban exile The oldest 
+Toledano ekes out a living cleaning homes in some of Lima's wealthier neighborhoods. Her clothes, and those of her children, are hand-me-downs from her employers. 
+"I'm very grateful to the Peruvian government" for politi­cal asylum, "but I'm not grateful for the way we live," says Toledano, whose husband was murdered eight years ago. 
+Ines Reyes, another Pachacamac resident, says the Cubans have been abandoned. 
+"The only good thing we have here is the liberty we wouldn't have in Cuba," she says. "But we live in inhumane conditions. There's no work. I'm a single mother with four children. Sometimes l can feed them. sometimes I can't." 
+Beatriz Roman, the U.N. Refugee Commission representa­tive in Peru, says her agency has little left to offer the refugees after helping them settle 
+
+school when she, and nearly 11,000 other Cubans seeking asylum, invaded Peru's embassy compound in Havana in 1980. 
+The occupation convinced Cuban authorities to allow 742 to leave for Peru. And it prompt­ed President Fidel Castro to open the gates for 125,000 Cubans to sail to Miami in a makeshift flotilla from the port of Mariel. 
+Political asylum for the Cubans who headed to Peru started in a tent city in a public park. 
+Their escape from Castro's communist regime landed them in one of the poorest countries in South America at the outset of Peru's bloody war with leftist Shining Path rebels. 
+In September 1984, after four years languishing in the park, the Cubans staged a five-day protest outside the Lima office of the United Nations Refugee Commission. 
+The agency responded by building 100 one-room, con­crete-block houses in Pachacamac. 
+Since then, nearly two-thirds of the Cubans have left Peru for Canada, Brazil, Australia and the United States, using legal ­and illegal -means. 
+Of the 26(> Cubans remaining from the 1980 exodus, the largest concentration is in the now-deteriorated, crime-infested housing project on the coastal desert. 
+Pov<~rty has kept most of them from moving. Running water is available once or twice a week and garbage is picked up every 15 days. Some of the houses are trash-strewn shells. 
+The residents' Cuban identity is still evident. Cuban f'lags adorn walls. J\ postPr of Afro­Cuban salsa singer Celia Cruz hangs in a window. 
+One of the eldest of the refugees, known as Mama Hosa. practices the Caribbean religion Santeria, offering spiritual coun­sel to a mostly Peruvian clientele for about $3 a session. 
+Mama Hosa's economic suc­cess is the exception. 
+among the 
+refugees, and those with medical problems, still get about $40 to $50 a month, and there are some small subsidies for the Cubans' chil­dren, Roman says. 
+As for the rest, she says, ''they've been here 19 years. o·ne would assume they would be working. They have residency permits that allow them to work like any Peruvian." 
+But employment is scarce in Peru, where half the labor force is without jobs or has only part­time or temporary work. 
+Reyes washes clothes and sells cookies in Lima's streets to make ends meet. 
+"We look for jobs and there are none," she says. "When we say we're Cubans, it's worse. We're told if there isn't enough work for Peruvians, there isn't work for Cubans:" 
+Odalys Brito-Alvarez, a Cuban refugee, says her mother and two younger brothers entered the United States with forged Brazilian passports in the early 1990s. Asylum was automatical­ly granted when her mother pre­sented her Cuban passport to 
+U.S. immigration officials. 
+Brito-Alvarez tried to follow her mother as a legal immigrant in 1992, when the United States granted asylum to about 200 Cuban refugees in Peru. U.S. immigration officials denied her application because she could not prove political persecution awaited her if she returned to her homeland. 
+"When I left Cuba I was 13 years old," she says. "I didn't do anything political in tho sense that I didn't set off any bombs, I didn't march against Fidel, I didn't carry protest banners." 
+Some of the Cubans still dream of the United States, or returning to Cuba after Castro dies. Others are resigned to th<~ir existence in the lunar-like landscape of Peru's desert coast. 
+"I no longer have hope. All my hope is gone," says Reyes. 'Tm just living, struggling until the very last for my children." 
+YUGOSLAVIA 
+
+McDonald's survives bombings 
+Associated Press 
+BELGRADE 
+McDonald's has not only survived the stones of angry Serb mobs, a 78-day bombing campaign, a tattered local economy and massive anti­American hysteria -it's become an unlikely success story in a country devastated by war. 
+While other Belgrade restaurants gape empty, only occasionally attracting rich Serbs in the evening, constant crowds at McDonald's keeps cashiers' tills ringing steadily at prewar levels and· satisfied customers munching on burg­ers and cartons of fries. · "We are beyond politics. people come here for the unique McDonald's experi­ence," says manager Dragoljub Jakie. 
+The 40-year-old Jakie is the driving force behind the con­cept that not only kept the burger chain going despite Zorica Serdarevic certainly heavy anti-American senti­doesn't. Gulping down spoon­ment during NATO's 78-day fuls of chocolate-covered bombing campaign against vanilla ice cream at a Yugoslavia, but made it the Belgrade branch, she says only Western venture that McDonald's is simply "the really works in today's best." Since the end of the internationally isolated and war, the 12-year-old is a 
+
+economically  t  W  i  C  e  
+depressed Serbia. "Our mar­ "We convinced the people we were sincere in  w e e k I Yregular, usually  
+keting strat­egy was to preserve the ori.ginal  sharing their destiny -they had no reason to hate us ...  accompa­nied by grand­mother  
+American  Jelena, 60.  
+brand by giv­ing it a local touch  Dragoljub Jakie McDonald's manager  A n d while her grand­ 
+temporarily  mother  
+making  doesn't  
+
+McDonald's more internation­share Zorica's enthusiasm for al, if you like, rather than an McDonald's -known here exclusively American trade­simply as Mac -she never­mark," says Jakie. "We con­theless joins other customers vinced the people we were in sampling the chain's latest sincere in sharing their des­local hits: garden salad with tiny -they had no reason to tropical island's dressing and hate us." the McFresh sandwich. 
+~CUTHEIEANDHAMGON DOORKNOB ___ -,-----__________________ --•• 
+
+Dear _____ the grouch, 
+There's something you should know. In the morning, you are unbelievably grumpy. And that's putting it very, very nicely. 
+So, because I like you, may I suggest you start the day with a CROISSAN'WIClr from BURGER KING: It's filled with mouthwatering sausage, egg and cheese. And that should make anyone lesscranky. Even you. If it doesn't, then we're on to Plan B. And you don't want to know Plan B. 
+Sincerely, ______ 
+
+THE DELICIOUS CROISSAN1WICH." 
+The Huddle -Lafortune Stl.Klent Center 
+I I 
+
+
+I 
+
+: It just tastes better: 
+I I 
+·--------------------------------------------------· 
+' 
+
+www.bur9erking.com LIMITED TIME ONLY PRICE ANO PARTICIPATION MAY VARY. DURING BREAKFAST HOURS ONLY. 
+01999 euaR KNi CORl'(fWOj. llJIGR !(Ni0R'OIIATDI IS 11-l EXCI.USM ,CENSEE (J Tl£ 1T .AJST TASTES B£TTm' TlWJEMAPI< NIJ fl£ REGISTERED BU1GR IOMl. CRJ1SS1iNW1C>i Alf) U 
+tW.IIES LOGO~ 
+
+Monday, September 20, 1999 The Observer . INTERNATIONAL NEWS page 9 
+SLOVENIA 
+
+Pope denounces effects of extreme nationalism 
+
+Associaced Press 
+
+MARIBOR 
+Pope John Paul II, journeying to the Balkans Sunday to honor a bishop who preached patriotism and tolerance, decried the dangers of nationalism gone extreme and prayed that horrors such as mass revenge killings never again occur. 
+Less than a year after his last trip to the John Paul II Balkans, the pope was back, this time visiting a corner of Slovenia near the Austrian and Hungarian borders to beatify Anton Martin Slomsek, a 19th-century bishop who pro­
+
+moted the "May such dramatic tures." Slomsek, who
+Slovenes' lan­events never ever repeat 
+died in 1862,
+guage and sense 
+
+themselves. " 
+showed it was
+
+of identity during Austrian domina­"possible to be tion. Pope John Paul II sincere patriots 
+John Paul's last trip to the Balkans took him to Croatia in October, and he first came to Slovenia in 1996. Slomsek is a national hero in this former Yugoslav republic, where more than 80 percent of the people are Roman Catholic. 
+Although the 79-year-old pope has difficulty walking. and travel often tires him, Sunday's trip 
+YUGOSLAVIA 
+
+Anti-Milosevic protests gain crucial alliance 
+Associated Press 
+
+BELGHADE A leading Serbian opposition leader now says his party will
+.. 
+join protests against Slobodan Milosevic _ but only if the
+r_____________________________________________...:._____ 
+
+
+'s 
+
+Monday, Sept. 20 6-7pm Lafortune Ballroom 
+•
+1na 
+•••and you' re 1nv1. ·1ed1• 
+Come learn all about Emmaus. 
+(ZVv1PUSEnjoy an evening of FAITH, FRIENDSHIP & FUN. MINISTRY 
+ere!!! 
+Have fun while you share your faith & make new friends. 
+.. 
+
+underscored his desire to be with his flock when he can and to per­sonally press his message of peace and reconciliation. 
+The pontiff left for Home on his airplane Sunday eVf~ning, at the end of a visit that lasted less than a day. 
+Arriving from the Italian capital earlier in the day, he walked gin­gerly down the stairs of his aircraft, one hand on the railing, his cane in the other, and was driven to the Mass site on a grassy expanse near a 15th-century castle. 
+Sun burned through foggy skies, 
+and a stiff breeze three times 
+ripped off the pope's skullcap. 
+The pontiff lamented that the Balkans have been "marked unfor­tunately in these years by struggles and violence, by extreme national­ism, by savage ethnic cleansing and wars among peo­ples and cul­
+and with equal 
+sincerity live 
+
+together and work with peoples of other nation­alities, of other cultures, of other religions," the pope said. 
+During World War II, Croats sided with occupying German Nazis and perhaps hundreds of thousands of Serbs, Jews, Gypsies and anti­fascist Croats were killed in Croat­run concentration camps. 
+Yugoslav president rejects oppo­sition demands for early elec­tions. 
+"If the opposition manages to create an agreement about demo­cratic, free and fair elections, and Milosevic refuses those demands,
+the Serbian Renewal Movement 
+will participate in joint anti-gov­
+ernment protests," the opposition 
+leader, Yuk Draskovic, said in 
+comments published Sunday. 
+Draskovic, who heads the Serbian Renewal Movement, has consistently resisted calls from other main opposition leaders to join in a united front against Milosevic. 
+He shares their demands for early elections before those scheduled in 2000. But unlike Draskovic, the other opposition leaders condition their call for early elections with a demand that they be held under interna­tional supervision and without being controlled by Milosevic. The other leaders say that with Milosevic in charge, the vote is sure to be nawed. 
+Other main opposition groups are united in the Alliance for Change, which is orchestrating daily demonstrations against Milosevic in Serbia. the dominant Yugoslav republic, to protest his policies. Many Serbs blame Milosevic both for a decade of growing economic hardship and for defying NATO, leading to the bombardment that left wide­spread destruction. 
+
+
+_,_...~ ---.--------------------------~-------------~-----------------------------~--WW --WWW ----_....._..---..,,....-..............---....... --­
+Monday, September 20, 1999 
+The Observer . PAID ADVERTISEMENT
+
+page10 
+
+
+
+
+
+FORTUNE 
+10~~~ ,. 
+UW'AIIES 
+TD WORK FIi 
+Imagine looking forward to the week as much as you look forward to the weekend. Imagine spending each minute with unlimited opportunity and continuous options. At Ernst & Young we provide access to the most sophisticated and effective tools in the industry. See you Monday. www.ey.com 
+, 
+CONSULTING. TAX. ASSURANCE . • . • • . a!/ ERNST& YOUNG 
+FROM THOUGHT TO FINISH.TM 
+©1999 ERNST & YOUNG llP 
+
+GI 
+Monday, September 20, 1999 
+The Observer . INTERNATIONAL NEWS page 11 
+BERMUDA 
+
+Islanders prepare for seve11th Atlantic storm 
+
+¦ ¦ 
+
+Meetings for Students and Young Adults are now available on campus. 
+Associated Press 
+
+MIAMI 
+Foul weather building in the Gulf of Mexico on Sunday threatened to form Tropical Storm Harvey. Meanwhile, Hurricane Gert, with 130 mph winds, loomed a threat to Bermuda. 
+Forecasters at the National Hurricane Center expected to post a storm warning or watch for the northern and eastern Gulf Coast later Sunday with a tropical depression circulating off the Florida coast with 35 mph winds. 
+
+
+
+The system should come ashore north of Tampa, cross the florida peninsula Tuesday and shoot into the Atlantic with 55-60 mph winds but won't pose much of a rain threat to flooded areas of the Carolinas, said hurricane spe­cialist Brian Jarvinen. 
+The storm will "be moving fairly briskly. and they (the Carolinas) would be on the drier side of the system when it came by," he said. "I wouldn't be expecting a whole heck of a lot of rain from this system." 
+Thinking of Joining the Church?? Try RCIA 
+at 
+Sacred Heart Parish 
+at 
+Notre Dame 
+We are: 
+1) an inter-generational group 
+[you always liked talking with Grandma] 
+2) a Wednesday evening meeting 
+[you prefer Chicago on weekends] 
+3) the Parish which baptized Chief Pokagon 
+[you like a truly long tradition!] 
+4) a complement to Campus Ministry's :RCIA 
+[you like building bridges) 
+Call Chris Miller at 631-7508 
+For more information, please contact Alcohol and Drug Education 311 Lafortune phone 631-7970 e-mail ND.aldrug.1@nd.edu 
+
+Dotnino's Pizza 271-0300 Store Hours: Sunday -ThursdayND/SMC/Holy Cross 11 am -2 am Friday & Saturday 11 am -3 am Today Only!! r----------------, iA-;.;Yo';; R;iidy-FO;-s~;;;;-;iz-;;,,71 The Original Beat the 1 1 Monday Night 1: Clock Special l l Football Special l I 430 700 II pm-pm I : $899 : : Time on Clock is Price : I I 1 2 Large Cheese 1l 1 Large Cheese : l $1 per Topping l1 $1 per Topping 1 1 9p111-2am 1I IL ________________ J L ________________ J FREE Message Board with purchase while supplies last!! Located on the corner of SR 23 and Edison Visa/MC/Checks welcome  
+
+
+
+
+O
+THE 
+
+BSERVER Monday, September 20, 1999
+page 12 
+THE OBSERVER 
+P.O. Box Q, Notre Dame:. IN 46556 024 Sourh Dining Hall. Nocr~ Dame. IN 46556 
+EDITOR IN CHIEF Michelle Krupa 
+
+MANAGING EDITOR  BUSINESS MANAGER  
+M. Shannon Ryan  David Rogero  
+AssT. MANAGING EDITOR  
+Laura Petelle  
+
+NEWS EDITOR: Tim Logan VIE\1''1'O1NT EDITOR: Colleen Gaughen SPORTS EDITOR: Brian Kessler 
+SCENE EDITOR: Michael Vanegas SAINT MARY'S EDITOR:" Noreen Gillespie PHOTO EDITOR: Kevin Dalum 
+ADVERTISING MANAGER: Bryan Lutz 
+Ao DESIGN MANAGER: Bret Huelac SYSTEMS ADMINISTRATOR: Michael Revers WEB ADMINISTRATOR: Erik Kushto 
+CONTROLLER: Timothy Lane GR~PHICS EDITOR: Joe Mueller 
+CONTACT Us 
+OFFICE MANAGER/GENERAL INF0..............6.31-7471 FAX.............................. ··················••·•·· .. ·····631-6927 ADVERTISING................................... ..63 J-6900/8840 
+observer@darwin.cc.nd.edu EDITOR IN CHIEF........................................631-4542 MANAGING EDITOR/ASST. ME .................... 631-4541 BUSINESS OFFICE........................................631-5313 NEWS ..........................................................631-5323 observer.obsnews. l@nd.edu VIEWPOINT.................................................631-5303 observer.viewpoint. I@nd.edu SPORTS........................................................631-4 543 observer.sporrs. l@nd.edu SCENE.. .......................................................631-4 540 observer.scene. l@nd.edu SAINT MARY'S .............................................631-4324 
+observer.smc. l@nd.edu PHOTO........................................................631-8767 SYSTEMS/WEB AoMINISTRAT0RS.................631-8839 
+THE OBSERVER ONLINE 
+Visit our Web sire at http://ohseroer.nd.edu fi.x daily updates ofcampus news. sports, features and opinion columns, as well as cartoons, reviews and bre:lking news from the Associated Press. 
+SURF TO: 
+weather for up-to-rhe 
+movies/music for 
+
+minme forecasts 
+weekly srndenc reviews 
+
+advertise for policies 
+online features for spe­
+
+and rates of print ads 
+cial campus coverage 
+
+archives to search for 
+about The Observer 
+
+articles published after 
+to meer the editors and 
+
+Augusr 1999 
+scaff 
+
+POLICIES 
+The Observer is rhe independe111, daily newspaper published in prim and online by the smdenrs of the University of Notre Dame du Lie and Saim Mary's College. Edimrial co111enc is 1101 governed by policies of the administration ofeither institution. Acting as pub­lisher ofThe Observer, rbe administration of rhe University of Notre Dame Ju Lac prohibits rhe adver­tisement of alcohol and The Observer's acceptance of advertisements from specified types ofgroups. 
+The news is reported as accurately and objectively as possible. Unsigned editorials represent the opinion of the majmiry of the Editor in Chief, Managing Editor. Assistant Managing Editor and depanmenr edirors. Commentaries, letters and columns present the views of the amhors and not necessarily those ofThe Observer. Viewpoint space is available to all readers. The free expression ofall opinions through leners is encour;iged. 
+Questions regarding Observrr po/ides should be direa­ed to Editor i11 ChiefMichelle Krupa 
+
+Tes Salb, All-American future Olympian 
+Several days a week, in the early morning hours. a young woman comes into the Security Building and reports to the dispatch desk. The security offi­cer at the desk recognizes her and hands her the keys to a locked closet, Cappy Gagnon which has a locked cabinet within. Teri Elizabeth Salb 
+Cappy's
+(Tes) uses the keys 
+Corner 
+to retrieve a small aluminum carrying case. 
+A few minutes later, Tes is down­stairs in a garage under the Security Building practicing one of her many athletic talents. Tes would have been a good guest on "What's My Line" (a TV show that aired about a 1000 years ago -ask your grandparents about it). It is doubtful that any panelist would sus­pect that this soft-spoken, attractive young woman is one of the top pistol shooters in the country, firing her German-made Steyr, .177-caliber air pistol. I can personally attest to her shooting accuracy. \Ne let Tes shoot in the same area we store bicycles for the semi-annual auctions, and in this very confined space. She hasn't hit one yet. 
+Tes has won many gold and silver championships, including the Junior Olympic National Championship in women's air pistol in April 1997. But that's not the end of her accomplish­ments. Tes is also a member of the greatest college marching band in America, the band of' the Fighting Irish, where she plays in the first trumpet section. She has also fenced for the Irish, earning a monogram this past year. And, in case you think that jug­gling an epee, a trumpet and a pistol is a difficult task, consider that we've barely scratched the surface of the tal­ents of this remarkable athlete. 
+
+Tes competed as a swimmer in high school (Hobbs, N.M.}, serving as cap­tain of her swim team and qualifying for the state championship in one of her relay events. She also ran cross country for I lobbs High School. Despite her proficiency at the high school level, Tes found running and swimming to he her two weakest events of the modern pentathlon. She was stronger in the fencing and shooting, although she con­tinues to be the strongest in the eques­trian events. She has been riding since she was 5 years old. Tes has won age group equestrian competitions since she was barely 10 years old. In 1995, she won a first place equestrian in the Olympic Festival, U.S. Modern Pentathlon, women's competition and a 6th place overall. She won a 4th place in the 1995 Junior National Championships. 
+The old joke about versatil<~ athletes used to be that "they took time out to sell popcorn at halftime," but that wouldn't even begin to convey the ver­satility of Tes Salb. She has been a fea­tured dancer in ballet tap and jazz dance programs since she was 13 years sold. She still does some part-time dance instruoting. Somehow, Tes has also found time to pick up several sci­ence fair prizes, including first place in a couple of southwest science fairs in something called microbiology (I don't think they had this when I was a kid ­our biology was bigger back then). 
+Tes won a first place at the National Camp in women's air pistol this past summer. She is a member of the Olympic Development Team which trains at Colorado ·springs. Colo. She was also featured in an ESPN film about the 1998 Atlanta World Cup. She has competed in air pistol competitions all over the country and in a few exotic foreign locations, such as the 1998 World Competition in Barcelona. Spain. 
+
+Competitors in women's air pistol have one hour and 15 minutes to take 40 shots. The target is 10 meters away, with the 10-ring being less than half an inch in diameter. When Tes qualified for the World Championships in 1998, she shot consecutive 373 scores, just a little below the standard to describe "World Class." Her shooting is even more remarkable because she has been shooting for only a few years. 
+If I had sons instead of daughters, I would be trying to match them up with Tes -bul then I met her boyfriend last month. lle's a good-looking guy, but I would not expect Tes Salb to settle for any old bronze-medal type of' guy when she is an All-American and an Olympian in the making. 
+Cappy Gagnon. '66 coordinates lhe student employees for the Notre Dame Security/Police Department and has volunteered to carry Tes Salb's gun case to the Sydney Olympics. 
+The views expressed in the column are those qfthe author and not neces­sarily those ofThe Observer. 
+DILBERT SCOTT ADAMS 
+Er--~:::~==~::::::::~--~ur-:===========::::---, 
+
+
+I'M 5UPPO5ED TO 
+MEASURE YOUR 
+TOR.50. 
+
+QUOTE OF THE DAY 
+"You may be disappointed ifyou Jail. but you are doomed ifyou don't try. " 
+Beverly Sills 
+American opera singer 
+
+
+••----~----------......•~"';~_:--11.••0•••.•••..•.¦.•.•--••1111z•t•.••••1:•--•--•.lll!lf•a••-••2111111••a•••.•--11111a...&&_u
+. ...-.\....·,-•--..--=~--a..••••----•-'11• 
+r 
+' 
+
+O
+THE Monday, September 20, 1999 BSERVER page 13 
+LETTERS TO THE EDITOR 
+
+Punt Davie! 
+
+I le likes to punt so much that maybe we should do likewise to him. Thank you. Bob. for wasting two of my precious years at Notre Dame. Thank you to Jarious for wasting a year of your life for a dead-end season. Thank you, MSU, for providing yet another indelible example of why Bob Davie shouldn't be at the helm any­more. And thank you, God, for allowing me to go to Notre Dame during the tenure of' Bob Faust ... err ... Davie. Wait, I take that slam back. Davie doesn't rate as good as Faust, who at least had respect as a wonderful man. 
+Davie may have class. as he often says. but a classy loss is still a loss. Nothing bntter than losing with class, that's what I always say. That was pretty classy when we decided to punt away the game against Michigan State. I especially liked it when the stu­dents, in honor of our classy coach, raised a single finger in salute during the 1812 overture -or better yet, raised an L! 
+There is nothing Bob can do to redeem himself now. 1-3, 0-3 officially since, by all rights, the pm-season game against KU shouldn't count on our record. I don't go to Akron; I go to Notre Dame! I think Davie has summed up how bad he is when he has rnpeatedly remarked, "These men are CHEAT players." THEN \VI IY CAN'T WE WIN? Coaching'! 
+P<whaps tho stud<mt body can distributn a cup or a hat and gathc~r contributions to buy out Davie's contract. Or saran wrap his car shut. Or bring back a Devine tradition and paint "5-minute parking" on the ground in the coach's parking spot. Bob has remarked at several pep rallies (well, all of them really, seeing as how he regurgitates the same crap every week) that we need to be true to our tradition. so I'm sure he'd understand that we were just following tradition. 
+In Green 13ay, they got rid of Dan Devine by shooting bis dog. Does Bob have a dog? 
+Ryan Moodie 
+Sophomore Sr. Edward's Hall September l9. 1999 
+
+If you've given up, don't come 
+I want to thank all of you who stayed in the stadium until after the playing of the Alma Mater. After that song I left the stadium with my head held high. The past 15 minutes just faded away. 
+For those of' you who left early. I feel the deepest sympathy for you. You've missed something along the way. I agree that the football team is frustrating. I agree that something needs to be done. I agree that we are a far, far cry from a championship 
+team. 
+I lowpver. I disagree with those of you who gave up. If you sat down at all whiln the teams were on the field then please, do the rest of us a favor and give up your tickets. If you gave up on the coaches or players, then please stop coming. I don't even want you to cheer with me any more. Stay home, give your tickets to someone who wants to watch the Fightin' Irish play football ­whether it's championship football or losing football. 
+I won't pull out any cliches, Ijust want you all to read the words of the Alma Mater and think about what it really means to be a Domer. 
+Nate Nelson 
+Freshman Zahm Hall September I 9, 1999 
+
+America needs more peasants 
+Student activists have recently raised con­cerns about sweatshops. Sweatshops, they tell us, are nothing but trouble. But if sweatshops are a problem, they only point to a deeper problem, capitalism. Progressives and liberals have shown themselves, for better or for worse, unable 
+Jeff Langan
+to break capitalism's grip 
+on American life. Neither 
+political party nor most of 
+Lula's 
+you opposing sweatshops 
+Journal
+are willing to buck the cap­
+italist system, so sweat­
+shops go on. The real solu­
+tion is the resurgence of peasantry in America. 
+Peasants, you will say, are ignorant. Our forefathers and.mothers came here to get away from their lifestyle. Nevertheless. in the age of alternative lifestyles, the peasant lifestyle has often been overlooked. Peasants, you will say, are medieval. rude, dirty, stubborn and, worst of all evils, insensitive. They are all that, but they also own land. Their attachment to the land gives them a view on life, along with a certain liberty, that immunizes them from things like political correctness. It also keeps them independent of political parties who are on the dole. The peasant lifestyle is the real alternative to sav­age capitalism. 
+The real problem with capitalism is that it leads to the centralization of wealth and power. This leads to abus­es akin to the ones our friendly pro­testers think occur in sweatshops. Of course, their solu­tion, protesting, does nothing to actually make the lives of the oppressed any bet­ter. Once the sweatshops am closed down, the workers will go on to become migrant farmers, or some other under the table transitory cog in the capitalist machine. Meanwhile, wealth will continue to concentrate, power wiJI further cen­tralize and monopw olies will continue to grow. 
+In fact, the solu­tion of the sweat­shop protesters would only further exacerbate the problem of the workers. They would probably be willing to advocate some form of socialist style gov­ernment program to alleviate the sit­uation of the work­
+
+
+ers, but this solu­tion again fails to give the workers more liber­ty. The socialist alternative only further con­centrates wealth and power into the hands of fewer people. Instead of being oppressed by the man. the worker becomes a puppet of the state. 
+At this point, politicians remain unwilling to really do anything about the workers in the sweatshops. and why should they? Who keeps the politicians in office? Besides the Chinese, Hollywood, Wall Street and big corporations seem to be doing a fine job of that. Do we need to do away with Hollywood, Wall Street and big corporations? Outside of our own refusal to buy products from Wal-Mart, I do not see a way out of the current problem. 
+Nevertheless, we could do much to encourage a significant minority of the population to become peasants. Many of the people who end up working in sweatshops, for example, would be more than happy if they were given 10 or so acres in small town, U.S.A. They could use their little farm to grow food, raise chickens and sell homemade products in the local mar­ket. We could even offer the same option to many of the current slum dwellers in the big cities, and the homeless, too, for that matter. 
+
+Of course, this would have to be a voluntary program. Some of the larger landowners would have to agree to sell part of their land to those who are, at the moment, not so well off, but the banks are always able to work something out. Perhaps we could make yet another loophole in the tax law that would allow for significant tax write-offs for the wealthy who finance a small farm or two. There are so many loopholes for them as it is, what's one more. 
+So, what's the payoff? Peasants would pro­vide this nation with a real cultural, political and economic alternative to the status quo: Peasants depend on the land, not capital. They will still grow their food in a recession. Money is not their only concern. Yes the peasant life is 
+a difficult one, but 
+
+I fail to see how it is more difficult than the life of a homeless man sleeping on con­crete every night, or the life of a migrant worker or a worker in a sweatshop, who never have the security that the house they live in, the land they live on, or the tools they work with are their own. 
+Moreover, a peasant class would offer politi­cal benefits. In every country that traditionally had a peasant class, the major parties or wealthier classes had to accommo­date the peasant class to keep power or prevent revolutions. The peasant culture would also be an alternative to the current superfi­cial sex-crazed culture that America is push­ing all around the world. Peasants have their own traditions of song, dance and enter­tainment that would add to the cultural diversity in this country. 
+So perhaps the PSA should change its name. The progressive movement, which has really been in 
+
+
+action for a hun­dred years, is a zero. It has probably brought further centralization of power and wealth, and has left capitalism, its main foe, healthier and happier than ever. The progressive student alliance needs a new cause. 
+May I suggest the Peasant Student Alliance? 
+JeffLangan is a graduate student in the department ofgovernment and international studies. His column usually appears every other Friday. He can be reached at Jeffrey.J.langan.4@nd.edu. 
+The views expressed in this column are those of the author and not necessarily those ofThe Observer. 
+
+--"""-----~-------"""""------lf'-•-..al!!,OOI._.......-....._.,"11109!'!!1%•--·•·-------.'!",.•-----1!¥411111&•.,-----.,~.¦------••----•---·¦•--..c::~-...PIIIIU~----•--~IIU___IIIII__QIIIIIIIIIQ~. 
+I N 
+E T 
+O
+THE 
+
+page 14 BSERVER Monday, September 20, I 999 
+HEALTH COLUMN 
+Lost in 
+cyberspace 
+
+Do you know someone who goes online so frequently that they are in danger of becoming lost in cyberspace'? How much is too much? Is excessive computer use unhealthy? There are plenty of anecdotes of people who appear to be "addicted"to online games. the Web and even instant messaging. 
+The term "internet addiction disorder" was 
+first coined as a tongue-in-cheek parody of 
+Wendy Settle 
+symptoms proposed by Dr. Ivan Goldberg on the Web in 1997. Once discovered, his media-bite became front
+University 
+page news. The mental health community has
+Counseling 
+continued to debate whether it actually exists 
+Center 
+as a disorder at all, and empirical research 
+
+from truly representative samples. rather than online studies;-) has been slow to follow. 
+ls it a disorder, like pathological gambling? If so, why not talk about a TV addiction disorder? Or a telephone addiction disorder? How about a technology addiction disorder? 
+Should we only examine excessive use or should we examine what the use is for? Others are arguing that there is no "Internet addiction,"but want to specify that it is defined by the activity that is addictive on the Internet, such as a "sex/pornography addic­tion" or a "Star Trek chat room addiction"(Holmes, 1998). 
+Others say that being hooked on the Internet is akin to a disorder of impulse control, similar to kleptomania or compulsive shopping (Shapira. 1998). So shall we call it "Internetomania"? 
+That is enough of the debate. Whatever you call it, I'll bet you do know a fellow roommate. friend or acquaintance whose time spent online is, sliall we say, excessive if not close to pathological. 
+Notre Dame ranked 23rd on the 1999 Yahoo! Internet Life's list of the top 100 "most wired"campuses in tlrn U.S because the inter­net is so easily accessible. Our technology includes 8,000 ResNet ports as well as "cybercalc" ports in LaFortune Student Center, Reckers and Hammes Notre Dame Bookstore. 
+College students are particularly susceptible to bite the lure and get hooked for hours onlinc, somP from midnight 'ti! dawn (Kandell, 1998). Percentages of college students whose computer use is considered to be dependent run about 10 to 13 percent (Anderson, in press; Scherer, 1997). 
+Another study conducted with college students found that "pathological" use of computers was correlated with loneliness, 
+There's no doubt about it -the computer can become a trusted friend who allows instant gratification, stimulation and reinforcement. 
+personal problems, withdrawal symptoms. and mood altering use (Morahan-Martin and Schumaker. 1997). The patho­logical users averaged 8.5 hours of internet use per week. stu­dents with limited symptoms averaged 3.2 hours per week and those with no symptoms averaged 2.4 hours per week. Scherer (1997) lists some of the critical warning signs of 
+
+Internet dependency: declining grades, failing to fulfill major responsibilities -academic, professional. or social-. health prob­lems such as sleep deprivation and legal or financial problems. 
+There's no doubt about it -the computer can become a trusted friend who allows instant gratification, stimulation and reinforce­ment. Whether students are procrastinating to delay the anxiety of an assignment. or filling a social void via the excitement of meeting strangers online who quickly lose their inhibitions during numer­ous short exchanges, or immersing themselves into fantasy worlds through MUD games or pornographic sites, they hardly ever self­identify that these activities have become excessive or a problem. 
+If they do come for counseling. they tend to present a vague clus­ter of problems such as class absences, erratic sleep schedules, low-level depression, problems with interpersonal relationships or other addictions. Psychologists at many universities report that it is only after counseling is well under way that the number of hours spent online is shamefully revealed. 
+It must be said that using computers as a tool in one's life in a balanced manner can be a life-giving activity rather than a life­draining activity. Some students do report they have developed positive relationships with friends first met in cyberspace. 
+Perhaps most significantly, the computer can open up an instant library of information or a diversity of entertainment for the asking at 3 a.m. But if you're trying to decide if your own Internet use is problematic, you can take one of' the self tests -available online, of course. 
+Better yet, you can ask yourself Holmes· (1998) simple question: Is my computer use getting in the way of the rest of my life? 
+The intent ofthis monthly series ofarticles is not to provide counseling but to provide information about a variety ofmental health topics. To seek help with your individual concerns, please contact the University Counseling Center at 631-7336 to schedule an appointment. 
+The views expressed in this column are those ofthe author and not necessarily those ofThe Observer. 
+INTERNET SITE REVIEW 
+
+Web site swoons a 
+By LAURA GAINES Scene Writer 
+Dating. Mating. Relating. 
+Swoon.com offers interesting insights into the world of male-female relationships with the promise of a little something for every­one. From the bright colored backdrops to the funky, car­SWOOn.COffl toonish graphics, the Web site is definitely female­
+"J'.jJ Bl'JJ;,I' ~~~~n~:!·s~~w~::~ 
+men can't find 
+out offive shamrocks some entertaining information as well. The site is divided into five 
+main sections, where readers can peruse information regarding dreams and horo­scopes. read and write personal ads, chat online and look at magazine pages. 
+Details. Glamour. Mademoiselle and GQ all have links on Swoon.com. The entire maga­zine is not published and little information is actually given on these pages besides pre­views of articles for the current issue, However, Details currently offers the enticing article entitled "Seduction 101" and a column on gift-giving advice. To find out more about oneself. Mademoiselle provides a multitude of self-discovery tests. 
+Horoscopes and quizzes are the main lure of Swoon.com. Ry typing in an astrological sign, and that of a hopeful mate, a reader can discover if love is written in the stars or des­tined to flop. There is a large section, called the Birthday Package, where curious astro­lovers can check out their daily horoscopes, love matches. astro-profile and even their sex scope. Headers can also test their mojo, Austin Powers-style. or discover their inner animal via Chinese astrology. 
+Another section, dedicated to dream inter­pretations, allows the reader to type in a key­word associated with a dream. Next. a small 
+
+
+I'll take College JEOPj 
+. College JEOPARDY! Online brings thrill of TV's toughest challenge to con­venient home of Internet 
+By MIKE VANEGAS 
+Scene Wrirer 
+South Bend is a boring place, right? 
+With this complaint registered in the minds of many Notre Dame and Saint Mary's stu­dents, a short but often-referred-to list of activities has become standard throughout this college community. Activities include throwing 
+a Frisbee. watching televi­
+
+
+throughout the nation.
+sion, studying (studying? 
+
+One must merely witness
+At a University?). drinking 
+
+home-field advantage at a
+and talking among peers 
+
+college football game (um,
+about the infinite sadness 
+
+alright ... maybe that's not
+faced each day without the 
+
+the best example at good
+thriving, distraction-infest­
+
+ol' Notre Dame) to fully
+ed presence of a cool 
+
+comprehend the impact a
+metropolis. 
+
+student body can have on
+Those days are over. 
+one single issue.
+however. For Sony has 
+created an Internet frenzy over the game show that makes the majority of Americans feel dumber than a vat of green jello -JEOPARDY! Well, really, the game was created last year. but this year there is a whole new crop of Internet-ready freshmen hoping to gain that elusive spot as Internet's explanation of the dream is given. However, most are just a few sentences, and lack any real detail. Dreamers can also print out a page of Dream-It notepaper to record the events of a previous night's sleep. 
+
+As an alternate to using newspapers or television, Swoon. com offers free personal ads online. After creating an alias and cough­ing up a few details about one's life, a per­sonal ad may be posted. Those interested in finding a mate can select a location by area code and search through hundreds of ads. 
+The Swoon forum is a way to get advice and feedback on a variety of issues. Notes are posted in ref­erence to dream inter­pretation, dating advice and family issues among other topics 
+topics which at times are off­tlrn-wall and meaningless. 
+Ever heard of Mercury­retrograde? Swoon has a page dedicat­
+
+Jeopardy king or queen. 
+The name of the game is College JEOP­ARDY! Online, and its second year hopes to build on the success of its first. as the incen­tive for playing has become a little more inter­esting -especially considering the state of boredom instilled on the Notre Dame commu­nity by the greater Michiana area. 
+Before the prize is revealed, though, it is important to understand the teamwork involved. The folks at Sony recognize students as the sometimes self-centered egos they arc. and they are willing to award individuals based on their individual efforts. But Sony also understands the power of the mass. espe­cially the youthfully motivated mass of college students that may com­pose any student body 
+Thus, Sony and College
+Image courtesy of Sony 
+JEOPARDY! Online have marked the grand prize for the fall competi­tion as a grand prize for an entire student body. The prize is a sneak preview screening of a Sony Pictures Entertainment film. most likely next spring, for the three colleges or universities with the highest cumulative score 
+a 
+I N 
+E T 
+O
+THE 
+
+Monday, September 20, 1999 BSERVER page 15 
+~t college students 
+
+Image counesy of Swoon.com 
+
+ed to informing its viewers on the dangers of this illusive phenomenon: 
+"We've probably all heard the planet Mercury blamed f'or miscellaneous mayhem: My computer crashed, Mercury must be ret­rograde. The car won't start, Mercury must be retrograde. That certain somco11e I've been lusting aft~r didn't phone even though I was promised I'd g,\t a call -Mercury MUST be in retrograde!" 
+Evidently, Mnrcury-retrograde occurs about four tinrns a year. when the planet Mercury appc!ars to bP moving backward in the sky. 
+These two-week long periods of motion are called retrograde periods. Until Mercury appears on-course again, people can expect "delays, interferences, malfunctions in small a ppIiancl1 s , m i x -u p s , m e n ta l co n fu s i on , missed appointments, misdeliveries. and mis­understandings." 
+Instead of blaming things on El Nino, or some other buzz phenomenon, blame it on Mercury. Thinking of ascribing the recent football failures to Mercury? Unfortunately, retrograde is not to blame. It's 45 days until the next Mercury-retrograde occurs. The site offers "proof' of numerous tragic events and unexpected circumstances that occurred dur­ing retrograde periods. Curious readers may even type in a particularly bad day and check to see if Mercury was in retrograde during that time. · 
+Although Swoon.com has plenty of variety, t~c page is reminiscent of a woman's maga­zine gone bad. The page is well laid out, but the entertainment value is moderate. Many Swoon topics, especially the dream interpre­tations and Mercury-retrograde phenome­non, lack details and insight. 
+
+
+as Measure Your Mojo, which follows the woman's magazine industry with self-help quizzes con­irsonal issues. 
+f\RDY! for $200, Alex 
+at the end of' the contnst. Individual prizes include various Sony electronic devices -Discmans, Walkmans and CD clock radios -
+TopFive Collegesino< 
+College JEOPARDY! 
+Online 
+
+SCHOOL $WON 
+Virginia Jech...................... ; •.•...........$58.796,908 
+Brown University.~•..••••....•,.••;;.........,.$51~060,908 <. 
+Indiana·Unlversily-Bloomlngton.......$3 6,992.479 
+Boston University......................;........$34,8I9,402 
+Claremont McKenna College............$31.036,524 
+Other notables: 
+Boston College (lB)................ , ........... .$6,739,796 
+Michigan(ZS)............. ; .•.....,.,...............$5,401,032 
+Unranked: 
+Saint Mary•s College...........;......~ ....................(N/AJ 
+Notre Dame.............................................$275,500 
+(ranked eighth among Big East schools) 
+MIKE VANEGAS/The Observer 
+gift certificates and t-shirts. 
+Other incentives in playing the game is that one can connect with thousands of college stu­dents around the nation through the Web site's message boards. Here's an example of the conversation that can go on via the site: 
+Station member No. 1: "I just played two games against someone whose handle is 'Bran*****' -I'll keep him or her anonymous, but they are now telling players that I am a cheat. 
+How does one cheat at this? I don't want to be known as a cheat! l am a 'jack of all trades, master of none' in my mind. I love trivia." 
+A reply from station member No. 2, about two hours later: 
+"How many games have you played? If you are a multi gamer sometimes people call it 'cheating' if you have seen the answers before and 'have them memorized.' We have all put up with this at some time or another. Just let it roll off, it is only a game ... and a fun one at that." 
+Though the game can sometimes run a little slow, it certainly keeps competetive players on their feet, and allows, like the show, for a good test of knowledge. 
+The current contest began Sept. 13 and con­tinues until Dec. 6, which means that Domers and Belles have enough time to win plenty of prizes for themselves and for their peers. Notre Dame and Saint Mary's are currently unranked in JEOPARDY!'s standings. with only $275,500 in winner's dollars. 
+Visit www.slation.sony.com to play College JEOPARDY! Online. 
+
+AP ENTERTAINMENT BRIEFS 
+
+Photo counesy of Twentieth Century Fox 
+Lauren Holly debuts in "Chicago Hope" Thursday on CBS. 
+Kelley woos Holly to 'Hope' 
+NEW YORK Lauren Holly's new role is a combination of beauty and cutting wit. She tells TV Guide in its Sept. 25 issue that her plastic surgeon 
+character on "Chicago Hope" is "the queen of collagen ... a little bit of a hippie and a tomboy with a biting sense of humor, who wears cargo pants and combat boots." 
+And it's all writer David E. Kelley's idea. 
+"When he phoned me and said 'I'd like you to be on 'Chicago Hope,' and I'll write you a great character, it was a done deal." Holly said. 
+Mclachlan makes McCartney cry 
+LOS ANGELES Sarah McLachlan's mournful ballad "Angel" reduced Paul McCartney to tears at an animal righL-, awards show. 
+McCartney, who was hosting the event sponsored by the People for the Ethical Treatment of Animals Saturday night, returned teary­eyed to the stage after McLachlan's piano solo. 
+He explained that the song was brought to his attention after his wife, Llnda McCartney, an active animal welfare crusader, died of breast cancer in April 1998. 
+It includes the lyrics: "You're in the arms of an angel. May you find some comfort there." 
+Plantation makes way for Gibson 
+McCONNELLS, S.C. 
+
+A popular historic site here is answering duty's call. 
+The Historic Brattonsville plantation has shut its doors until the middle of October so that preparations can be made for Mel Gibson's latest film, "The Patriot." 
+Crew members for the Revolutionary War movie are working around the clock painting and restoring buildings. Officials in charge of the site say the changes will make the plantation a more pleasant place to visit when it re-opens. 
+Gibson plays Benjamin Martin, a reluctant hero who is swept into battle when the war reaches his farm. In an effort to protect his fam­ily, he joins the American militia and fights beside his idealistic son. 
+'Blue Streak' tops box office 
+LOS ANGELES 
+
+Martin Lawrence's comedy "Blue Streak" struck out Kevin Costner's latest baseball flick at the weekend box office, taking in $19.2 million to debut as the No. 1 movie, according to estimates Sunday. 
+Costner's "For Love of the Game," in which he plays an aging pitcher, took second place with $14 million for its opening weekend. 
+Costner was a natural in his third baseball movie after "Bull Durham" and "Field of Dreams," but Lawrence's comedy held more appeal for younger audiences, said Ed Russell, executive vice presi­dent for publicity at Sony Pictures, which distributed "Blue Streak." 
+It was Lawrence's first solo triumph at the box office. He's previ­ously had No. 1 openings as a co-star with Eddie Murphy in "Llfe" and Will Smith in "Bad Boys." 
+"This is a really great credit to Martin to open like this on his own," Russell said. "It shows there's real interest in Martin and that the timing was right for a really funny comedy." 
+"For Love of the Game" may have been hurt by Costner's reluc­tance to help publicize the film, said Robert Bucksbaum, a film ana­lyst with Reel Source Inc. Costner did some interviews but devoted much of his time to criticizing Universal for editing scenes to get the movie down from an R rating to PG-13. 
+, 
+---------------"""'-~------------.------;1:-•.-.-----,._--••...-•----....-•••......•1111'111¦ z¦
+.¦ . 
+
+Monday, September 20, 1999
+page 16 The Observer . SPOirfS 
+NFL 
+Bledsoe's second-half heroics push Patriots past Colts 
+Associated Press 
+FOXBORO, Mass. Drew Bledsoe stayed calm despite a 21-point deficit. 
+He threw three of his four touchdown passes as the New England Patriots pulled out of a 28-7 halftime hole and stunned the Indianapolis Colts 31-28 Sundav. 
+The ·Patriot defense, victim­ized in the first half by three touchdown passes from Peyton Manning to Marvin Harrison and a 1-yard scoring run by Edgerrin James. also kept cool. 
+Steelers 23, Ravens 20 
+Stoney Case once again worked his magic for the Baltimore Ravens in the closing minutes. His mistake was leav­ing the Pittsburgh Steelers enough time to undo his handi­work. 
+Will Blackwell returned a kickoff 3 7 yards to midfield after Case tied the game with his first NFL touchdown pass, and Kris Brown kicked a 36­yard field goal as time expired to give the Pittsburgh Steelers the victory. 
+Lions 23, Packers 15 
+A 91-yard kickoff return by Terry Fair and the heady play of Charlie Batch brought Detroit back for a win over the Green Bay Packers, keeping the surprising Lions unbeaten after two games. 
+It was the sixth loss in the 
+last seven trips to the 
+Silverdome for the Packers ( 1­
+1), who bolted ahead 15-14 
+with 12:5 5 left in the fourth 
+quarter. But the Lions (2-0) 
+came up with some fireworks of 
+their own. 
+Jaguars 22, Panthers 20 
+Jacksonville's Lonnie Marts 
+batted away a two-point con­
+version pass with 31 seconds 
+left. securing Jacksonville's vic­
+tory over Carolina, capping a 
+week dominated by talk of Dom 
+Capers, who spent four years 
+as Carolina's first coach but 
+was fired after the Panthers• 
+went 4-12 last season, was 
+barred by Jacksonville coach 
+Tom Coughlin from speaking to 
+reporters about coming back to 
+Ericsson Stadium. 
+Dolphins 19, Cardinals 16 
+' Cardinal quarterback Jake 
+Plummer orchestrated the 10th comeback of his three-year career last week at Philadelphia, but Miami with­stood his bid for fourth-quarter heroics. The Cardinals took over at their own 33 with 1:14 left, but two penalties and a sack pushed them back to the 25, and Plummer was inter­cepted by Brock Marion with 15 seconds to go. 
+Bills 17, Jets 3 
+Bills quarterback Doug Flutie beat the New York Jets with his arms, his legs, and even his 179-pound body. sacrificed in a crushing block that sprang Antowain Smith on a 12-yard run that set up the game's first touchdown. 
+Buccaneers 19, Eagles 5 
+The Buccaneers got six of their nine sacks against quar­terback Donovan McNabb in a victory over the Eagles. 
+The Eagles (0-2) gained a mere 150 yards and failed to come close to scoring a touch­down. The Bucs (1-1) won despite gaining a scant 2 20 yards and getting another lack­luster performance from Trent Dilfer. He failed to bounce back from throwing three intercep­tions in a home loss to the Giants, going 7-for-14 for 89 yards, with two touchdowns and two interceptions. 
+
+Seahawks 14, Bears 13 
+Foley, playing because Jon Kitna's right big toe was still bothering him, was 18-of-30 for 283 yards. Former Notre Dame player Derrick Mayes caught seven passes for 137 yards. Ricky Watters, who had just 21 yards rushing last week, ran for 99 yards on 23 carries. 
+Seattle safety Merton Hanks, playing in his first game after being cut by the San Francisco 49ers, sacked Shane Matthews for a loss of 11 yards. 
+Chargers 34, Bengals 7 
+Jim Harbaugh threw a pair of touchdown passes and Junior Scau led a punishing defense that helped the Chargers pull away to a victory over the bum­bling Cincinnati Bengals. 
+It was San Diego's most one­sided opening victory since a 42-13 win in Minnesota in 1984 under coach Don Coryell. 
+Raiders 22, Vikings 17 
+
+A week after blowing a 10­point fourth-quarter lead at Green Bay, Oakland survived the Vikings' comeback bid. 
+With the Raiders ahead 22-10 midway through the second half, Cunningham completed a third-and-8 pass to Jake Reed and defensive end Tony Bryant was assessed a personal foul for driving the quarterback to the turf. The penalty moved the ball to the Oakland 45. 
+Redskins 50, Giants 21 
+
+Stephen Davis ran for touch­downs on Washington's first three possessions, and Johnson threw three touchdown passes as the Redskins had their biggest offensive explosion since their 1991 Super Bowl season. 
+49ers 28, Saints 21 
+
+San Francisco quarterback Steve Young pulled himself together to throw his second touchdown pass to TerreJI Owens. tying it in the late going, and Lance Schulters won it with a 64-yard interception return with 1: 31 left as the 49ers beat the Saints. 
+The Observer accepts classifieds every business day from 8 a.m. to 3 \J.m. at the Notre Dame office, 
+024 South Dining Hall. Deadline for next-day classifieds is 3 p.m. Al classifieds must be prepaid. 
+The charge is 3 cents per character per day, including all spaces. The Observer reserve, the right to edit
+CLASSIFIEDS 
+all classifieds for content without issuing refunds. 
+NOTICE 
+SKYDIVE!! Try the ULTIMATE RUSH Training students for over 30 years 1 hour North of South Bend Call for class times GREAT LAKES SKYDIVERS 1-800-351-6617 
+HOUSE OF FRANCIS RELIGIOUS GOODS The largest selection of Icon's in the Midwest.Come and visit our out­standing selection! Call Fred@ 219-233-2523. Located across from Memorial Hospital, house behind Kagel's Flower Shop, 111 E. Navarre St. 
+LOST & FOUND 
+FOUND: WATERMAN BALL POINT PEN BY SAINT MARY'S LAKE. CALL LORA 631-6967. 
+WANTED 
+STUDENT OPENINGS 5-30 hrs./week. Flex. around classes. 
+Scholarships avail. www.workforstudents.com/!N 282-2357 
+DON'T WORK THIS SCHOOL YEAR! $1200 TO $2000 THIS MONTH. Part time 4 to 6 hours per week. Call 24 hrs (219) 239-6709 
+SPORTS CLUBS & STUDENT GROUPS-Earn $1000-2000 with easy CIS Fund event.No sales required.Fund Rasier days are filling up, so call today.Contact Joe @ 1-888·522­4350. 
+Large Physical Therapy Clinic look­ing for part time employees to do follow up calls. Some filing & inputting required. Flexible evening hours. Ask for Gerard Call now 233-5754 
+Loving ND-SMC couple wishes to adopt. Will provide a lifetime of laughter.love.devotion and opportu­nities. 800-484-4699 code 0019 EMPLOYMENT OPPORTUNITIES 
+10 minutes from campus KNOLLWOOD COUNTRY CLUB Presently has the following positions available.All positions offer part-time/lull-tirne,AM­PM!Weekday & weekend shifts. 
+LOCKER ROOM ATTENDANTS­M-F/4:45am-9:15am & SaV5:45 am-12:15 pm & 11:45am to 6:15pm Sun/7:45am to 1 :15pm and 12:45pm to 6:15pm. 
+BABYSITTERS-SaV3:45pm to 9: 15pm Sun/10:45am to 6:15pm.Must be 18 yrs. of age and CPR certified. 
+HEAL TH & FITNESS SPECIALIST­Musi be PE (K-12),Recreation or Exercise Science or related major.Jr or Sr level preferred.M­F/4:45am to 9:15am & 4:45pm to 10:15pm.Sat/5:45am to 12:15pm & 
+11 :45 am to 6:15pm.Sun/7:45am to 1 :15pm and 12:45pm to 6:15pm. Competitive wages and a pleasant working environment.Applications may be obtained or resumes sent to Knollwood Country Club, 16633 Baywood Ln.,Granger.lN 46530 or fax 219-271-4820.For directions or additional information,please call 219-271-1541 ext. 3031. EOE 
+COACH:Need Jr. High boys soccer coach responsible,dependable,student or grad to coach ?-8th grade soccer S­team.Soccer Sept-Oct;for south side elementary school.located near Scottsdale Mall on Miami Street.Must be available for prac­tices Mon-Thurs from 2:20­
+3: 15.Game schedule varies with 5-6 games beginning after school at 4:00,or 5pm.Paid position.Call 291· 4200 to apply. 
+SOCCER REFEREES-needed for south side elementary school.locat­ed near Scottsdale Mall on Miami Street.$20.00 per game to qualified refs.Call 291-4200 
+Love animals? Landlord won't let you have a pet? Get your animal fix by volunteering at Pet Refuge. The refuge is looking for volunteers to help feed and care for dogs and cats. Call 256-0886 for more information. 
+FOR RENT 
+ROOMS FOR RENT IN PRIVATE HOME FOR 
+ND-SMC EVENTS. 
+VERY CLOSE TO CAMPUS. 243-0658. 
+HOMES CLOSE TO CAMPUS http://mmmrentals.homepage.com/ 232-2595 
+THAT PRETTY PLACE. Bed and Breakfast Inn has space available for football/parent wknds. 5 Rooms with private baths, $80­$115, Middlebury, 30 miles from campus. Toll Road Exit #107, 1­800-418-9487. 
+LOADED 6 Bedrm '00-01 yr. 273-0482 / 234-3831 
+BED 'N BREAKFAST REGISTRY 219-291-7153 
+For rent-houses & apartments 299­4928. 
+AVAILABLE 2000-01 4-6 Student Rental. Large rooms, reasonable, awesome bonus room!! Details. Dave 291-2209. 
+3-bdrm duplex, remodeled, 503 Eddy, 1 mi. from campus. Appliances, W/D. 273-8332. 
+5 bedroom house prime location 105 Marquette Ave Available now 232-6964 
+FOR SALE 
+Spring Break Specials!Bahamas Party Cruise 5 Days $279! Includes Meals! Awesome Beaches,Nightlife!Cancun & Jamaica 7 Nights From $399! Florida $129!springbreaktravel.com 1-800-678-6386 
+FOR SALE 
+N.D. FOOTBALL TIX CALL 271-9412 
+FOR SALE 
+N.D. FOOTBALL TIX CALL 271-9412 
+FREE TRIAL OF A BRAND NEW 
+TECHNOLOGY 30 MIN LONG DIS­TANCE CALLS FREE SEND SASE TO G MARKS PO BOX 920528 NEEDHAM.MA. 02492 
+LAKEFRONT BY OWNER, 3 bdrm. ranch, lg den, 2 car gar., full base­ment, 3 seas. porch, deck, most ev. new, much more. t5 mi. from cam­pus. 616-663-6308. 
+Phone Cards, 669 min/$20 243-9361 or 258-4805 
+FOR SALE! 10-Sp. Bike $50 Lazy Boy Recliner $50 Red/Black L-Shape Sofa $25 Call 247-9367 
+Washer&Dryer. Apartmenl­sized, stacking w/ frame. Hooks into sink faucet. Greal condition. $500/obo 631-6101. 
+MAC 520 LAPTOP Y2K COMP. SELDOM USED $375. APPLE STYLE­WRITER PRINTER $75. 287-7928 
+TICKETS 
+I need 2 ND vs. USC GA tix. Please call Autumn at 284-5024. 
+WANTED NOTRE DAME FOOT­BALL TICKETS 271-1526 
+SELL & BUY GA FOOTBALL TICK­ETS 277-6619 
+WANTED· 
+ND football Ux. AM · 232-2378 PM • 288-2726 
+ND football !ix for sale. AM • 232-2378 
+PM· 288-2726 
+BUYING and SELLING ND FOOT­BALL TICKETS. GREAT PRICES. CALL 289-8048 
+
++++++++++++++++++++++++++++ ++ 
+N.D. FOOTBALL TICKETS BUY/SELUTRADE ALL GAMES ALL LOCATIONS GREAT PRICES 271•9330 !!NO STUDENT TICKETS!! 
+TICKETMART INC. www.ndtickets.com 
++++++++++++++++++++++++++++ +++ 
+FOR SALE 
+
+N.D. FOOTBALL TICKETS CALL 271-9412 
+SPRING BREAK 2000 "THE MILLENIUM" 
+BIG IRISH CATHOLIC FAMILY!NEED 16 G.A. TIX FOR USC GAME!CALL DAVE @ 773­281-7690 OR 610-971-2295 WITH ANY TIX.THANKS. 
+Need tix for Oklahoma, Arizona State. Call Michelle, 233-9037or 631­4542. 
+Needed: 3 tix for BC. Call Mike 4-3584. 
+WANTED:USCTIX 247-1659 
+Have BC GA's call Kev *0644 
+Need tix for Navy. Buy/trade. Call 251-0001 -Andy. 
+NEED: Oklahoma tickets for family. x2795-John 
+PERSONAL 
+GRM1DMOTHER WILL BABYSIT IN HER HOME. 233-2704 
+Tim sold his tix for the MSU game, but he enjoyed your calls. He likes you guys. Be friends with him. Call anytime, day or night. No time is too late! 
+I'm half crazy over the love ... of the tandem bicyclist. 
+Tim will baby sit for you. Call him please. 
+Meet me by the bike rack for a tan­dem ride. 
+I'm sorry, but this just really amuses me. 
+Wanted: Four dancing turtles. Slide optional. Call Amy. 
+KB: Quit this "sick" act. We're on to your schemes. Soon we will take over the world. 
+Brooke, here is a classified. Seen any chairs from the Morris Inn lale­ly? 
+Sarah' Don't be in a funk. You gots to be funky. 
+Gator -thanks for the sleeping bag. your floor was as nice as the Knights Inn on 31 ! 
+Rie: sorry about all the paper in your hair. but you know it was funny, 
+MSU baton twirlers aa one heck of a half time show. especially when their keds come flying off. 
+Ree: "Hey look, it's the trojans." 
+AG-Go belles volleyball. You rock! 
+Gina -you know you're now in the classifieds. 
+i vow this week will be less slress­ful. 
+I don't care what they say, but Muhammed, you're the greatest. 
+This week's classifieds goes out to a certain player who made an amazing play on special teams. Yep, J.H., I think you know who your are. This Coke's for you. 
+8.0., are you known as "Mr. Excitement" on the team? 
+
+Siegfried beats Knott..hmmm, any significance? 
+• Seriously, we're rooting for all dorms here at Observer sports ... just some more than others. 
+l wonder how those photos are coming along. 
+BoSox complete ANOTHER sweep. Boy, I bet Yankee fans like Deuce and Harris are feeling the heat. 
+Thank you. I'll be here all week. 
+Monday, September 20, 1999 The Observer . SPORTS page 17 
+South Africa wins All Africa Games 
+Associated Press 
+JOHANNESBURG. South Africa 
+South Africa won the most gold medals at the All Africa Games. boosting its chances of 
+holding  the  World  Cup,  
+Olympics  and  other  major  
+international events.  
+
+Despite some organizational and crime problems. among those who gave high marks to 
+the host country's handling of the continent's premier sports event were International Olympic Committee President Juan Antonio Samaranch and Nigerian Sports Minister Damishi Sango. 
+Sango said South Africa has shown it is ready to host the 2006 soccer World Cup. South Africa is considered one of the favorites to hold the event. 
+
+
+South African Joshua Peterson won the men's marathon in 
+2:19:07 on Sunday, adding his gold to the 174 medals. includ­ing 67 gold, that South Africa had already won by Saturday night. 
+South Africa swept the 160­kilometer cycling race Sunday, with Tiaan Kannemeyer win­ning the gold in 3:50:42. Defending champion Malcom Lange took the silver and Jacques Fullard the bronze. 
+Niger-ia was running second in gold medals with 64 out of its total of 128. Egypt was third with 52 golds out its 156 total. 
+Ethiopia swept the women's marathon, with Hiywot Gizaw taking the gold in 2:45:38, Meseret Kotu the silver in 
+2:46:29 and Kore Alemu the bronze in 2:48:31. 
+The South African team announced Sunday that one of its members has tested positive for a banned substance. 
+Otis Ntisame. a member of the karate squad, admitted to taking dietary supplements which con­tain the stimulant d-norpseu­doephedrine, the team said in a statement. Ntisame did not win any medals during the Games. 
+
+We didn't become Forflme• magazine's America's Most Admired Company* by accepting the status quo. We got there by hiring and training graduates with the confidence and courage to think in innovative and revolutionary ways. 
+No other corporation can match the diversity of opportunities at GE. Because we have small company attitudes with large company strengths, we set no limits, no boundaries. You can move front industry to industry, discipline to discipline, and never leave GE. 
+We're a leader in every business we compete in, and we're looking for leaders like Veronica who will take us even further. Start your career by visiting our website now. An Equal Opportunity Employer. 
+':­
+Learn about us at ·­
+WWW. geCBreerS. COm ·t 
+.;"· .; ·.......,.,,..
+.·· 
+::-::.. ;: 
+:'.:i{ii~~f::. 
+. .'i:.=',f."!,...,. .. .· ·._•: :.• >:B 
+-:·7:-._.-:-· ::·: :;;l,t{'.t,, ­
+•• .Iit0ltI@'.. ..· · 
+PleaseJoin GE at the Engineering Industry Day 
+Septen1ber 22nd 
+10:00 arn -4:00 pin 
+Filzj;atrirh flail ofEnginerring (Stop by to disruss full-timr and intern opporlunitie.s -bring_your rrsume) 
+J>lt'IIM' um/inn d(l/l'I & IIIIH'.I n•tlh _i'(illl Cart'<'I Plart'lfll'II/ 0//irr for "Ill' /ti.\( mi1111/1' tlt1111gt'.1 
+
+We bring good·things to life. 
+GE Aircraft Engines• GE Apphances • GE Capital Services· GE Corporate Research and Development• GE lndustnal Systems GE Information Services• GE Lighting• GE Medical Systems• GE Plastics• GE Power Systems• GE Supply· GE, Transportation Systems• NBC 
+BOXING 
+
+San Juan celebrates Trinidad's victory 
+Associated Press 
+
+SAN JUAN. Puerto Rico 
+Music pounded until dawn and cavalcades of honking cars wound through the streets. 
+Native son Felix Trinidad had beaten Oscar De La Hoya. triggering an all-night fiesta on the island. 
+The government planned a rally to welcome Trinidad on Monday, and San Juan Mayor Sila Calderon gave city employees the day off. Gov. Pedro Rossello praised Trinidad for "glorifying the name of Puerto Hico." 
+Cable television officials estimated nearly half of the 135,000 homes in San Juan capable of receiving the $50 pay-per-view fight were tuned in. 
+When the majority decision was announced in Las Vegas early Sunday, a roar of "Tito! Tito!" carried over the roofs 
+:):'. 
+·cal Engiu~ering , 
+· -a~. 1 --~:~~ 
+
+of historic Old San Juan. The sounds reverberated on the streets where cars paraded and bands of youngsters waved Puerto Rico's lone-star flag. 
+"This is unbelievable for Puerto Rico!" shouted Carlos Colon at Coaches sports bar in San Juan, where young men mounted the bar and danced on tables. 
+His girlfriend sat glumly. possibly the only person in the bar who supported De La Hoya. 
+Like many. Colon viewed Trinidad's victory as a nationalist triumph for this 
+U.S. territory. 
+"Pedro Rossello wants to make us Americans. But Tito shows we're Puerto Ricans," said an older man referring to the bid by the governor to make Puerto Rico the 51 st state. "Trinidad won because he·s Puerto Rican and Puerto Ricans are hungry." 
+Trinidad displayed his own nationalist bent, entering the ring before a sign that said "Navy, get out of Vieques," in reference to a controversial military training ground on the outlying island of Vieques. The Puerto Rican government is demanding the U.S. Navy leave the island. 
+Trinidad, little known out­side Puerto Hico because he speaks only Spanish, is adored in his homeland as a churchgoing Christian who unabashedly sports religious pins declaring, "I love Jesus." He is a dedicated husband and the father of a 2•year-old girl, Ashley. 
+His reputation is untar­nished by the abusive pur­suits that have broken other Puerto Rican boxers: Edwin Rosario, who died of a drug overdose 21 months ago; ·wnfredo Gomez, arrested in 1994 on charges of domestic violence and buying cocaine; Esteban De.Jesus, another champion ravaged by drugs and AIDS. 
+Instead, Trinidad advertises freely for the Alliance for a Drug-Free Puerto Hico, his face on its posters outside bus stops and schools. On Saturday night across the island. thousands of people crowded into standing-room only bars that charged $15 to watch the fight on big screens. 
+At the Capitol. the govern­ment paid $72,000 to mount 16 giant screens and gave away tickets to 8,000 people who watched the welter­weight title bout outdoors, cooled by breezes off the Atlantic Ocean. 
+The fervor for their 26­year•old hero diminished early in the fight. De La Hoya. the WBC champion. got in more and more jabs and seemed on his way to defeat­ing the IBF champion. 
+Every time Trinidad landed a punch, people shouted and waved their flags. 
+"Give it to him! Give it to him hard!" shouted Trinidad's mother, Irma Doris Garcia, as she watched with the fighter's wife. Sharon in her home on the outskirts of San Juan. 
+The mood picked up as Trinidad landed crashing rights to the head in the final rounds. 
+•pr.----_______..,. -----------------·-----,---i--..... 
+! \ 
+I 
+j ' i page 18
+i 
+SENIOR PGA 
+Watson claims first 
+Senior tour victory 
+Associated Press 
+DALLAS 
+
+Tom Watson has 34 PGA Tour victories, has won eight major championships and is in the World Golf Hall of Fame. On Sunday. he made his first mark on the Senior PGA Tour, shoot­ing a course-record, 10-under 62 in the final round of the Bank One Championship to win by five strokes in his second event as a senior. 
+The 62 broke Wat,;;on's career low of 63, which he had accom­plished three times. His 20­under 196 total was a season­low on the senior tour and he became the tour's 10th first-time winner this year, breaking the record set in 1989. 
+Bruce Summerhays started a shot behind the leaders and had a 66 to finish second. Summerhays had seven birdies in a span of nine holes and was within three strokes of the lead after a birdie on par-5 16th, but Watson, playing in the next group, answered with a two-putt birdie on the same hole. 
+Watson, who was tied for the lead with five others at 10 under after two rounds, birdied Nos. 2 and 3 and then took charge of the tournament with an eagle on the par-5, 530-yard sixth hole at the Bent Tree Country Club. 
+
+~~.... ... ... .....................,._..11111111_¦
+• . * o a A I U ll. C: 0 
+The Observer . SPORTS Monday, September 20, 1999 
+
+Attention All Engineers: 
+
+Your Best Opportunity Of The Millennium To Start Planning For Your Future Is Here! 
+INDUSTRY DAY 1999 
+RECEPTION AND BANQUET CAREER FAIR Septe111ber 21, 6:30 PM Septe111ber 22, 10 AM -4 PM Monogrtun Roo111 in tlte JACC Fitzpatrick Hall ofEngineering 
+Representatives from over 60 companies will be here to ans\ver your questions and to discuss your opportunities for permanent employment and summer internships. 
+Don't miss this excellent opportunity to make your job search easier. Participate in Industry Day 1999! 
+Companies who will be attending: Abbott Laboratories • Arthur Andersen LLP • Air Products and Chemicals Inc. • American Management Systems • Andersen Consulting • AT&T • Bayer Corporation • C-bridge Internet Solutions. Inc. • Caterpillar Inc. • Chicago Transit Authority • Chicago Board of Trade • Clarit:, Consulting • Col!egehire.com • Compaq • CSC • Crowe, Chizek, & Company LLP • Daimler Chrysler • Deloitte Consulting • Delphi Automotive Systems • Discover Financial Services • Eaton Corp. • EDS • Ernst & Young • Fermi National Accelerator Lab • Ford • General Electric 
+• 
+Harza Engineering • Hewlett-Packard • Illinois Department of Transportation • International Paper • IBM • Kurt Salmon Associates • Lockheed Martin Corporation • Lord Corporation • Logikos • Lucent Corporation • Merck Co.. Inc. • Meritor At1tomotive • Microsoft Corporation • tv1otorola • National Starch and Chemical Company • Norfolk Southern C~rporation • PcopleSoll 
+
+• 
+Proctor & Gamble • Radian International • Raytheon Systems Company • Rohm and I laas Company • Scitor Corporation • Schneider Corporation • Sprint • State Farm Insurance • Sunoco 
+
+• 
+Summit Group/CIBER Enterprise Application Solutions • Technology Services Group• Tellabs 
+
+• 
+Texas Instruments • Turner Construction Company • United States Air Force • US Marine Corps• Waterstone Consulting• Xerox • Yazaki North America, Inc 
+
+
+Sponsored by the Joint Engineering Council and the Society of Women Engineers 
+
+IIIIPCC IFmrn°IFCIDIP0 IFIP®® \JY®®lli 
+Monday, September 20th-Saturday, September 25, 1999 
+Date Event Location Special 
+Mon., Sept. 20 Bowling Beacon Bowl $5 all you can bow 
+Tues., Sept. 21 Dinner K's Pub & Grill $2 off/ couple Dessert Ritter's Ice Cream I free cone/couple 
+Wed., Sept. 22 Movies Movie's 14 $4 movies all night Dessert Ritter's Ice Cream I free cone/couple 
+Thurs., Sept 23 Games etc. Chuck E. Cheese IO free token/coupl SUB movie-Entrapment Cushing Auditorium $2 admission 
+Fri., Sept. 24 Putt-putt Putt-putt & Games I free round/couple Dinner Study's Lounge, Papa Vino's I free appetizer/couple SUB movie-Entrapment Cushing Auditorium $2 admission Movie Movies 14 $4 movies all night 
+Sat., Sept. 25 Dinner Yesterday's I free dessert/couple Dinner Papa Vino's I free appetizer/couple SUB movie-Entrapment Cushing Auditorium $2 admission Movies Movies 14 $4 movies all night 
+Must be a COUPLE and Present Student ID ~ to Receive Specials!! 
+
+• 
+
+
+Monday, September 20, 1999 page 19
+The Observer . PAID ADVERTISEMENT 
+
+
+Deloitte & 
+¦
+
+the answer , s Touche 
+.. Deloitte & Touche will host a stude~t ~tiiifffilt~il'ofi~Se~te,3~f'2U~~i 
+
+7:30 PM in the Alumni Senior Club. ·We look forward tQ m~ting you:1
+·,,_,;/.: ' :::-~. . . .}~ii-:;./ . . ::' '• 
+© 1999 Oe~itte & Touche LLP and Deloitte Consulting LLC. D~oitte & Touche refers to D~oitte & Touche LLP, Deloitte Consulting LLC and re~ted entities • 
+.. ·-:.:~,~-. . -.::::;:;~~~gr·· ':'i>Ji:\~ 
+We will also host campus interviews on October 6and 7, 1999•.. Resumes are due to Career and Plaeemenfby September 21 •. 
+. 
+
+Attention: Math, Accounting, MIS, CAPP, Finance, Economics, Engineering, Computer Science, JD's, MS Acct. Majors * 
+• EL 10 ts 0 
+page 20 The Observer . SPORTS Monday, September 20, 1999 
+Associated Press 
+BIRMINGHAM, Ala. Jack Bicknell knows a thing or two about dramatic endings. 
+His Louisiana Tech team shocked Alabama on Saturday, winning 29-28 on a last-second touchdown thrown by the backup quarterback. 
+For Bicknell, son of former Boston College coach Jack Bicknell. Jr., it was the second astounding finish of his career. 
+In 1984, Bicknell was the Boston College center who snapped the ball to Doug Flutie in one of college football's great games. Flutie completed a desperation pass that beat Miami with no time remaining, scaling his Heisman Trophy. 
+Bicknell relived the moment Saturday, but as a coach. Backup quarterback Brian 
+NCAA 
+.. 
+'i LPGA 
+Hjorth shoots course record for first win 
+Associated Press 
+KENT, Wash. 
+
+Second-year pro Maria Hjorth shot an 8-under 64 Sunday, including a tournament record­tying 30 on the front nine, and won the $650,000 Safeco Classic for her first career LPGA victo­ry. 
+·The 25-year-old Swede, whose best previous finish was a tie for fifth, didn't have a bogey over the final 26 holes and beat Scotland's Catriona Matthew by two strokes. 
+Matthew, in her fifth year on the tour. was also looking for her first victory. Her best previ­ous best finish was a tie for sec­ond at last year's Edina Realty Classic. 
+Tina Barrett, third-round leader Rachel Hetherington and defending champion Anika Sorenstam all finished four strokes behind the leader. Hetherington had a closing 72, while Sorenstam had a 68 and Barrett a 67. 
+Hjorth's 72-hole total of 17­under 271 on the 6,198-yard Meridian Valley Country Club course south of Seattle earned her $97,500 and was just one shot off the tournament record 
+I 
+I j l
+r 
+PART-TIME SALES ASSOCIATE 
+
+Hammes Notre Dame Bookstore Follett Higher Education Group, the leader in higher education services, is currently seeking a Part-time Sales Associate for our Notre Dame Bookstore. 
+We are looking for an experi­enced customer service orient­ed Sales Associate/Cashier to work days, nights, and week­ends. We offer $6.50 per hour. Only enthusiastic, friendly peo­ple need apply. 
+To find out more about salary 
+and benefits, please apply in 
+person to: The Hammes Notre 
+Dame Bookstore, University of 
+Notre Dame, Bookstore 
+Building, in Notre Dame. Visit 
+us on the web: 
+www.fhcg.follett.com.EOE 
+. LO I 
+
+Bicknell coaches La. Tech to dramatic victory over 'Barna 
+Spectrum Sports Sale 
+"Officially Licensed" 
+Notre Dame Products 
+At 
+
+Logan Center  
+Weekend  
+Football Weekend Specials:  Special  
+Champion Navy ND Sweatshirt ................................................. $39.95  $24.95  
+Champion ND Lightweight Jacket.. ........................................... $59.95  $24.95  
+Selected ND Hats ...................................................................... $24.95  $ 9.95  
+ND Golf Headcover l-3-5 .......................................................... $34.95  $19.95  
+
+
+Check Out the Great Selection ofNotre Dame Products at the Logan Center 
+---Friday Sept. 17th, l :30 p.m.-6:30 p.m. Saturday Sept. 18th, 8:00 a.m. until l :30 p.m. 
+*Logan Center located south of the stadium at the corner of Eddy and Juniper *Free gift to first 50 purchases-compliments of Spectrum Sports (309-786-9318) 
+Stallworth. in two plays earlier when star Tim Rattay left the game with an ankle injury, converted a fourth-and-26 with two seconds left. throwing a 28-yard touchdown pass to Sean Cangelosi. 
+"It's, like, exactly the same," Bicknell said. "I looked out into the end zone, and it's almost like disbelief. You just don't believe it. 
+"That's the same way it was with Flutie, except I was on my butt worried that I had held. Thank God it wasn't called or I'd be hiding out in Europe somewhere." 
+Against Alabama, it was deja vu for Bicknell. 
+"If a guy wrote this script for a movie, no one would believe it," he said. 
+Alabama (2-1) was knocked out of the Top 25 after 
+set by Patty Sheehan in 1990. 
+Hjorth tied for fifth at last year's Friendly's Classic and again in February at the Valley of the Stars Championship. She started Sunday's round four shots behind Hetherington, who had a closing 72. 
+Hjorth had six birdies, includ­ing five straight on Nos. 3-7, for her 30, which tied the tourna­ment record held by Judy Dickinson in 1986 and Hollis Stacy in 1 992. 
+Matthew led briefly at one point after her fifth birdie of the day at No. 11 put her 17 under, while Hjorth, two groups ahead, was 15 under. 
+Hjorth took advantage of Matthew's mistakes with two birdies on the back nine. 
+
+... just for possibly one or two plays. That's why I have to be 
+,, 
+ready. 
+
+Kicker Kevin Pond, who had already missed two extra points, wobbled through the winning extra point. 
+"It wasn't the prettiest in the world," Pond said. "But if we got it in the end zone, I knew I was going to make it." 
+the loss. 
+Tech (2-2) was trailing 28-22 and backed against the wall. Rattay, the 1998 national leader in total offense, was on his way to the locker room. 
+In goes Stallworth. who didn't even get a chance to warm up. He gets sacked on his first play. 
+But on his next, Stallworth 
+
+throws into the end zone to the triple-covered Cangelosi, who pulls down the catch and ties the game 28-28. 
+"I couldn't hear the crowd," Stallworth said. "I knew in my heart I had to get the ball in the end zone. That's why I pre­pare all week, why Tim Rattay prepares me all week, why the coaches prepare me all week 
+
+
+
+Internet banking Full service, on-line banking designed especially for college students! 
+Checking account Whether you're on a MAC or a PC, our easy-to­
+' 
+
+Overdraft protection use interfal:e makes banking on the Internet a snap. Visit us online at www.bankoncampus.com to find out how you can benefit from this
+ATM /\Debit card · . 
+innovative account 
+Questions? Call us at 258-3150, or e-mail us at BankOnCampus@lstsource.com. 
+.-sau,ce~
+liiaiBank 
+Member FDIC 
+
+••----•----•...•-------••¦211111• . 2•2••••2••••a••z••••••••z••­
+.1111¦2¦•-a••••¦111112•¦ 
+
+Monday, September 20, 1999 page 21
+The Observer . PAID ADVERTISEMENT 
+
+WALL STREET FORUM 
+September 22, 1999 
+
+Presentations specifically targeted to: 
+Sophomore and Junior Business Students All Non-Business Majors 
+These presentations will be in: 
+... 
+
+Hesburgh Center-Across from COBA Room Cl00 
+3:00-6:00 pm Overview & Practical Sessions 
+Overview of Investment Banking Overview ofAsset Management Overview of Insurance Overview ofCommercial Banking Question and Answer Session 
+Break 
+Careers for A&L, Engineering and Science Majors in Financial Services Internships Interviewing. Question and Answer 
+
+Presentations specifically targeted to: MBA Students & Senior Finance Students 
+These presentations will be in: Jordan Auditorium 
+3:00-6:00 pm Overview & Practical Sessions 
+Sales & Trading Corporate Finance and Mergers & Acquisitions Asset Managen1ent Question & Answer 
+Break 
+How to get an interview Interviewing Skills Middle Market vs. Bulge Bracket Investn1ent Banks (Chicago vs. New York) 
+
+ALL STUDENTS 
+6:00 pin-8:00 pm Individual Company Breakout Sessions 
+Merrill Lynch Notre Dame Investment Office Allstate LaSalle Bank 
+Goldman Sachs Morgan Stanley Dean Witter Deutsche Banc Alex. Brown 
+Lehman Brothers 
+Chase · Notre Dame Investment Office 
+Credit Suisse First Boston Salomon Smith Barney 
+Robert W. Baird 
+• 
+Pizza & Beverages will be provided Business Attire Requested 
+
+
+
+• u.
+• 
+
+page 22 The Observer . SPORTS Monday, September 20, 1999 
+l , 
+PGA 
+Funk, Faxon remain even after playoff 
+
+
+olfie's 
+
+
+Pasta, Sandwiches, Service & More!!! 
+i:
+! 
+243-9911 for FREE DELIVERY 
+! I 
+,.,.
+,, 
+!, 
+open 10 am till 1 am (3 am on Fri. & Sat.) 
+Associated Press 
+ENDICOTT, N.Y. 
+
+Fred Funk and Brad Faxon were tied after 72 holes of tlrn 
+
+B.C. Open on Sunday night and a one-hole playoff didn't decide a winner so they were to con­tinue Monday. 
+Faxon. Funk and Rory Sabbatini started the final hole of regulation in a three-way tie. but both Funk and Faxon birdied the hole to knock the young South African out of the lead as the sun was setting and a half moon hung in the sky to force. 
+Both Faxon, who shot a fourth-round 6 7, and Funk, who had a 72, parred No. 18 and will play for the champi­onship at 8:30 a.m. Monday. They finished regulation at 15­under 273. 
+Craig Spence, who had a clos­ing 65, finished in a tie for fourth at 276 with Jonathan Kaye, Stephen Ames, Ronnie Black and Mark Carnevale. Peter Jacobsen was another stroke back, while Mike Weir and Deane Pappas were at 278. 
+)! The field was forced to play the final two rounds on Sunday
+lj 
+because rain from Hurricane (, I! Floyd had postponed \, Thursday's opening round. A 
+, ' 
+\' fog delay held up play for 45 [ I '? minutes Saturday, making for a 
+! 
+long Sunday that Funk strug­
+I 
+gled to survive.
+I 
+I 
+I/ I ! 
+I• 
+, l 
+l 
+Ii 
+I fi ! I 
+100% 
+of participants in an independent
+
+!: 
+f 
+1 
+~. study (7 guys in Zahm Hall) 
+
+t 
+t 
+stated that after trying both 
+
+f 
+i 
+! 
+Wolfie's and Subway® they 
+
+t 
+would never eat any sub but 
+
+I 
+r. 
+r; 
+Wolfie's again!
+
+\ I ' ' 
+Funk. who began the day with a five-shot lead over Faxon and Sabbatini, slowly watched it dwindle as the day wore on. 
+Clinging to a one-stroke lead over Sabbatini, Funk's second shot on the 432-yard par-4 15th hit about 15 feet on to the sloping green. tore up a big ball mark, an·d spun back down into a giant water hazard. Funk had to settle for a bogey while Faxon and Sabbatini had pars. 
+Faxon then forged a. three­way tie for the lead when his second shot on the par-4 16th landed within a foot and he easily tapped in for birdie. 
+Funk, who shot an 11-under 61 to surge to the top of the leaderboard after Saturday's second round, couldn't come close to duplicating the best round of his 15 years on tour. 
+Funk had his troubles in the third round on the way to a 70. He landed in three sand traps on his way around the En-Joie Golf Club course and had two bogeys to go with four birdies. 
+Sabbatini shot an impressive 68 in the third round despite some erratic play. The highlight of his round was a terrific eagle on the 545-yard par-5 12th. He also had six birdies, two bogeys and one double bogey. 
+Funk's lead quickly dipped to one shot early in the fourth round when he bogeyed No. 3 and Sabbatini made his second straight birdie. 
+Join the... 
+
+Guys and Girls Hip Hop Dance Team 
+
+..;·. ~ .. . ·.. -._:_.f::. 
+. -. ).' 
+
+Tryouts start on September 21 !!! Clinic #1: Tuesday, Sept. 21 6:30 -8 pm 301 Rockne Clinic #2: Thursday, Sept. 23 8 -10 pm 219 Rockne 
+Tryouts: Sunday, Sept. 26 8 -10 pm 219 Rockne (Tryout dance plus two original eight-counts) 
+Questions? Call Mia (243-5887) or Mandy (4-4210) 
+r------------------------------------...:-----------------------------------,
+ND EAT MICH ST. 
+but don't spit them out 
+50¢ off 
+1, Leprechauns or Spartans pasta EXPIRES 09/30/1999 
+
+~-----------------------------------+-----------------------------------1
+:LATE NIGHT (9pmti11Close) SNACK PACK 
+12" Meatball (& mozzarella sandwich) 2-Garlic Brad w/Cheese & 2 -Cokes® 
+$4.99 $5 
+EXPIRES 07/0l /2000 EXPIRES 07/01/2000 
+L-----------------------------------..L-----------------------------------J 
+:LUNCH (10am till4pm): 
+I 
+"Coke®" & Chips I I 
+I I I I 
+FREE I 
+• r I 
+with any Sand~ich purchase I I EXPIRES 07 /0 l /2000 : 
+Subs, Hoagies or Grinders-no matter what you call it, it's still a··Sandwich. 
+.I,,­
+MONDAY free chips w/any  TUESDAY 2 {er Tuesda)'.  WEDNESDAY 50¢ off 8" sandwich  THURSDAY Large Pasta $3.99  FRIDAY $1 off any 16" sandwich  SATURDAY 6 wings free w/any party sub  SUNDAY free slaw or potato salad w/any 12" 
+sandwich-all day  2nd pasta I /2 price  
+
+Menu & more available at WWW.WOLFIES.COM 
+
+
+a 1 a
+
+• a a 
+Monday, September 20, 1999 page 23
+The Observer . SPORTS 
+
+NHL 
+Shorthanded goal lifts Oilers 
+Associated Press 
+KANATA, Ontario 
+
+Alex Selivanov scored a power-play goal and added an assist to lead the Edmonton Oilers to a 3-0 exhibition victo­ry over the Ottawa Senators on Sunday night. 
+The loss was Ottawa's first in five preseason games. 
+Eric Houde and Brian Swanson also scored for the the Oilers (3-2). while Tommy Salo made 29 saves for the shutout. 
+Selivanov opened the scoring 
+10:23 into the first period on a pass from Janne Niinimaa. 
+Selivanov had an assists as Houde beat Jani Hurme to give Edmonton a 2-0 lead at 7:23 of the second period. Swanson made it 3-0 with a backhand from close range 3:30 later. 
+Flames 3, Canadiens 2 
+Benoit Gratton's goal in the third period capped Calgary's rally from a two-goal deficit and the Flamns beat the Montreal Canadiens in an exhi­bition gameSunday night. 
+Gratton. a native of Montreal, poknd in Valeri Burc~·s rebound on a power play at 13:05 ofthe third period. 
+Hookie Travis Brigley scored the tying goal for the Flames early in the third period and also had an assist. Jeff Shantz also had a goal and an assist. 
+The Flamns (2-3-0) outshot Montrnal 28-24. 
+Martin Hucinsky and Arron Asham scored goals 96 st~conds apart in the first period to 
+McDonald's Diversity Initiative Group 
+WILL SPEAK ON 
+Diversity and Mcoonald's vou Deserve Aareak TOday!! 
+Tuesday, September 21, 1999 COBA Room 121 3:30 to 4:30 Presented by COBA Diversity You are all welcome 
+
+
+"If you would have asked me about the worst-case scenario, this would have to have been right up there. ,, 
+Alain Vigneault Montreal coach 
+givethe Canadiens (2-4-0) the early lead. 
+Jose Theodore, Montreal No. 2 goaltender behind Jeff Hackett, made 25 saves. 
+Brigley tied it 2-2 at 7:32 after taking a pass from Steve Begin in the slot. 
+Rucinsky, who had a team­leading 17 goals last season, has five goals in four preseason games to lead the Canadiens. 
+Canadiens defenseman Vladimir Malakhov will miss four months after tearing a lig­ament in his right knee Friday night against Edmonton. The team made the announcement about the seriousness of the injury Sunday night. 
+Malakhov, who led Montreal defensemen in scoring last sea­son with 34 points in 62 games, is to have surgery Tuesday morning. 
+..If you would have asked me about the worst-case scenario, this would have to have been right up there," Montreal coach Alain Vigneault said. "At the beginning of the season, you know you're going to get injuries. but you just hope that they're not serious and that they are not to key people. ltOs an enormous loss. When Vladimir is on his game, he's dominant." 
+Malakhov was hurt when Edmonton enforcer Georges Laraque fell on his knee. 
+The Canadiens are also miss­ing veteran defenseman Patrice Brisebois, who has a back injury. Versatile forward Benoit Brunet is out of action for at least two months with a back injury and center Saku Koivu has only begun skating after undergoing knee surgery in the offseason. 
+"It will be hard to replace Vladimir." defenseman Igor Ulanov said. "He was a total player on the team. He can play both offensive and defen­sive. Not many players in the league can do that." 
+Thrashers 6, Devils 1 
+Ed Ward scored two goals and assisted on another Sunday as the expansion Atlanta Thrashers in an exhibi­tion win of the New Jersey Devils. 
+Kelly Buchberger added a goal and two assists for the Thrashers (2-2-1}, who won for thefirst time at their new home, the $213 million Philips Arena. 
+The Devils (2-1) avoided a shutout when Lyle Odelein scored midway through the third period when his shot glanced off the glove of Atlanta goalie Norm Maracle and into the net. 
+The Thrashers lost 3-2 in overtime to the New York Hangers on Saturday night in the first event played in arena. 
+
+
+VOLLEYBALL 
+
+Bill leads Belles past Manchester 
+By KATIE McVOY Sports Writer 
+
+Senior Agnes Bill led the Saint Mary's volleyball team to a 3-1 victory Friday night over Manchester College. 
+This is the second time these two teams have faced each other. The first match came last weekend in the Ohio Northern Tournament. The Belles won that match as well, 3-0. 
+The Belles took the first game 15-4. 
+"The first game we played we did very well," said Jolie LeBeau. 
+The Belles lost the second game due to errors in their playing, but came back to win the third and fourth game. They took Manchester 15-10 
+MEN'S GOLF 
+
+Irish place first at 
+Air Force Invitational 
+Special to The Observer 
+
+The Notre Dame men's golf team saw its lead shrink slightly but still held on for a wire-to-wire first-place fin­ish-and a team-record score­in Sunday's final-round action at the Air Force Falcon-Cross Creek Invitational, held at the par­72, 7,301-yard Eisenhower Blue Golf Course. 
+Irish senior captain and local product Todd Vernon (Englewood, Colo./Cherry Creek High School). failed to hold onto his slim lead among the 120-player field, slipping to third place after a final­round 75. Vernon-whose opening-round 66 on Friday was the best round by an 
+ATTENTION 
+UNDERGRADUATE AND GRADUATE 
+STUDENTS 
+WORLDWIDE 
+ENTER.COM 
+PURSUE JOB AND INTERNSHIP OPPORTUNITIES 
+THAT SPAN THE GLOBE 
+CampusCareerCenter.com 
+The world's largest campus job fair 
+in the third game. With a 15-8 win, the Belles ended the match at four games. 
+Bill led the team with 20 kills and and 11 digs. Jayne Ozbolt had a strong game as well wih 14 kills, 15 digs, and two aces. Suzanne Martin had 26 assists. Ozbolt, LeBeau, and Emily Nihill led the defense with two blocks apiece. 
+Saint Mary's is excited about this win, but is looking ahead to their matches this week. The Belles face Olivet College Wednesday and Alma College and Adrian College on Saturday. 
+"We do have some improv­ing to do," said LeBeau. "Our team has so much potential that sometimes we get tense and make mistakes. We'll work on that before our matches this week." 
+Irish golfer in 37 years-post­ed a three-round total of four-under 212 to finish five shots behind Michigan's Michael Harris (67-71-69) and four strokes behind Grand Canyon's John Davis (69-72-67). 
+Vernon tied the Notre Dame record for best 54-hole tournament score (in relation to par}, equaling the four­under total that has twice been posted by his classmate Jeff Connell: at the Marshall Invitational in the spring of 1998 (209, at the par-71 Guyan Country Club) and at the par-72 Kentucky Invitational in the spring of '99 (212). Vernon' 212 total also is tied with Connell's 212 for second in the Irish record book for overall score. 
+J 
+• 
+
+a a 2 C 
+
+page 24 The Observer . SPORTS Monday, September 20, 1999 
+NATIONAL LEAGUE 
+Sosa's first inning homer highlights extra frame victory 
+Associated Press 
+CHICAGO 
+
+Sammy Sosa hit home run Nu. 61 but it was his opposite field single to open the 10th inning that ignited the Chicago Cubs to victory. 
+After Glenallen Hill tied the game with a pinch two-run home run in the bottom of the ninth, Sosa scored from third on Benito's Santiago's single in the 10th as the Cubs posted an 8-7 triumph over the Milwaukee Brewers. 
+Sosa homered for the second time in two games, ripping a two-run shot off Hideo Nomo in the first inning. The ball trav­eled an estimated 485 feet, bounced down a side street and broke a window on a parked car. 
+"He really got into that ball," said Cubs manager Jim Riggleman. "And the combina­tion of how good he hit it and the wind blowing out, it was a tape measure shot." 
+"It was a good pitch," Sosa said. "I went up there trying to make contact. l don't know how far the ball went, I know I got it pretty good. My main concern right now is not how far the ball is going to land, just to keep making contact and do the little things to win games." 
+
+The homer moved the reign­ing National League Most Valuable Player into a tie with Hoger Maris for the third high­est total in a single season. 
+Astros 4, Cardinals 3 
+McGwire moved closer in the home-run race by hitting his 57th and 58th, but Jeff Bagwell's two-run shot in the
+: 1 
+I 
+seventh helped the Houston 
+'I 
+Astros avoid a three-game 
+, I 
+sweep with a victory over the St. Louis Cardinals. 
+, i! On Monday night, McGwirc ! and the Cardinals start a three­(' )\ game series against Sosa and { the Cubs at Wrigley Field. 
+I 
+-~ Houston increased its lead in the NL Central to 3 1/2 games !1 over Cincinnati, which lost to 1I ~ Pittsburgh 8-5. After striking out in the first, il!' McGwire hit a two-run homer off Chris Holt (5-13) in the ~ fourth. He cleared the bullpen in left center on Holt's first pitch of the sixth, a drive esti­mated at 423 feet that put the 
+i 
+Cardinals ahead 3-2. McGwire got little chance to tie it in the eighth, walking off 
+~ 
+Jose Cabrera on five pitches and then getting removed for a pinch-runner as hundreds of fans headed for the exits. 
+Braves 5, Expos 1 
+Kevin Millwood won his career-high 18th game, Freddy Garcia homered in his first at­bat for Atlanta and the Braves maintained their hold on first in the NL East with a victory over the Montreal Expos. 
+The Braves. who have won seven straight division titles, are still one game ahead of the second-place New York Mets. The t\-v·o teams meet six times in the next nine games, begin­ning a three-game series Tuesday night at Turner Field. 
+Millwood (18-7) allowed just seven hits in his second com­plete game, the only run scor­ing on a fifth-inning homer by Geoff Blum. The Braves right­hander went 17-8 last season, his first full year as a member of the Braves rotation. 
+Garcia, acquired in a trade with the Pirates, played for the first time since reporting to Atlanta eight days earlier. He started in the outfield with Brian Jordan bothered by lin­gering soreness in his right hand. 
+Diamondbacks 8, Marlins 7 
+Matt Williams hit a sacrifice fly in the ninth inning Sunday to give Arizona victory over the Florida Marlins, reducing the Diamondbacks' magic number for clinching the NL West to seven. 
+Arizona took two of three from the Marlins and led sec­ond-place San Francisco by 7 1/2 games going into the Giants' game at San Diego on Sunday night. 
+The Diamondbacks now begin their final road trip, with three games beginning Monday at Colorado, followed by three games in San Francisco next weekend. 
+Andy Fox, who hadn't played since Aug. 27 because of a strained right rib cage, led off the ninth with a single. Jay Bell, who was 4-for-6 with a home run and three RBIs, advanced Fox to third with a one-out sin­gle up the middle. 
+Believer Braden Looper (2-2), Florida's sixth pitcher, inten­tionally walked Luis Gonzalez to load the bases for Williams. 
+Williams fouled off three pitches, ran the count to 3-2 and hit a fly ball to center for 
+
+! !! '­
+r'I 
+~ 
+'·i 
+t, 
+I ~ '}
+' 
+·, 
+'1' 
+j l 
+If 
+t 
+,f 
+., 
+~ 
+I ~ 
+
+Making a difference has always been a matter of;~pplying yourself. Here's whet-e to apply. 
+PEACE 
+CORPS 
+The toughest job you '11 ever love. 
+
+How 1'ar are you. willing to go to ma.ke a dii'ienmce? 
+UNIVERSITY OF NOTRE DAMI 
+Information Meeting Sunday, September 26, 4:00 -6:00 p.m. LaFortunc Hall, Montgomery Theater 
+Interviews 
+Monday, September 17 • Tuesday, September 18 
+
+8:30 a.m. -5:00 p.m., carccr Servfca, Flanner Hall Contact us at www.peacecorps.gov or 1-800-424-8580. 
+his 133rd RBI. Gregg Olson (7­
+4) pitched a scoreless ninth to get the victory. 
+Arizona left a club record 15 runners on base. The 3-hour, 50-minute game was the longest in the Diamondbacks' two-year history. 
+Mets 8, Phillies 6 
+John Olerud and Mike Piazza hit consecutive home runs and the New York ~'lets overcame a bad inning by Kenny Hogers to beat the Philadelphia Phillies. 
+The Mets remained one game behind Atlanta in the NL East. Both teams are off Monday, then the Mets and Braves begin a three-game series Tuesday night at Turner Field. 
+Olerud drove in four runs as the Mets won for the 11th time in 15 games. Piazza, forced to leave Friday night's game and sit out Saturday because of a bruised left hand, hit his 36th home run. 
+Roger Cedeno also homered for the Mets in going ~~-for-4, scoring three times and stealing his 65th base. 
+After going 7-2 in 14 starts with the Mets, rookie Octavio Dote! (8-2) made his first appearance in relief and retired four batters to get the win. 
+Pirates 8, Reds 5 
+Brian Giles hit his 38th and 39th homers to drive in three runs and the Pittsburgh Pirates dealt Cincinnati's playoff hopes another setback, winning behind .Jason Schmidt. 
+Greg Vaughn hit his 40th homer and the Reds' 40th in 19 September games, but the Reds' four pitchers constantly battled control problems in their second loss in the three­game series and fourth in six games. 
+
+OF ROCKS. 
+Looking for a fun and rewarding 
+PART-TIME job? 
+Omnipoint has the perfect position for you! A leader in the wire­less industry, we are currently seeking part-time employees to help us expand our fast growing market. 
+PRODUCT SAMPLERS 
+10-15 Hours per week (Weekend hours required) $10 per hour PLUS commissions! If you enjoy meeting people -want to gain selling experience -want to learn more about the explosive telecommunications business AND want a FREE PCS Digital Phone, then 
+0MNIP0INT wants to speak with you! 
+
+For immediate consideration, fax, e-mail or call today! Fax: 317-347-7024. E-mail: bhatcher@omnipoint-pcs.com Ph: 317-347-7100. An EOE, we screen candidates for a drug-tree work environment. 
+~OMNIPOINt· 
+WHERE PROMISING FUTURES ARE TAKING SHAPE. 
+www.omnipoint.com 
+
+
+
+· Tuesday, September 28 
+7:30 p.m. 
+For ticket information contact the Saint Mary's Box Office 
+284-4626 
+
+YOU 
+
+JUST FOUND A DIAMOND IN A MOUNTAIN 
+
+
+Monday, September 20, 1999 page 25 
+The Observer . SPORTS 
+
+AMERICAN LEAGUE 
+Garciaparra's homer leads Red Sox to fifth straight win 
+Associated Press 
+BOSTON 
+
+Nomar Garciaparra homered to help stop Dave Mlicki's eight­game win streak and Trot Nixon also homered Sunday as the Hed Sox b(~at Detroit 7 -·3 to complete a three-game sweep. 
+A fifth straight win helped Boston keep pace with the Yankees, who led the AL East by three games coming into the day. New York played the Cleveland Indians; the Oakland Athletics trailed the Hed Sox by 4 1/2 games in the wild-card race entering the day. 
+Tim Wakefield !6-10) allowed just four hits in 5 2-3 innings, but thnw wPn1 solo homers. He walked onP and struck out tl1r,~,· for only his second win since :\1ay 28. l)(irek Lowe allowed one hit over the last 3 1-3 innings for his 14th save. 
+With victories in eight con­secutive starts, Mlicki (13-11) matched Doyle Alexander's run in 1987. Tlw Tigers' record for victories in consecutive starts is 11, set by Earl Whitehill in 1930 and matched by Hal Newhouser in 1947. 
+Mlicki lasted just four innings, allowing six runs on eight hits and live walks while striking out three. Juan Encarnacion homered twice for the Tigers -the first multi­homer game of his career ­giving him l 8 for the season. 
+Garciaparra went 9-for-12 in the series, including homers in the last two games, to raise his league-leading batting average to .360. 
+Yankees 11, Cleveland 7 
+Giving away a big lead to the Indians was bad enough. The Yankees weren't about to let their slim one over the Red Sox get smaller. 
+Joe Girardi's two-run single capped New York's four-run ninth inning and Bernie Williams went 4-for-5 as the Yankees showed why they are \Vorld Series champions in out-
+
+Lessons That Will Last A Lifetime. 
+OFFICER TRAINING SCHOOL 
+Put that college degree to use by enrolling into the Air Force Officer Training School. Upon successful completion of the OfficerTraining School, you will become a commissioned Air Force officer with earned respect and benefits like -great starting pay, medical and 
+dental care, management and travel 
+
+AIM HIGH opportunities. For more on how to qualify 
+
+and get your career soaring with the 
+Air Force OfficerTraining School, call 
+1-800-423-USAF, or visit our website at 
+
+www.airforce.com 
+www.airforce.com 
+lasting Cleveland. New York built a 6-0 lead after four innings against rookie Jim Brower, making his first start, before the Indians began knocking around Yankees starter David Cone. 
+But the Yankees recovered in time to take three of four games in the series and tie Cleveland for the best record in the AL with 13 games remain­ing. 
+Allen \Vatson (4-1) got the win in relief and Mariano Hivcra pitched the ninth. 
+Athletics 12, Royals 3 
+Jason Giambi and Miguel Tejada both homered and drove in three runs Sunday as the Oakland Athletics defeated the Kansas City Royals 12-3. 
+A sparse crowd of 13,914 saw the A's remain 4 1/2 games behind Boston for the wild card. Eric Chavez, in his first game back from the disabled list, drove in two runs to sup­port Gil Heredia (13-7). 
+Sal Fasano and Mike Sweeney each homered for the Royals, who have lost f"ive of the six games played in Oakland. 
+Heredia allowed three runs and six hits in 6 1/3 innings. He struck out five and extended his streak without a walk to 13 innings. 
+Kansas City starter Mac Suzuki lasted five innings, giv­ing up three runs and five hits. Ile was hit in the right leg by Matt Stairs' line drive in the third -· the ball ricocheted toward third base for a single ­and stayed in the game. 
+Tejada's single in the second gave the A's a 1-0 lead. f asano homered with Jeremy Giambi on base to put the Royals up 2-1. 
+FRIDAY 5EPfEMBER J41H Af 5f.PAf'5 COUNfY PARK KONCERf5 FOR KIDS 
+WELCOMES 
+Sister Hazel 
+
+
+...J 
+AUTEN RD 
+I 
+l­
+a: 
+0 
+z 
+,­
+C"1,___ ND 
+
+Twins 2, Mariners 1 
+
+LaTroy Hawkins became Minnesota's second double-digit winner and the Twins used Cristian Guzman's sacrifice fly in the fifth inning to edge Seattle. 
+Hawkins (10-13) allowed five hits in 7 2/3 innings, walked two and struck out live in best­ing Jamie Moyer (14-7), who pitched his fourth complete game of the year. 
+Mike Trombley pitched a per­fect ninth for his 23rd save in 28 chances. 
+Dan Wilson gave the Mariners a 1-0 lead with his sixth homer of the season in the second, but that was it against Hawkins, who ended a personal three­game losing streak. 
+Moyer, who won four straight decisions, gave up the tying run in the fourth when Marty Cordova walked, went to sec­ond on Chad Allen's single and scored on Terry Steinbach 's single. 
+In the fifth, Moyer hit Torii Hunter with a pitch, Denny Hocking singled, and Hunter scored on Guzman's fly ball to center. 
+Allen had three of 
+Minnesota's six singles. The light-hitting Twins had 14 sin­gles in the three-game series. 
+.....
+White Sox 3, Blue Jays 2 
+Brian Simmons hit a three­run homer Sunday as the Chicago White Sox beat the fad­ing Toronto Blue Jays. 
+The Blue Jays lost their fifth in a row and fell 10 1/2 games behind Boston in the AL wild­card race. 
+The White Sox swept the three-game series and have won four straight. 
+Simmons, who hit a three-run homer in the second inning of Friday's 7-3 win, homered again in the second for a 3-0 lead. 
+Mike Sirotka (10-13) allowed two runs and four hits in seven innings. Bob Howry pitched the ninth for his 24th save. 
+After two walks in the ninth, Willis Otanez grounded into a double play with runners on 
+•
+
+first and second to end the game. He also bounced into a double play in the fourth. 
+The Blue Jays cut it to 3-2 in the third on Vernon Wells' RBI double and Homer Bush's run­scoring single. 
+l"onnecting lvith our 
+COllllllUllity 
+
+through tlie 
+Neighborhood Roots Progra,n 
+Join us for an interactive introduction to the city so you can learn the immense value of our local community on 
+SEPTE/lr1BER 25, 1999 
+Tickets sold for $3 in the dining halls on Tuesda~· (9/21) and Thursday {9/23) 
+First >'ear Students only 
+Limitl'd to first 60 sign-ups! Call the CSC at 1-5393 for mor<.' info 
+
+
+~,,·-1 
+'. 
+i 
+page 26 The Observer . SPORTS 
+CROSS COUNTRY
+'f 
+1 { Irish run to first-place finish 
+
+By KATHLEEN O'BRIEN Assistant Sports Editor 
+
+1·· 
+The Irish cross country squads claimed victory across the boards Friday in the National Catholic Invitational. 
+Both the men's and women's squads won first place. as a team. Irish junior Ryan Shay was the first runner across the line in the men's race, while senior All-American JoAnna Deeter took home her fourth straight title in the meet for the women. 
+Thirty-three teams competed in the meet; however, only 10 of the schools are in Division I. 
+The men dominated the field by winning their fourth con­secutive team championship. Their total score was 20 points. far ahead of second­place Lewis, which had 66: and third-place Marist, which tallied 135. (The low score wins.) 
+
+
+"We were really pleased with the performance," sophomore runner-up Luke Watson said. "For a lot of us, it was the first time we had run this season. For us to do as well as we did, it was a good indicator. We still have a lot of room to improve, though." 
+Shay claimed his third straight title in an 8 kilometers 
+(4.98 miles) time of 24:41. With the victory, he became only the second runner ever to win the National Catholic Invitational individual title three times since the men's race was created in 1980. 
+Five of the top 10 finishers in the men's field were from Notre Dame. The Irish had a 1­2-3 finish in Shay, \Vatson and senior Ryan Maxwell. Senior John Dudley was sixth in 25:26 and freshman Antonio Lopez 
+M. Soccer 
+continued from page 28 
+overall. This is Notre Dame's third-consecutive loss to the Huskies. 
+The overtime battle with Connecticut marks the third time in four games that Notre Dame has been forced into an overtime situation. The Irish have yet to be successful in an overtime game, with an 0-2-1 record on the season. 
+After the squad's 1-0 win over Cleveland State on Tuesday. the took eighth. Other varsity fin­ishers for the Irish were Sean Zanderson and Nathan Shay, both in the top 20. 
+
+Deeter led the women to vic­tory with a winning time of 
+16:52 for the 5-kilometer race. No other runner has repeated as champion in the National Catholic Invitational on the women's side in its 15-year history. but Deeter claimed her fourth straight title. 
+The top three women's fin­ishers in the race were all from Notre Dame. Senior Alison Klemmer placed second in 17:42, followed by freshman Jennifer Handley in 18:01. good for third place. 
+Irish spent the remainder of the week preparing for a two-game road trip this weekend against Seton Hall on Friday and Connecticut on Sunday. Because of Hurricane Floyd, which hit the ea.stern seaboard early this \veekcnd, the game against Seton Hall had to be cancelled and reschedulf~d for Nov. 3. 
+The Irish continue their road trip next weekend at the Saint Mary's Tournament in Moraga, Calif. The Irish open up the tournament against host St. Mary's on Friday and are back in action again Sunday against San Diego. 
+"We're pretty happy with how we ran. We still have a lot of work to do this year, but it was a good start for us," Klemmer said. 
+Senior Erin Luby was eighth, junior Erin Olson 16th. and freshman Muffy Schmidt was 18th. Junior Chrissy Kuenster would have been one of the top finishers, but collapsed just before crossing the finish line. 
+The women's squad scored 30 points overall. far ahead of the nearest competitor. St. Thomas, which had 130. 
+The Irish will take next weekend off before hosting the 44th annual Notre Dame Invitational Friday. 
+
+W.Soccer 
+continued from page 28 
+In front of 1,587 fans, StreifTer gave the Irish the lead in the 22nd minute. She blast­ed a shot into the right of the net from just inside the box. Streiffer's goal was her team­leading fourth of the year. 
+Jenny Heft assisted on the goal. Heft stole ball from a Texas A&M defender and found StreifTer open at the top of the box. 
+"Heft gave me a great pass," Streiffer said. "So basically I couldn't miss." 
+The Aggies fired 12 shots but Irish All-American goal­tender LeKeyshia Beene did not allow any to reach the back of the net. Texas A&M's best scoring opportunity was stopped early in the second half by Beene. An Aggie for­ward had slipped past the 
+Monday, September 20, 1999 
+Irish defense but Beene came out and fell on the ball before the Aggie could shoot. 
+Irish captain Kelly Lindsey saw significant playing time for the first time since she injured her knee against North Carolina two weeks ago. Lindsey helps the team's confi­dence, Beene said. 
+"When she is in there, you feel a little more confident." she said. 
+Even without Lindsey, the Irish defense played well ­giving up just one goal to the Duke Blue Devils and shutting out the Butler Bulldogs. 
+"Anybody can step in and play," Streiffer said. "It's nice to have Kelly back but we arc still pretty solid." 
+Although Lindsey returned, the Irish roster was sti II incomplete. Junior midfielder Anne Makinen missed her fourth straight game while playing for the Finnish nation­al team. 
+
+Check out more about the Sacrament of 
+Cottfirmatiott 
+Arc '101..f a baptizeb Catholic who has ttever bcett Cottfir111cb? 
+Arc '101..f w0ttberitt5 whether '101..f ttceb to be COttfin-tteb to 5ct mameb itt tl1c Catttolic Cl11..f1•ch? 
+
+W ol..flb '101..f like to prepare for Cottfirn1atiott mttt ot'1er Notre Dame· srnbettts who arc bcbicateb to 5rowitt5 itt thcir f"'ith? 
+For more information about the Confirmation program, come to our first meeting at: 
+Sicsfrict, Chapel on T\-fcst,a\1, Sept. 21st at 1:00 pm 
+Please contact Fr. John Conley, CSC or Clare Sullivan at 631-3389 or stop by the Badin Campus Ministry office with any questions. 
+
+(DMPU5MINISTR> 
+
+.., 
+. • • l • 
+Monday, September 20, 1999 
+The Observer . TODAY page 27 
+--------------------------------~----------------------------------------­
+Make checks payable to: The Observer and mail to: P.O. Box Q Notre Dame, IN 46556 
+D Enclosed is $85 for one academic year 
+D Enclosed is $45 for one semester 
+
+Name -----------------------------­
+Address City _______ State ____ Zip______ 
+EUGENIA LAST
+HOROSCOPE 
+
+CELEBRITIES BORN ON THIS hold in your feelings. [II health will 
+DAY: Emilio Estevez, George Carlin, result if you get stressed out. 00000 
+Tnm Snyder, Stephen Baldwin, Burt VIRGO (Aug. 23-Sept. 22): Chil• 
+B.1eharach dren may not tell you the whole truth. 
+Happy Birthday: You may waver You'll have to dig deep and do a little 
+this ~'ear if you aren·t completely questioning if you want to get to thP 
+focused on what you are trying to bottom of things. 00 
+accomplish The difficulties you have LIBRA (Sept. 23-0ct. 22): Uncer­
+faced in the past must not be allowed tainties regarding your domestic 
+to cloud your vision or dampen your scene mav lead to discussions and 
+mood. Keeping a positive attitude possible ~oves. Someone you live 
+will be necessary if you really want to with will behave erratically and will 
+make the most of your time this year. certainly be hard to talk to. 000 
+Your success will be your savior, so SCORPIO (Oct. 23-Nov. 211: 
+don't lose sight of your goals, Your You'll need more time if you want to 
+numbers: 5, 18, 26, 34, 39, 44 get everything done. Peers will be 
+ARIES (March 21-April 19): demanding. You'll have to learn to 
+Ignore colleagues who appear to be say no if you want to take care of 
+going nowhere fast. You have plenty your own needs. 000 
+to do, so don't let others lead you on a SAGITTARIUS (Nov. 22-Dec. 21): 
+wild goose chase. Get your priorities Don't even think about getting 
+straight and focus on moving for­involved in joint ventures. You will 
+ward. 000 lose money if you decide to invest in 
+TAURUS (April 20-May 20): You a risky financial scheme. Gambling 
+need to connect with old friends. will be your downfall. 00000 
+You'll be surprised how easy it is to CAPRICORN (Dec. 22-Jan. 19): 
+pick up where you left off, even with You'll have to be honest with yourself 
+those vou haven't seen for a decade. if you want to sort out the problems 
+Reunions will raise your self-esteem. you're having in your emotional life. 
+000 . 
+
+You may be partly to blame for the 
+GEMINI (May 21-June 20): Check way your lover feels. Be reasonable. 
+out long-term investments that will 00 
+gin~ you old-age security. Family AQUARIUS (Jan. 20-Feb. 18): 
+members who ask for help with their Your uncertainties about your job will 
+personal papers may be interested in lead you into educational pursuits or 
+some of the ventures you're looking an apprenticeship. Your situation at 
+into. 0000 work may be bad because of an envi­
+CANCER (June 21-July 22): ous colleague who wants your posi­
+•
+
+Deception in relationships will be tion. 0000 
+heartrending. Try to look at the situa­PISCES (Feb. 19-March 20): You 
+tion objectively. There may have been won't attract the best individuals. You 
+a good reason for their actions. Com­will have to use discrimination if you 
+munication will be important. 00 don't want to be taken advantage 
+LEO (July 23-Aug. 22): Problems of financially. Protect your own 
+with pets will be upsetting. Do what's interests. Don't lend money or 
+best for everyone concerned when possessions. 000 
+dealing with financial matters. Don't 
+Birthday Baby: You are capable of great things. Your ability to focus on the most intricate detail will be what brings you success and recognition. You are 
+...
+
+bright, articulate and have what is required to mediate between opposing forces. (Need advice? Check out Eugenia's Web sites at astroadvice.com, eugenialast.com, astromate.com.) 
+(I~ l<i<N l"mversal l'n.·ss S,-ndicate 
+
+FOURTH AND INC HES TOM KEELEY 
+;To P.O,t.J, \tJHERt'~ 
+0\1 No! ':I: MVS1" HAVE. joiOAN4 WH"T ARE Wl\E.tJ l,.IFE 61VE~ Vov G\FTt. l,E:FT \T B/ll~ Ai"Hte '<ou oo,Nu ?. t.11o~ofJS., STEAi.. ~ 
+C'l~rl ----, 
+Rootv"\ (.£~NIIIOI:: MA\<E~ 
+
+Fox TROT BILL AMEND 
+
+CROSSWORD  
+ACROSS  34 Restorative sites  70 Spring bloom  
+1 Apparel 5 Bowls over 91945 Allied  38 Verne captain 40 Not a soul 41 Part 2 of the  11 Understanding words 72 Breakfast staple  
+conference site  quote  
+14 It makes things  44 Concerning  DOWN  
+gel 15 Chowderhead 16 Messages that  45 Highlander 46 Obscene 47 Verboten  1 Faux pas 2 Public square, in ancient Greece  
+can arrive at any time 17 Start of a quote 19 Move laterally 20 Control  49 Gambling game 51 -----jud1cata 53 See 21-Across 58 Abduct  3 Less common 4 80's-90's singer Adams 5 Critic - 
+21 With 53-Across. author of the  63 Baseball manager Joe  Louise Huxtable 6 Tequila bottle  
+quote 23 Breadwinner  64 Port-au-Prince's land  additive 7 Noted socialite  
+25 Impeachment  65 End of the quote  Maxwell  
+trier Abbr.  67 Hand out  8 Mixes up  
+26 Small amounts, as of cream  68 Part 69 -­ way, shape  9 Noncommittal answer  
+29 One who's ··out'  or form  10GulfV.I.P  
+--------------­ 11 Put on board.as  
+ANSWER TO PREVIOUS PUZZLE --,--,--,--,--,  cargo 12 Pinball problem Puzzle by Elizabeth C. Gorski  
+13 Bass. for one  34 Q-Tip, for one  54 "Gosh. will you  58 Real.estate  
+10 Squeaked (out) 22 Prefix with  35 Sunscreen additive  look at that!" 55 Space shuttle  agent's goal 59 Hawaiian port  
+political or  36 Shortly  part  60 Huge amounts  
+logical  37 Bowl over  56 Quite a swinger  61 Years in Havana  
+24 South African money  39 Wind quintet member  57 Items sent to record  62 Not working 64 Accident  
+27 "All --­ are off"  42 Designer  companies  66 Born  
+28 Artist's wear  fragrance  
+. 30 G.I. Joe-. basically 31 Fashion 32 Once again 33 Internet addict, perhaps  43 Sicilian spewerPhD f48 .., or example 50 Composer Luening 52 Puppeteer Lewis  Answers to any three clues in this puzzle are available by touch-tone phone: 1-900-420-5656 (95ft per minute). Annual subscriptions are available for the best of Sunday crosswords from the last SO years 1-888-7-ACROSS.  
+
+Visit The Observer on the web at http://observer.nd.edu/ 
+
+THE OBSERVER 
+Published Monday through Friday, The Observer is a vital source of information on people and events in the Notre Dame and Saint Mary's Community. 
+Join the more than 13,000 readers who have found The Observer an indispensible link to the two campuses. Please complete the accompa­nying form and mail it today to receive The Observer in your home. 
+JEFF BEAM
+
+A DEPRAVED NEW WORLD 
+
+
+ft1C16AL.L. FANS: ooN"-r .PE"SpAIRf THINk. At,..L. 1H£ GRE.AT Me-,..10~1ES mis ~e€.J<.eNt;> GA.\/f; VS• • • 
+,'Hose Ct..ASS'( MSV fANS 
+beam.1@nd.edu 
+
+
+I\ 
+J 
+
+I' 
+! 
+j I I 
+I ! 
+Ii ~ I'. 
+,I , 
+I, 
+ll 
+' '· . . 
+1
+,I
+:i 
+ii 
+! 
+l , 
+1 
+~ 
+•14 
+t
+,I 
+I, I 
+,, ' ­
+' 
+~. l 
+
+
+Irish falter again 
+The Notre Dame football team/ell to 1-3 over the weekend. losing to A1ichigan State 23-13. 
+see Irish Insider 
+
+O
+THE page 28 BSERVER Monday, September 20, 1999 
+FOOTBALL 
+
+University reports three possible NCAA violations 
+former student-athlete. Chappell was allegedly dis­primary or secondary violation Tucson, Ariz., to discuss a pun­
+. New allegations 
+
+The athlete no longer attends missed from the football team has occurred. ishment for Notre Dame in thearise of additional Notre Dame, and the tutor has last week for accepting gifts NCAA officials could not be Dunbar matter, ESPN reported. NCAA violations been fired from the position. totaling $5.000 and attempting reached for comment Sunday. The request for a delay at this 
+The tutor 
+to sell two free tickets to the Notre Dame also has asked point is intended to encourage began work­Sept. 4 Michigan game for $50 the NCAA Committee on the NCAA to factor all three ing at the each. Infractions to delay its final incidents into its decision atBy TIM LOGAN Office of Chappell has denied the inci­report on the Dunbar investiga-once, rather than complete one
+News Editor 
+
+Academic dent repeatedly. tion, which investigation and
+"It's in the hands of the
+Services for The University confirmed has been then enter into
+More legal questions surround 
+
+Student­Thursday that it had been underway 1VCAA. We've made another onf~.
+Notre Dame's athletic depart­
+
+Athletes investigating this matter for since May. according to 
+ment after the University our report. " 
+while a several weeks. Dunbar, a Moore.
+announced Friday that it report­University Chappell Notre Dame officials declined member of the "We want to 
+
+ed three more potential viola­
+
+student and to comment further on the now-defunct Dennis Brown get everything
+tions to the National Collegiate 
+
+continued reports. ~-Quarterback into considera­
+Associate director
+Athletic Association (NCAA). 
+
+after graduating, reported "It's in the hands of the Club, report­tion at one time,"
+Coming \·Vhile Notre Dame of Public Relations
+University spokesman Dennis NCAA," said Dennis Brown, edly gave gifts he said.
+awaits an NCAA decision in the 
+
+Moore. associate director of Public totaling The University
+Kimberly Dunbar case, these 
+
+Officials declined to name the Relations. "We've made our $18,000 to several former foot­seIf-reported the potentiallatest allegations involve acade­
+player involved or what sport report." ball players. Notre Dame offi­Dunbar violations in March,
+mic fraud and an athlete's 
+
+that person played. It is standard practice for the cials appeared before a hearing 1998 after conducting an inter­
+receipt of extra benefits and 
+
+This statement was coupled NCAA Enforcement Committee, with the Committee on nal investigation. Both the tutor­
+misuse of complimentary foot­
+
+with another announcement of upon learning of a potential vio­Infractions June 4. and the ing and ticket-selling incidents,ball tickets. 
+alleged violations by an athlete lation, to conduct a preliminary University has been awaiting a which are unrelat£~d. came toIntegrity in the classroom is at who accepted gifts and misused investigation to determine if an decision since then. the attention of University offi­issue for the first time with the complimentary tickets. official inquiry is warranted. It The Committee on Infractions cials in recent weeks, Mooredisclosure that a part-time tutor 
+Reserve quarterback Eric can also determine whether a is meeting this weekend in said. 
+may have written a paper for a 
+
+MEN'S SOCCER
+WOMEN'S SOCCER 
+
+Notre Dame men fall to Connecticut 
+Irish split two in Lone Star state 
+By MIKE CONNOLLY Associate Spores Editor 
+
+when freshman Erich Braun
+By KERRY SMITH
+The sixth-ranked Notre Dame 
+
+scored unassisted on a free 
+Byline TitleSporcs Writer 
+women's soccer team was shut kick for the equalizer. The goal 
+
+out for the first time in 55 
+
+marks Braun's second goal of 
+games when they fell 1-0 to The Notre Dame men's soc­the season. \Vith the goal, 
+
+Southern Methodist University cer team dropped its second Braun becomes the only playfir Sunday at the College Women's game of the season Sunday, to in the Irish lineup to score Classic. 
+
+nationally-ranked Big East more than ·one goal this sea­
+The Irish finished the Classic 
+
+rival Connecticut in a tough sm1. 
+with a 1-1 record after defeat­overtime decision. Connecticut went on the 
+
+ing eighth-ranked Texas A&M 
+
+Ranked at the -19th spot and offensive in the remaining min­1-0 Friday to open the Classic in last year's Big East champion, utes of the second half and had 
+Klein. Texas. 
+
+the Huskies outscored the Irish an opportunity to score with 40 The Mustangs took a 1-0 lead 
+2-1 to emerge the victor 16 seconds remaining in regula­
+in the 59th minute off of' a 
+
+minutes into the sudden-death tion. Sophomore hack Sam Laura Snyder goal. Snyder took overtime. Forko blasted a shot toward 
+a pass from Sarah Harvey, who The loss drops Notre Dame the net, but it hit off the goal 
+
+split the Irish defense and 
+
+to a 3-2-1 overall record and to post and was rejected.
+allowed Snvder to C.:ribble to the 1-1-1 in Big East play. The game-winner for the top of the box where she fired a 
+
+The two teams played to a Huskies came at the 105:41 
+shot into the top of the net. 
+
+scoreless tie in a first half, but mark when senior forward 
+The Mustangs managed six 
+
+the Huskies, who outshot the Luis Arauz knocknd a short 
+shots on the day and just tvvo in 
+the second half. The Irish got off opened the scoring. Less than defender Max Zieky SPt up the 
+
+14 shots but only put two on 
+
+three minutes into the second play on a throw-in to freshman 
+net. 
+
+half, sophomore back Chris forward Mike Mordocco. 
+In the first half. SMU goal­
+
+Gbandi took control of the ball Mordocco headed the ball to 
+JOHN DAIL YrThe Observer 
+keeper Becca Lief stopped Notre and put a powerful shot from Arauz, who finished the play
+
+Dame's best scoring chance. Senior forward Jenny Heft assists on the goal that put the Irish 
+
+10 yards out past Irish goal­from five yards out. 
+Jenny Streiffer fired from 15 women's soccer team on top of Texas A&M this weekend. 
+
+keeper Gerick Short. Dnspite the loss. Short yards away but Lief came off the Gbandi, one of Connecticut's recorded a career-high seven
+The Irish enjoyed more suc­temperatures took some adjust­
+goal line to make the stop. 
+
+most talented players and an saves in goal. Connecticut
+cess on Friday against the ment for Notre Dame. 
+Before Sunday. the last time 
+
+anchor on the Husky defense, goalkeeper Matt Chaviovich
+Aggies. Despite the stiffiing heat "Most of our team is from the the Irish had been shut out was was the 1998 Big East rookie finished the game with threethat hovered in the low 90s for North and isn't used to the heat 
+
+in the 1996 NCAA 
+
+of the year and recently named stops.
+most of the afternoon, the Irish so it played a big factor in the 
+Championship against the 
+
+to a short list of 1999 IIermann With the win, Connecticutdealt the Aggies their first loss game." Irish senior captainTarheels of North Carolina. The Trophy Award Finalists. boosted its lead in its seriHsof the season. Streiffer said after the game.
+Tarheels won the title with a 1­
+
+The Irish responded with with Notre Dame to 4-2-1
+Texas A&M was used to the 
+0 victory in double overtime. 
+
+2:43 remaining in regulationheat but playing in the high 
+see W. SOCCER/page 26 
+
+see M. SOCCER/page 26 
+
+vs. Oklahoma at Seton Hall Volleyball October 2, 1 :30 p.m. September 25, 3 p.m. at Olviet College 
+SPORTS 
+~ ffi 
+September 22, 6:30 p.m. 
+ATA 
+
+at Sr. Mary's (Calif.) Volley ball Golf
+.,
+
+September 25, 2 p.m. at Wyoming at Hope College
+ffi
+GLANCE 
+
+September 25, 7 p.m. September 26, 1 p.m. 
+
+O
+THE 
+
+Monday, September 20, 1999 BSERVER Notre Dame vs. Michigan State 
+Irish drop to 0-3 against Big Ten 
+By KA THLEEN O'BRIEN 
+Assis1a111 Sports Editor 
+Tlw Big Tim Co11forPnc11 again proved 
+to be bad news for tho Irish football 
+team. 
+Notre Dame came away just shy of vic­
+tory for the third straight wcPk against a 
+Big Ten team, giving up 16 points in the 
+fourth quarttir to los.-23-13 to Michigan 
+State. 
+DPspite nnar-st<'llar play by the defen­
+sive and spPcial teams units. the offensn's 
+inability to hold onto tlw ball bPcame a 
+crucial f'actor lat1i in the game. Five 
+Notre Dame turnovers, lack of a rushing 
+game and a quPstionablc coaching call to 
+punt on a fourth-and-one combirwd to 
+hand Notre Dam1! its third loss. 
+"I was proud of this team all \Vcck in 
+practice, but unfortunatPly thffe an~ no 
+guarantees. especially when you·rn play­
+ing a good football team," Irish head 
+coach Bob Davie said...One thing you can 
+guarantee is that when you have five 
+turnoVPrs, yotrrc' not going to win." 
+With 5:44 lef'l in tlw game. NotrP Dame 
+sPnior Jim Sanson kicked a 34-yard field 
+goal to tie.. tlw scorn. At that point. it 
+appeared that the outconw might not be 
+decided until the linal play. 
+As l\Hchigan State took over on offense, 
+its first pass fell incomplete -nearly 
+being intercepted by Notre Dame sopho­
+more Tyreo Harrison. Spartan quarter­
+back Bill Burke's next pass was broken 
+up by sophomon~ cornerback Clifford 
+Jefforson. 
+Tlwn Llw tidP turned in f'avor of 
+Michigan Stato. Burke snnt a straight 
+shot to {;ari Scott down tlrn sidelirn~. 
+Notni Danw t're•~ safety Deke Cooper was 
+unabll' to gPt tlw tacklP and S('ott ran the 
+ball into the nnd znn•· for an 80-yard 
+touchd1 ,wn. 
+"We had gotten some momt\ntum 
+going," Davit! said. "And then he takes 
+tlrn thing 80 yards. That kind -of Ids the 
+air out of'you." 
+Now behind 20-1 ]. tlw Irish got tlw ball. Tailback Trn-ranc!' lloward returned tlw kickoff to tlw Notre Damn 19-yard lirw. SophomorP Tony Fisher then ran thn hall six .vards to tlw 25. Ouarterback
+,. 
+
+.Jarious .Jackson complnt!!d an 11-yard 
+pass to s1•nior Haki Nelson for a l'irst 
+dovvn. 
+Nelson snagged another reception to make it second and thrnc. Fislwr carried the ball two yards, giving tlw Irish thn ball at tlwir own 4"1-yard !inn for a third­and-one. Davie chose to pass. but Jackson's throvv was incomplete ­bringing thn decision of' whether to punt tlw ball or go for it on fourth-and-one. 
+With 3: I<> remaining in tlw game and the Spartans leading by a touchdown, Davie madn tlw call to punt the ball away -an ifl~, decision at best in the nvns of many Irish fans. · 
+"Whatever you do is the wrong thing to do ii' it doesn't work." Ylichigan State head coach Nick Saban said. "That's the lifo of a coach." 
+Notre Dame's defonsfl -which had held fast most of the day -was unable to stop rvlichlgan State's offense. Saban's squad brought the ball close enough to the 1\ncl zone for kiekPr Paul Edinger to put thrne more points on tlrn board, kick­ing a :n-yard field goal with 15 seconds remaining. Edinger's boot gavo the Spartans a 23-13 advantage. It also sunk any lingering hopns of an Irish conwback 
+i 
+l 
+u 
+
+made nine tackles -including three Jor losses -plus added a sack and a J arced Jumble. 
+
+
+With 8:50 remaining in the third quarter, Irish tight end Jabari Holloway runs out of bounds while juggling a pass from 
+quarterback Jarious Jackson. The pass was ruled incomplete. 
+and a BCS berth at season's end. 
+"Anytime you lose a dose game and you give everything that you have, it's tough,"' junior defensive end Grant Irons said. "We're going to stick together, and that's all we can do.·· 
+Neither team reached the end zone in the first quarter. Tim Spartans had the first score of thn ganw with 14:49 remaining in the second quarter. An 80­yard drive on seven plays, it was capped off by a 23-yard reception by Burress and an 8-yard touchdown pass from Burkt~ to Baker. Edinger's kick was good to make it 7-0 Spartans. 
+The Irish failed to capitalize on a big 
+player of the game 
+Anthony Denman 
+The junior inside linebacker 
+special teams play by walk-on senior Johnathan Hebert. Hebert blocked Spartans' Craig Jarrett's punt. which was recovered by Irish junior Tony Driver at the Michigan State 28. Jackson, however, fumbled the ball several plays later and the Spartans recovered the ball at their own 23. 
+With 31 seconds left in the half, Irish linebacker Antony Denman hit tailback Lloyd Clemens, causing him to fumble. The ball vvas recovered by Irons at the Michigan State 28-yard line and returned the ball two yards before being tackled by Clemons. 
+"That was just a blitz," Denman said. "I 
+quote of the game 
+"We weren't confident that on third-and-one that we could make it. " Bob Davie Irish head coach 
+
+saw the backs coming through the mid­dle and put my helmet on the ball. I was just trying to make something happen." 
+The Irish recovered from the clock management problems which they faced against Michigan and Purdue as they reached the end zone 22 seconds later. The thrce•play drive was keyed by an 11­yard pass from Jackson to senior Bobby Brown, and a 14-yard touchdown recep­tion by Brown. 
+The rest of the points before Michigan State's 80•yard touchdown in the fourth quarter came on field goals. Edinger kicked two field goals for MSU, as did .Jim Sanson for Notre Dame. 
+stat of the game 
+3 red-zone turnovers 
+Turnovers are bad enough. Turnovers in the red zone practically take points off the scoreboard. 
+page 2 The Observer . IRISH INSIDER Monday, September 20, 1999 
+report card 
+
+B-
+quarterbacks: Jackson had no trouble with pitches this week, but he did throw an interception and missed 
+some open receivers. 
+
+C  running backs: One hundred-eight yards rushing is wwcceptahle. Jones provided a little spark ll'ilh his shifty  
+running style. but ol'erall. the backs  
+didn't do much.  
+B  receivers: Nelson, !Jrou•n and Hunter continued their excellent play. They could be Notre Dame's best trio of  
+recefrers ez,er.  
+D  offensive line: i1hen your coach doesn't think he can get 1 yard, you know your line needs to improve.  
+A  defensive line: Burke was harassed all day by a strong pass rush. Williams played especially well.  
+A  linebackers: Denman. /3oiman and lfarrison combined for 23 tackles -including sixfor a loss -forced one Jumble. recorded a sack and broke up  
+two passes.  
+B  defensive backs: Sanders. Cooper, Jefferson and Harper shut down one ofthe bPsl receiving cores in the  
+country for most ofthe game.  
+A  special teams: Good returns. long punts and madefield goals are what you expect. The blocked punt  
+was a bonus.  
+C  coaching: The decision to punt the ball with three minutes left is debateblP. If Davie had gone for it on fourth down andJailed. he would have gotten even  
+more criticism.  
+overall: The Irish were talent­ 
+
+ed enough to win. They just weren't organized enough to
+
+2.85 
+wm. 
+
+adding up the numbers 
+times Nick Saban cursed in his 
+1 
+nationally televised halftime interview with Jim Gray 
+5 
+Irish turnovers 
+Irish players who raised their 
+Q
+helments to the student sec­tion after the game 
+minutes that Michigan State had the ball longer
+5:38 
+than Notre Dame 
+number of consecutive losses to 
+3 
+the Spartans 
+4 
+years remaining on Davie's contract 
+times the Irish tackled a Spartan player for a loss 
+12 
+0 
+votes Notre Dame recieved in the AP and Coaches' polls 
+IRISH INSIGHT 
+
+
+Hey, juniors and seniors. does this seem familiar? 
+That's right. Two years ago, the Irish were sitting at 1-3 and things were looking down. 
+So what do we 
+do now? Ask for Davie's head? Question the play calling, yet again? Give up? 
+As much as you're down about the season, think about what 
+
+the players are Brian Kessler going through. 
+"This is proba­bly one of the hardest experi-Sports Editor 
+ences that myself and my team­mates have ever gone through," junior Grant Irons said following Saturday's 23-13 loss to Michigan State. "Anytime you are in your home stadium and you give everything you have, it hurts." 
+For the second straight week, cap­tain Jarious Jackson wouldn't talk to the media because he emotionally didn't know what to say after the game. 
+. These guys put their hearts into every game and lay it all out on the field. And they're devastated when they come up short. 
+"It's disappointing. but if I'm going to go through something like this, I'd choose these men to go through it with," fifth-year senior Bobby Brown said. "They're going to fight back and I know I'm going to fight back. There·s still a lot of games left to play." 
+This team could very easily pack it in, but they've invested too much time to do that. 
+
+"We're a young football team with a tough schedule," Davie said. "We're sitting here at 1-3. It's reality. You keep plugging along and try to see the light at the end of the tunnel and try to win some games." 
+They aren't giving up, but you guys started to. Chanting derogatory com­ments at Davie and leaving early. The players didn't leave early. They went hard until the very end. 
+"This team just wants to get a win," linebacker Anthony Denman said. "This team is out there playing hard every play, but things just aren't working out." 
+And despite a 1-3 start. the players are still confident they can turn the season around, just like they did in '97. 
+"We're a lot more confident than everybody thinks," Brown said. "In the game, we always think we're going to win. That's why it's so shocking and it hurts so bad when we don't." 
+And while the sentiment on cam­pus may be different, the Irish play­ers also still have faith in their coach. 
+"Just like I wouldn't want my team­mates to lose confidence in me. we can't lose confidence in our coach," Brown said. 
+So you can question the call on third-and-one or the punt on fourth, but just like Michigan State head coach Nick Saban said, when it doesn't work, you're wrong. Had the Irish held the Spartans on the next series, no one would be second­guessing Davie. 
+Everyone now may look back at '99 as the season that could have been, rather than the season of destiny we were all hoping for. 
+"We're 1-3, but we can easily be 4­0 right now," Brown said. "It hurts to keep on saying that -we could be, we could be -but people are going to chem· against Notre Dame until the Lord comes back to earth, but we have to deal with it." 
+The Irish will have two weeks to deal with the three-straight losses. It could prove to be the turning point of' the season or it could be more painful to wait for Oklahoma. 
+"I feel like I'd rather lineup against anyone right now, just to prove to the whole country that we have a great team and we're capable of winning," Brown said. "But we're going to go through it the way we have the last two weeks. We have a week off, but the answer has to come soon. We have to keep on playing. We're not going to forfeit the rest of our games." 
+This Saturday's loss pushed the Irish out of the running for the Bowl Championship Series, but Notre Dame isn't focusing on that. 
+"The major issue is that we have been in position to win three games that we haven't won," Brown said. "The aspect of a bowl is something you worry about later. If you worry about that now, the next team will take advantage of it." 
+As for now. the Irish will turn their attention to Oklahoma and getting back on track. 
+"It's hard," he said. "I came here for a reason. When things go well, it's great. You're in the spotlight. But when things go poorly with a a group 
+,of men that have the type of charac­ter to bounce back. you realize we have a lot of games left and you have to go play." 
+Despite the hardship of the past 
+I 
+
+few weeks. the Irish still aren't giving I 
+up. Are you? 
+The views expressed in this column are those ofthe author and not nec­essarily those ofThe Observer. 
+-------------........,--_.---~-------------------------~--------~-----------­
+Monday, September 20, 1999 The Observer . IRISH INSIDER page 3 
+Irish receivers shine against Spartans 
+By MIKE CONNOLLY 
+Associale Spom Editor 
+Looking past poor clock management, turnovers and a 1-:1 record, a shining jewPI can be found in an otherwise dis­mal season. 
+.lavin lluntPr-, Haki Ntilson and Bobby 
+Brown ha,·p PnwrgPd to becorrn~ one of 
+thP b(~st trios of Irish recPivers In rect~nt 
+nwmory. Saturday. against a physiral 
+and talnntPd Spartan secondary, tlw Irish 
+rPcPiV<\rs mad<' St\\(\ral big plays to move 
+tlw ball and kPep drivns alive. 
+In tlw first half'. tlw Spartans tried to shut down tlw Irish offpnse by playing an aggressivP man-to-man defense and bumping tlw rncBivers at the line. In past years, this attacking style might hav,~ stifflPd the Irish passing attack, but in 1999. tlw Irish rnceivcrs made the Spartans pay for tlwir aggrPssion with 
+I03 yards rncciving in the first half. , 
+'"Tlwy wtirP playing hump-and-run at tlw lin('. " Brown said ...And they \Ven• playing man a lot. But wlrnn they playPd man it scPnwd likP evPry tinw somemw was orwn. 
+In tlw SPC01Hl quarter, quarterback Jarious .Jackson threw deep for the first timP in the game and found Hunter wide open. Tlw ball was slightly underthrown, howcvnr, and lluntnr had to come back to mak<1 tlw catch. llunter leaped for the ball along with Michigan State defender lfonaldo Ifill. Iluntnr mad.-the initial 42­yard reception but I!ill wrestled the ball from his grasp for a fumbh~ recovf'ry. 
+hillowing a fumbln recovi~ry by Irish dnfonsivn Pnd Grant Irons at the Spartan 2€>-yard lirw, the offons<• took over with 31 seconds left. Jackson hit Brown for an 11-yard gain and a first down. After a l • yard pass to Lopicnski on the ensuing first dmvn, Jackson found Brovrn in the end zone for his S(!<:ond touchdown of tlw sPason. 
+On the rtH'.(~ption, it appeared that Brown pushed off on tho Spartan defend­er bdorn ho fully oxtendnd backwards to makn a groat catch. 
+Brown acknowledged that there was contact on tht) play. 
+two running plays failed to pick up the Ilunter first showcased his talents as a every week. I am proud of him. He is a"I probably did !push off!," ho said. "He 
+first down. Jackson lofted a pass to deep-ball threat in last spring's Blue­senior playing the best football of his
+had a littl<• contact. I had a little contact. 
+Brown in the end zone. Tho pass was Gold game. He caught a 67-and a 72--career right now."
+The rnfort•P could havP callPd it either 
+underthrown, however, and despite yard pass from Arnaz Battle in the scrim­Nelson finished the 1998 season fifth wav. lie dtwided to havn a no call. We 
+Brown's best efforts to prevent an inter­mage. on the team in receiving with just 217
+botl1 had a chance on it. Luckily, Jarious 
+ception, Amp Campbell wrested the ball Brown has recovered from an injury­yards. So far in 1999 he accumulated 
+put it up and I madt• a play." 
+away for a Spartan turnover. plagued 1998 season to catch two touch­300 yards through the air to become the
+In the sN·.ond half, the Spartans 
+Hunter again broke open deep down downs in 1999 and 96 yards receiving. leader of the Irish receiving core.
+switclrnd to zone pass defense but they the middle in the fourth quarter. Nelson, in particular, has distinguished Nelson picked up his second career
+still couldn't stop the Irish receivers. 
+Jackson, however. underthrew the ball himself as a great receiver. 100-yard receiving game with his 113
+Jackson found his targets for 142 more and Hunter had to wait for it at the 20-"That's what's frustrating {about los­yards on Saturday.
+yards to give the Irish 245 yards receiv­yard line. He made the reception but was ing] you've got a guy like Haki who has Despite Notre Dame's losing record,ing in a losing effort. 
+immediately tackled at the 18-yard line. stepped up and made some great plays," opposing secondary must now takeIn Notrn Dame's 01wning drive of tlrn After Hunter's reception, however, the head coach Bob Davie said. "He made notice of the Irish receivers. Hather thansecond half, Jackson found Nelson wide offense stalled and had to settle for a two terrific plays an<l almost made a one or two good receivers, the Irish force 
+open for a 32-yard gain to advance the 
+field goal. third one for a touchdown. He's done it defenses to prepare for a triple threat.
+Irish to tho Spartan 15-yard linn. After 
+
+AP Poll scoring summary & stats ESPN/USA Today poll 
+1 2 3  team Florida St. Penn St. Florida  record 3-0 4-0 3-0  points 1,738 1,658 1,628  scoring Michgan State Notre Dame  1st 0 0  2nd 7 7  3rd 0 0  4th 16 6  Tota) 23 13  
+4 5  Michigan Texas A&M  3-0 2-0  1,447 1,426  team statistics  ND  MSU  
+6  Nebraska  3·0  1,412  first downs  14  20  
+7  Tennessee  1-1  1,396  rushes-yards  36-108  39-142  
+8 9 10 11 12 13  Virginia Tech Miami (Fla.) Georgia Tech Georgia Ohio St. Purdue  2-0 2-1 2-1 2·0 2-1 3-0  1,157 1,130 1,101 1,096 960 927  passing-yards aomp-att-int return yards punts-azwrage fumbles-lost  245 15-27-1 218 7-43.4 4-4  291 22-37-1 51 8-40.1 1-1  
+14  Arkansas  2-0  858  penalties-yards  4-18  4-34  
+15  Kansas St.  2-0  778  time ofpossession  27:11  32:49  
+16  Soulhem Cal  2-0  637  
+17  BYU  2-0  526  individual statistics  
+18  UCLA  2·1  452  passing  
+19  Michigan St.  3-0  435  N!J -Jackson 15-26-1, Battle 0-1-0  
+20  Wisconsin  2-1  390  .''IfSU -Burke 22-37·1  
+21 22 23 24 25  Marshall Texas Mississippi Air Force NC State  3-0 3-1 3-0 2-0 3·1  297 252 211 145 142  rushing .VD-Fisher 13·57, Driver 6-24, Jones 4-11, Goodspeed 3-9, Battle 1-5, Lopienski 1-3, Jackson 8-(-1) MSU ­Clemons 22-126, Duckett 9-25, Flowers 2-1, Burke 5-(-2), Scott 1-(-8)  
+
+scoring  team  record  points  
+summary  1  Florida St.  3-0  1,466  
+1st none  2 3  Penn St. Florida  4-0 3-0  1,393 1,366  ..  
+2nd  4 5  Michigan Nebraska  3-0 3-0  1,279 1,204  
+MSU-14:49 Baker 8-yd. pass from Burka, Edinger kick, 7-0 ,VD -:09 Brown 14-yd. pass from Jackson,  6 7 8 9 10  TexasA&M Tennessee Virginia Tech Georgia Ohio St.  2-0 1-1 2-0 2-0 2-1  1,162 1,127 1,019 937 880  
+Sanson kick, 7-7  11  Purdue  3-0  842  
+3rd  12 13  Georgia Tech Miami (Fla,)  2-1 2-1  837 787  - 
+none  14  Arkansas  2·0  706  
+4th ,\'/J-14:51 FG Sanson  15 16 17  Kansas St USC Wisconsin  2-0 2·0 2·1  672 510 476  
+33 yds., 10·7  18  UClA  2-1  388  
+MSV-9:42 FG Edinger 24 yds.. 10·10 MSU -7:44 FG Edinger 33 yds., 13·10 /V/J-5:44 FG Sanson  19 20 21 22 23 24  BYU Texas Michigan St. Marshall Mississippi St. NC State  2-0 3-1 3·0 3-0 3-0 3·1  382 357 308 238 183 107  
+34 yds., 13-13 .\!SU-5:11  25  Air Force  2-0  95  
+
+Scott II-yd. pass
+receiving
+
+other teams receiving votes: Syracuse 119, from Burke, Edinger 
+other teams receiving votes: Syra~se 73, ..
+Aurbum 60, Oklahoma 58, Southern Miss. 49, Maryland .VD -Nelson 6-117, Brown 3-31, Hunter 2-84, Lopienski 2-6, kick, 20·13 
+Alabama 48, Southern Miss 43, Missouri 37, Auburn
+,\fSU -:19
+
+31, Illinois 27, Arizona St. 25, East Carolina 22, Virginia Johnson 1-7, Goodspeed 1-0 
+FG Edinger 33, Virginia 32, East Carolina 31, Arizona St. 29,
+18, Louisville 15, Oregon 15, Arizona 14, Colorado 12 MSU -Baker 8-51, Scott 4-110, Burress 4-53, McCoy 3-58, 31 yds., 23·13 
+Oklahoma 24, Arizona 22, Colorado 21, Maryland 12
+Clemons 2-18, Flowers 1-1 
+
+
+O
+THE Notre Dame vs. Michigan State BSERVER Monday, September 20, 1999 
+
+
+JOHN DAILY/The Obsef\ler 
+Wide receiver Bobby Brown makes an acrobatic touchdown catch in the second half to tie the game, 7-7. It was the only Irish touchdown of the game. Brown finished with three catches for 31 yards. 
+Irish can't catch Spartans 
+Notre Dame dropped its third straight game to Michigan State for the first time since 1963. The Irish now stand 1-3 on the season and 0-3 against Big Ten opponents. The loss also snapped Notrn Dame's 10-game home winning streak. The Irish now have two weeks to prepare for a · 
+home game with Oklahoma. With head coach Bob Davie under firn from fans and the Irish faithful hungry for a win, the game against the Sooners can't come soon enough for the Irish players. 
+ERNESTO LACAYO/The Observer 
+Safety Deke Cooper tries to recover on defense as Michigan State flanker Gari Senior Raki Nelson pulls down a 45-yard catch in the third quarter of Scott goes up for a catch. Scott dropped the pass from Bill Burke. Saturday's 23-13 loss to Michigan State. 
+
+
+
+
+
+

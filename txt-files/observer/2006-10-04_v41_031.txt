@@ -1,0 +1,1925 @@
+
+The Independent Newspaper Serving Notre Dame and Saint Mary's 
+OIT power interruption disrupts services 
+By EILEEN DUFFY Assistant News Editor 
+At around 12:30 a.m. Tuesday morning, the data center of the Information Technology Center (lTC) experienced a power inter­ruption resulting in tempo­rary failure of critical data systems like Notre Dame Webmail, lnsideND and WebCT, said Assistant Vice President of the Office of Information Technologies Gordon Wishon. 
+Normal power was restored at the lTC around 1:30 a.m., allowing OIT personnel to begin restoration of IT servic­es, said Director of Utilities Paul Kempf. By 8 a.m., oper­ation of approximately 90 percent of data systems had been restored, he said. However, some systems are still experiencing "intermit­tent slow-downs," Wishon said. 
+The lTC did not lose "nor­mal power," Kempf said. 
+Rather, the data center expe­rienced a loss of power because the equipment that transfers the system from its normal power source to a generator "had its brain fried." 
+"It made an illogical deci­sion that wasn't based on reality," Kempf said. "It turned off the normal feed, but it didn't start the emer­gency feed." 
+The lTC is equipped with surge protectors, which pre­vented the electronic equip­ment, like the computers themse1ves, from being dam­aged -but not the transfer­ring component, Wishon said. 
+While the Utilities Department is still investigat­ing the cause of the equip­ment failure, lTC staff mem­bers working at the time reportedly witnessed a flash of lightning and immediately heard a clap of thunder, indi­cating a nearby lightning 
+see POWER/page 6 
+
+
+Muslim students observe Ramadan 
+Hesburgh speaks, eats at post-sunset dinner 
+By ROHAN ANAND News Writer 
+University President Emeritus Father Theodore Hesburgh spoke Monday night to several dozen non-Christian students on the campus of the nation's most prominent Catholic school. 
+Emphasizing the similarities between the world's major monotheistic religions Christianity, Judaism and Islam -Hesburgh ended his talk by speaking directly to the 40 mem­bers of the Notre Dame Muslim Student Association (MSA) in attendance at the Coleman­Morse Center. 
+"I hope that you can help our other [non-Muslim] students understand you," he said. "We have to respect each other's con­sciences, and we all want to fos­ter the spirit of peace in the world." 
+This message carried the MSA into its annual Ramadan dinner that evening, held to celebrate Islam's month-long period of daytime fasting, which began Sept. 23. Sponsored by Campus Ministry, the students gathered to break the fast after sunset, joined by Hesburgh, Associate Vice President of Student Affairs William Kirk and Assistant Vice President of Student Affairs Jean Lenz. 
+After washing in a fountain ­a pre-prayer ritual called "wudu" -the group members gathered in the center's multi­purpose cross-cultural room to pray to Mecca. Professor Abdul Rashied Omar, research scholar of Islamic Studies and Peacebuilding at the Kroc Institute, led the service. 
+"Ramadan commemorates the month where the Koran was first revealed to the Prophet Muhammad," said junior Danyal Kareem. "We [Muslims] attempt to make our will power stronger, 
+see MUSLIM/page 4 
+
+
+Shirts sold to recognize soldiers 
+ND senior active in TakePride company 
+By JOHN TIERNEY News Writer 
+War is a naturally cold affair, but Notre Dame senior Stephen Patton and the TakePride organi­zation are working to support American soldiers in a more per­sonal way. 
+Since its launch last fall, Patton has been a partner in TakePride, a national organization founded by Patrick Gray and former Marine John Betts that sells T­shirts in recognition of Americans serving in the war. 
+Unlike many organizations that raise awareness of war, TakePride does not view its activities as polit­ical statements. 
+"Showing support and concern for the well-being of Americans in Iraq and Afghanistan is not a statement about politics but sim-
+
+
+NDSMCOBSERVER.COM 
+Students invest on Wall Street 
+Finance class manages $3.7 million portfolio 
+By MARCELA BERRIOS 
+News Writer 
+The next time the toilet over­flows in your residence hall and you wonder where the University's money is being spent, ask a couple of the fmance students in your section -they may have more access to the Notre Dame Endowment than you think. 
+In fact, the "Applied Investment Management" (AIM) course gives senior finance stu­dents the opportunity to manage a stock portfolio worth 3.7 mil­lion dollars -grown from a piece of the University's Endowment -and establish working relationships with com­panies and investment firms along the way. 
+Finance professor Frank Reilly teaches the course alongside resident professional analyst Jerry Langley and Notre Dame Vice President and Chief Investment Officer Scott Malpass -although the students also learn from the different lecturers and guest speakers that often visit the classroom. 
+Alumni who have sat in the class themselves at one point during the course's 11-year run don't hesitate to come in and give students advice on their portfolio decisions -which may range from determining which 
+see FINANCE/page 4 
+
+
+
+Speakers discuss African children 
+By AARON STEINER News Writer 
+International leaders and experts in the fight for justice in Africa spoke to the Africa Faith and Justice Network (AFJN) and members of the Notre Dame community Tuesday, as part the Network's annual two-day conference at the University. 
+Archbishop John Baptist Odama of Gulu, Uganda was the keynote speaker Tuesday, along with three other distin­guished guests who addressed this year's conference theme: "Africa's Children: Peril and Promise." 
+Today, each of the four speakers with the AFJN con­ference will present various workshops along with other Network members. 
+
+AFJN is a national organiza­tion that was founded 25 years ago by Catholic missionaries who wished to advocate on the United States' policy toward Africa, according to Father Robert Dowd, Chair of the AFJN board. Dowd is also an assistant professor of political science at Notre Dame. 
+Dowd said the focus of this year's conference, African children, is becoming especial­ly prevalent in the host of problems afflicting Africa. 
+"Sub-Saharan Africa is the youngest region in our world," he said. "Forty to fifty percent of the population is below the age of 18, and a significant number are below the age of 10." 
+Dowd also said there are a great number child-headed households in sub-Saharan 
+page 2 The Observer+ PAGE 2 Wednesday, October 4, 2006 
+INSIDE COLUMN 
+
+Just keep 
+
+Instead of writing a satirical col­umn on pop culture or the caliber of the dining hall food, I thought I would take this opportunity to moti­vate you -the reader -to tough it out for 10 more 
+Katie Kohler
+days. A week and a half. That is all I am asking. 
+News 
+Why? Because 
+Production
+Fall Break is 
+Editor
+almost here. 
+Despite midterm papers, exams, projects, presentations -and the list goes on -break is less than two weeks away, which I think is pretty refreshing. 
+Break could include anything from going home to visiting friends to service trips, but the key term is this: break. 
+One week of no classes, dining hall food or alarm clocks (I hope). Either way, it is something to look forward to, even though the next week-and-a-half may seem bleak. 
+From reading all the Post-Its all over my desk, getting to Fall Break is going to be the hardest part, but it can be done. Those few extra hours of studying and sacrifice of sleep will pay off in the long run. I believe in you. 
+I mean. it's nothing in comparison to finals, if that makes you feel any better. 
+Stay on top of your work. Do your homework. Watch your deadlines. These concepts may be new to some, but for 10 days I'm sure you can put on your "thinking caps" and buckle down. 
+I know that I am not a motivation­al speaker, but complaining about the impending workload isn't going to get it done now is it? 
+Being from Philadelphia, my moti­vation to work hard is just getting home and eating a nice big hoagie from Wawa and relaxing. I am easy to please. 
+Even if home (or wherever break may take you) may not be as relax­ing as I am making it sound, I'm sure it will be a change of pace from class -which is a plus. 
+Unfortunately, since it is only mid-semester break, there might be a bit of homework to take care of before hitting the mall (or the couch). but that can probably be done on the trip home. I know I'll have things to keep me busy on the 11-hour car ride back east. 
+Maybe you're not looking forward to break for various reasons. In that case, I hope you keep busy and you're back here before you know it. 
+As for the rest of us, I wouldn't mind a night in my own bed, some home cooking and a shower without flip-flops. In fact, savor it. 
+I hate to quote Disney because it is so cliche, but in the words of Dorie from Finding Nemo, "Just keep swimming." 
+So wherever you end up on Fall Break, just remember that you worked hard and you deserve a lit­tle rest and relaxation. Enjoy. 
+Contact Katie Kohler at kkohleO 1 @saintmarys. edu. 
+The views expressed in the Inside Column are those of the author and not necessarily those ofThe Observer. 
+CORRECTIONS 
+The Observer regards itself as a professional publica­tion and strives for the highest standards ofjournal­ism at all times. We do, however, recognize that we will make mistakes. Ifwe have made a mistake, please contact us at 631-4541 so we can correct our error. 
+
+QUESTION OF THE DAY: DURING WHICH SEASON DOES THE CAMPUS LOOK ITS BEST? 
+
+
+Alex Gloeckner  Jen Burke  Jesse Goliath  
+senior off-campus  freshman Farley  senior O'Neill  
+"Summer, because 'I am getting so hot, I wanna take my clothes off"'  "Fall, because it's the only season I've actually seen here. ,  "Fall, because ofthe leaves andfootball season.  
+
+
+Kate Lambert Meghan O'Connor Sarah Jantilawicz 
+freshman sophomore freshman Lyons Pangborn PE 
+"Fall, because "Winter, "Summer, where I live, the because I'm because you leaves don't from upstate can actually be change color. " New York and I outside and love the snow. " enjoy it." 
+
+MARY KATE MANNIX/The Observer Young girls perform an African dance in traditional attire for those attending the Africa Faith and Justice Network conference, "Africa's Children: Peril and Promise," in McKenna Hall. The conference features discussions and workshops on education, street children, children with HIV/AIDS, child trafficking, advocacy and campus organizing. 
+OFFBEAT 
+Angry dog stage mothers sue L.A. agency 
+LOS ANGELES -Stage mothers for a Hottweiler and other dogs have sued a com­pany called Hollywood Paws for failing to turn their pooches into stars. More than a dozen pet owners contend the company collected tens of thousands of dollars but never delivered on promises to get film and television auditions for their pets. 
+"I lost a lot of money," said Rachel Armstrong, owner of Goliath the Hottweiler. 
+Armstrong said she believed her dog had the "cool" factor that would get him into music videos and paid nearly $2,000 to Hollywood Paws LLC for training. 
+All she got was a rejection from "The Tyra Banks Show." 
+Attorney Cynthia Mulvihill filed the suit in Superior Court last month. 
+"Who wouldn't want to be told, 'Hey your member of the family is beautiful and should be in the movies'?" she asked. 
+Bungee cord breaks, leaving man dangling 
+TULSA, Okla. -A bungee cord on a thrill ride broke, leaving a man dangling 25 feet off the ground for a half-hour until he was rescued by firefighters. 
+Steve Alan Stone, 48, was not seriously hurt in the inci­dent Monday at the Tulsa State Fair. 
+The ride, called the Ejection Seat, consists of a two-seat chair that is sus­pended from two towers by bungee cords. 
+Shortly after Stone was launched, one of the cords broke, leaving the seat dan­gling sideways near one of the towers, Tulsa County Sheriff's Capt. Fred Cotton said. 
+Information compiled from the Associated Press. 
+TODAY TONIGHT THURSDAY FRIDAY c::: 
+1.&.1 
+:::1: 
+~ 
+1.&.1 
+3: 
+..... 
+
+·::·::::t:::;::m;w:::::::...
+
+<C 
+(,) 
+..... 0 HIGH 68 HIGH 55 HIGH 60 HIGH 61 
+LOW 45 LOW 45 LOW 40 LOW 39 
+IN BRIEF 
+
+A<> part of the Africa Faith and Justice Network conference, the film "Uganda Rising" will be shown today at noon in the McKenna HaU auditorium. The event is free and open to the public. 
+The film "Beloved" will be shown today at 7 p.m. in 116 Debartolo as part of the Gender Studies Program's "Body & Soul -Gender, Heligion & Identity" lilm series. 
+The Paul Taylor Dance Company will present classic works of choreographer Paul Taylor today at 7:30 p.m. in the Debartolo Performing Arts Center. Tickets are $15 for stu­dents. 
+Campus Mininstry will spon­sor Theology on Tap: "Can Catholic and Muslims Get Along?" at 8:30 p.m. today at Legends. The guest speaker will be A. Rashied Omar of the Kroc Institute for International Peace Studies. 
+The Institute for Latino Studies and the Creative Writing Program is sponsoring Chloe's Cabaret, a poetry cafe held today from 9-11 p.m. Poets Lidia Torres and Uraymin Noel, complemented by local musician Donald W. Savoie, will perform in the Philbin Studio Theatre. This is a free but ticketed event. 
+Lewis Hall will host a blood drive from 10:00 a.m. to 4:30 
+p.m. Thursday in the party room of Lewis. The blood will support the South Bend Medical Foundation Central Blood Bank. 
+To submit information to be included in this section of The Observer. e-mail detailed infor­mation about an event to obsnews@nd. edu. 
+SATURDAY SUNDAY 
+
+Atlanta 88 I 56 Boston 73 I 60 Chicago 83 I 64 Denver 84 I 51 Houston 94 I 69 Los Angeles 73 I 59 Minneapolis 80 162 New York 78 I 64 Philadelphia 80 I 61 Phoenix 97 I 77 Seattle 59 I 49 St. Louis 91 I 69 Tampa 93 I 73 Washington 82 I 60 
+Wednesday, October 4, 2006 The Observer + CAMPUS NEWS page 3 
+COUNCIL OF REPRESENTATIVES 
+Members discuss improving peer advocacy 
+Council hopes students will use group's advice 
+By KATHLEEN MCDONNELL 
+News Writer 
+Members of the Council of Representatives (COR) addressed the peer advocacy program as well as a new group created to brainstorm ways to help with the global health crisis during the group's meeting Tuesday night in LaFortune. 
+Last year's Judicial Council pres­ident made strides toward reviving and reforming the Council's peer advocacy program, student body president Iizzi Shappell said. and this year's president Liz Kozlow asked COR for ideas on how to make the program more effective. 
+Peer advocacy is one of two divi­sions of the Judicial Council that is "intended to help students facing the disciplinary process," Kozlow said. 
+The students are "not lawyers exactly, for obvious reasons, but the peer advocates are the closest you'll get on this campus-for deal­ing with the Office of Residence Life and Housing (ORLH)," she added. 
+The main objective of the peer advocacy program, which is cur­rently made up of 11 advocates, is to aid students through the ORLH's proceedings. Since 75 per­cent of ORU-1 cases are handled in personal meetings, and peer advo­cates are only allowed to sit in on hearings, the advocates' focus is often on preparing students for the disciplinary process, Kozlow said. 
+"Our advice can be things like clearing out Facebook accounts and clearing pictures from the Internet," Kozlow said. 
+Peer advocates also inform stu­dents of the typical procedure for disciplinary meetings. 
+COR brainstormed ideas to increase student use of the pro­gram. Sophomore class vice presi­dent Bob Reich suggested having a peer advocacy representative from each dorm, as students may feel more comfortable if they have a personal connection with the advocate. 
+The council members also con­templated using a new advertise­ment strategy. Last year's poster, "At odds with DuLac?" confused students who do not always asso­ciate DuLac violations with being sent to ORLH, according to Kozlow. 
+COR also briefly discussed the ad-hoc student group that formed in the wake of the Global Health Crisis Academic Forum. Both Student Union Board president Pat Vassel and Shappell have attended meetings of the group of students who felt inspired by the forum. 
+"There is this desire to do some­thing, but the group is not exactly sure what," Vassel said. 
+Shappell said students will have the opportunity to be involved with the Millennium Fund Notre Dame participates in, but not for another semester, as faculty and adminis­trators are still formulating the project. The new group, however, is looking to act quickly. 
+"People feel like they need to do something now," she said, "Let's not lose momentum." 
+The group is still in formulation, and will continue to brainstorm in the upcoming weeks, Kozlow said. 
+Contact Kathleen McDonnell at kmcdonn3@nd.edu 
+New study exan1ines litigation in developing countries 
+Effective court system costly but necessary 
+By COURTNEY BALL News Writer 
+Daniel Brinks, a Notre Dame graduate and professor at the University of Texas at Austin, spoke Tuesday about a large col­laborative initiative being direct­ed by the Kellogg Institute that focuses on individual rights to health care and education. 
+Funded by the World Bank, Brinks' research project is enti­tled "Law and Rights in Developing Countries: The Impact of Legal Strategies on Social and Economic Rights," and aims to determine the role litigation should play in develop­ing countries. 
+The comprehensive study focuses on the countries of Brazil, India, South America, Indonesia and Nigeria. 
+American society is fond of liti­gation, suing over cases of spilled McDonalds coffee, and is accustomed to generally "getting what they sued for," Brinks said. However, he suggested the addi­tion of American-style courts might not be the positive step these developing countries require. 
+"Litigation is an expensive, often elite-based activity ... It is a luxury," he said. 
+Brinks said he fears at least initially successful litigation campaigns can be expected to exacerbate inequality in the dis­tribution of services. 
+Preliminary analysis of the study data also suggests that the court system expends substan­tial resources for individual gains at the expense of other services, he said. Five percent of Brazil's annual budget is desig­nated to judicial procedures instead of being allocated toward health services or educa­tiona! improvements that would benefit all. 
+Despite this, Brinks said he hopes to find that the increasing number of court cases demon­strate beneficial developments in the long term. He said high vol­umes of cases may trigger policy changes which could result in broader access to social and eco­nomic services over a span of time. 
+Brinks said there still are sig­nificant barriers to the imple­mentation of an effective court system. It takes three days to even get to a courthouse in Indonesia, and in India, the gov­ernment fails to enforce favor­able rulings. 
+Until the court systems can produce successful rulings, he said, they will remain under-uti­lized. 
+"People are unwilling to waste scarce resources on an avenue which appears ineffective," Brinks said. 
+For now, the study aims to determine if improved litigation procedures are a desirable out­come at all for these countries. Ideally, the conclusions of Brinks' study will ultimately pro­vide an answer, he said. 
+Contact Courtney Ball at cball@nd.edu 
+
+Waterford Estates Lodge has hotel rooms for upcoming 
+Notre Dame football vveekends. 
+(And check out our low rates!) 
+We have even lower rates for the North Carolina and Army weekends, too. Corne stay with us. And enjoy some he2rty f2re 2nd 2 pint to w2sh it down with 2t ()rigid's Irish Pub. It's your destination for pre-and post-game p2rties and open seven nights 2 week. 
+
+
+
+
+
+~erford 
+s 
+' 
+estates lodge www.waterfordestateslodge.com 
+877-783-8496 
+Lismore 
+
+Fine Cuisine 
+
+
+Waterford Estates Lodge is located at 52890 ~. R. 933,just no85h utthe Notre Dame campus. We arejust minutes from downtown South Bend and the ~outh Bend Re(3ionul Airport. 
+page 4 The Observer + CAMPUS NEWS Wednesday, October 4, 2006 
+our resumes, and they put them all together in a book that they
+
+Finance 
+sent out to all their partners and associates to help us create our
+continued from page 1 
+own network of business company's stock should be acquaintances," he said. bought or sold, to researching They indeed have made friends the market to fmd new promis­in high places. 
+ing investment options. Wall Street's interest in Reilly's 
+Based on the portfolio handed students is such that several over to them by the previous companies even sponsor the class, this fall's AIM students are classroom's traditional trips to working with companies such as New York City and Chicago to 
+Anheuser-Busch, Coach, Dell, visit different offices and attend McDonalds, PetsMart and lectures. Tupperware Brands, among While the course may sound many others. glamorous and the networking 
+"The class is a really good benefits of taking this class are introduction to the real world of certainly enticing, the workload finance and investment and what is a strong dose of reality. you will be doing after school," "It's not uncommon for us to said senior Ted Lawless, a stu­be up all night working on our 
+dent in the AIM class. [assigned] company's reports," 
+Every student is assigned one said Shelton Tsui, another stu­of the companies from the port­dent in the class. "Coming up folio and is required to monitor with our recommendations is a 
+and assess that company, and lot of work. You have to put in eventually make a recommenda­hours of research, and read ana­tion to the classroom regarding lyst reports and business jour­the sale or the retention of the nals and magazines to really 
+stock. understand how the entire econ­
+The students also make omy affects your company, and informed suggestions regarding to be able to make educated companies they believe would guesses about the future." make fine additions to the grow­Tsui said he has already ing portfolio, and if the class­turned in approximately seven room approves, the students reports about Exxon Mobile ­
+soon find themselves working the company he is evaluating ­with a broker and he suspected from Mellon he would work on Bank to imple­at least 7 more ment the deci­"Employers are before the end of 
+the semester. 
+sion. always happy with 
+In the past, Despite the heavy 
+our students'
+the classroom workload, the com­used Standard performance and they petition to earn a 
+& Poor's 500 come back every year seat in the class­
+Index as a room is intense. 
+asking for more." 
+benchmark for Reilly said last the portfolio's semester 65 stu­risk and Frank Reilly dents submitted applications, but
+returns-an finance professor 
+objective the course has surpassed by approximately four percent every semester in recent years, Reilly said. 
+Any returns or dividends received are re-invested ­which explains how the portfolio expanded over time into a worth of several million dollars. And while the University has left the portfolio alone to develop, it is still part of the Endowment and can be tapped into at any time. 
+"This course has developed a certain reputation in Wall Street due to the success of the stu­dent's immersion into the world of corporate fmances and stock trading," Reilly said. 
+"Employers are always happy with our students' performance and they come back every year asking for more." 
+Some of his previous students are currently working in invest­ment firms like Goldman Sachs, financial services providers like the Boston Consulting Group, large accoUnting firms and tradi­tional banks like the Bank of America. 
+Reilly said most of the students build strong working relation­ships with companies and firms through their work for the course, and judging from past experience, most AIM students will receive approximately a dozen serious employment offers before Thanksgiving. 
+Lawless said he and his class­mates receive "four or five e­mails every week from compa­nies saying 'We've noticed you're enrolled in this class. We would really be interested in working with you. Please send us your resume."' 
+Lawless also said this interest is due to the course's reputation, but also to the professors' own efforts to help them create a strong network with alumni and employers. 
+"At the beginning of the semes­ter, the professors asked us for only 25 were 
+accepted based on 
+their resumes~ internship expertise and a per­sonal essay. 
+Though there are no minimum GPA requirements to be eligible for the class, Reilly noted that the students selected are usually "some of the best students within the Mendoza College of Business." 
+This semester, undergraduate senior finance students were given preference in the applica­tion process, but next semester Reilly said he plans to guide MBA graduate students in their portfolio management. 
+Contact Marcela Berrios at aberrios@nd.edu 
+
+activities on Feb. 2. Another shirt issue, but we're trying to do featuring the image of a soldier something," he said. "We're hop­
+
+Patton 
+
+reaching out to a child is based ing that our symbol at least continued from page 1 on soldier Michael Kielty's photo­encourages people to think about 
+graphs of himself with Iraqi chil­the issue differently and contem­statement about politics but sim­dren. A third shirt is drawn from plate being more active in recog­ply an expression of human the experiences of Marine pilot nizing and showing concern for decency," the organization's mis­Mike Bridges at the Battle for Americans at war." sion statement reads. Fallujah, and features the image Each of TakePride's 10 shirt 
+Patton said TakePride's cause of a pilot and three fighter designs is available for $20-22 in is not precisely to "support our planes. both men's and women's sizes troops." Patton emphasized that, while online at www.takepride.com."The word 'support' is ambigu­portraying images of war, none TakePride donates 20 percent of ous and 'troops' is dehumaniz­of the TakePride shirts are the profits from the sale of the ing," Patton said. "We're hoping focused on making a political shirts to various armed forces­to encourage people to recognize statement. related charities, such as the 
+what other Americans are going "I understand the opposing USO and Disabled American through and do something to positions on the war, but I just Veterans. demonstrate concern for those at feel that it's more about support­The essence of the organiza­war." ing Americans going through a tion is in starting conversations 
+As part of TakePride's effort to difficult time than about politics," and changing perspectives,humanize the experiences of the he said. Patton said, making its mission soldiers at war, the organization Patton said he does not believe not political, but humanitarian. 
+used the stories of nine members that wearing a T-shirt will "We have a moral obligation to of the armed forces currently change the world, but he hopes let the soldiers know that we're serving in Iraq or Afghanistan as his work will start a conversa­concerned for them, that their inspiration for its shirts. tion. lives matter to us," Patton said. 
+For example, one shirt features ''I'm not saying that wearing a a diary entry of soldier Robynn symbol of support is the perfect Contact John Tierney at Murray that sheds light on her answer for getting engaged in an jtiemel@nd.edu 
+
+Musli01 
+continued from page 1 
+like mind over matter, and become stronger every year." 
+During each day of fasting, Muslims are required to fast during the sunlight hours, and also are to abstain from smok­ing, sexual intercourse, lying, stealing, cheating or backstab­bing. 
+"I think it's the best time of year, because you have nothing else to think or worry about," said sophomore Sohaib Hashmi. "It's just prayer and fast." 
+After the prayer, the students gathered in the student lounge for a halal (an Islamic dietary requirement similar to kosher) Middle-Eastern dinner. 
+During the meal, administra­tors invited those in attendance to share their sentiments about the MSA program at Notre Dame. 
+Bpth students and faculty expressed gratitude for the existence of MSA on campus, many saying it serves as a very positive reinforcement in their faith life. 
+"The average Muslim student can fit comfortably at Notre Dame because it's a religious institution and the school is very welcoming to different stu­dents of different cultures," Omar said. 
+The students also said they appreciated the administrators' presence at the dinner and rec­ognized their support for the organization. 
+"The administration and stu­dents have been so accepting of Muslims and Jews," said sec­ond-year MBA student Aziz Alikulov. "I am so moved by the spirit of this school." 
+MSA secretary and second­year grad student Shawn Ahmed agreed. 
+"As a Catholic college, Notre Dame has been more welcom­ing, more accepting, and more supportive of Muslim students than most secular colleges," Ahmed said. "It's not surprising that [Muslim students] love being here." 
+The club is already planning an event for the final day of Ramadan, known as Eid, which will likely be a celebration at the local mosque in Michiana. 
+Future plans entail religious presentations about Islamic cul­ture and prayer. Ahmed said he feels sharing his understanding of Islam is important, because the image of Muslims portrayed in the media is often foreign to him. 
+"There are over one billion Muslims around the world and it is understandable, although regrettable, that the kind of Muslims people see in the media are the small minority of those who are fanatical and commit acts of terrorism," he said. "Islam is a religion of peace. It is just as hard for Muslims to make sense of such 
+extremism  and  
+violence  as  it  is  for  non­ 
+Muslims."  
+Grad  student  Hisham  
+Soliman,  an  M.A.  in Peace  
+
+Studies, said he thinks this greater understanding can also be achieved by implementing some changes in the Islamic academic programs at Notre Dame. 
+"I hope there will someday be a department in Islamic Studies and the peaceful aspects of the religion will be shown," Soliman said. "Right now, only Islamic ethics are studied, but a revi­sion will express the entire reli­gion itself, and not just a single spectrum of it." 
+Hesburgh agreed that there is a need to bring more Islamic scholars to Notre Dame to bring about such changes. For now, he said he is pleased that Muslim students are proud to be members of the Notre Dame community. 
+"Muslims in America paint the true picture of Islam," Hesburgh said, "and I think that at a Catholic university, we're all praying to the same God, and we have a lot to learn from each other." 
+Contact Rohan Anand at ranand@nd.edu 
+
+The Kellogg Institute for International Studies is proud to present 
+An Evening of Brazilian Music 
+The Brazilian choral ensemble ContraCantos 
+and the choro group Arabiando will perform in concert at two public performances in the South Bend area. 
+Wednesday, Odober 4 Thursday, Odober 5 7pm 7pm John Adams High School University of Notre Dame Auditorium Washington Hall 
+0KELLOGG INSTITUTE 
+
+
+Co-sponsored by the Kellogg' Institute at the University of Notre Dame and the South Bend Community School Corporation. 
+Made possible by generous funding from the Brazilian Mrnistry of Culture. 
+
+
+
+
+
+
+ORLD & NATION 
+Wednesday, October 4, 2006 CoMPILED FROM THE 0BSERVEn:s WlRE SERVJCES page 5 
+INTERNATIONAL NEWS 
+Rice warns against nuclear testing 
+CAIRO, Egypt -Secretary of State Condoleezza Rice said Tuesday a North Korean nuclear test would be "a very provocative act," and she prodded Asian nations to rethink their relationships with the North Koreans. 
+The top U.S. diplomat said the United States would have to assess its options should such a test be carried out, but she did not elaborate. 
+"It would be a very provocative act by the North Koreans," Rice said during a press conference in Cairo, second stop on a Middle East tour. "They have not yet done it, but it would be a very provocative act." 
+Rice's warning reflected widespread con­cern within the Bush administration. She stressed, however, that a North Korean test was an issue "for the entire neighborhood" and not just for the United States. 
+Iran asks France to enrich uranium 
+PARIS -A top Iranian nuclear official pro­posed Tuesday that France create a consor­tium to enrich Iran's uranium. saying that could satisfy international demands for out­side oversight of Tehran's nuclear program. 
+Mohammad Saeedi, deputy chief of Iran's Atomic Energy Organization, made the pro­posal in an interview with French radio in Tehran, suggesting that France's state-con­trolled nuclear company and one of its sub­sidiaries be partners in the consortium. He did not specify what form Iran's participation should take. 
+"To be able to arrive at a solution, we have just had an idea. We propose that France cre­ate a consortium for the production in Iran of enriched uranium," Saeedi told France-Info in the interview broadcast Tuesday. 
+NATIONAL NEWS 
+
+Speaker Hastert refuses to resign 
+WASHINGTON -House Speaker Dennis Hastert brushed aside resignation talk Tuesday, even as the Republicans' No. 2 House leader contradicted him in the page scandal. President Bush gave Hastert a vote of confidence as the party struggled to contain pre-election fallout. 
+Hastert, an Illinois Republican, said he would­n't resign as speaker, the top official in Congress and second in the line of succession to the presi­dency, in the controversy over Rep. Mark Foley's salacious computer exchanges with former pages. Foley resigned last Friday. 
+
+Americans win Nobel physics prize 
+NEW YORK -Two Americans won the Nobel Prize in physics Tuesday for measuring the old­est light in the heavens, a feat described as "one of the greatest discoveries of the century" that convinced skeptics of the big-bang theory of the universe's origin. 
+George F. Smoot, 61, of Lawrence Berkeley National Laboratory in Berkeley, Calif., and John 
+C. Mather, 60, of NASA's Goddard Space Flight Center in Greenbelt, Md., will share the $1.4 million prize equally for their groundbreaking work. 
+They were the chief architects of a NASA satellite observatory named COBE, for cosmic background explorer. Launched in 1989, the spacecraft measured feeble remnants of light that originated early in the history of the uni­verse, about 380,000 years after the big bang. 
+LOCAL NEWS 
+
+Nursing home woman found in river 
+MARION, Ind. -A wheelchair-bound woman drowned in the Mississinewa River and investi­gators questioned a former worker at the nurs­ing home where she lived about why he had taken her from the home. 
+The body of Tonia Johnson, 41, was found Monday, the day after she was last seen at Bradner Village Health Care Center, police said. 
+Grant County Coroner Ron Mowery said Tuesday that an autopsy confirmed that Johnson drowned. but that he would not have a final rul­ing on the death until the police investigation and further test results were completed. 
+
+Gunman had history of abuse 
+Roberts told wife during school siege that he molested 2 relatives 20 years ago 
+Associated Press 
+QUARRYVILLE, Pa. The gunman who killed five girls in an Amish schoolroom confided to his wife during the siege that he molested two relatives 20 years ago when he was a boy and was tormented hy dreams of doing it again, authorities said Tuesday. 
+Investigators also said that Charles Carl Roberts IV, 32, plotted his takeover of the school for nearly a week and that the items he brought -including flexi­ble plastic ties, eyebolts and lubricating jelly ­suggest he may have been planning to sexually assault the Amish girls before police closed in. 
+"It's very possible that he intended to victimize these children in many ways prior to executing them and killing himself," State Police Commissioner Jeffrey B. Miller said. But Roberts "became disorgan­ized when we arrived," and shot himself in the head. 
+Holding up a copy of the gunman's suicide note at a packed news conference, Miller also suggested that Roberts was haunted by the death of his prema­turely born daughter in 1997. The baby, Elise, died 20 minutes after being delivered, Miller said. 
+Elise's death "changed my life forever," the milk truck driver and father of three wrote to his wife. "I haven't been the same since it affected me in a way I never felt possible. I am filled with so much hate, hate toward myself hate towards God and unimaginable emptyness it seems like everytime we do something fun I think about how Elise wasn't here to share it with us and I go right back to anger." 
+The state police commis­sioner identified the demons in Roberts' head a day after the shooting rampage shattered the sense of calm in Lancaster County's bucolic Pennsylvania Dutch Country, where the Amish live a peaceful, turn-the­other-cheek existence in an 18th-century world with no automobiles and no electrical appliances. 
+
+
+"He certainly was very troubled psychologically deep down and was deal­ing with things that nobody else knew he was dealing with," Miller said. 
+The death toll rose to six Tuesday -including the gunman -when two girls died of their wounds. 
+During the standoff, Roberts told his wife in a cell phone call from the one-room schoolhouse that he molested two female relatives when they were 3 to 5 years old, Miller said. Roberts would have been around 11 or 12 at the time. Also, in a suicide note left for his family, he said he "had dreams about doing what he did 20 years ago again," Miller said. 
+Police could not immedi­ately confirm Roberts' claim that he molested two relatives. Family members knew nothing of molesta­tion in his past, Miller said. Police located the two rela­tives and were hoping to interview them. 
+Roberts had planned the attack for nearly a week, buying plastic ties from a hardware store on Sept. 26 and several other items less than an hour before entering the school, Miller said. 
+The crime bore some resemblance to an attack on a high school in Bailey, Colo., where a 53-year-old man took six girls hostage and sexually assaulted them before fatally shoot­ing one girl and killing himself. That attack occurred last Wednesday, the day after Roberts began buying materials for his siege. 
+
+Using a checklist that was later found in his pick­up truck, Roberts brought to the school three guns, a stun gun, two knives, a pile of wood for barricading the doors, and a bag with 600 rounds of ammunition, police said. He also had a change of clothing, indicat­ing he had planned a long siege, police said. 
+He sent the boys and sev­eral adults away and bound the girls together in a line at the blackboard. Miller on Tuesday revealed that one of the girls was able to escape with the boys. 
+ITALY 
+
+
+Hijacker had message for pope 
+Associated Press 
+
+BRINDISI, Italy -A Turkish man hijacked a jetliner carrying 113 peo­ple from Albania to Istanbul on Tuesday and forced it to land in southern Italy, where he surrendered and released all the passengers unharmed, officials said. 
+Two senior Turkish officials said the hijacker was seeking political asylum. An Italian security official said the hijacker had a message for the pope, but he said he did not know what it was. 
+Candan Karlitekin, chairman of Turkish Airlines' board of directors, initially said the Boeing 737-400 had been hijacked by two Turks, and that they were protesting Pope Benedict XVI's planned visit to Turkey next month. 
+Transport Minister Binali Yildirim told The Associated Press that the hijacker, whom he identified as Hakan Ekinci, was seeking to evade military service in his native Turkey. Istanbul Gov. Muammer Guier also said the hijacker was an army deserter who had fled to Albania. 
+"It has nothing to do with the pope's visit; it was a simple attempt of seeking political asylum under the influence of psychological problems," Yildirim said. 
+The passengers got off the plane about two hours after it landed in Brindisi, a town on southern Italy's Adriatic coast. The jet was on a darkened tarmac, with a fire truck carrying Brindisi airport's chief of security parked nearby. 
+page 6 The Observer + CAMPUS NEWS Wednesday, October 4, 2006 
+Africa 
+continued from page 1 
+households in sub-Saharan Africa due to parental deaths from HIVIAIDS and other dis­eases. 
+"It's really a generation of great risk," Dowd said. 
+He said the Network's annual conference is intended for edu­cation and advocacy. 
+"Not only do we hope to raise awareness, but also to think about how we might affect poli­cy in a way that addresses their needs," he said. 
+The panelists addressed both of these ideas yesterday, sharing their experiences and the meth­ods they have used in facing these issues. 
+Sister Connie Gemme, a Missionary Sister of Our Lady of Africa, spoke specifically on the issue of human trafficking in Africa. 
+'The overall view of the situa­tion is quite disturbing," Gemme said, referring to annual human trafficking rates, including both sex and labor trafficking. "Four million men, women and chil­dren are held against their will." 
+
+These victims are isolated and exposed to rape, violence, HIV/AIDS and other diseases while being forced into prostitu­tion or involuntary servitude, she said. 
+"It's like being in a bad dream, and hoping you'll wake up," Gemme said. "These women have to pay the price to wake up from it." 
+Gemme said every year 50,000 people are moved to and from Africa and UNICEF esti­mates that 20,000 children are trafficked in western and cen­tral Africa alone, she continued. 
+Vicki Simon, a member of the Maryknoll Lay Ministers, focused on another problem afflicting African youth -Street living and homelessness. 
+According to Simon, there are over 250,000 street children in Kenya, where she has worked. 
+"Their stories were often heartbreaking, and very simi­lar," Simon said. 
+While working at the Ukweli Home of Hope in Nairobi, Simon said she was able to help many young men by helping them start their own businesses, and was consistently amazed at their outlooks on life. 
+"Amidst the dismal face of these problems ... they can smile, sing and dance," she said. 
+She concluded on a less posi­tive note, however, saying there is much work to be done. 
+"Their health, education and development are in jeopardy," she said. 
+Father Donald Dunson, anoth­er panelist and committed advo­cate and educator on children's rights, praised leaders like Gemme, Odama and Simon for their work, saying they "risk everything daily" to promote justice. 
+Dunson also shared what he experienced while researching the conditions of African chil­dren, focusing on the problem of abduction of children. 
+Keynote speaker Odama fur­ther discussed the issue of abduction and involuntary servitude in warfare. 
+other solid state devices dam­aged," Kempf said. 
+Such equipment is normally not replaced very often ­"about every four or five years," Kempf said. He admit­ted a product failure was pos­sible, but unlikely. 
+"The presumption right now is some sort of electrical dis­turbance damaged that equip­ment," he said. 
+Wishon said once his staff understood the cause of the failure, they would make plans to prevent future trip-
+Northern Uganda, Odama said, has been the site of politi­cal unrest and warfare since 1986, with the start of the Lord's Resistance Army (LRA). Odama said the constant fight for power between the groups has affected the entire region. 
+"When two elephants fight, the grass suffers," Odama said, quoting an African proverb. 
+According to Odama, the LRA has committed acts of violence against the citizens of Uganda, including "cutting off the lips of those who reported their move­ments, and cutting off the ears of those who didn't listen." In addition, child abduction has increasingly become a part of the LRA's tactics. 
+"In places of armed conflict, children have become pawns for selfish games," Odama said. "It is estimated that 30 percent of the LRA is abducted children." 
+Between 2002 and 2003, 10,000 child abductions took place during renewed efforts to exterminate the LRA, he said. 
+Still, Odama said there is rea­son for hope. "God has done a miracle," he 
+ups. 
+"It has certainly been some length of time since we've suf­fered similar failure," Wishon said. "We have invested a sig­nificant amount of money in the past three years into the data center to ensure that we're able to maintain critical service operation in the face of possible failures like this." 
+But if lightning indeed caused the equipment failure, he said it would be a hard thing to prepare for. 
+"Of course, direct lightning said. "What was said impossi­ble -that the LRA and Ugandan government could not speak -is taking place right now." 
+
+AFJN has, as ()dama said, "one less problem to worry about." However, there is still much work to be done. 
+Some of that work may fall on groups like Notre Dame's own AFJN chapter. Established in 2005 under Dowd's guidance, the group was the first universi­ty chapter of its kind. 
+According to senior Michael Rossmann, the president of Notre Dame's AFJN chapter, the group serves as both an aware­ness and advocacy group. Their primary project is Africa Week, which is held each spring and features discussions and other awareness events. 
+In addition, the group's mem­bers practice advocacy in many ways, including traveling to Washington, D.C. and partici­pating in events such as a recent rally for Darfur. 
+Contact Aaron Steiner at 
+asteiner@nd.edu 
+
+strikes -if that's indeed what this is -while they're not 
+unheard  of,  certainly  are  
+unusual," he said.  
+Kempf also  stressed  the  
+
+unique meteorological circum­stances of the failure. 
+"You can't prevent a light­ning strike," he said. " ... It may not be possible, despite all good intentions, to prevent equipment from failing in situ­ations like this." 
+Contact Eileen Duffy at eduffy1@nd.edu 
+
+
+Power 
+continued from page 1 
+strike, said Kempf-though they were unable to judge the proximity of the strike. 
+"It seems plausible that [the failure] could have something to do with the lightning strike," Kempf said. 
+The "fried" component has been removed and sent to its manufacturer, Eaton Electrical Inc. with whom the University does "a lot of busi­ness" -and a replacement is on the way, Kempf said. For now, the Data Center has been manually reconnected to the normal power source. 
+
+Since the equipment per­formed properly during the weekend's power outage ­that is, it correctly transferred power from the non-working normal power to generator power -this particular fail­ure is perplexing. 
+"It's unusual that there weren't other things, some 
+
+~~ 
+~~ 
+
+"The Bone Collector" 
+Susan Sheridan 
+Associate Professor ofAnthropology 
+~~~ 
+~~ 
+11:00 a.m. Saturday, October 7 
+Annenberg Auditorium Snite Museun1 of Art 
+Gain insight into the lives ofancient populations 
+of tbe Middle East-how they lived, what they 
+ate, from what diseases they suffered, bow they 
+died-through an examination of their bones. 
+Sheridan, who specializes in forensic and cultural 
+anthropology, analyzes ancient bones and pieces 
+together biological clues to better understand tbe 
+lives of those populations. 
+'-{<2
+~~ 
+......
+
+Fall 2006 Schedule 
+~~ 
+9 .. 
+Experience an intimate discussion with Notre Dame's most engaging 
+:.... 
+
+faculty speakers on some of the most pressing issues ofour times. 
+~ 
+
+
+9/9-Peun State ''More Than a Movie? Assessing TheDa Vinci Code"
+~ 
+
+(I 01 DeBartolo Hall) ~ James Collins, Professor ofFilm, Television, and Theatre ~ Mary Rose D'Angelo, Associate Professor ofTheology 
+~ 
+
+Charles Barber, Associate Professor ofArt, Art History, and Design 
+....j
+
+9/16-Mkhigan ''TI1e Tmpact of the Dead Sea Scrolls on Our Bible''
+~ 
+
+
+Eugene Ulrich, Reu. john A. O'Brien Professor ofTheology 
+9/30-Purdue "Successful Aging"
+~ 
+<:i8
+
+Cindy Bergeman, Chair and Professor ofPl:ychology 
+10/7-Stanford ''The Bone Collector, 
+~ 
+
+Susan Sheridan, Associate Professor ofAnthropology ...... 
+10/21-UCLA "Completing the Constitution: The 14th Amendment" ~ 
+~ 
+
+Michael Zuckert, Nancy Reeves Dreux Professor ofPolitical Science 
+:.... rl 11/4-North Carolina "'Ihe Role ofReligion in Peacebuilding" 
+
+R. Scott Appleby, Professor ofHistory, john M. Regan }1: Director ofthe joan B. Kroc Institute for International Peace Studies " John Paul Lederach, Professional SpecitdiJt; Kroc Institute 
+A. Rashied Omar, Assistant Professional Specialist, Kroc Institute ~ 
+rl 11/18-Anny "Seeds of Change" AMusical Performance <::l Georgine Resick, Professor ofMusic John Bladdow, Assistant Professor ofMusic 
+~ 
+
+3-1/2 hours bet()re kickoff in the Annenberg Auditorium, Snire Museum ofArt (unless otherwise noted). ~ For more information, visit http://saturdayscholar.nd.edu 
+.~ 
+
+
+
+~~ 
+~~ 
+-...::. UNIVERSITY OF -...::. 
+<::l \,j 
+
+
+NOTRE DAME 
+THE 0HSERVER 
+
+
+
+
+USINESS
+Wednesday, October 4, 2006 
+page 7 
+MARKET RECAP Stocks 
+Dow 
+11,689.24 +19.85
+}ones 
+Up: Same: Down: Composite Volume: 2,044 124 1,263 2,702,553,940 
+
+COMPANY %CHANGE I$GAIN I PRICE 
+NASDAQ 100 TR (QQQQ) -0.12 -0.05 40.72 
+INTEL CP (INTC) +2.15 +0.43 20.39 
+SUN MICROSYS (SUNW) -1.57 -0.08 5.00 
+MICROSOFT CP (MSFT) +0.88 +0.24 27.44 
+JDS UNIPHASE CP UDSU) +3.21 +0.07 2.25 
+Treasuries 
+
+I 0-YEAR NOTE +0.20 +0.009 4.594 13-WEEK BILL -0.11 -0.005 4.750 30-YEAR BOND +0.45 +0.021 4.733 5-YEAR NOTE +0.11 +0.005 4.558 
+Commodities 
+
+LIGHT CRUDE ($/bbl.) + 1.95 62.96 GOLD ($!Troy oz.) +6.20 603.30 PORK BELLIES (cents/lb.) +3.00 89.43 
+Excha Rates 
+
+YEN 117.5000 
+EURO 0.7873 
+POUND 0.5293 
+CANADIAN$ 
+1.1 I 14 
+IN BRIEF 
+Court sides with newspaper union 
+WASHINGTON -The Supreme Court sided Monday with Detroit newspaper unions and some employees who were fired for their actions during an 18-month strike in the mid­1990s. 
+Justices declined to hear the newspapers' appeal of a National Labor Relations Board ruling ordering the partnership that prints, distributes and sells advertising for The Detroit News and Detroit Free Press to rein­state fired employees. 
+The court's decision ended years of litigation over the firings. More than 100 workers, mostly involving newspaper production, were originally involved in the case, but most of them reached negotiated settlements from 2001 to 2003, said Lou Mleczko, president of The Newspaper Guild of Detroit, Local 34022. 
+A Gannett Co. spokeswoman, Tara Connell, said settlements were being worked out with two former workers connected to the court's decision. She estimated it would result in "less than a couple hundred thousand dollars" in total financial impact for the company. 
+U.K. online gambling shares plwnmet 
+LONDON -Shares in British online gambling companies, including Sportingbet PLC and PartyGaming PLC, dived Monday after the U.S. Congress passed legislation prohibiting the use of credit cards, checks and electronic fund transfers for online gaming .. 
+PartyGaming, the world's biggest online gam­bling company, said it would pull out of the United States if President Bush signs the legisla­tion into law. 
+The company 888 Holdings PLC said it is sus­pending online betting operations in the United States as a result, and Sportingbet PLC said it called off takeover talks with World Gaming PLC. 
+The legislation was part of a port securities bill passed by the House and Senate on Saturday. 
+The companies hit hardest by the ruling are those that offer betting markets denominated in 
+U.S. dollars, and usually operate from bases in the Caribbean or Central America. Most of the big British and Irish sites, by contrast, keep their operations in Europe and take deposits only off credit cards denominated in pounds and euros. 
+
+
+
+Stock market smashes record 
+Dow Jones industrial average surges to new closing high after oil prices plummet 
+Associated Press 
+
+NEW YORK -The Dow Jones industrial average finally reached new heights Tuesday, .extending Wall Street's seven-year recovery with a record closing level after climbing into uncharted territory in trading earlier in the day. 
+The index of 30 blue chip stocks ended the ses­sion at 11,727.34, wiping out the previous record of 11,722.98. 
+Earlier, the Dow crossed its old trading high of 11,750.28, rising up to 11,758.95. Both of the previous records were set Jan. 14, 2000. 
+While investors wel­comed the Dow's latest achievement. it comes at a time the stock market is more conservative, even more muted, than the Wall Street of early 2000. Then, investors were still piling exuberantly into high-tech stocks. In 2006, the mar­ket's gains come only after investors' careful parsing of economic data and cor­porate earnings reports. 
+Tuesday's advance came on the second straight day that oil prices fell sharply, helping to calm fears about inflation and possi­ble interest rate increases. But the market as a whole has been choppy, with tra­Those indexes were inflat­closing low of 7,286.27 on to 2,243.65. ditionally defensive stock ed -overinflated in the Oct. 9, 2002, nearly 38 Advancing issues led sectors such as pharma­case of the Nasdaq -by percent off its record high decliners by more than 8 ceuticals and utilities lead­the dot-com bubble. close. to 7 on the New York ing the market higher The S&P 500's high close The market's recovery Stock Exchange, where since its May and June was 1,527.46, and the was helped by more than consolidated volume came decline, said Doug index remains more than four years of solid corpo­to 2.68 billion shares, Johnston, head of U.S. 12 percent away from that rate profit growth, and compared with 2.15 billion trading at Adams milestone. The Nasdaq is more recently, the Federal Monday. Harkness in Boston. even further off its highs Reserve's decision to halt The decline in oil prices 
+"I think we break out to and no one expects it to its more than two-year was the catalyst of the day. the all-time high, then we eclipse its record of string of interest rate A barrel of light crude set­could get a blow-off cor­5,048.62 any time soon. hikes. tled at $58.68, down rection off of that," To reach new highs, the The Dow rose 56.99, or $2.35, on the New York Johnston said. Dow had to recover not 0.49 percent, to close Mercantile Exchange. 
+The Dow, whose well­only from the high-tech Tuesday at 11,727.34. The Oil prices have had a known large-cap stocks collapse, but also reces­Dow had briefly surpassed stunning fall from their include aluminum produc­sion and the effects of the its closing high on intraday high for the year er Alcoa Inc., discount Sept. 11, 2001, terror Thursday and Monday of $78.40 a barrel, retailer Wal-Mart Stores attacks. The stock market before retreating. reached in July. Other Inc. and the Walt Disney was further shaken by The broader stock indi­commodity prices have Co., has recovered ahead corporate scandals at cators also closed higher. dropped as well, with gold of the broader Standard & companies including The S&P 500 index was up descending from prices Poor's 500 and the Nasdaq Enron Corp. and 2.79, or 0.21 percent, at earlier this year that it composite index, which WorldCom Inc.. and the 1,334.11, and the Nasdaq hadn't seen for three also peaked in early 2000. Dow sank to a five-year rose 6.05, or 0.27 percent, decades. 
+
+FTC approves joint satellite deal 
+Associated Press 
+
+WASHINGTON -The Federal Trade Commission said Tuesday it has approved the joint venture between defense contractors Lockheed Martin Corp. and Boeing Co. to launch government satellites, removing a final barrier to the long­delayed proposal. 
+While the commission concluded that the $1.06 billion partnership between the nation's two biggest defense firms could unfairly muscle out competitors, it said that concern was outweighed by the national security demands for a reliable and cheaper way to send military and other satellites into space. 
+The so-called United Launch Alliance, or ULA, was proposed in May 2005 to resolve a long-standing dispute between Lockheed and Boeing, then the two major suppliers of rockets for government launches. 
+It also came after Boeing was stripped of $1 billion in launch con­tracts and suspended for 20 months from launches by the Air Force after accusations that it used thousands of sensitive documents stolen from Lockheed to gain an edge in the bit­ter rivalry. Boeing later agreed to pay $615 million to end a Justice Department probe of the case. 
+The FTC decision "brings the ULA closer to the goal of meeting the government's need for reliable, lower-cost launch services for national security, civil and scientific payloads," Boeing spokesman Dan Beck said. 
+Lockheed spokesman Tom Jurkowsky, calling the decision good news, said the two companies still needed to complete reams of legal documents before the deal closes. 
+ULA will be a 50-50 venture between the two companies, each providing a $530.7 million stake. It is planned for Denver and would combine launch services for Boeing's Delta and Lockheed's Atlas rockets, known as expendable launch vehicles. The venture is expected to save about $150 million annually. 
+page 8 The Observer + NATIONAL NEWS Wednesday, October 4, 2006 
+Year's wildfires yield 
+record costs, efforts 
+U.S. Forest Service millions over budget 
+Associated Press 
+BOISE, Idaho -Wildfires across the country have burned a record number of acres this year, and with the scorched land comes a record bill, a federal official said Tuesday. 
+The U.S. Forest Service's fire­fighting efforts for fiscal year 2006, which ended Sept. 30, cost more than $1.5 billion, at least $100 million over budget, said Mark Rey, the Agriculture Department undersecretary for natural resources and the envi­ronment. 
+To pay for the fires, money was transferred from other pro­grams that had surpluses, including a reforestation pro­gram, said Kent Connaughton, the Forest Service comptroller. 
+The wildfire season is not over yet, but so far more than 15,515 square miles, or 9.93 million acres, have burned in the Lower 48 states, Rey said. That is the most since at least 1960, when the Boise-based National Interagency Fire Center began keeping reliable records. 
+The previous record was in 2005, when more than 8.6 mil­lion acres burned. The average of the past 10 years has been 4.9 million acres. 
+The 2006 tab compares with $690 million spent in 2005 and $726 million in 2004, Forest Service spokesman Dan Jiron said. 
+This year, for the first time, the Forest Service had a comptroller overseeing expenses, and fires that reached certain expense levels automatically triggered an independent review, Rey said. 
+
+"We're getting better results in terms of cost, as a consequence of making cost efficiency and cost containment something that we spend a lot of time on," he said. "There's a three-way ten­sion: The safety of firefighters, protecting homes and property and not spending a gazillion dol­lars. I think we've made some strides." 
+This fire season was exacer­bated by seven large-scale dry lightning storms, more than double the normal number, Rey said. Such storms can ignite sev­eral thousand small fires, forc­ing crews to scramble to make sure all are extinguished. 
+So far this year, 674 homes­primary residences, not vacation houses -have burned in wild­fires, Rey said. That's a drop from 2002, when roughly 2,000 homes burned, and 2003, when about 3,000 burned. 
+That indicates property own­ers and federal and state entities are making progress in reducing fuels around homes and devel­oping wildland protection plans, he said. 
+President Bush said Tuesday that Congress needs to pass fur­ther laws that will provide ways to restore forests once they've been burned and commended the Forest Service for their oper­ational planning. 
+"I really want to thank the brave firefighters who risk their lives on a daily basis to contain the fires," said Bush, who was in Los Angeles, where a giant wild­fire about 50 miles northwest of the city was extinguished Monday, nearly a month after it began. 
+
+Judge allows ACLU to debate Patriot Act 
+Muslim groups want part of law repealed 
+Associated Press 
+DETROIT -Nearly three years after hearing arguments in the case, a federal judge has ruled that an American Civil Liberties Union challenge to the constitutionality of the USA Patriot Act may proceed. 
+The ACLU's clients, including Muslim charities, social servic­es organizations and advocacy groups, have shown they have been harmed by the anti-ter­rorism law adopted after the Sept. 11, 2001, terrorist attacks, U.S. District Judge Denise Page Hood said in a 15­page ruling issued Friday. 
+The lawsuit was filed in July 2003 on behalf of the Muslim Community Association of Ann Arbor and five other nonprofit groups. The ACLU said its clients had been hurt by the Patriot Act because fear of the law has kept many people from attending religious serv­ices and making charitable donations. 
+It was the first legal chal­lenge to the part of the Patriot Act that let agents obtain such things as library lists and med­ical information. 
+The ACLU contended Section 215 of the Patriot Act, which allows the FBI access to any "tangible things" such as books and documents through an order from a secret court, does not require investigators to show probable cause. 
+
+The group wants the judge to declare Section 215 unconsti­tutional, and block the Justice Department from using that part of the Patriot Act. 
+Hood's ruling had been awaited since a Dec. 3, 2003, hearing at which the govern­ment argued the lawsuit should be dismissed. Federal officials later argued that amendments approved by Congress in March 2006 had corrected any constitutional flaws in the Patriot Act. Hood's ruling gave the plaintiffs 30 days to amend their initial complaint in light of those amendments. 
+Kary Moss, Michigan direc­tor of the ACLU, told the Detroit Free Press she would consult with her clients before deciding whether to proceed with the lawsuit. 
+The government had argued the law does not violate the Fourth Amendment because the protections against unrea­sonable search and seizure do not apply to information or items that have been given to third parties, even if there is an understanding of confiden­tiality. 
+Mia111i Herald publisher resigns 
+Diaz steps down after mishandling the firing of three journalists 
+Associated Press 
+MIAMI -The Miami Herald's publisher resigned Tuesday, say­ing "ambiguously communicat­ed" personnel policies resulted in the firings of three journalists at its Spanish-language paper who were paid to appear on U.S.-gov­ernment broadcasts aimed at promoting democracy in Cuba. 
+Jesus Diaz Jr., the papers' pub­lisher since July 2005, had dis­missed two El Nuevo llerald reporters and a freelance con­tributor who had been paid by Radio Marti and TV Marti. Diaz said the company offered to rehire the three and would not discipline six others it recently discovered also took payments. 
+"I realize and regret that the events of the past three weeks have created an environment that no longer allows me to lead our newspapers in a manner most beneficial for our newspa­pers, our readers and our com­munity," Diaz, who also resigned as president of the Miami I lerald Media Co., wrote in a letter to readers. 
+David Landsberg, a longtime Herald employee who served as general manager, took over immediately as company presi­dent and publisher of the two newspapers, said The McClatchy Co., the papers' parent company. McClatchy acquired the newspa­pers in June when it bought Knight Hidder Inc. 
+"No company enjoys publicly reversing a decision it made, but the sign of a really good and honorable company is one that can reflect on its actions, consid­er additional data and some­times come to a new conclusion, and that's exactly what we did," Landsberg told The Associated Press. 
+
+Gary Pruitt, McClatchy presi­dent and CEO, said in a state­ment that the company was sorry to see Diaz leave but "we couldn't be happier about having such a talented and experienced leader perfectly poised to step into this important job." 
+McClatchy spokeswoman Elaine Lintecum declined to com­ment beyond the company's statement. 
+Diaz said he believed the jour­nalists' acceptance of payments "was a breach of widely accepted principles of journalistic ethics." But he added "our policies pro­hibiting such behavior may have been ambiguously communicat­ed, inconsistently applied and widely misunderstood over many years in the El Nuevo Herald newsroom." 
+He said no one would be allowed in the future to accept money from the U.S. govern­ment-run broadcasters, and con­flict-of-interest policies would be strengthened. 
+Landsberg acknowledged there's some tension in the news­rooms, but added: "At the end of the day, I think everyone agrees that working for money for TV and Radio Marti when you're an independent journalist is not the right thing to do." 
+The Miami Herald reported early last month, citing govern­ment documents, that 10 South Florida journalists had received thousands of dollars from the federal government for their work on radio and TV program­ming aimed at undermining Fidel Castro's communist regime. 
+Pablo Alfonso, who reports on Cuba and wrote an opinion col­umn for El Nuevo Herald, was paid almost $175,000 since 2001 to host shows on Radio and TV Marti, U.S. government pro­grams that promote democracy in Cuba, according to govern­ment documents obtained by the Herald. 
+
+STUDY A.5ROAD 
+IN 
+
+
+JAPAN 
+
+INFORMATION SESSIONS 
+Thursday, October 5 
+5-6 PM 125 Hayes-Healy 
+APPLICATIONS AVAILABLE www.nd.edu/"'intlstud 
+Wednesday, October 4, 2006 The Observer+ NATIONAL NEWS page 9 
+Bush announces plan to end destructive fishing practices 
+United States joins with U.N., international organizations, other countries to promote bottom-trawling regulation 
+October 5 
+
+So You Want to Fund Your Research Project: UROP and Other Avenues of Funding 
+119 O'Shaugnessy Hall 
+Contact information: 
+
+Office of Undergraduate Studies 104 O'Shaughnessy, 1-7098. 
+~ 
+'W 
+UNIVERSITY OF 
+
+
+NOTRE DAME 
+
+Northwestern Hawaiian Islands and surrounding waters, an archipelago 1,400 miles long and 100 miles wide in the Pacific Ocean. 
+His position on high-seas fish­ing represents a last-minute shift going into an election, in part due to mounting pressure from the conservation groups, key Republican senators such as Ted Stevens of Alaska, Richard Lugar of Indiana and John Warner of Virginia, and 
+U.S. allies such as Britain, Norway, Australia and New Zealand. 
+A State Department document prepared in recent months for the eyes of foreign diplomats only had suggested that nations impose a ban on bottom trawl­ing by 2009 -but provided an easy out for any nation whose fleets want to continue using the gear. 
+The U.S. negotiating "non­paper," a copy of which was obtained by The Associated Press, unofficially proposed a ban on bottom trawling unless any nation "determines that its continuation in an area would not cause significant adverse harm." 
+The high seas -which 
+
+extend beyond nations' 200­mile offshore exclusive econom­ic zones -cover nearly two­thirds of the planet, yet only about 25 percent of it is subject to international treaties. 
+Stevens and Sen. Daniel Inouye, D-Hawaii, tried to get the Senate to toughen up the 
+U.S. stance, 
+
+anywhere it's unregulated. While Brazil, Chile, Germany, the Netherlands, South Africa and, now, the U.S. have expressed support for regulat­ing bottom trawling on the high seas, Spain, Russia and Iceland are among those that oppose it. 
+The U.S. allows but regulates bottom fishing in U.S. waters. The practice involves boats dragging huge nets along the sea floor scooping up orange roughy, blue ling and other fish while bulldozing nearly every­thing else in their path. 
+"It's like clear-cutting the for­est to catch a squirrel," said Joshua Reichert, head of the private Pew Charitable Trusts' environment program, which has been leading an interna­tional coalition of more than 60 conservation groups against the 
+Associated Press 
+WASHINGTON -President Bush called for a halt to destructive fishing on the high seas Tuesday and said the United States will work to elimi­nate or better regulate prac­tices such as bottom trawling that devastate fish populations and the ocean floor. 
+Bush directed the State and Commerce departments to pro­mote "sustainable" fisheries and to oppose any fishing prac­tices that destroy the long-term natural productivity of fish stocks or habitats such as seamounts, corals and sponge fields for short-term gain. 
+He said the U.S. would work with other nations and interna­tional groups to change fishing practices and create interna­tional fishery regulatory groups if needed. 
+The memo was issued a day before United Nations negotia­tions open in New York on an effort to ban bottom fishing 
+practice. 
+"The  White  
+House  ...  has  
+once  again  
+come  out  
+
+strongly in sup­port of ocean conservation, proving that there is biparti­san support for ending the destruction of the worlds oceans, Reichert said. 
+Bush created a national monument in June to protect t h e 
+"The White House ... has but they
+couldn't 
+
+once again come out muster suffi­
+strongly in support of cient support for it last
+ocean conservation, 
+week. Along
+
+proving that there is 
+with conser­bipartisan support for vation groups, they want the
+ending the destruction of 
+U.N. to create
+
+the worlds oceans. " 
+regional fish­eries manage­Joshua Reichert ment organi­zations to
+environmental program 
+impose
+
+
+leader 
+restrictions in 
+
+
+Pew Charitable Trusts 
+the Pacific, 
+Indian and 
+Central 
+
+Atlantic and Southwest Atlantic oceans. 
+"The United Nations must put an end to unregulated fishing practices on the high seas and call on nations to stop their ves­sels from conducting illegal, unreported, and unregulated high-seas bottom trawling, until measures to regulate this prac­tice are adopted," Stevens said Tuesday. 
+Reichert and groups such as Greenpeace, Conservation International and the Natural Resources Defense Council have waged a two-year global cam­paign costing an estimated $5 million lobbying for action by the U.N. this fall. 
+"We're not saying no bottom trawling ever. We're saying unregulated bottom trawling ought not to occur," said Lisa Speer, a New York-based senior policy analyst at NRDC. 
+The National Academy of Sciences said in a 2002 report that bottom trawling can wipe creatures and seafloor habitats, particularly gravelly, muddy spots. 
+"Many experimental studies have documented the acute, gear-specific effects of trawling and dredging on various types of habitat," it said. 
+The report recommended doing less such fishing, chang­ing the gear and closing off some areas to fishing. 
+the fishing industry fears a "potential spillover effect" of any high-seas ban into U.S. waters, said Stacey Viera, a spokeswoman for the National Fisheries Institute, representing the $29 billion-a-year seafood industry. 
+"If we call bottom trawling an activity that should not be done in the high seas, then why would it be done anywhere else? That's the concern here," she said. "Don't demonize one type of fishing gear." 
+Viera said the industry would support limited closures in places where the United States worked closely with other nations to identify sensitive marine ecosystems. 
+That would be impossible, said marine biologist Sylvia Earle, who recently helped per­suade Bush to protect the Northwestern Hawaiian Islands. Earle, an explorer-in­residence at the National Geographic Society, said bottom trawling is unquestionably destructive, like "bulldozers that go in the sea." 
+THE OBSERVER 
+
+
+
+
+
+
+
+
+
+
+IEWPOINT
+page 10 Wednesday, October 4, 2006 
+THE OBSERVER 
+Candidates must discuss real issues 
+P.O. Box 779, N<>t<e Dame, IN 46556 024 South Dining Hall. Nom Dame, IN 46556 
+EDITOR IN CHIEF 
+MikeGilloon 
+
+MANAGING ED110R BusiNESS MANAGER Maddie Hanna Jim Kirihara 
+AssT. MANAGING EDITOR: Rama Gottumukkala 
+AssT. MANAGING EDITOR: Robert Griffin 
+NEWS EDITORS: Kate Antonacci 
+
+Mary Kate Malone 
+VIEWPOINT EDnoR: Joey King 
+SPORTS EDITOR: Ken Fowler 
+
+SCENE EDITOR: Brian Doxtader 
+SAINT MARY'S EDITOR: Kelly Meehan 
+
+PHOTO EDITOR: Dustin Menndla 
+GRAPHICS EDITOR: Jeff Albert 
+ADVERTISING MANAGER: Sharon Brown 
+AD DESIGN MANAGER: Nina Pressly 
+CoNTROLLER: Kyle West 
+WEB ADMINISTRATOR: Rob Dugas 
+
+SYSTEMS ADMINISTRATOR: Alejandro Gerbaud 
+OFFICE MANAGER & GENERAL INFO 
+(574) 631-7471 
+FAX 
+(574) 631-6927 
+ADVERTISING 
+
+(574) 631-6900 observad@nd.edu 
+EDITOR IN CHIEF 
+(574) 631-4542 
+MANAGING EDITOR 
+
+(574) 631-4541 obsme@nd.edu 
+ASSISTANT MANAGING EDITOR 
+(574) 631-4324 
+BUSINESS OFFICE 
+(574) 631-5313 
+NEWS DESK 
+
+(574) 631-5323 obsnews.1@nd.edu 
+VIEWPOINT DESK 
+
+(574) 631-5303 viewpoim.l@nd.edu 
+SPORTS DESK 
+
+(574) 631-4543 sports.l@nd.edu 
+SCENE DESK 
+
+(574) 631-4540 scene.l@nd.edu 
+SAINT MARY'S DESK 
+smc.l@nd.edu 
+PHOTO DESK 
+
+(574) 631-8767 obsphoto@nd.edu 
+SYSTEMS & WEB ADMINISTRATORS 
+(574) 631-8839 
+THE 
+
+OBSERVERONLINE 
+www.ndsmcobserver. com 
+POLICIES 
+
+The Observer is the independent, daily newspaper published in print and online by the students ofthe University ofNotre Dame du Lac and Saint Mary's College. Editorial content, including advertisements, is not governed by policies ofthe administration ofeither institution. The Observer reserves the right to refuse advertisements based on content. 
+The news is reported as accuratdy and objectively as possible. Unsigned editorials represent the opinion of the majority ofthe Editor in Chief, Managing Editor, Assistant Managing Editors and department editors. Commentaries, letters and columns present the views ofthe authors and not necessarily those ofThe Observer. 
+Viewpoint space is available to all readers. The free expression ofall opinions through letters is encouraged. Letters to the Editor must be signed and must include contact informacion. 
+Questions regarding Observer policies should be directed to Editor in Chief Mike Gilloon. 
+POST OFFICE INFORMATION 
+
+The Obsc~ (USPS 599 2-4000) 1$ publish~ Monday through FrUby except during aam and v:u;ation _pffiods. A subscription ro The Ob6cm:r is $100 fOr one a:ademic year; $55 fur one !>C'mcster, 
+The Observer is published at; POSTMASTER 
+
+024 South Di11ing Hall • Send address corrcccions to: 
+Notre Dame. IN 46556..0779 ThcC>bKtver 
+P"eriodica! postage paid at Nor.re Dame r..n&:x.m 
+
+and additional mailing offices. 024 South Dining Hall 
+Norrt Dame, JN 46556-0779 
+The Observer is a member ofthe Associated Pr~ All n:produaion rights. are tCSI:!tvcd. 
+I love this time of year. The leaves change, the weather cools down and political commercials heat up. With elections just around the corner, the American people will decide which can­didate deserves his or her vote, and both parties are doing their best to snag the most voters. And this year, for the Republicans, desper­ate times call for des­perate measures. As a result, Americans are left in the dark about key issues as our nation continues A Word to the on a downward spiral Wzse to disaster. 
+The United States has soldiers dying everyday in Iraq and all some candidates can talk about is gay marriage, abortion and flag burn­ing. While these issues are important, they affect only a small number of peo­ple in our country. The war in Iraq, however, is affecting not only the United States, but also the whole world. Yet the Republicans are not talking about it. As the New York Times edito­rial board explained this last Sunday, "Politicians running for election want to deliver good news, and there is noth­ing about Iraq-including withdrawal scenarios-that is anything but omi­nous". Controversial issues, such as gay marriage and abortion, are merely a ploy by conservatives to capture the conservative to moderate vote on life, moral and religious issues, and to make people temporarily forget about the war. I am sure thousands of people voted for President Bush in the last two presidential races because of his plat­form on abortion and being Pro-Life. Yet after four years of Republicans con­trolling the House, Senate, and the presidency, abortion has yet to be banned. These one-issue voters need to think twice about what being Pro-Life means before they vote. Countless American soldiers and Iraqi civilians are losing their lives everyday in an unjust war; a war the government chose to start. lED's (Improvised Explosive Devices), one of the main weapons used in this war, stop a beat­ing heart just like abortion. This sounds to me like a Pro-Choice administration; someone else choosing the life worth of a human being. 
+
+
+For a long time we all fell for the politicians' tricks, focusing onour faith and morals rather than on our country and well-being. Some citizens often felt shamed and damned by their respec­tive religions if they did not conform to religious teaching on political matters. But now, thankfully, we are all begin­ning to ask questions. The supposed "War on Terror" is becoming a main focal point, as it should, in this upcom­ing election, and it is time for our ques­tions to be answered. 
+While we now know the reason for which we entered the war was wrong (WMD's anyone?), questions are now surrounding the current Iraqi condi­tions and the President's war evacua­tion plan. As the New York Times explained, "Growing violence, not growing democracy, is the dominant feature of Iraqi life. Every Iraqi knows this. Americans need to know it too." The U.S. government entered the war without the approval of the United Nations, trying to control the Iraqi gov­ernment, and supposedly entered due to "national security" issues. But what does the government do now? Conditions are horrendous in Iraq, civilians and U.S. soldiers are dying everyday, and as Heathrow Airport will tell you, the world is still affected by terrorists. The Bush Administration should not question one's patriotism if he or she questions the war, saying that we all need to support our troops. I support the troops strongly enough to not want to waste their lives by pro­crastinating with an evacuation plan. It seems the Bush administration was not supporting the troops by sending them abroad without a clear exit strategy. Our national security now seems to be at an even higher risk since we have begun this "War on Terror." Lives are in danger at home and abroad. However, if the government could get its act together, start answering ques­tions and admitting their mistakes, my American pride and sense of safety, and that of many others, could be restored. 
+The window of opportunity to leave Iraq in a somewhat civil manner is rap­idly closing. An exit plan needs to be produced and the American people need to be told the truth; the truth about 9/11, the non-existent WMD's and the current Iraqi situation. The sooner this happens, the sooner our country becomes more secure and our allies strengthened. Americans need to turn off Rush and read Washington Post editor Bob Woodward's new book. I've watched "All the President's Men", where Woodward uncovered the lies and deceptions of the Nixon Administration. And now we are seeing history repeat itself. Bob Woodward is once again revealing scandals, this time about 9/11 and the Iraq war. This elec­tion, instead of voting strictly for reli­gious or selfish reasons, the American voter needs to vote for the candidate or party that will strive to look out for the well-being of all Americans, as well as the world in which we interact. 
+Katie Palmitier is a sophomore political science major. She can be contacted at kpalmiti@nd.edu 
+The views expressed in this column are those of the author and not necessarily those of The Observer. 
+EDITORIAL CARTOON 
+
+
+TODAY'S STAFF 
+
+News  Sports  OBSERVER POLL  
+Amanda Michaels  Tim Dougherty  
+Kaitlynn Riely  Fran Tolan  
+Ryan Sydlik  Grant Schmidt  Does Notre Dame need  
+Viewpoint  Scene  to increase the number of  
+Kara King Graphics  Sean Sweany  Catholic faculty members?  
+Jeff Albert  Vote by Thursday at 5 p.m.  
+at www.ndsmcobserver.com  
+
+:to the Editor at 
+1~ www.ndsmcobserver.com 
+
+
+1Submit aLetter~ 
+QUOTE OF THE DAY 
+"Destiny is a name often given in retrospect to choices that had dramatic consequences. " 
+J.K. Rowling British author 
+
+
+THE OBSERVER 
+
+
+
+IEWPOINT
+Wednesday, October 4, 2006 page 11 
+LETTERS TO THE EDITOR 
+
+
+U-WIRE 
+46 million-or-so, who cares? 
+It is a big deal. People's lives are a very big deal. For about 46 million uninsured Americans, it's a huge deal. 
+Warning: I begin by commenting that 
+this topic is so broad and detailed I only cover a few Christopher facets. Taylor 
+I have had the opportunity to work 
+Daily Kent 
+
+with a number of 
+Stater
+
+patients in the hos­pital setting who are uninsured, and also poor and unem­ployed. Of course, many Republicans jump to the conclusion that they 
+choose to live off welfare or Social Security checks and are lazy, even though they might be 80 years old or 
+missing a leg. 
+These patients do not have any form of health insurance, making adequate treatment and regular check-ups something unaffordable. Even in emer­gency settings, patients are sometimes more concerned with how they will afford their bills and less about their healing process. 
+Make no mistake, the United States already extends partial benefits to sup­port health care for less fortunate peo­ple. This comes at the expense of the taxpayers and to the objection of igno­rant people who seem to think getting rid of Medicare or other government grants toward health care will save them a few bucks. The government pays for roughly 60 percent of all spending on health care already. 
+But if we stop thinking like the aver­age, selfish American, we begin to understand the unmistakably human element concerning the protection of our fellow citizens. It is our moral obli­gation to help those in need. 
+I am not endorsing the idea of having nationalized health care until I am absolutely sure that it will be effective in the United States. But in theory, I think it would work pretty well. 
+Several smaller European countries have already adopted the system and seem to function well. In fact, these developed nations are posting better infant survival rates and higher life expectancy for their citizens. We must be concerned about not only acquiring quality health care, but also insist that health care is affordable and available to all people. 
+People who voice concerns about nationalized health care are usually afraid that the bureaucracy would expand to become even larger and that their right to control their own care will be in the hands of the government. Unfortunately, the government already has expanded through the worthless Office of Homeland Security while Bush listens to our calls to grandma. 
+We must remember, as congressman Jim McDermott said in 2004, "National health care does not mean government medicine." It does mean that nearly all people will be insured. There would be no more rising premiums based on a competitive private industry. There would be a mass reduction in the num­ber of people filing bankruptcy due to medical debt. And people would be assured that their insurance would not be stripped away because of a pre­existing condition. Also, people who already have health insurance would not be turned away from a facility because their insurance company is not accepted. 
+So, instead we stick with our current system of stuffing money down the throats of the slimeball insurance com­panies who don't give a rat's ass about anybody, while causing more employ­ers to pile the costs on their employ­ees. 
+I'm not expecting people to cooperate with the "European" way of doing health care when we can't even switch to the metric system. 
+This column originally appeared in the Oct. 3 issue ofthe Daily Kent Stater, the daily publication at Kent State University. The views expressed in this column are those ofthe author and not necessarily those ofThe Observer. 
+
+EDITORIAL CARTOON 
+AS~EEP AT THE SWITCH? 
+
+.. .WE CAN'T
+AND WHAT'S 
+S~AME THIS
+
+DEPRESSING 
+ONE ON
+IS. .. 
+
+
+ct.INTON/ 0 
+
+Connecting with Brazil 
+What do you think of when someone mentions Brazil? Pele, the rainforest, and Carnaval cos­tumes? Stereotypes inevitably result from sporadic U.S. media attention and relatively less cover­age than that of other regions of the world, namely the Middle East. 
+Daily, as I respond to phone calls and constituent mail in the Cultural and Public Affairs sector of the Brazilian Embassy, I realize that many Americans want to know more about Brazil than just World Cup players, palm trees, and swimsuits. Enjoy the events of this week -Brazil Week -as springboards into an expanded understanding of our important neighbor to the south. 
+As the global energy crisis grows more severe, more Americans rec­ognize Brazil as a potentially great source of alternative fuel. However, Brazil and the U.S. are more than just trade partners. The historical cultural bonds between the two nations are strong. Few people realize that in the past cen­tury, Brazilian artists influenced classical music and opera in the United States. Likewise, Brazilians transformed American jazz and rock and roll into unique expres­sions. 
+Because cultural exchange is a critical aspect of expanding fel­lowship between nations, I encour1J,ge you to increase your awareness of Brazil by attending Brazil Week events. Participating in such cultural events by savoring unique Brazilian cultural differ­ences will not only enrich your Notre Dame experience, but also will enhance international rela­tions at a grassroots level. 
+Megan Sheehan alumnus Class of 2006 Ocr. 3 
+
+Advertising not only 
+• 
+ISSUe 
+
+I am writing to thank Ms. Gragg, for her Oct. 3 letter in response to my opinion ("Walk the walk?", Oct. 2) I did not say Notre Dame was losing its morals, I just asked the question. Her response clearly affirms my concerns and gives me just cause to further clarify my opin­ion. 
+First, I never stated that Notre Dame was in any way responsible for these commercials. However, the fact that there was no objection, or hint thereof, from our university to ABC I do find disappointing. 
+Second, the fact that many folks, did not even "see" or "recognize" these repeated com­mercials is of concern to me. Are we numb to these images/suggestions? As to the points related to watching this show: Electing to watch this show is entirely different than its message being thrown at unsuspecting folks via repeated commercials. The suggestion that we should just hide our eyes and our children's eyes to watch Notre Dame football-is pre­posterous. Turning away and avoiding the evils in our society is exactly the apathy that I refer to. We, as Catholics, do not need to "just toler­ate this and stop whining." On the contrary, we should voice our opinion and work to change the society in which we live. 
+These types of ads have no place in prime­time family television or anywhere near Notre Dame football. Finally, to deny the impact of television programming on our society is as naive as not understanding the dangers of sec­ond hand smoke, violent video games or the like. Media attacks on marriage, fidelity, etc. are hurting our society and should not be accepted. Using Notre Dame football, to "reach their audience" and promote this message in my humble opinion is flat out wrong. We are ND, and this is why we have a responsibility not only to volunteer in worthwhile causes, but walk with our faith in everything we do. I would encourage you to not give up and don't accept these attacks, we can change the socie­ty within which we live. Next Sunday, say a rosary before Mass with your friends. This act will be much better preparation for Mass. 
+Mick Connors alumnus Class of1988 Ocr. 3 
+
+r-------------------------------­
+THE OBSERVER 
+CENE
+page 12 
+Wednesday, October 4, 2006 
+SEASON Two DVD REVIEW 
+By LAURA MILLER 
+Scene Writer 
+After its quiet entrance to ABC in March 2005, "Grey's Anatomy" had an unexpect­ed -but well-deserved boom during its second season. At tho beginning of the first year, "Grey's" looked to be nothing more than perhaps an adequate substi­tute for the "ER" post-glory age. It was "that show" after "Desperate Housewives," but by the end of the sea­son, more people tuned in. This influx of viewers was enough to encourage pro­ducers to order a second, full season, which gathered its own following and picked up steam. 
+Season 2 is easily more focused on the dramatic aspect of its plot than Season 1. The interaction between the doctors and their patients becomes the focus, rather than the more nitty-gritty aspects of working in an on. 'fhis is not to say the 
+Greys Anatomy Season Two 
+Buena Vista Home Entertainment 
+show is no longer medical but unlike other shows, the patients do not take cen­terstage. The patients are important in their interaction with the doctors -they reveal truths about the characters, move the plot forward and help the show com­municate its messages about the chal­lenges of life and love. 
+Frequently accused of being a prime­time soap opera, "Grey's" is much more, mo!)tly tlJ.anks to the quality of acting. The cast of "Grey's" might experience some out·of~the-ordma.ry drama. but their act­ing is far from shoddy. Each actor shows a diversity of character -able to exhibit wit; anger and sadness in relatable and realistic proportions. Unlike soap operas, the cast is more static. Aside from the patients, who movein and out of the hos-pita!, the doctors do not have "high turnover." 
+
+There are, however, some new faces in Season 2. Addison Shepherd (Kate Walsh), the surprise wife of surgeon Derek Shepherd (Patrick Dempsey), con­tinues to appear in the second season. Her stern demeanor and uncomfortable chilliness bring a unique dimension to the cast of characters. Also new to the cast is Callie Torres (Sara Ramirez), a resident who has a fling with George O'Malley 
+(T.R. Knight). At first she seems awkward, but as the season progresses, she proves an excellent and vibrant addition. 
+New characters were not the only change made during the break between seasons. The show also makes slight sty­listic changes. Most notable is the Joss of the "self-contained episode." Rather than the patients chan~:,>ing with each episode, the sereenwriters begin to .have overlap within the episodes. The most notable evi­dence of this is Denny (Jeffrey Dean 
+Morgan), a patient waiting for a heart transplant who becomes involved with ­and engaged to-surgi­cal intern lzzie Stevens (Katherine Heigl). 
+Despite this change, the show starts in the same manner as the first season -as a narrative of Meredith Grey (Ellen Pompeo). Although simi­lar to the format of the openings of "Desperate Housewives" and "Sex 
+
+and the City," Pompeo gives a good tone to the show and help organize and direct the audience before launching into the stories' many intertwining plot lines. 
+The show is also becoming a popular venue for hit singles and allows artists previously not well known to expand their index of hits -The Fray and Snow Patrol are excellent examples. The show expands itself to accommodate music videos in which clips from the show are put to one of the hit singles -a brilliant marketing strategy to be sure. 
+With the first two seasons now avail­able on DVD and the fiery start of Season, 3 last month, "Grey's Anatomy" has quickly become a primetime TV staple. 
+Contact Laura Miller at lmiller8@nd.edu 
+MEDICAL DRAMAS FEATURE 
+By MARTY SCHROEDER 
+Assistant Scene Editor 
+If the pun of a title didn't give it awa: 
+the Emmy-award winning "Grey' 
+Anatomy" is not the first medical sho' 
+to captivate television audiences with 
+surgically constructed combination 1 
+science, drama and humor. 
+"Grey's Anatomy" began in 2005 an 
+has exploded on the TV scene. While tb 
+first season was an exploration of tq 
+medical part of the hospital, the secoJ· 
+and now third seasons have brought 
+sexual tension, Florence Nightinga 
+effects and more Emmy's than AB 
+knows what to do with. 
+While this show has brought som 
+new television story-telling techniquej 
+it is a little brother to the previous mei 
+ical dramas, the greatest of those beiii 
+"ER" but also including "House, M.D 
+and "Scrubs." 
+"ER" first aired in 1994 as a creatio 
+of novelist Michael Crichton (an M.l 
+himself). Starring George Clooney an 
+Julianna Margulies as Dr. Doug 
+and Nurse Carol Hathaway, re!lP€lCtJlVe 
+this show was able to take the range 
+drama from relationships to the oper 
+ing room and meld them together in 
+not only a coherent story, but also 
+vastly entertaining and engraini 
+series. 
+This show is also interesting 
+
+every original cast member has 
+left the show to move on in his or 
+acting careers. Popular actor No 
+Wyle, who portrayed Dr. John 
+left after the 11th season. It is som 
+thing of an achievement for a show 
+lose every cast member from the 
+and still be a viable television series, 
+the ensemble nature of "ER" allows 
+writers ·and producers to create n 
+characters and phase out old ones 
+audiences become attached to the 
+ones. It seems to be a viable option, 
+"ER" will be entering its 14th season 
+2007-2008. 
+This ensemble cast idea most uvJLUllLL"'I . ly had an influence on the 
+of "Grey's Anatomy." Even 
+Meredith's voice-over narrations 
+much of the pleasure of the show, 
+ers identify with many of the 
+while more permanent charaeters 
+Dr. Meredith Grey (Ellen Pompeo), left, treats a patient on The female medical staff of Seattle Grace Hospital attend "Grey's Anatomy." The show airs Thursday nights on ABC. to a patient on the award-winning showfGrey's Anatomy~"
+Dr. Miranda Balla 
+THE OBSERVER 
+
+-
+CENE
+Wednesday, October 4, 2006 
+page 13 
+added every season. The cast began with only eight characters and then grew to 10 for Season 2 and now includes 12 in the current third season. As the show becomes more complicated and the characters' relationships grow, it's only natural that more characters be added to the mix of the show to interact with and change the relationships of the existing characters. 
+It will be interesting to see if "Grey's Anatomy" will have the longevity of "ER." The NBC show owes its existence to the serious tone of its program. The drama in the show, whether medical ­with lives at stake, or relationship-cen­tered -with hearts at stake, appeals to young adults to middle-agers to baby­boomers. "Grey's Anatomy" does not have that same high-class production value or as serious a cast to accompany it. Time will tell how long "Grey's Anatomy" will remain on the air, but for now it is riding the wave along with another medical television series that breaks all the rules concerned with ensemble television. 
+"House, M.D.," also in its third season, is a character-driven drama, which focuses more on the medicine and dis­eases than the relationships between characters. This is not to say that no drama exists. 
+House tears into his interns, who then tear into themselves and, in the end, always seem to be able to find a solution for the problems of their patients. The stodgy House tempers his rapier wit with a vast knowledge of medicine that makes viewers become repulsed and interested in the character at the same time. 
+The number of medically themed shows on television makes it one of the most popular genres -with at least three on the air right now. However. the television powers that be were able to find variations to make a mix of emo;;: tions and dramatic instances. 
+"ER" may have been the forbearer,bpt the torch is now in the hands of a hewer breed of shows with star power,l(}v~ and characters just trying to get bY: With stress-filled jobs and stress..fillecl: :tela~ tionships. 
+· 
+Contact Marty Schroder at 
+mschroel @nd.edu 
+"GREY'S ANATOMY" FEATURE 
+By ANALISE LIPARI Assistant Scene Editor 
+At the close of the highly watched sec­ond season of ABC's popular medical drama "Grey's Anatomy," audiences were left with a series of maddening clifThang­ers. The show's protagonist, aspiring sur­geon Dr. Meredith Grey (Ellen Pompeo), had just slept with Dr. McDreamy himself, Derek Shepherd (Patrick Dempsey), put­ting both her new relationship with cute veterinarian Finn (Chris O'Donnell) and Derek's fragile marriage to fellow surgeon Addison (Kate Walsh) at risk. 
+Her fellow surgical interns were no less engrossed in complicated storylines. Amidst the drama of the hospital prom, Izzie (Katherine Heigl) lost her beloved patient and fiance Denny (Jeffrey Dean Morgan) to heart failure, and left Seattle Grace shortly thereafter. Dr. Karev redeemed his womanizing ways some­what as he attempted to comfort the grieving Izzie. At this point, their roman­tic future remains speculation. 
+The fledgling romance between Drs. Burke and Yang (Isaiah Washington and Sandra Oh respectively) was also on shaky ground after Burke suffered a potentially debilitating injury to his spinal chord. Lastly, sweet and lovable George 
+(T. R. Knight) was left unable to say, "I love you," having heard his new girlfriend Callie (Sara Ramirez) utter those three fateful words earlier in the season. 
+The highly anticipated third season of "Grey's" began airing two weeks ago at its new time, Thursdays at 9 p.m. So far, it has fared well in the ratings race against CBS's No. 1 show, "C.S.I.: Crime Scene Investigation," the former ratings power­house of that time slot. 
+"The move of "Grey's" to Thursday defi· nitely changed the dynamics for us," said Jeff Bader, head of scheduling at ABC, in a recent Associated Press article. 
+As the complicated storylines continue to develop, they and the drama of "Grey's" must keep working to maintairt and expand that strong viewership. After two weeks, the surgeons of Seattle Grac$ .. h<1,ve embroiled themselves in further. drama, resolving some storylines while fleshing out others. In particular, the love triangle between Meredith, Finn and Derek has become a regular: character struggle, with Meredith resolving to date both men. Considering her luck with men in the show's previous seasons, one can only speculate as to how thi$. stpryline may resolve itself. 
+
+Izzie, having taken to sitting Shiva and maniacally baking in grief over Denny's death, closed last week's episode having reconciled with her supervisor, Dr. Bailey (Chandra Wilson), and standingtentative­ly outside of Seattle Grace's double doors. Her return to the hospital seems likely, but dealing with the consequences of both the loss of Denny and her actions prior to his death will be a difficult task for the show's writers. 
+One interesting addition to the cast is Dr. McSteamy, or pr. Mark Sloan (Eric Dane), the man wbilse affair with Addison ruined the Shepherds' marriage for good. Dr. Sloan has only briefly appeared in previous episodes. However, a recent renewal of his contract for several subse­quent episot;fes implies that McSteamy is, in fact, here to stay in Seattle. His pres­ence on the show should impact plotlines on "Grey's" this fall. 
+"Sloal}, of course, was the reason Derek moved to Seattle in the first place, when his fortner best friend slept with his wife," said a,recent Zap2it.com article. 
+"His ongoing presence will either set up two interlocking love triangles (Meredith­Finn-Derek and Derek-Addison-Sloan) or one big love pentagon," the article said. 
+In the past, the strength of "Grey's Anatomy" was its constant emphasis on compelling writing and storytelling. While each medical story featured in a weekly episode may seem over the top on occa­sion, the characters involved -both staff and patients -seem realistic, as though they've been in our living rooms for years rather than only two seasons. 
+Season 3 began on a slightly weaker note than previous years, with Izzie, an audience favorite, spending the entire episode laying on the floor in her dejected prQm dress. Meredith's recent decision regarding Derek and Finn seems more like a plot device to ensure continuous drama than the move that a realistic WOtnan might make. It's early in the S(la­sori; meaning that viewers hay-e a chance to see how "Grey's" developsihthe dil;n­
+ingweeks. ···....... 
+Contact Analise Lipari at alipari@nd.edu 
+Dr.DarakShaphard 
+
+~·· 
+..... 
+THE OBSERVER 
+CENE
+page 14 Wednesday, October 4, 2006 
+MOVIE REVIEW 
+
+Korean film gives insight into life of a soldier 
+By ERIN MCGINN Assistant Scene Ediror 
+Compulsory army service would be ter­ribly hard to apply in America today. In Korea, however, with the constant threat of North Korea across the border -it's a way of life. Every male in South Korea must spend 24-28 months serving in the army sometime between the ages of 20 and 30. 
+Director Jong-Bin Yoon depicts this way of life and the effects of the compulsory military service in his film "The Unforgiven." 
+The film revolves around Lee Seung­yeong (Seo Jang-weon), a Korean citizen who joins the army for 26 months of mandatory service after spending time in college. He constant­
+core of the movie, are flashback scenes. The present time is a year or so later when Seung-yeong is on his leave and goes to visit Tae-jeong. Seung-yeong per­sistently tries to have a serious conversa­tion with Tae-jeong, who is instead more interested in entertaining his girlfriend, Ji­hae (Sung-mi Kim). The movie then cuts between Seung-yeong's experiences in the military and his attempts to reconnect with Tae-jeong in the present. 
+"The Unforgiven" was created by direc­tor Jong-Bin Yoon as his fmal student film before graduation from film school in South Korea. He created the movie as a reflection upon the experiences he encountered while completing his compul­sory military service. Admittedly, the movie is more toned down than Yoon ini­tially intended since he needed approval 
+of the script by the 
+
+
+ly questions the South Korean mili­behavior of both his The Unforgiven tary before he was superiors and other 
+allowed to begin soldiers and is seen filming. as more rebellious More than a than the other sol­movie about the Director: Jong-Bin Yoon 
+diers. One of his military life, "The superiors, Yu Tae­Starring: Seo Jang-weon, Ha Jeong­Unforgiven" focuses 
+woo and Han Sung-chon
+jeong (Ha Jeong­more specifically on 
+woo), recognizes him from school in their adolescence and does his best to try to help him out by giving him tips on sur­viving in the army. Because he is Seung­yeong's superior, he does his best to keep their friendship a secret from the others in their bunker. As time progresses, Seung­yeong finds military life to be more and more difficult and is bullied by the ser­geants when Tae-jeong is not around. 
+The scenes of military life, though the 
+the relationships 
+that develop between the men while they are serving. Instead of focusing on any war action, the movie plays out more like 2005's "Jarhead" with an emphasis on the psy­chological effects of being in the army and the personal interaction between the men. 
+Far from being a completely serious movie, there are several comedic moments in the film. Most of these revolve around Heo Ji-hoon, a junior to Seung-
+
+DVD REVIEW 
+Key issues raised in 'Thank You for Smoking' 
+By MARTY SCHROEDER Assistant Scene Ediror 
+
+Propaganda -a buzzword with highly negative connotations denoting something meant to elicit a response without the viewer thinking hardly at all. 
+Few issues could be brought up that deal more with propaganda than smoking. The ubiquitous ad campaigns on television warning of the dangers of smoking and the evil empire of smoking companies are legion and offer very little on the other side of the coin. Smoking is dirty, unhealthy and tobacco companies do nothing but deceive trying to make a quick buck. 
+Enter "Thank You For Smoking." Hevolving around the life of Nick Naylor (Aaron Eckhart), a lobbyist working for Academy of Tobacco who studies the fic­tional parody of the actual Tobacco Institute, this fllm explores the side of the tobacco industry the Stand and Truth campaigns don't talk about -what goes into selling cigarettes. 
+The dull nature of this film, exploring the tobacco industry and the journey of Naylor through the film, serves it well. 
+and family while telling
+Thank You for Smoking his son that all those people who say ciga­Widescreen Edition rettes are bad are only giving half the story cre­ates a very nice, albeit 20th Century Fox toned down melodrama within which to frame the bigger issues the movie wants to tackle. The romantic connection between Naylor and 
+yeong, and played by director Jong-Bin Yoon himself. Based on someone he met while serving in the army, Yoon decided it would be easier for him to play the role himself, rather than try to con-vey the mannerisms for someone else to portray. The decision served him well, and Ji-hoon is a well-liked character. 
+One issue that has arisen in Western showings of "The Unforgiven," is the dif­ference of culture between South Korea and Western countries. In discussing the fllm, Western audiences have brought up scenes where homosexuality is implied. 
+Yoon himself addressed this while speak­ing at the DeBartolo Performing Arts Center Monday, stating that the interac­tion is simply a difference of culture and nothing more -something implicitly obvi­ous to Korean viewers. 
+Since its debut in 2005, "The Unforgiven" has held a run in South Korean theatres, been presented at the Cannes film festival and is currently on a university tour through the United States. 
+Contact Erin McGinn at emcginn@nd.edu 
+Naylor's son, whom he is trying to raise well while working for a so-called evil industry, raises many pertinent questions not only for his father but for the audi­ence. Are tobacco companies evil or are they merely selling a product people are free to buy or not buy at their choosing? 
+The film explores this in the context of a supposed new label on cigarette packages which will include a skull and crossbones indicating their unhealthy nature. The companies send Naylor to Hollywood to attempt to bring cigarettes back into the movies and so back into "cool." Rob Lowe plays the eccentric Hollywood executive, Jeff Megall, who is oddly obsessed over Asian culture and seems to never sleep. 
+All this occurs because of a label and declining cigarette sales. As Naylor travels between meetings with a tobacco execu­tive (Robert Duvall), the now cancerous former Marlboro Man (Sam Elliot) and his weekly meetings with the "Merchants of Death" (lobbyists for the alcohol and firearms industries), the audience is made privy to the nature of spin and what it means to sell a product harmful to people. 
+Naylor is ultimately a sympathetic char­acter. The struggles he faces raising his son while working for "Big Tobacco" and 
+trying to separate work reporter Heather Holloway (Katie Holmes) is trite and eould be done away with if not for the fact that Heather's story on Naylor sets up the resolution of the film. 
+
+
+This DVD has a very attractive casing but not much in the way of worthwhile extras. The DVD exists in the widcscreen format, and although the film does not capture any breathtaking vistas or any­thing of the like that showcases widescreen films, it is still better than the full screen edition. A featurette is interest­ing but, as this film did little different in the method of making films, it is really just information. 
+Overall, the film is well done and thus the DVD is successful. For a movie that purports to be a melodrama about a guy who works for cigarette companies, there are more issues raised here than in most mainstream films. It isn't revolutionary but it does elicit questions that our time is facing and for which answers are needed. The humor, the good acting and a solid script anchor this DVD with a strong film and not-so-special extras. While the movie does not give any answers as to whether there should exist more or less restrictions on smoking, it raises some goo? questions. 
+Contact Marty Schroeder at mschroel @nd.edu 
+
+
+OUND THE NATION 
+Wednesday, October 4, 2006 CoMPILED FROM THE OBsERVER's WIRE SERVICES page 15 
+MLB
+
+"' NCAA Volleyball "'·( Coaches Poll 
+team 
+1 Nebraska (41) 2 Penn State (13) 3 UCLA(&) 4 Southern California 5 Washington 6 Stanford 7 California 8 florida 9 Purdue ··13; 10 LSU 144 11 Texas 9-4 12 Santa Clara 11-3 13 Wisconsin 12 14 Ohio State 12 15 Hawaii 9-4 16 Utah 12-2 17 Missouri 11-4 18 Tennessee 13-3 19 8YU 20 Cal Poly 11-4 21 Ohio 12-3 22 San Diego 12-4 23 Pepperdlne 1),6.. ,,,,,. 24 Minnesota 10-4 25 Oklahoma 12-3 
+
+Women's Soccer Soccer Times Top 25 
+team Record, previous 
+1 NOTRE DAME (16) 11·0-0 2 North Carolina 12+0 3 Santa Clara 9-2-0 4 UClA 9-2•0 5 Florida State 8-1*1 ?W 6 Portland g.M 7 West Virginia 9-H 8 TexasA&M 8-H 9 Wake Forest 11·2"ll 
+Associated Press year ago after Jack The cost-conscious with Beinfest, assistant 10 California N~a··•····· McKeon resigned. Instead Marlins wanted Girardi out general manager Mike Hill 
+11 Brigham Young 9-1~1 
+
+MIAMI -Once the run­they hired Girardi, but his so badly they were willing and team president David 
+12 Virginia J;;a;:;t>.. 9 
+ner-up to Joe Girardi for relationship with Loria and to let him go with two Samson. 
+13 Penn Stale 1·HW' 8 
+the job of managing the general manager Larry years left on a guaranteed 'They came in and said,
+14 Tennessee 
+s;.a;:a/t 16 
+Florida Marlins, Fredi Beinfest soon soured. three-year contract, which 'We're going to make a
+15 Oklahoma State!Jl n 21
+Florida ··.·.·... 
+Gonzalez became his suc­Gonzalez was born in may cost them as much as change,"' Girardi said. He
+16 14 
+cessor Tuesday. Cuba and raised in Miami, $1.5 million. The Marlins said no reason was given,
+17 Vilfanova 20 
+The Marlins fired becoming the first manag­made the move even and he didn't ask for one.
+18 Colorado 181 
+Girardi, and five hours er in the Marlins' organi­though Girardi's consid­Loria did not attend the
+19 Southern California 181 
+later announced that he'll zation when they hired ered a strong candidate for meeting but later spoke to
+20 Texas 13 .·.....:.,.:.:.,.,:,.:,
+22,;.::::::•::········ be replaced by Gonzalez, him to run their first NL manager of the year. Girardi by phone, a
+21 Duke 
+
+third-base coach for the minor league team in Erie, The Marlins had base­spokesman for the owner
+22 Boston University 24 
+Atlanta Braves the past Pa., in 199·2. Beginning in ball's youngest team and said.
+23 Illinois NR 
+24 toyota Marymounl NR four years. Girardi's 1999, he coached third lowest payroll at $15 mil­Girardi, an Illinois 25 Stanford 25 . departure after only one base for 2 1/2 years under lion, but Girardi led them native, Northwestern grad­season had been expected Marlins manager John to a 78-84 record, and uate and former Chicago after his rift with owner Boles. they were in contention for Cubs catcher, becomes a Jeffrey Loria boiled over in "It's a long way from a playoff berth until a late­potential candidate to MIAA Volleyball St~gdings an on-field confrontation Erie, man," a smiling September fade. replace Dusty Baker, two months ago. Gonzalez said at a news Girardi said he was fired whose four-year tenure Gonzalez, 42, inter­conference. "I hope I'm during a short, unemotion­with the Cubs ended
+league ·a~erall 
+viewed with the Marlins a here for a lot of years." al meeting in his office Monday. with Felipe Alou. 
+team record record 
+1 Calvin 9·0 16•1 2 Hope 5-1 12.& 3 Adrian 6·2 11.& IN BRIEF 4 Saint Mary's 5-3 12·5 5 Alma 3-4 6-9 
+NHLPA contiues to refute Safina advances to Round Orioles receive Stern from Red 
+6 Kalamazoo 3-4 7-9 
+players' allegations 2 in Porsche Grand Prix Sox, complete Lopez trade 
+7 Tri-State 3-6 6-13 
+TORONTO -The head of the NHL STUTTGART, Germany-Sixth-seed­BOSTON -The Boston Red Sox
+8 Albion 1-8 6-10 Players' Association says a lawsuit ed Dinara Safina of Russia fought off sent outfielder Adam Stern to the
+9 Olivet 0·7 0·16 
+filed by a group of dissident players is three match points and defeated Mara Baltimore Orioles on Tuesday, essen­baseless. Santangelo of Italy 6-1, 5-7, 7-6 (9) in tially completing the trade that 
+"The claims issued in the complaint the opening round of the Porsche brought catcher Javy Lopez to Boston are the same claims that have been Grand Prix on Tuesday. in August. made repeatedly over the last 13 Santangelo held two match points in Stern batted .258 with eight home months by this tiny group," union the tiebreaker, then Safina blew two of runs and 34 RBis in 93 games at executive director Ted Saskin told The her own. Safina saved another before Triple-A Pawtucket. He injured his
+around the dial 
+Canadian Press in an interview closing out the win a day after making right hamstring and went on the dis­Tuesday. "These claims, including the her debut in the top 10 of the world abled list Aug. 16. offensive allegations of illegal conduct, rankings. He opened the season with the Red 
+MLB PLAYOFFS are completely without merit as has Safina rose from No. 11 to No. 10 by Sox but hit .150 with four RBls in 10 already been demonstrated in many reaching her 13th quarterfinals of the games before being optioned to forums on a number of occasions." year at Luxembourg last week. Pawtucket on April 19. 
+Athletics at Twins, Game 2 
+The lawsuit was filed Monday in Tatiana Golovin of France rallied to Lopez was acquired from the
+1 p.m., ESPN 
+
+U.S. federal court by Detroit Red defeat Elena Likhovtseva of Russia 4-6, Orioles on Aug. 4 when Jason Varitek Wings defenseman Chris Chelios, 6-0, 6-3 and Anna-Lena Groenefeld went down with a knee injury. Lopez 
+Dodgers at Mets, Game 1 Edmonton Oilers goaltender Dwayne beat Tatjana Malek 6-3, 2-6, 6-0 in platooned at catcher with Doug Roloson and former player Trent other first-round matches. Mirabelli and batted .190 with four
+4 p.m., ESPN 
+
+Klatt. Groenefeld, ranked No. 18, needed RBis and 16 strikeouts in 18 games In addition to Saskin, the suit also three sets to beat a 19-year-old who is with Boston. 
+Tigers at Yankees, Game 2 
+names former union president Trevor ranked No. 150 and was playing in just He was released on Sept. 8 after 8 p.m., ESPN Linden. her second event on the WTA Tour. Varitek returned. 
+
+page 16 The Observer + SPORTS Wednesday, October 4, 2006 
+NFL 
+
+Tennessee's Haynesworth wants to apologize 
+
+Tackle attempts to contact victim of vicious foot stomp 
+Associated Press 
+
+NASHVILLE, Tenn. -Albert Haynesworth wanted to say he's sorry. All he got was a lot of unanswered ringing and a voice mailbox that was full. 
+Determined to apologize to the man whose face he tore open with his cleat, the Tennessee Titans defensive tackle spent Tuesday trying to reach Dallas center Andre Gurode's cell phone, and his agent said he won't give up until he does. 
+"Albert will continue until he gets through to him," said his agent, Chad Speck. 
+Haynesworth was suspended five games without pay Monday by the NFL for kicking Gurode's helmet off, then swiping his cleated foot on the center's face while he lay on the ground. Haynesworth was ejected and apologized immediately after the 45-14 loss to Dallas on Sunday. 
+Speck said he's given his client's cell phone number to 
+NBA 
+
+Riley, Mourning return to Heat 
+president, never really defending the title."
+Miami head coach, 
+
+thought Mourning was done. Apparently, the Beat want­center prepare for "Knowing him, I think he'll ed almost everyone from the go out kicking and screaming champagne-spraying party inleague title defense before he just Dallas back for 
+goes out," Riley the defense; 
+said. "Plus, he Miami has 13
+Associated Press 
+"When it's time to
+
+still has a lot of its 15 play­MIAMI -Alonzo Mourning left. He, more turn the lights on and ers from last walked into Pat Riley's office than anybody season under
+throw the baa in the 
+
+one day this summer for some else, knows contract, and is
+air, I'm going to be still talking
+
+contract talks, yet his mind that." 
+quickly drifted elsewhere. Mourning, ready." with forward Scattered about were draw­who underwent S h a n d o n ings of something Mourning a kidney trans­Anderson
+Alonzo Mourning
+
+spent a career chasing: the plant in about a return. 
+Miami center
+
+championship ring. December Mourning 
+Right away, he knew 2003, averaged said he whole­returning to the Miami Heat 7.8 points, 5.5 heartedly was his best move. rebounds and agrees with the 
+"He had the boards for the 2.66 blocks, making 20 starts decision to keep the title team rings in there," Mourning as Shaquille O'Neal's backup virtually intact. said. "Watching it all evolve, center and ranking third in "No doubt. It's the right way then coming in to get fitted the NBA in blocks per game. to do it and the only way to for it, that just lets me know He came up especially big do it, us coming back together that it's all evolving the way I for Miami in the title-clinch­to defend our title," Mourning envisioned and I dreamed ing victory at Dallas, finishing said. "Everybody's just coming into this league 13 with eight points, six recommitted and we're look­years ago. If I rebounds and ing forward to coming back hadn't five blocked together and getting our­dreamed it, it shots in only 14 selves physically and mentally
+"Knowing him I think 
+wouldn't be a minutes, help­in a mode where we're able
+he'll go out kicking 
+dream coming ing fuel the to go out and get started." true. Now it and screaming before Heat's 95-92 Riley gave the Heat high is." he just goes out. Plus, win. marks on Day 1. 
+T h e Still, "It was fun seeing all the
+he still has a lot left. 
+marathon Mourning guys, going over old plays, process of He, more than anyone weighed the talking about what we want defending the else, knows that." retirement to get done first month, sec­NBA title option, plus ond month, third month," began Tuesday considered O'Neal said. "It was fun."
+Pat Riley 
+for Mourning other higher­At the end of the session, and the Heat, Miami Heat coach paying offers Mourning, O'Neal, and who held their from a few suit­Michael Doleac all stayed first two train-ors around the under one basket, taking ing-camp practices. league -including title-con­passes from assistant coach 
+All the regulars from last tender San Antonio -but Bob McAdoo and working on season, except for injured ultimately decided to stay put. short hook shots and jumpers point guard Jason Williams, "You have to, just tradition­until each was drenched in were there -including ally speaking, come back and sweat. Mourning, who long said he'd defend it," Mourning said. "When it's time to turn the consider retiring if Miami "That has been pretty much lights on and throw the ball in won a title. the norm. So I wanted to be a the air," Mourning said, ''I'm 
+Riley, the Heat's coach and part of that, coming back and going to be ready." 
+Gurode's agent and the Cowboys, hoping Gurode either would call Haynesworth -or at least pick up his calls to hear his apology personally. Gurode's agent, Kennard McGuire, did not immediately return mes­sages left by The Associated Press on Tuesday. 
+Gurode, who needed 30 stitches to repair the cuts, plans to talk with his family about whether or not to press charges, his agent told Nashville police Monday. 
+The Dallas Morning News reported Tuesday that Gurode still had blurry vision Monday. Gurode said after the game Sunday that he would have gone back on the field if his vision had been clear. 
+But fans and even people who pay no attention to sports con­demned Haynesworth's actions; many said five games wasn't enough. Haynesworth was replaced by a rookie teammate on his weekly radio show Tuesday night, which airs live from a shopping mall south of Nashville. 
+Speck had no comment when asked if Haynesworth might appeal the unprecedented sus­pension, and Haynesworth said after the game he deserved to 
+be suspended, whatever the punishment was. 
+"For what I did, whatever they give me, I deserve it. I did it, and it's wrong," Haynesworth said Sunday. 
+The NFL Players Association is studying the suspension, which is more than twice as long as the previous punish­ment for on-field behavior. 
+"We're just in the fact-finding stage right now," NFLPA spokesman Carl Francis said. 
+The Titans agreed to terms with Tony Brown on Tuesday as a replacement for Haynesworth on the defensi-ve line. 
+His suspension had left Tennessee with veteran Robaire Smith, Randy Starks and rookie Jesse Mahelona. Brown is a two-year veteran who has four career starts and was most recently with Carolina. 
+"I let my team down," Haynesworth said Sunday. ''I'm not saying that I'm the heart of this team, but I definitely let the team down." 
+The Titans asked the league to clarify the restrictions that would be on Haynesworth dur­ing the suspension, which will keep him off the field until Nov. 19, when the Titans visit Philadelphia. 
+MLB 
+
+Mets' El Duque likely to miss Game 1 start 
+Associated Press 
+NEW YORK -The New York Mets are running out of healthy pitchers at the worst possible time. 
+Already missing Pedro Martinez, the NL East champi­ons suddenly might have to replace scheduled starter Orlando Hernandez in Game 1 of the playoffs because of a calf injury, too. 
+El Duque felt discomfort in his right leg while he was jogging in the outfield Tuesday as the Mets tuned up for their first­round series against the Los Angeles Dodgers. The 40-year­old right-hander was pulled off the field and went for an MRI exam. 
+"Obviously, we're up in the air on who's our starter tomorrow," Mets manager Willie Randolph said. "We have some options, obviously, but we'll wait and see how he feels first and then we'll make a decision." 
+Those options are limited, however. Martinez, a three-time Cy Young Award winner, is out until next summer because of calf and shoulder injuries. 
+Tom Glavine, slated to start Game 2, pitched Saturday in Washington. So if the Mets want to bump him up, the 40-year­old lefty would be working on only three days' rest. 
+Steve Trachsel, who went 15­8 with a 4.97 ERA this year, skipped his scheduled outing last weekend to attend to a family matter on the West Coast. He was due back in New York on Tuesday evening, but Randolph said the right-hander probably wasn't an option to pitch Wednesday afternoon in Game 1 on such short notice. 
+Randolph didn't even think Trachsel had been throwing while he was away from the team. 
+That left rookie right-hander John Maine as a possibility. Maine was 6-5 with a 3.60 ERA in 16 games this season, includ­ing 15 starts. 
+But he obviously lacks the October experience the Mets 
+were  counting  on  with  
+Hernandez,  acquired  from  
+Arizona in May.  
+
+El Duque is 9-3 with a 2.55 ERA in 19 career postseason games, including 14 starts, mostly with the Yankees. He also owns four World Series rings, and his teams are 12-3 in postseason series. 
+Hernandez's MRI showed an injury to his calf, the Mets said -but they wouldn't provide further details. 
+Doctors were to re-evaluate the test results Tuesday night, and the Mets planned to wait and see how Hernandez feels when he wakes up Wednesday before deciding on a starter. They must submit their 25-man roster for the first round by 10 
+a.m. on Wednesday. 
+"It's not great news. that's for sure," Randolph said. "He was very upset." 
+As for the Dodgers, their rota­tion is all set for the first three games. 
+Derek Lowe will go in the opener, followed by rookie left­bander Hong-Chih Kuo and future Hall of Farner Greg Maddux, who has 333 career wins. 
+Lowe pitched his best ball of the season down the stretch, going 8-1 with a 2.39 ERA in his final 11 starts to help Los Angeles win the NL wild card. 
+
+Wednesday, October 4, 2006 The Observer+ SPORTS page 17 
+NFL 
+Giants regroup after locker room controversy 
+The volatile five-year veteran the coach," Barber said. "I
+
+New York downplays 
+had a temper tantrum on the think Jeremy said some thingsapparent problems sideline late in the game and in that he probably regretted and 
+the locker room afterward said that were not accurate, and it 
+
+the coaching staff did not pre­was done after it was done." Associated Press pare the team for some things Burress was very savvy on the 
+the Seahawks used. topic. He was benched in the 
+
+EAST RUTHERFORD, N.J.­Coughlin spoke to him the second half of the Seattle game Pro Bowl tight end Jeremy next day and after back Shockey won't be benched for Shockey apolo-spasms led to a comments that the New York gized. At the time, fumble and an
+"We're focused on
+
+Giants were outcoached in a Coughlin refused to interception on a recent loss to the Seattle say whether disci­winning football bobbled pass. Seahawks. plinary action was .games and getting He said his 
+After first refusing to answer taken. back is fine and
+guys back on the
+
+the question, coach Tom In the 2005 sea­that he has put Coughlin said Tuesday that son, Coughlin field and healthy. " all his problems Shockey would start against the benched receiver behind him ­Washington Redskins this week­Plaxico Burress for the ones from
+Plaxico Burress 
+
+end if his sprained right ankle the first quarter last year and this
+Giants wide receiver 
+
+was OK. against San Diego year. 
+"We'll see about his health for reporting late "We're focused and his condition," a miffed for a meeting dur-on winning foot­Coughlin said ing the week. ball games and getting guys Tuesday after Coughlin refused back on the field healthy," practice. "lf he '7 don't think there to answer whether Burress said. "It's a sport where can go, he'll being late for a frustrations and tempers are
+were any tensions
+start." meeting deserved going to flare every now and Shockey hurt between Jeremy the same treatment then. Some things should not be his ankle in the and the coach." as ripping the said or done. As adults we learn final preseason coaching staff after from them and keep going and game, but he a brutal loss. just go out and answer all the
+Tiki Barber
+has appeared in Shockey was not criticism by going out and play­the first three Giants running back available for com­ing hard." regular-season ment Tuesday. Barber said the recent contro­games for the Running back Tiki versy will not affect the team, Giants (1-2). He rested the Barber, who criticized Coughlin which felt it was a Super Bowl ankle this past week with a bye, after a playoff loss to Carolina contender coming out of train­but there was some question last season, was certain ing camp. about his status for Sunday's Shockey would not be benched, Despite his injury, Shockey is game because of his postgame even before the coach spoke. tied for third on the team with comments after a 42-30 loss to "I don't think there were any 11 catches for 134 yards and a Seattle on Sept. 24. tensions between Jeremy and touchdown. · 
+
+WILD WILD WESTND WOMEN'S GOLF 
+
+Strong Irish finish second in Kansas 
+from yesterday," Nakazaki have confidence and staySquad uses goodfinal said. "I changed my putter committed to my shot." 
+and my confidence was there Junior Jane Lee tiedday to stay within 14 today. Personally, I'm not Nakazaki's overall score by 
+satisfied with how I played, firing an 81 Tuesday after
+
+strokes ofhost team 
+but our team rounds of 76 getting sec-and 78 on ond is pretty Monday, while
+By CHRIS HINE 
+"Coach Holt talked 
+nice." freshman
+Sportss Writer 
+Sophomore about what I needed to Kristin Wetzel Lisa Maunu fired an 8 5 
+do to not shoot in the 
+
+Notre Dame's strong play (79-75-75, Monday, giving
+8os, and that was just
+
+Monday in the second round 13-over par) her 241 and of the Marilynn Smith had the low­to have confidence and 38th place fin­Sunflower Invitational car­est score for ish for the tour­
+stay committed to my
+
+ried into Tuesday as the the Irish over nament.
+shot."
+
+Irish shot an 18-over par the two days Holt said the 306 to capture second place of competi­Irish need to in the 16-team tournament. tion, finish­Annie Brophy improve indi­The Irish were third coming ing in a tie vidual aspects
+Irish freshman 
+
+into Tuesday after shooting for sixth of their game, rounds of 316 and 309 on overall. This such as putting Monday and finished the day also marks and swing behind host Kansas at the the first time she has led the mechanics, along with focus­par-72 Alvamar Golf Club in Irish in scoring for a tourna­ing on continued improve­Lawrence, Kansas. ment. ment around the green 
+"We got the job done," "I putted well today, but I before their next tournament Notre Dame coach Susan finished bogey-bogey. I need in San Diego on Oct. 16. Holt said. "We to work on fin­"Our short game still needs played good ishing," she work because you need to enough to end "There are still said. "We pulled have that whether it's good up in second. through the last or bad outside," she said.
+things we need to
+There are still two rounds, so Kansas bested the Irish by things we need work on, but we're finishing second 14 shots, while third place to work on, but heading in the right was OK." Arkansas-Little Rock, who we're heading Freshman led the Irish by one coming
+direction. " 
+in the right Annie Brophy into Tuesday, shot a 310 direction." (81-83-76, 24-Tuesday to fall to third. 
+Senior Noriko Susan Holt over par) also Arkansas-Little Rock's Anita Nakazaki led Irish coach recovered from Ojeda had the low score for the Irish in a rough first the tournament at five-over round three, day, placing 35h par, while Missouri's overcoming two overall. Stephanie Wavro fired the rounds of 80 and 81 on "The big difference for me only round under par for the Monday to shoot a 7 4 was committing to my entire tournament with a 71 Tuesday, finishing in a tie shots," Brophy said. "Coach Tuesday. for 19th overall in the tour­Holt talked about what I nament. needed to do to not shoot in Contact Chris Hine at 
+"I made some changes the 80s, and that was just to chine@nd.edu 
+
+--·------------~­
+.­
+page 18 
+SMC VOLLEYBALL 
+
+Squad set to take on MIAA povver Calvin 
+
+GRETCHEN MOOREfThe Observer Belles sophomore Cathy Kurczak scores a kill in Saint Mary's 3-1 win over Tri-State Sept. 26 at the Angela Athletic Center. 
+Team has been inconsistent at times this year, enters match with league standings at risk 
+and our team's goals when 
+By MICHAEL BRYAN 
+
+we're on the court." Sports Writer 
+A tough challenge awaits the Belles when they face Streaky play has defined Calvin Wednesday. The most of Saint Mary's MIAA Knights are undefeated in season, and the Belles will MIAA play and 16-1 overall. need to find a hot streak This week the team rose to tonight if they hope to upset the No. 19 ranking in first-place Calvin tonight in Division III, and swept Tri-
+Grand Rapids,  State last week  
+Mich.  for their sev­ 
+The  Belles  "We need to take  enth victory in  
+are coming off a split against two MIAA foes  responsibility for our inconsistencies  a row. Schroeder­Biek, however,  
+in the Adrian Triangular on  lately."  believes her team is up for  
+Friday. In the first match  Julie Schroeder-Biek  the challenge. "They defi­ 
+Saint  Mary's  Belles coach  nitely  can  be  
+defeated  beat,  but  we  
+Albion 3-1, led  first  have  to  
+
+by senior Kristen Playko's 17 challenge them and attempt kills and senior Anne to pull them out of their Cusack's 25 digs. Freshman game," she said. "It will take Lorna Slupczynski also tal­a solid team effort and full lied 10 kills in the victory. focus and drive for us to 
+In the second match of the accomplish an upset." double dip, the Belles fell to When these teams last met Adrian 3-L September, the The Bulldogs result was a 3­
+were able to "It will take a solid 0 Calvin sweep put down 52 at Saint
+team effort and full
+kills, ending Mary's. 
+any hope of a focus and drive for Schroeder­St. Mary's us to accomplish Biek says the comeback in Belles can def­
+an upset."
+the late initely improve games. on that effort Slupczinski Julie Schroeder-Biek and, more recorded a Belles coach importantly, double-double believe in and setter themselves. Amanda David had 28 assists "We came out so flat in that in the losing effort. match, and challenged them 
+Belles coach Julie only in spurts," Schroeder­Schroeder-Biek said the Biek said. "We have made Belles unpredictability was some slight changes to our partly due to a lack of focus. defense, but more than any­
+"We need to take responsi­thing we need to be hungry bility for our inconsistencies and ready to compete." lately," she said. "We need to cancel out other distractions Contact Michael Bryan at and focus on the matches mbryan@nd.edu 
+The Observer + SPORTS Wednesday, October 4, 2006 
+SMC GOLF 
+
+Keeping pace in Holland 
+Saint Mary's satisfied with third-place finish at Jamboree 
+course given the heat. Meredith Fantom (96), Alex Sei 
+By REBECCA SLINGER 
+
+Doornbos said she cut down on (102) and Theresa Tonyan (106) 
+Sports Writer 
+
+making errors and adapted to also contributed in the Belles the tough pace third place fin­Saint Mary's made a run at of the greens in ish, and fresh­
+"The weather was the
+Tri-State and Olivet in its third order to record man Caroline MIAA Jamboree tournament her score. Saint best we've hadfor a Doubeck entered Tuesday, but ultimately fell Mary's sopho­the tournament
+tournament ... but the 
+short -placing third in more Katie as an individuaL 
+greens were
+Holland, Mich. Mcinerney Joanna Dick Olivet and Tri-State beat encountered really difficult. " (back problems) Saint Mary's by 31 strokes, but similar prob­and team cap­the Belles were satisfied with lems with the tain Katie
+Katie Mcinerney 
+their third place finish -given course. O'Brien (illness)
+Belles sophomore 
+the ramifications it has on "The weather did not compete conference rankings, the was the best in the tourna­deciding factor in the MIAA we've had for a tournament ... ment. They hope O'Brien is Championship. but the greens were really diffi­healthy before the Belles face 
+"To come in third was our cult," Mcinerney said. "The Tri-State and Olivet in MIAA goal so that we · whole team had Championship. could maintain "To come in third was difficulty on the With O'Brien back, Doornbos good standing our goal so that we greens." said that the team is confident in our confer­Mcinerney they can beat their main compe­
+ence, Saint could maintain good fired an 88 to tition. Mary's sopho­standing in our record the sec-"We have to shoot better than more Meredith conference., ond lowest score we have been and we have to 
+Fantom said. on the team. catch everyone on a good day," 
+The tempera­"I tried to take she said. ture was 79 Meredith Fantom each shot one at The Belles will compete for a degrees and Belles sophomore a time," she said. fifth consecutive MIAA sunny for the "I just focused on Championship on Oct. 13-14 in entire day. Saint Mary's fresh­what I needed to do for each Battle Creek, Mich. at the man Kate Doornbos, who led shot." Bedford Valley Golf Club. the team with an 86 (14-over Sophomore Perri IIamma shot par), said the team was forced a 1OS and came close to a hole-to adjust to a "super fast" in-one. 
+
+
+The Feminization of Poverty 
+Featuring Jane Fonda 
+Academy Award-winning Actor, Activist, Advocate for Women's Issues, including Women in Poverty 
+Thursday, October 5th, at 7 p.m. 101 DeBartolo Hall 
+All University of Notre Dame and St. Mary's 
+Students, faculty and staff invited to attend 
+Part of the MicroVenturing Certificate Program Sponsored by the Gigot Center for Entrepreneurial Studies, Mendoza College of Business http://gigot.nd.edu 
+
+
+UNIVERSITY OF NOTRE DAME 
+MENDOZA COLLEGE OF BUSINESS Gigot Center for Entrepreneurial Studies 
+
+Wednesday, October 4, 2006 The Observer + PAID ADVERTISEMENT page 19 
+
+
+PAU L TAYLO R 
+y
+
+D A N C E C 0 M PAN 
+THE QUINTESSENTIALLY AMERICAN DANCE COMPANY (AND ORIGINAL HOME OF STARS PINA BAUSCH, LAURA DEAN, AND TWYLA THARP) PRESENTS CLASSIC WORKS OF CHOREOGRAPHER PAUL TAYLOR. 
+WEDNESDAY, OCTOBER 4 AT 7:30PM THURSDAY, OCTOBER 5 AT 7:30 PM DEClO MAINSTAGE THEATRE 
+TICKETS: $48, $40 FACU LTV /STAFF/SENIORS, $15 ALL STU DENTS 
+
+POETRY I MUSIC I COFFEE I CONVERSATION 
+Poets Lidia Torres & Urayoan Noel 
+PERFORM THEIR WORK 
+WED, OCT 4 FROM 9-11 PM 
+PHILBIN STUDIO THEATRE FREE but Ticketed Event. Call the Ticket Office at 631-2800 to reserve your tickets. 
+Making music for decades and known for hits such as "EI Menu" and "Timablero," Puerto Rico's legendary El Gran Combo brings the spice of salsa to the Leighton Concert Hall. 
+TICKETS: $36, $30 FACULTY/STAFF/SENIORS, $10 STUDENTS 
+FOR TICKETS OR MORE INFORMATION CALL THE TICKET OFFICE AT 631.2800 OR VISIT HTTP://PERFORMINGARTS.ND.EDU. 
+BR WNING 
+CINEMA 
+Shakespeare Behind Bars (2006) Directed by Hank Rogerson Not Rated, 93 minutes Shakespeare Behind Bars Program Director Curt Tofteland will be present for the 7 pm screening. Thu, Oct 5 at 7 and 10 pm 
+Marathon (2005) Directed by Yoon-Chul Jeong Not Rated, 115 minutes Korean language with English subtitles Fri, Oct 6 at 7 pm 
+Stroke of Fire (2002) Directed by Kwon-taek lm Not Rated, 1 20 minutes Korean language with English subtitles Fri, Oct 6 at 9:30 pm 
+The Wild Bunch (1969) PAC Classic 100 Directed by Sam Peckinpah Rated R, 145 minutes Sun, Oct 8 at 4 pm 
+FILM LINE: 631-FILM 
+Watch The Final Cut 
+A new movie review show, Wednesday nights at 11 pm on NDtv Channel 53 
+page 20 The Observer + SPORTS Wednesday, October 4, 2006 
+Belles 
+continued from page 24 
+was true to the test using skill and a little bit of luck to hold off the pressing Saint Mary's offense. The Belles' best oppor­tunity failed when junior Sarah Dubree hit the post on a shot in the 83rd minute. 
+"I. felt like we played a very solid second half," MacKenzie said. "We out possessed them and had some great opportuni­ties at the end." 
+Cortese also started the action late in the first half. After receiving a pass from senior Danielle Shepherd, she took advantage of a young Belles defense and ripped a shot at the upper right corner of the net just out of Heline's reach. 
+Senior Ashley Hinton led the way on offense. Hinton got three shots on net and capital­ized on a penalty kick early in the second half to knot the score at one apiece. 
+The kick followed two consec­utive Albion fouls on sopho­more Lauren Hinton, who was working hard inside the entire game. The goal was Hinton's third of the year. 
+However, the lone goal was not enough as the Saint Mary's offense struggled to finish against Bowman and the rest of the Albion defense. 
+"Until we figure out how to consistently put two halves of soccer together we are going to keep coming up short like this," MacKenzie said. 
+The loss drops Saint Mary's into third place in the confer­ence behind the undefeated Calvin and Albion. 
+Saint Mary's will look to get back on track against Olivet this Saturday at noon. 
+Contact Dan Murphy at dmurphy6@nd.edu 
+
+
+
+UNIVERSITY 01<' NOTRE DAME INTERNATIONAL STUDY PROGRAMS IN 
+DUBLIN, IRELAND 
+Fall2007, SPRING 2008, A Y 2007-8 University College Dublin Trinity College 
+INFORMATION MEETING with 
+Kevin Whelan, Director Keough-ND Center, Dublin 
+Friday, Octoher 6., 2006 
+3:30 pm 129 DeBartolo 
+Application Deadlines: NOVEMBER 15, 2006 FOR FALL, SPRING, AND ACADEMIC YEAR 2007-8 Applications Available www/nd.edu/~intlstud 
+
+Wednesday, October 4, 2006 The Observer + SPORTS page 21 
+Schwapp 
+continued from page 24 
+and returned to the Irish for a fifth year. After leading the team in 2004 with 42 catches for 610 yards and three scores, he has 32 catches for 433 yards and six touch­downs in 2006. 
+Weis said Ashley McConnell will likely see more time as a result of McConnell has dropped about 20 pounds. 
+Like his new frame, Weis said McConnell's performance this year has been "solid." 
+"He's been solid in blitz pickup and he's been solid as a lead blocker," Weis said. 
+It's likely McConnell will see increased action whether or not Schwapp is redshirted ­a practice Weis said he didn't think is necessary for most of his players, barring injuries 
+like Schwapp's. 
+"[Many play­
+
+Schwapp's injury. ers] graduate in
+"Our philosophy
+"Once you get three and a half
+has been: somebody 
+your opportunity, years in a lot of all of a sudden gets hurt and you cases," he said. you're two [on the just put in the next "So a lot of them 
+depth chart] and want to move on 
+guy.
+you're in good and start their shape and you real life after have a good atti­Charlie Weis that. If they tude," he said. don't see them­
+Irish coach 
+"Our philosophy has been: some­body gets hurt and you just put in the next guy. And [McConnell's] the next guy, and he's taking the opportu­nity and running with it." 
+McConnell has played in five games this season, rush­ing twice for two yards with one receiving touchdown. Last season, he played in three games and had one rush for three yards. 
+The fullback trimmed down this year, which Weis said has made him better than he was a year ago. 
+''I'm not sure exactly what [weight] he is right now, but he came back in great shape, and all of a sudden he just played himself into the pic­ture," said Weis, estimating selves playing in 
+the NFL, a lot of them want to go take jobs and get working. 
+"So what benefit do you have if you save a year with a guy if he's going to graduate in four years and go take a job anyway?" 
+However, the medical red­shirt may help future depth at running back if Schwapp isn't able to return this year. 
+Regardless of what happens with Schwapp, Weis has con­fidence in his fullback ­whoever it is. 
+"Really it has not been a noticeable difference with him in there [compared to] Asaph." 
+Contact Kate Gales at kgales@nd.edu 
+
+FOOTBALL NOTEBOOK 
+Weis cotnpares McKnight to Ward 
+Coach says players prepared for media 
+By KEN FOWLER 
+Sports Editor 
+
+During spring practice, Notre Dame coach Charlie Weis used a pro term to describe the return of Irish receiver Rhema McKnight. Weis said the fifth-year senior's return was like "picking up a free agent" during a post-practice press conference April 5. 
+Half a year later, Weis was using NFL-speak once again when describing McKnight -this time com­paring Notre Dame's lead­ing receiver to four-time Pro Bowler Hines Ward of the Pittsburgh Steelers. 
+"Well, the more I watch him," Weis said, "the more he starts to remind me of a couple of the more physical types of quickness receivers. a la maybe like a Hines Ward." 
+Weis favorably compared McKnight's physical attrib­utes and route-running abilities to those of Ward. 
+"Ward has made a reputa­tion of being the most phys­ical blocker of any receiver in the country," Weis said. "I wouldn't say Rhema has quite gotten to that point 
+yet, but he's capable of doing that. 
+"But he runs routes the same and he has the same type of quicks -and also the same type of body type." 
+Weis said he used Ward as a role model for former Irish receiver David Givens when he coached Givens on the New England Patriots. 
+"[Rhema is] a lot like Givens. He's actually a lot smoother route runner than David was," Weis said. "David has got brute strength that very few receivers have." 
++ Weis also said the intense media coverage of Irish receiver Jeff Samardzija and quarter­back Brady Quinn will help them after they are drafted into the NFL -unless they end up with Patriots coach Bill Belichick, who limits media access even more than Weis does. 
+"If they go to New England they're not going to talk to anyone anyway because they're not going to be allowed to," Weis said with a laugh. "It all depends on where they go. ThH'll go to some places and they'll be the media darlings. [But] I can prom­ise you if any of them ends up in New England, they won't be talking to the 
+press." 
+
++ After calling a success­ful end-around that fresh­man wide receiver George West ran for an 11-yard touchdown and a fake field goal that senior receiver Jeff Samardzija took six yards for a score, Weis said he will likely replace that trick play with a new one in the team's "inventory." 
+"Once I've run plays, then I replace them with new ones," We is said. "Like today in practice, we'll have a new [play] because I used some of them the other day ... They'll be called some­time this year, you just don't know when. They might be called this week." 
++ Admitting a "preju­dice," Weis picked the New York Yankees to win their Divisiona! PI ay off Series against the Detroit Tigers in four games. 
+
+''I'm an avid Yankee fan, so I'd be rooting for them no matter what," Weis said. "So we'll see. I'm reluctant to say [the Yankees will win in] three. What do you think? Shall we say four just to play it safe? I'll say the Yankees in the Series, how's that?" 
+Contact Ken Fowler at kfowler@nd.edu 
+
+Saint Mary's Study Abroad Fair 
+Wednesday, October 4th, 2006 4:30-6:30 p.m. SMC Student Center Atrium 
+All Saint Mary's, Notre Dame, and Holy Cross Students Are Welcome! 
+Semester Programs Summer Programs 
+·Rome, Italy ·Environments of ·Dijon, France Ecuador ·Maynooth, Ireland ·Internship in the ·Semester Around the European Union 
+·European Study
+World Program
+·Seville, Spain 
+
+•Greece Study Tour
+·lnnsbruck, Austria 
+·Korean Culture Study
+•Fremantle, Australia 
+·Honduras Service
+·Women's Studies in 
+Learning
+Europe 
+
+•Pietermaritzburg, South Africa 
+
+page 22 The Observer+ SPORTS Wednesday, October 4, 2006 
+Interhall 
+continued from page 24 
+Bullfrog receivers. Walsh's defense played strong through­out the game -closing pass­ing lanes and deflecting numerous passes. 
+"We didn't make any changes on defense at the half," Fallon said. "We gained confidence with the intercep­tion, and we got into a rhythm. Once we get that rhythm, we play very well." 
+Welsh Family 12, Cavanaugh 0 
+Welsh Family's ball control offense wore out· a tired Cavanaugh defense, riding long drives to a short victory. 
+Welsh Family started the game with an eight-play drive that ended in a touchdown on .lenni Gargula's quarterback sneak. Despite missing the conversion try, Gargula said the long drive set the tone for the game. 
+"It's really important to come out and score early," Gargula said. "It got us pumped." 
+After Welsh's next two pos­sessions ended in punts, the Whirlwinds got back on track in their first possession of the second half with another eight­play drive that resulted in a touchdown pass to junior Kelly Bushelle. Locked between dou­ble coverage, Bushelle fought off the pressure and pulled the ball down between the defend­ers. 
+Gargula threw a touchdown pass moments earlier that was negated by an illegal block. The Whirlwinds set themselves up with first-and-goal on the four-yard line after Cavanaugh was flagged for pace interfer­ence. 
+The drive was jump-started by a 16-yard Gargula comple­tion. She completed 6-of-7 passes for 29 yards on the drive. 
+Gargula was pestered by the Cavanaugh defensive line the entire game, but was unfazed. 
+"It didn't affect our play," she said. "I got around the pres­sure, but I didn't notice it at the time, because I was looking downfield at my receivers." 
+After forcing a Cavanaugh turnover on downs, the Whirlwinds' final possession was a time-consuming nine­play, 25-yard drive in which Welsh Family fooled the Chaos defense with several quarter­back options. 
+"We used the option near the end to keep the clock running," Gargula said. 
+Gargula completed 16-of-23 passes for 80 yards and a touchdown in the game. 
+Cavanaugh got the ball with under a minute remaining, but quarterback Katie Dunn threw an interception to end the game. 
+Cavanaugh could not gain momentum on offense throughout the matchup. Though it mixed up the calls with play-action passes, motion and options, the team failed to find consistency in their attack. 
+Though Dunn remained calm under duress, Welsh Family's defensive line forced Dunn to throw before the plays devel­oped. 
+"Our coached stressed pres­suring the quarterback," defensive lineman Meghan Mulhern said. "It makes a big difference when you put pres­sure on the quarterback. They have to make quick decisions, and that helps the secondary to make their decisions." 
+Lyons 24, Pasquerilla East 0 
+Lyons quarterback Claire Connell scrambled for three touchdowns and threw for one to lead the Lions to a 24-0 vic­tory over Pasquerilla East Tuesday -their first win of the season. 
+The Lions got off to a fast start, scoring on their second possession of the game. After three completed passes to three different receivers, Connell scrambled from 10 yards out to put Lyons up 6-0. 
+Lyons' defense was quick to match its offense, when Patti Pogge intercepted a Laura Adams pass on the third play of the ensuing Pyro drive with two minutes remaining in the first half. The interception set up a 15-yard touchdown 
+
+
+LAURIE HUNTfThe Observer 
+
+Walsh junior quarterback Mary Sullivan throws the ball in the 7-6 Wild Women victory over Badin Tuesday. 
+
+scramble by Connell as time expired in the half to put Lyons up 12-0. 
+In the second half, Connell rushed for another touchdown to put the Lions up 18-0. On the first play of the ensuing Pyro drive, Lyons junior .Jo Anna Collins intercepted Adams' pass. 
+Connell's touchdown pass in the final two minutes put the Lions up 24-0. Though the Lyons refused to take mercy on the Pyros, women's interhall rules did -forcing the game to end. 
+While the Pyros were unable to put any points on the board, they moved the ball effectively downfield early in the game. Their opening drive lasted eight plays, while the team moved the ball to the Lyons 10­yard line. 
+The bulk of the Pyro offense came from receiver Caroline Nally, who caught seven pass­es, none of which came in the second half. Nally also sacked Connell once and handled Pyro punts. 
+The Lions were elated after scoring their first victory of the season, and senior captain Cheron Wilson said it felt amazing -crediting the entire team with the victory. 
+"Our energy was really high as a team. Everyone was exe­cuting and we're really excit­ed," she said. 
+Both squads play again on Sunday, but neither team will advance to the playoffs. The lack of postseason implications should have no effect on preparation for Sunday's game, according to Pyro coach Nathan Dyer. 
+"We play Sunday," he said. "It's a game, and we'll play to win the game." 
+Contact Bill Brink at wbrink@nd.edu and John Tierney at jtiernel@nd.edu 
+Michigan 
+continued from page 24 
+three-game winning streak and is unbeaten in its past four matches heading into Wednesday's contest in Ann Arbor. 
+Clark remains confident Lapira won't have to carry the offense for much longer. 
+"It would be nice to get some of the other lads back [into scoring]." Clark said. "I think there's a lot of goals there. It's just a matter of time before some of the other guys start helping Joe out." 
+One of the players Clark expects to put balls in the back of the net is forward Justin McGeeney. McGeeney has four goals on 
+week last week and has given up only one goal in the last four games. 
+Clark said the offense and defense had begun to play off each other, and implied that Cahill and Lapira were not the only players who had been playing well of late. 
+"I think you have to be care­ful you don't forget the rest of the team because they help make both these people more successful," he said. "You don't just get goals off one guy and you don't stop goals with one guy. It's a team thing. The whole team is taking chances, and we've been dominating." 
+The Wolverines will be spearheaded by forward Perica Marosevic. Marosevic leads Michigan with five goals and was named the Big Ten 
+offensive player of 
+
+the season, but the week on Sept.
+"You don 't just get
+has been slowed 25. 
+down by an ankle goals offone guy Despite the .500 injury for the past and you don't stop record, Clark said few weeks and has the Wolverines are
+goals with one guy.
+not scored since one of the more
+It's a team thing."
+Sept. 17 at dangerous teams Cincinnati, when on Notre Dame's the Irish lost 2-1. Bobby Clark schedule. 
+"McGeeney was "We're under no
+Irish coach 
+playing well [before his injury], and he's almost back to full fitness," Clark said. "Hopefully, he's almost back to one hundred percent." 
+Regardless of who scores the goals, Clark is pleased that the offense has found its rhythm after an inconsistent start. 
+"It's no question its goals are what win games," he said. "It's great when you get on the scoreboard. Early in the season we were making good chances, but we weren't con­verting. It's nice when we do convert." 
+Defensively, the Irish have fared well behind goalkeeper Chris Cahill. Cahill was named the Big East goalkeeper of the 
+illusions of how 
+hard this game will be," he said. "There are a lot of NCAA tournament rami­fications. They're a very tal­ented team, [and] they've played a talented schedule. They've been playing good teams and they've been play­ing them very well and very closely." 
+Ultimately, Clark said the Irish were looking forward to the intensity that comes as a part of the Notre Dame­Michigan rivalry. 
+"There's no love lost between these two universi­ties on the athletic fields," he said. 
+Contact Eric Retter at eretter@nd.edu 
+
+
+., Pyramis Global Advisors, Quantitative Equity Research Associate 
+Pyramis manages money for institutional 
+investors at Fidelity. Created in 1969. the 
+group became a freestanding division 
+in 2005, with over $80 billion in assets. 
+Pyramis does fundamental research in 
+domestic and internationa! equities as 
+well as real estate investments. It also 
+has substantial resources focused on 
+quantitative investment strategies and 
+offers clients investment options based 
+on either both or a combination of 
+those research disciplines. In this role, 
+you will develop and apply quantitative 
+financial models to help identify 
+investment opportunities. You will 
+conduct research projects covering a 
+broad range of asset classes, economic 
+sectors and investment styles. You will meet regularly with portfolio managers and senior analysts to introduce your investment ideas and recommendations. 
+Smart move~ 
+
+Whether your wish is for challenging career opportunities, comprehensive benefits or a company that values 
+what you can contribute, you'll find it at Fidelity. You need to apply. 
+.. FMRCo Equity Research Associate 
+
+Fidelity's Equity Division is responsible 
+for managing more than 170 diversified 
+mutual funds, over 50 industry specific 
+funds, and has more than $750 billion 
+in assets under management. The 
+Equity Division consists of over 170 
+portfolio managers. research analysts, and research associates. In this role. 
+you will be assigned a group of 
+companies comprising a sub-sector 
+of a specific industry and will analyze 
+the companies and their stock for 
+potential investment opportunities. 
+You will meet with top corporate 
+management teams, industry experts. 
+Wall Street analysts and experienced 
+colleagues to develop investment 
+recommendations for Fidelity's Equity 
+Portfolio Managers. Candidates 
+who have demonstrated consistent, 
+exceptional performance during the 
+three-year program may be considered 
+for a promotion to an analyst position. 
+.. FMRCo High Yield Research Associate 
+
+Fidelity's High Yield Division is responsible for managing the firm's diversified high yield mutual funds. institutional high yield accounts, high yield sub-portfolios, and leveraged loan portfolios. In addition, the group manages funds focused on the equities of leveraged companies. Assets under management total approximately $42 billion. The High Yield Division consists of 7 portfolio managers, 4 traders, 15 analysts. 3 research associates and 1director of research. In this role. you will be assigned a group of companies comprising a sub-sector of a specific industry and analyze the companies and their position within the industry. You will 
+meet with top corporate management 
+teams, industry experts. Wall Street 
+analysts, and experienced colleagues 
+in order to develop investment 
+recommendations. Candidates who 
+have demonstrated consistent, 
+exceptional performance during the 
+
+three-year program may be considered 
+for a promotion to an analyst position. 
+
+To learn more, visit investment.fidelitycareers.com 
+
+Wednesday, October 4, 2006 The Observer+ TODAY page 23 
+ALEC WHITE
+JOCULAR 
+
+
+CROISSANTWORLD 
+
+ADAM FAIRHOLM 
+
+CROSSWORD 
+ACROSS 36 Former N.B.A. Like farmland 
+star with a hint to 17-, 23-, 52­7 Mandela's org. 
+and 60-Across 10 "The Naked 
+40 Colorado hrs. 
+Maja" artist 
+43 Describes 14 "On a similar 
+
+47 Get off the fence 
+note" arid the 
+51 Stick
+like 
+52 "Soak Up the 
+15 Fa follower 
+Sun" singer, 16 Mathematician 2002 Niels Henrik 
+
+56 Up to, informally 17 Oscar-winning 57_ Largo, Jodie Foster role James Bond 20 They can be a villain handful 58 Half a 45 21 Kind of number 60 Architect who was a founding
+22 Suffix with 
+member of the 
+Euclid 
+Royal Society 
+23 Posthumous 
+64 Local area,
+Best Actor 
+slangily
+winner of 1976 
+
+65 Brian known as
+27 Suppose 
+the father of 30 Works on ambient music copper, say 
+66 "Bonanza" star 31 The city and 67 Singer James beyond 
+68 Rep.'s 35 Builder's need counterpart 
+ANSWER TO PREVIOUS PUZZLE 
+
+"7-t-:-:+::+.::+::=-i 29 Extinct relative of the ostrich 32 Monopoly foursome: Abbr. 33 Spy satellite, metaphorically 34 Noted U.S. dance grp. 
+37 Dr. Seuss's "And to Think That It on Mulberry Street" 
+
+THE OBSERVER 
+Published Monday through Friday, The Observer is a vital source of information on people and events in the Notre Dame and Saint Mary's Community. 
+Join the more than 13,000 readers who have found The Observer an indispensible link to the two campuses. Please complete the accompa­nying form and mail it today to receive The Observer in your home. 
+69 Says hi to 
+DOWN 1 Really funny 2 Put in theaters 3 Pro's opposite 4 Beachgoer's 
+woe 5 Oahu 
+keepsakes 6 Upper-left key 7 Balance sheet 
+entry 8 Dame 9 Actress Danes 
+10 French 11 Sash with a bow 12 You might buy a 
+Nintendo game with this 13 High sch. math 18 Suffix with Canton 
+19 Marooned sailor's construction 
+23 Kind of brandy 24 Hart Memorial Trophy org. 
+25 Private jet V.I.P., maybe 26 Pres. when the cold war began 28 Modern form of address 
+
+WILLSHORTZ 
+
+38 "Mayberry _"  46 Author Hanft  54 Bad-mouth  
+39 Homeric cry?  and others  55 Cry at a circus  
+40 Hosts, briefly  48 Big name in the  58 Winter  
+41 Theater  frozen food aisle  comment  
+injunction  49 Sylvia of "The  59 - 'Pea  
+42 Piggy 44 Many a Sunshine State  World of Suzie Wong" 50 Chosen groups  60 Comrade of Fidel 61 Sexy  
+resident  53 "Star Wars"  62 Go bad  
+45 Popular gum  army member  63 Grade A item  
+
+For answers, call 1-900-285-5656, $1.20 a minute; or, with a credit card, 1-800-814-5554. Annual subscriptions are available for the best of Sunday crosswords from the last 50 years: 1-888-7-ACROSS. Online subscriptions: Today's puzzle and more than 2,000 past puzzles, nytimes.com/crosswords ($34.95 a year). Share tips: nytimes.com/puzzleforum. Crosswords for young solvers: nytimes.com/learning/xwords. 
+-Make checks payable to: and mail to: 
+0 Enclosed is $100 for one academic year 
+D Enclosed is $55 for one semester 
+Name __________________________________________ _ Address ______________________________________ City ______________ State ____ Zip_______ 
+JUMBLE 
+
+
+Unscramble these tour Jumbles, one letter to each square, to form tour ordinary words. 
+
+THANC 
+I I I 
+©2005 Tribune Media Services. Inc. All Flights Reserved. 
+LYDOM 
+
+rJ (]tLOCASE 1 ± 
+J r J
+1 
+www.jumble.com 
+
+LLEXFAN L (J rJ tJ I 
+..
+AB:( I I I]"( I I I I I]" 
+(Answers Monday) Jumbles: AMITY PIKER HEALTH MIDDAY Yesterday's Answer: 
+Why the scarf was introduced as evidence ­IT WAS "MATERIAL" 
+EUGENIA LAST 
+HOROSCOPE 
+
+CELEBRITIES BORN ON THIS DAY: Ashlee Simpson. 22; Eric von Detten, 24; India.Arie, 3 I; Neve Campbell, 33 
+Happy Birthday: This is the year Ia change your tune, your direction, your life. This is a year to follow through with your promises --those made to others and those made to yourself as well. Your numbers are I 0. 18. 24. 38. 41. 45 
+ARIES (March 2I-April 19): Follow matters through to the end even though that's not your strong point. Completion will enhance your reputation and bring new and better people, projects and proposals to your life. 4 stars 
+TAURUS (April 20-May 20): Back up a few steps before you take action or get involve< in a dispute that you can avoid. Remain calm enough to take in everything being discussed Progress can be made if you are willing to listen. 2 stars 
+-
+GEMINI (May 21-June 20): There isn't anything you can't do if you put your mind to it today. Someone may try to delay you or change your plans but your ability to skirt aroum anyone who is opposing you will be impressive. 5 stars 
+CANCER (June 21-July 22): Not everything will be fair. equal or even to your liking bUI you have to work with whatever you're given. Someone will give you a hard time. especial!} if he or she feels threatened by what you are doing or pursuing. 3 stars 
+LEO (July 23-Aug. 22): Emotional matters may not be as they appear. Be careful how you deal with partners as well as friends and family. Meddfing or letting someone else ge involved in your affairs will cause friction. 3 stars 
+VIRGO (Aug. 23-Sept. 22): Put everything you've got into getting ahead, changing vocations or signing up for courses that will help you advance. You can make a very gooc impression if you go for an interview or apply for a position. 3 stars 
+LIBRA (Sept. 23-0ct. 22): An opportunity to try something different is evident if you arc willing to put yourself on the line. Love and romance will flourish if you take a moment to profess how you feel. A trip will be in your best interest. 5 stars 
+SCORPIO (Oct. 23-Nov. 21): You can't trust anyone to give you good advice today. Tak< a long hard look at your current situation and prepare to make changes a' quickly as possible. The longer you ponder over what should be done, the worse the situation will become. 2 stars 
+SAGITTARIUS (Nov. 22-Dec. 21): You may be going through some changes but, if yo~ are willing to accept and move on quickly, you will discover how much opportunity is readily available to you. A chance to change your professional direction will be a viable option. 4 stars 
+CAPRICORN (Dec. 22-Jan, 19): Prepare for the worst but strive for the best. Keep yoUJ wits about you if you want to get past the obstacles that exist. Don'tlet your emotions stan< in your way. Do what you must to get what you want. 3 stars 
+AQUARIUS (Jan. 20-Feb. 18): You won't have to do nearly as much as you think to get what you want. If you think too big or incorporate too much into your plans, you will star to lose ground. Keep things simple and you will not only advance but will prosper as well 3 stars 
+PISCES (Feb. 19-March 20): It won't be what you know, it will be how well you can keep a secret today. Utilize the knowledge you have aod you will prosper. Making a few changes will give you a new lease on life. 3 stars 
+Birthday Baby: You are airy, bright and extremely creative. You are open, honest and adaptable. You have the ability to portray what you waot in a colorful way that convinceo others to join your team. 
+F.urumin's WPh sitPs: m~tmn.dvirP.rnm fnr fun. PIIPPninln.'it.rnm fnr ronfidpntinl ronsultntinn.• 
+The Observer P.O. Box 779 Notre Dame, IN 46556 
+HENRI ARNOLD MIKE ARGIRION 
+THAT SCRAMBLED WORD GAME by Henri Arnold and Mike Argirion 
+
+WHAT MUST Br:: Lr::Ar<Nr::P TO Br::COMr:: A DIA­MOND CUTTr::R? 
+Now arrange the circled letters to form the surprise answer, as suggested by the above cartoon. 
+
+• 
+THE OBSERVER 
+
+PORTS
+Wednesday, October 4, 2006 
+page 24 
+FOOTBALL 
+
+Weis, Schwapp think over redshirt options 
+By KATE GALES Associate Soprrs Ediror 
+
+At first, it didn't seem like a big deal. Asaph Schwapp left the 
+.. field on Sept. 9 against Penn State. After the game, Irish c o a c h Charlie See Also W e i s 
+"Weis compares
+
+said it seemed McKnight to like the 
+Ward"
+
+running back's page21 l e g "locked up on him." 
+But Schwapp hasn't seen playing time since the 41-17 win, and Weis is now con­sidering a medical redshirt for the sophomore. 
+"His injury is an injury that will be with us the entire year," We is said. "The question is simply this, OK: Can he play with it or can't
+-
+he play with it?" 
+Schwapp had four rushes for 15 yards in two games. Last season, he made his 
+Red44 
+
+first start at fullback against USC. He played in all 12 games and had 27 rushes for 67 yards along with three receptions for 22 yards. 
+Tuesday, Weis said he would prefer to redshirt Schwapp if he won't be able to play through the injury. Because the injury occurred early enough in the season, he will be eligible to apply to the NCAA for a medical redshirt. 
+"If I feel he can't play with it, then I'm better off to go ahead and get it fixed because if I get it fixed then I'm going to end up losing him for the rest of the sea­son," he said. "If he can play with it, then we go through the whole year, we practice and we play and then we fix it after the year is over." 
+Weis expects to make that decision after this week. 
+Weis was faced with a similar situation last year with Rhema McKnight, when the receiver went down with a knee injury against Michigan on Sept. 10, 2005. McKnight was 
+PHIL HUDELSON!The Observer 
+
+granted a medical redshirt 
+Notre Dame fullback Asaph Schwapp runs through drills Aug. 6 see SCHWAPP/page 21 during fall practice at Cartier Field. 
+
+SMC SoccER 
+Belles drop 2-1 tnatch to Albion 
+By DAN MURPHY Sporrs Writer 
+
+Albion forward Brittany Cortese netted her second goal of the game from close range with 14 minutes remaining to give the Britons a 2-1 victory over Saint Mary's Tuesday. 
+The loss drops the Belles to 2-1 in MIAA play and 3-6 over­all. 
+Cortese's goal -her sixth of the season -came off a rebound when Saint Mary's goalkeeper Laura Heline stopped midfielder Andrea Torvinen but was unable to control the shot. The junior for­ward was able to free herself from her defender long enough to bury the game winner. 
+"It was an unfortunate goal," Saint Mary's coach Caryn MacKenzie said. "[Heline] had the sun right in her eyes, the ball kind of short hopped her and she couldn't pull it in." 
+The Belles threatened to tie it up again in the final 10 min­utes with four quality chances. Britons keeper Caitlin Bowman 
+see BELLES/page 20 
+
+INTERHALL 
+Wasikowski hauls in game-winning score 
+Walsh knocks offBadin thanks to stingy defense 
+By BILL BRINK and JOHN 
+TIERNEY 
+Sporrs Writers 
+
+Badin quarterback Katie Rose Hackney's second-half intercep­tion sparked a 28-yard drive that ended in what proved to be the decisive score in Walsh's 7­6 victory over the Bullfrogs. 
+Wild Woman Mary Sullivan threw a touchdown pass to Laurie Wasikowski to lead Walsh in Tuesday night's offen­sive struggle. 
+The Bullfrogs hung around to keep it close. Badin began a drive with 1:15 left when Hackney connected with senior Meghan Charlebois twice, one for 48 yards and the next for 21 yards. The Bullfrogs found the end zone with 26 seconds left on a pass to Courtney Rains in the corner of the end zone. 
+On the point-after attempt, however, Walsh had Rains cov­ered tightly and the pass was knocked down to preserve the victory 
+"We expected Rains or [wide receiver LizziJ Shappell to get the ball, and we were surprised by the fade to Rains," Walsh coach Brian Fallon said. "We thought the ball would go to Shappell because she's taller." 
+Sullivan completed 13-of-24 passes for 81 yards and a touchdown and added 31 rush­ing yards. 
+Hackney completed 8-of-20 passes for 89 yards, a touch­down and an interception. Hackney was hampered by four first half dropped balls by 
+see WALSH/page 22 
+MEN'S SOCCER 
+
+Irish travel to Ann Arbor 
+ND looks to find new scoring threats at UM 
+By ERIC RETTER Associate Sporrs Ediror 
+
+Notre Dame coach Bobby Clark anticipatPs that some­one other than forward Joseph Lapira will score Wednesday against Michigan (5-5-2, 0-1-1 Big Ten). Not that he minds if only Lapira does it. 
+The Irish junior, who has 13 goals this season, was named Big East offensive player of the week last week for the second time this season. He scored two goals in each of Notre Dame's last three games, including the opening goal in each match. In large part because of his perform­ance, No. 8 Notre Dame (7-3­2, 5-2-0 Big East) is on a 
+see MICHIGAN/page 22 
+
+JENNIFER Observer Irish forward Joe Lapira beats Marquette defender Dan Carlson in the 4-0 Irish win Sept. 27 at Alumni Field. 
+en 
+MlB
+SMC VOllEYBALl 
+MlB 
+MlB
+SMC GOlf 
+
+MLB 
+The Florida Marlins
+Saint Mary's fresh-
+
+New York 8 
+Oakland 3 
+St. Louis 5
+
+Saint Mary's at 
+man Kate Doornbos' 14­
+fire manager Joe Girardi 
+
+Detroit 4 
+Minnesota 2 
+San Diego 1 
+Calvin 
+
+Athletics designated 
+Cardinals first
+and hire new skipper 
+
+Yankees shortstop
+over leads Belles to 
+
+Derek Jeter goes 5-for-5 
+hitter Frank Thomas 
+baseman Albert Pujols
+
+Today, 6:30 p.m. 
+third place finish at 
+Fredi Gonzalez. 
+
+with a home run to 
+hits two home runs to 
+hits a two run homer to 
+
+Belles battle MIAA 
+MIAA Jamboree. 
+
+jump ahead of Detroit. 
+beat Twins ace Johan 
+lead St. Louis to a 1-0
+first place Knights. 
+series lead. 
+Santana. 
+
+page 18 
+page 14
+page 15
+page 15 
+
+page 14 
+page 14 
+
+• 
+
+
+
+
+
+
+

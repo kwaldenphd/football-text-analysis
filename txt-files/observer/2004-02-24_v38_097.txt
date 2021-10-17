@@ -1,0 +1,1631 @@
+
+
+~------------------------------------------------------------------------------------­
+THE 
+
+
+The Independent Newspaper Serving Notre Dame and Saint Mary's 
+VOLUME 38: ISSUE 97 TUESDAY, FEBRUARY 24,2004 ,­
+OIT Internet upgrade breaks down 
+Department tried to upgrade the connection again this morning 
+By MATT BRAMANTI 
+NowsWritor 
+The University's Office of Information Technologies installed a new Internet con­nection Sunday morning, but things didn't go as planned. Just three hours after the con­nection was activated, a hard­ware failure disrupted the link, slowing campus-wide Internet access to a crawl. 
+Tom Klimek. manager of net­work engineering for OIT, said that after the new connection failed, there was a "failover"­a situation in which a failure triggers a backup connection. 
+Elections reveal class inconsistencies 
+The failover sent all Internet traffic on campus to ResNet's connection with GramTel, a South Bend-based Internet service provider. That connec­tion consisted of half of the University's bandwidth before the upgrade. 
+"The failover ... slowed things down as demand fought with capacity." Klimek said. 
+OIT was scheduled to reacti­vate the new connection at 6 
+a.m. today. 
+"There will be two brief out­ages lasting about five minutes between 6 a.m. and 6:30 a.m.," Klimek said. "We picked a time 
+see OIT/page 4 
+
+Source· Judicial Council MIKE 
+Both juniors and freshmen revealed greater Interest In class council elections, while the sopho­more class showed greater Interest In the presidential primary than the run-off. 
+Observer Students work at computers In the cluster In Coleman Morse. OIT was scheduled to reinstall Its upgrade this morning. 
+Presidential election has different impact on each class 
+By CLAIRE HEININGER Assistant News Editor 
+Sophomores didn't care. Juniors and freshmen spoke up. 
+From one extreme to anoth­er, the fallout from Feb. 12 student body presidential elec­tion -a neck-and-neck race between Adam Istvan-Karla Bell and Charlie Ebersol­James Leito that required an emergency meeting of the Student Senate to declare Istvan/Bell the winner -had 
+see RESULTS/ page 6 
+
+NDSMCOBSERVER.COM 
+Graduation speaker invited 
+By MAUREEN REYNOLDS Associate News Editor 
+An invitation has been extended to a graduation speaker candidate, but the Office of the President will not release any name until a con­firmation is received, accord­ing to Executive Assistant to 
+the  President  Matthew  
+Cullinan.  
+"We're  not  ready  to  
+
+announce yet," Cullinan said. "Hopefully, we'll be ready to announce in the next couple of weeks." 
+Cullinan said that every year several potential speak­ers are identified, but the quality of names on the list is more important than the number. 
+"We always identify a Gouple of candidates," he said, "and because of the nature of the candidates that we try to attract. the length of the list is less important than the quali­ty of candidate." 
+An important aspect in the quality of the graduation speaker candidate, according to Cullinan, is the message delivered to the students, as well as the way they repre­sent the University. 
+Cullinan said he looks for "someone of stature who will deliver a good message for our students and someone who represents Notre Dame well." 
+The final decision as to the speaker lies with University President Father Edward Malloy. 
+Contact Maureen Reynolds at mreynold@nd.edu 
+Crossin announces 'The Shirt' winner 
+By STEPHANIE YAHN 
+Nows Writor 
+While the catchphrase "Here Come the Irish" lingers in the minds of Notre Dame football fans, 2004 represents a new season for football and hope of new promise. It also signals the traditional release of a new design for The Shirt. 
+This year's design selection has been made. but will not be revealed until a press confer­ence April 23 -the day before the Blue and Gold game ­which officially kicks off a new season of football. 
+"Until then, the design is being kept under wraps," said Kate Crossin, the 2004 presi­dent of The Shirt committee. 
+"It's traditionally a big secret, as there is always going to be a lot of hype surrounding its release." 
+Crossin was unable to reveal any specific details as to the appearance of the new design, nor could she comment on whether the color selected would continue to create "The Sea of Green," a term coined by Coach 1)Tone Willingham in his first season at Notre Dame in 2002. 
+The 128,000 shirts sold in 2002 set an elevated bar for future year's sales, breaking previous highs. Although acknowledging that sales won't "continue to climb exponential­ly year after year," Crossin says 
+see SHIRT/page 4 
+COUNCIL OF REPRESENTATIVES 
+
+Leaders mull basketball tickets 
+By MATT BRAMANTI News Writer 
+The Council of Represen­tatives discussed basketball ticket distribution and a funding appeal for a Christian rock con­cert at their Monday meeting. The meeting also marked the first COR appearance by student body president-elect Adam Istvan and vice president-elect Karla Bell. 
+Istvan said he and Bell have begun their transition efforts to fill their staff. 
+"We're beginning to look at our appointments for next year," he said. 
+Bell said the pair has been in contact with officials in student government and the administra­tion. 
+
+"Right now we're just meeting with a lot of people," she said. 
+Student body president Jeremy Lao said he met with assistant athletic director Jim Fraleigh -who oversees ticket 
+distribution policies -to dis­cuss potential improvements. Chief of staff Pat Corker said changes in the policies are nee­
+see COUNCIL/page 4 
+
+Tuesday, February 24, 2004 
+page 2 The Observer+ PAGE 2 
+INSIDE COLUMN 
+
+RandoIll thoughts 
+So, this one time, at the dining hall ... 
+How many times have you heard that ubiquitous rip-off of the ubiq­uitous line from that ubiquitous movie? One too few, apparently, Will Puckett so I decided to tell you again. 
+Speaking of News Writer 
+movies, there 
+hasn't been a 
+really good one 
+out for a while. I don't work for 
+Scene, so don't take that as exactly 
+a scathing criticism. All I'm trying 
+to say is that it's nearly impossible 
+to find a good movie to watch 
+nowadays that doesn't involve a 
+copyright date of 1985 or some­
+thing. 
+Oh yeah, didn't you hear? The Motion Picture Association of America, in its anti-piracy ven­tures, has decided to make us all start calling movies by their copy­right dates. There's nothing like talking about "that great copyright '79 movie with the cool thing," except for maybe talking about "the even greater copyright '89 one with the bald guy." Actually, we're not even allowed to say "movie" anymore -we have to pay royal­ties if we do that. 
+So everyone's in the middle of midterms, papers and whatnot right now. That would be great, except for the insane number of crazy awesome cool things to do on campus ... exactly zero. I think I saw someone sun tanning on the
+
+• 
+ice on North Quad last weekend from sheer frustration. 
+Thus, here's an idea of something to do -take a grape, cut it nearly in half and microwave it. You should get enough amusement out of that to keep you going until spring break finally arrives. 
+Incidentally, those of you who voted to move your class midterm to the same day I have an eight­page paper due can take spring break early. How about two weeks early? Urn, yeah ... I'm going to have to ask you to get off campus right now.... If you could just go ahead and make sure you do that, that would be just greeeeaaaat.... 
+All inanities from copyright 1999 aside, unpredictability is annoying. So how about we make the answers to everyone's tests all A? That would certainly be a lot more pre­dictable for everyone, even the poor overworked Registrar's Office. 
+Ouch, that last thought was too heavy for my brain to handle at the moment. I think I'll wait about three weeks, and then try it again. Be careful, or it could happen to you -your brain might be frozen that way forever! So here's to stuff that nobody really knows how to do that we do anyway, I guess. If there was a point to that, somebody please shoot me. 
+The views expressed in the Inside Column are those of the author and not necessarily those of The Observer. Contact Will Puckett at wpuckett@nd:edu. 
+CORRECTIONS 
+The Observer regards itself as a professional publica­tion and strives for the highest standards ofjournal­ism at all times. We do, however, recognize that we will make mistakes. Ifwe have made a mistake, please contact us at 631-4541 so we can correct our error. 
+
+QUESTION OF THE DAY: WHAT ARE YOUR PLANS FOR MARDI GRAS? 
+
+
+
+Ana marla Padralc Noah Babin Louis Cavadlnl Tim Randolph Brad Wanchulak Scaperlanda-Rulz McDermott 
+Freshman Senior Freshman Freshman Sophomore Junior 
+Howard  OffCampus  Stanford  Keough  
+"I'm having an  "Boxing  "Playing hockey  "Make out with  
+'ice cream for  practice. ,  and doing  this guy.,  
+dinner' party. "  homework. "  
+
+
+Jeweler turns man's glass eye Into a ring 
+DUNCAN, Okla. -AI Nix has designed a lot of jewelry in the last 25 years, but noth­ing compares with the proj­ect Michael Burton handed hlln -a glass eye to be refit­ted into a ring. 
+Burton has had a glass eye for 35 years because of an industrial accident. He had to have the artificial eye refitted recently, and he didn't want to part with the old one. 
+So he called on Nix. 
+"That eye cost me $2,000 35 years ago," Burton said. "It took three days for people to hand-paint that eye. To throw it away would be like buying a new car and just taking my old car to the dump. I guess it's like they say -one man's trash is another man's treasure." 
+Cigarette blamed for toilet fire 
+
+JACKSON, Wyo.-A ciga­rette pitched down a ski area toilet is the suspected cause of an underground fire that took several hours to put out. 
+Plastic fixtures melted in the mid-mountain men's room at Jackson Hole Mountain Resort, but the flames did not reach out of the toilet Monday. 
+"It was too hot to be sitting on the toilet, that's for sure," Teton Village Fire Chief Watt Hyersaid. 
+The fire smoldered overnight before ski patrollers tried to put it out by dumping snow down the toilet. Firefighters arrived around 10 a.m. and began skiing 5-gallon jugs of water down to the bathroom, which can only be reached on skis or by snow machines. The fire was extinguished by 2 p.m. 
+Hyer said he is not familiar with any other toilet fires and is not looking forward to another one. 
+Information compiled from the Associated Press. 
+
+TODAY TONIGHT WEDNESDAY THURSDAY a:: 
+w 
+:c 
+~ 
+
+3: w 
+.... 
+
+
+~ ~ 
+c:c 
+(.) 
+
+.9 HIGH 38 HIGH 30 HIGH 39 HIGH 41 LOW 24 LOW 19 LOW 22 LOW 23 
+Keough  Siegfried  
+"Ditto!"  "Strip for  
+beads!"  
+
+IN BRIEF 
+
+UBWELL2 will host an after­noon of free food, relaxing mas­sage and raffies. Participate in activities to challenge yourself and our culture's ideal of beauty today from 11 a.m. to 2 p.m. in the Sorin Room at LaFortune. Prizes include a free massage from Emerald Cut, Panera Gift Certificate and Notre Dame Bookstore Gift Certificate. 
+Ambassador Francis Taylor, Assistant Secretary of State for Diplomatic Security will give a lecture today entitled "Perspectives on the Global War on Terrorism." Sponsored by the Department of Political Science, the lecture will take place from 12:30 to 2 p.m. in 140 DeBartolo. 
+International Student Services and Activities will hold the International Film Series: Marooned in Iraq today from 7 to 9 p.m. The showing takes place in 117 DeBartolo . 
+Come cheer on the men's bas­ketball team as they take on Providence tonight at 7:30 p.m. in the Joyce Center. 
+Learn about the Student Union Board, talk with current SUB staff and eat free food at the SUB Open House Wednesday from 6 to 8 p.m. in 201 LaFortune. 
+The Student Union Board presents the 46th Annual Collegiate Jazz Festival Preview Wednesday from 7:30 to 9 p.m. in the LaFortune Ballroom. Admission is free to students and the public. 
+To submit information to be included in this section of The Observer. e-mail detailed infor­mation about an event to obsnews@nd. edu. 
+FRIDAY SATURDAY 
+~ 
+
+HIGH 46 HIGH 
+53 
+LOW 31 LOW 
+38 
+Atlanta 54 I 41 Boston 37 I 21 Chicago 39 I 28 Denver 44 I 29 Houston 68 I 49 Los Angeles 62 1 50 Minneapolis 35 121 New York 41 I 25 Philadelphia 40 I 21 Phoenix 63 I 47 Seattle 52 I 41 St. Louis 45 I 28 Tampa 80 166 Washington 44 I 26 
+Tuesday, February 24, 2004 The Observer + NEWS page 3 
+Candidates campaign for SMC class councils 
+By KELLY MEEHAN 
+News Writer 
+The campaigning for class officers has begun at Saint Mary's. 
+Last night in Haggar Pa-rlor the tickets for the classes of 2005. 2006 and 2007 debat­ed, answPring the student body's questions about their platforms. 
+This year, there are two tickds running for represen­tation in the class of 2005 and class of 2007, and only one ticket running for the class of 2006. Although the numbers are slightly down from the average of two to thnw tickets per class, elec­tions committee chairman Nicole llaeberln feels there is increased activism in student government at Saint Mary's. 
+"Overall there has been an increase in interest. and it has to do with how well stu­dent government has done,' llaeberle said. "It has really encouraged people to get involved." 
+The current 2007 class president, Claudia Toth, is up for re-election with running mates vice presidential candi­date Kathleen Kindt, secre­tarial candidate Kristen Bogdanowicz and treasury candidate Deanna Shorsten. They have coined themselves "The Chics," and promise to increase class spirit through retreats and outings. They also plan to activate a new program. "Sophomore Sisters", in which a sopho­more student will mentor a fresh man and help them adjust to college life. 
+Aside from Toth being the current class president, Shorsten currently serves as class treasurer and Kindt is the class secretary. 
+"Because the three of us have served on student gov­ernment before, we have past experience that we will com­bine with new ideas," Toth said. 
+Also running for class of 2007 officers are presidential candidate Susan Mcllduff. vice presidential candidate Angela Litrell. secretarial candidate Amanda Litrell and treasury candidate Krista Fritz. Promoting the strength and unity of the class of 2007. this ticket promises to strengthen the ties with the South Bend community and increase officer availability. They would keep the class involved by e-mailing a monthly newsletter entitled the "Sophomore Soiree,'' and increase on-campus activities during the weekend. 
+"We feel we have to be strong to carry on the legacy of the class of 2007," Mcllduff said. 
+The only ticket runni-ng for the class of 2006 is comprised of presidential candidate Danielle Lerner, vice presi­dential candidate Liz Palasky, secretarial candidate Nichole McCloud and treasury candi­date Kellye Mitros. 
+"We hope to build on the success we've had this year while promoting strong rela­tions for the class as a whole," Lerner said. 
+
+This ticket's goals include increasing student attendance and support of athletics, com­munity service opportunities, and pairing juniors with sen­ior mentors regarding gradu­ate school, internship, and senior compositions. 
+Running for class of 2005 officers are presidential can­didate Rachel Casciari, vice presidential candidate Tricia Michalak, secretarial candi­date Julie Conaty and treas­ury candidate Megs Hanifin. They promise to enhance 
+.....~....... 
+•••.......... 
+······· "''··:~-.. 
+
+relationships between on­campus and off-campus sen­iors and fight for new student ideas while keeping old tradi­tions. 
+"There are a lot of great things at SMC that can be expanded," Casciari said. "We have so many ideas of things to put into action that we can't even begin to tell you." 
+The other class of 2005 ticket is comprised of presi­dential candidate Jacqueline Cuisinier, vice presidential candidate Abby Ragan, secre­tarial candidate Beth Bennett and treasury candidate Jodie Emerick. Their goals include 
+
+starting new traditions in the 
+•Senior Apartments, begin new events such as "Senior Service Saturdays" and "Senior Night at State" and have fun class apparel. 
+"I am confident in our belief that we have something great to offer to the class of 2005." Cuisinier said. 
+Students can vote for only the tickets running for their class, and current seniors are not eligible to vote. Voting takes place until 11:59 p.m. tonight on PRISM. 
+Contact Kelly Meehan at kmeehaO 1 @saintmarys.edu 
+'jj :··(''i·i:;{it"·····... W.IS:O N FEaR WA~··-.2.~T H
+Ea. O.,.O..V• 
+
+&II: O·O·····Pii'ill···· P-..vx•....v NX<I<H'T'-.:.:.:·~·p;ooflll!-r·UN. •..~.~._._ ..OC>IYI LJN IV"ER~;·.:r·v···of".....f'l!_,OTRE D.A.I'VI E J.A.Z:Z: a.A.N 0 ··rJ" ....A.NO. COM ElO 
+........... ··~~ 
+...........-. ... 
+····· ................; ............................... 
+
+F'RI DP.V• F'Ea RLJP.RV 27TH 
+.:VBNXNG C:C>N.CB_.-r" liiiiL-C>.CK-'UV.A.-HIXNGi'T"C>N H.A.L-L­
+16:4~ FM M ICH IC3AN STATE UN I"VERSITY JAZZ BAND I RODNEY WHITP.KER, DIRECTOR 7::30 FM WESTERN M ICH IC3AN UN I"VERSITY .A.F' QLJ I NTET TRENT KVNP.STON, Dl RECTOR 
+6: , ~ FM M I C:: HI O.A.N SIOT.A.T E C::.C::T ET I RODNEY WHITAKER. Dl RECTOR ·a:OO FM ,WESTEF/:N M ICH IAC3 N .JAZZ 0RCH ESTRA. SC:OTT C.OWP.N. Dl RE:C::TOR 
+9:4~ FM JWD<:3ESI .JAM .JEFF C. L.A.VTO N ( S.A.X.O PH ONE) .JOHN F'.A.DDI6 (TRUMPET) .A. LAN F'P.:SQ W.A. ( F" I AN 0) 
+DP."VE c::A.RPENTE:R l EJP.SS) F'ETER ERSKINE ( F"ERC:U:SSI ON) 
+6ATLJ RD.<•,:Y, FEBRUARY 28TH , 
+2:00 PM ...JUIPGi--r C:L-XNXc:;r..-ilaAND 11iJ UXL-IPXNG 
+··············7z..:30 F'M N!.A.RSH.A.LL LJ N·I."V'ESSITY ..1.A.:ZZ: E!: NSEM aLE ········ .. M.A.·RT.I N W. SAW NDE~·S .. t::rn~E·CT..QR e:, ~ FM le:x.A.s B-r:..a..-r"'e:...L/.NIV"ERSITY J.A.:z::z: B.A.N o . F' R E CICII E MEN DOZ..;;.~ ·aI R·EC::T.O R 
+9:00 F'·~·····.I.Nt:l"t·.A.NA LJ NI"VERSITY JOE·;:::···K.ELSE:Y· COM80 
+9:4~ F'M TEX.A.S ~Af..E··.LJ·l'!oi.I.:V:ERSITY B.A..LS.A. DEL "'IC> JOHN LOPEZ:• Dl RECT.oR:· 
+
+EJROUC::.H'T 'TO VOU EJV SUEJ 
+vvvvvv.n d.edu/~ sub/cjf/ 
+
+' 
+Tuesday, February 24, 2004
+page 4 The Observer + NEWS 
+
+Council 
+continued from page 1 
+
+essary. 
+"It's ridiculous that there are kids who want to be there that can't get tickets," Corker said. 
+However nothing can current­ly be done to give more students tickets. 
+"For the short term, there is no way to increase the number of student tickets," Lao said. "The only way to increase the number of tickets is to renovate the [Joyce Center.]" 
+Lao said such renovations are three to 10 years away. He also said Fraleigh's office was con­cerned about the proportion of students who buy season tickets but fail to attend the games. 
+"If we're complaining about student tickets, why aren't more students showing up to the games?'' Lao asked. 
+He said another potential change would be to reduce the 
+
+Shirt 
+continued from page 1 
+she holds "high expectations for the 2004 shirt." 
+Each year a campus-wide con­test is held for design submis­sions. This year, 18 entries were submitted from which eight peo­ple were asked to resubmit ideas based on their original design and/or graphic design ability. From the talents displayed, sen­ior Brittany Becker's design was chosen. 
+"I met and spoke with her and could see she is very talented and that her design fit very well with the direction we saw The Shirt going in 2004," Crossin said. 
+Although neither can comment on the shirt's design, Becker, in creating it said, "I wanted The Shirt to really evoke the feeling of unity that is so important to the Notre Dame Stadium experience, plus I wanted it to be fun and vibrant, something everyone would want to wear." 
+Some tweaking of the original design was necessary, Becker and Crossin said, but both agreed it only changed for the better. Together they collaborat­ed to refine the idea, but the original thought remains the same. 
+"Design is a constant process, and there are always changes being made," Becker said. 
+"[It is] a huge accomplishment for a designer to have so many people wearing your design, but I am especially happy to just be involved in such an awesome project." 
+The Shirt Campaign began in 1989 when Sister Jean Lenz encouraged students to buy the shirts in support of Zheng de Wang, a Notre Dame graduate student who was a victim of a hit-and-run. Thus began a tradi­tion of supportive fundraising, which continues 15 years later. Today proceeds benefit several scholarships and charities, in addition to contributing to Student Government. 
+Becker hopes The Shirt can make a significant contribution at football games next season. 
+"I really just want it to be a success, and I hope it creates a great atmosphere in the stadium for our team and our fans," Becker said. "I really think this is a fun, cool design, and I hope everyone will be excited when The Shirt goes on sale." 
+number of season tickets allo­cated to students, allowing the athletic department to sell more individual game tickets. 
+Hall Presidents Council co­chair Sarah Keefer said she would support such a plan. 
+"It'll reduce the number of people who buy season tickets but only go to a few games," Keefer said. 
+The council's adviser, Peggy Hnatusko, emphasized that plans are still being debated. 
+"[The proposals were] the result of a focus group where people were allowed to freely give their opinions," Hnatusko said. "There's nothing etched in stone." 
+Istvan suggested creating an online message board, which would enable students to con­tact each other to exchange tickets. 
+"It could significantly reduce the no-show rate, which would give the athletic department enough confidence to increase our ticket allotment," Istvan said. · Club Coordination Council president Seth O'Donnell praised the "Carolina Fever" fan club at the University of North Carolina at Chapel Hill, and sug­gested such a plan could work 
+at Notre Dame. Under the UNC program, students who attend less popular sporting events earn points. Students who accu­mulate larger point totals are eligible to receive tickets in the 
+Fever student section at the wildly-popular Tar Heel basket­ball games. 
+The council also considered an appeal for funds from Iron Sharpens Irt~n, a nondenomina­tional Christian group. The group is planning a "Faith Rocks" concert to be held in late April. 
+The council maintains a col­laboration fund, which allocates funding to organizations plan­ning large events. The fund cur­rently has a balance of more than $16,000. 
+Hnatusko said money has not yet been drawn from the fund this year, but she cautioned council members more appeals might be coming. 
+"No money has been spent to date," Hnatusko said. "But typi­cally, March and April are prime times for requests to come in." 
+The council allocated $12,000 toward the "Faith Rocks" event. 
+Council members began to discuss the ongoing revisions to the Student Union Constitution, but quickly tabled the matter until next week. Lao directed the programming committee to meet this week, in order to cre­ate revisions to programming­related areas of the constitution. 
+In other COR news: 
+
++ Student body vice president Emily Chin said her office is launching a responsibility cam­paign, encouraging students to make prudent decisions about drinking. The campaign includes posters asking students not to be "that guy" or "that 
+
+
+The purposes ofthe miniigrants are to foster faculty· student-community partnerships that: 
+• 
+Reslllt in measurable, positive impact in the South Bend area; 
+
+• 
+Reflect the investment offaculty expertise in the local community; and 
+
+• 
+Offer students community,based learning opportunities that promote civic respon{;ibility. 
+
+
+To learn more about requirements for the mini-grants, go to http://centetforsocialconcerns.nd.edu/ ganeygrant2004 .html 
+girl" who gets into trouble after drinking excessively. 
+"[The campaign] stemmed from the Board of Trustees report and our concerns as stu­dent leaders that students need to take responsibility for their actions and make wise choices," Chin said. 
++ 
+Junior class president Katie Barrett said her office will be distributing rice bowls today in LaFortune, DeBartolo and O'Shaughnessy Halls. The bowls will be used to "collect loose change during Lent to help feed poor families," Barrett said. 
+
++ 
+Senior class president Jazmin Garcia said her council will hold a "Rock the Vote" meeting Wednesday at 9:30 p.m. in the Center for Social Concerns. She encouraged each class council to send a representative to the meeting, which will focus on planning the voter registration drive. 
+
+
+Contact Matt Bramanti at mbramant@nd.edu 
+
+The Ganey Award & Grants 
+For Research Addressing Challenges in the Local Community 
+
+
+
+Contact Mary Beckman, Ph.D.,  at 631·4172, mbeckman@nd.edu, with any questions.  
+~UNIVERSITY OF  
+WNOTREDAME  CENTER FOR SociAL CoNCERNS  
+
+Contact Stephanie Yahn at syahn@nd.edu 
+
+
+
+
+
+
+
+ORLD & NATION 
+Tuesday, February 24, 2004 CoMPILED FROM TtiE OBsERVER'S WIRE SERVICES page 5 
+INTERNATIONAL NEWS 
+U.N.: Iraqi 2005 elections possible 
+UNITED NATIONS -Elections for a new Iraqi government would be possible by January 2005 -but only if preparations begin immediately, the United Nations said in a report released Monday. 
+Lakhdar Brahimi, the U.N. secretary-gen­eral's envoy to Iraq, warned of increased violence and ethnic strife unless Iraq's leaders and the U.S.-led coalition get Iraqis' acceptance for a way forward. 
+llis report followed a weeklong mission earlier this month by a team of U.N. experts who were essentially asked to resolve a dispute between the United States and Iraqi clerics on the best way to restore sovereignty to Iraq. 
+Palestinians protest Israeli barrier 
+HAMALLAII, West Bank -Palestinians held coordinated protests -occasionally rebuffed by Israeli tear gas -throughout the West Bank and Gaza Strip on Monday aimed at persuading the world court to rule against Israel's separation barrier. 
+Thousands responded to Yasser Arafat's call to "make their voices heard" on the first day of the court hearing. Some marchers burned Israeli flags, destroyed fake walls or threw stones at Israeli sol­diers. 
+Palestinians say the partially built barri­er. which would dip deep into the West Bank along its planned 450-mile route, is an Israeli effort to take land they want for a Palestinian state. 
+The sections already built make it hard for thousands to reach jobs, schools, fields and hospitals. 
+NATIONAL NEWS 
+Workers face smuggling charges 
+MIAMI -Following a sting operation, 14 workers at Miami International Airport were indicted Monday on charges of smug­gling cocaine and heroin from Latin America to the United States, federal offi­cials said. 
+Thirteen current or former airport work­ers were charged with drug conspiracy after a four-year investigation spanning at least three foreign countries and three U.S. cities. 
+Authorities arrested a 14th man, but he may have been a victim of mistaken identity, officials said. They were trying to determine how the mistake occurred. 
+Some support televised executions 
+NEW YOHK -Three in 10 American polled last month said that Osama bin Laden should be the first victim if execu­tions were televised -and 21 percent said they'd pay for the privilege. 
+Eighteen percent said Saddam Hussein should be executed on TV, and 11 percent said they'd pay to watch it. The opinions on executions came in a poll taken by Harris Interactive for the Trio cable channel. 
+One-third of the respondents told Harris that they didn't believe executions should be televised. 
+Harris Interactive interviewed 1,017 Americans aged 18 or older at random Jan. 24-26. The margin of error for the sample is plus or minus 3.1 percentage points. 
+STATE NEWS 
+Legislators debate healthcare 
+FOHT WAYNE -State officials and insur­ance companies are working to find a way to save a program that provides health-care cov­erage to thousands of Indiana residents who would otherwise have to do without. 
+Lawmakers have been working on a propos­al. set for a full Senate vote this week, that would prevent the Indiana Comprehensive Health Insurance Association from failing. The program was on the verge of bankruptcy in 2003 before Indiana lawmakers made short­term fixes that helped the program survive. 
+HAITI 
+
+U.S. troops arrive in capital city 
+Marines secure U.S. Embassy in Port-au-Prince; rebels hunt Aristide supporters 
+Associated Press 
+
+PORT-AU-PRINCE­
+Fifty U.S. Marines 
+streamed into the capital 
+Monday to protect the U.S. 
+Embassy and its staff, 
+while government loyal­
+ists set flaming barricades 
+to block the road from 
+rebels threatening to 
+move on Port-au-Prince. 
+The United States made 
+last-ditch efforts at finding 
+a political solution. As an 
+opposition coalition was 
+on the brink of rejecting a 
+U.S.-backed peace plan on 
+the grounds that it did not 
+call for President Jean­
+Bertrand Aristide to step 
+down, Secretary of State 
+Colin Powell phoned oppo­
+sition politicians and 
+asked them to delay 
+responding formally to the 
+plan for 24 hours. 
+
+Evans Paul, a· leading opponent who once was allied with Aristide, said the coalition agreed the extra time "will perhaps give Mr. Powell a little more time to consider his position ... and give us the "We're going to clean Bagnoli, and people another rebel leader, told assurances we need" on the city of all 'chimeres,"' torched the colonial man­The Associated Press Aristide's departure. said rebel Dieusauver sion of Mayor Wilmar there was no turning 
+With rebels hoping to Magustin, 26. Chimere, Innocent, who supports back. seize the capital by which means ghost, is Aristide. "We have the weapons Sunday, Cabinet ministers used to describe hardcore Rebel leader Guy and the expertise to take were asking friends for Aristide militants. Philippe said his men the country," he said. places to hide, senior gov­It was not clear what could do nothing to stop "Nothing can stop us." ernment sources said. The would happen to those the looting, and blamed The rebels cut cellular rebels seized Haiti's sec­detained. One rebel said Aristide's government for telephone service in the ond-largest city, Cap­they were saving them leaving most of Haiti's city, saying they wanted Haitien, with little resist­from lynching. But anoth­eight million people hun­no communication with ance Sunday and attacked er, Claudy Philippe, said gry and desperate. Port-au-Prince. two police stations outside "The people show us the However. some rebels Aid agencies have Port-au-Prince. [chimere] houses. If they later fired shots into the warned a humanitarian 
+More than half of Haiti are there, we execute air to scatter looters at catastrophe is brewing, is now beyond the control them."· • Cap-Haitien's seaport; at with 268,000 people who of the central government. Thousands of people in least two looters were hit depended on food aid in In Cap-Haitien on Monday, Cap-Haitien demonstrated by rebel gunfire and taken northern Haiti being the rebels hunted down mili­in favor of the rebellion to a hospital. most vulnerable. The tants loyal to Aristide, Monday, chanting Philippe said more than International Committee accusing them of terroriz­"Aristide get out!" and 30 residents have volun­of the Red Cross sent ing the population in the "Goodbye Aristide." teered to fight with the medical supplies and a 
+days before the fall of the Residents went on a insurgents, who have four-person team. northern port city of rampage of reprisals and started to replace officials Aristide's Premier Yvon 500,000. looting that began after in Cap-Haitien with rebel Neptune said the interna­"I am a brick mason, I the insurgents seized the sympathizers. He said in tional community must didn't do anything city. Looters stole the 800 an interview Monday that help save Haiti from "ter­wrong," Jean-Bernard tons of food from the U.N. he hopes to take Port-au­rorists that are sowing Prevalis, 33, pleaded as World Food Program Prince by Sunday, his 36th violence and death," but he was dragged away, warehouse, according to birthday. he did not go so far as to head bleeding. the agency's Andrea Remissainthe Ravix, ask for peacekeepers. 
+
+Bush intensifies election campaign 
+and Democrats address issues such as lenged the president to a debate about 
+Associated Press 
+taxes. the Vietnam War. 
+WASHINGTON -Slipping in the The speech, as drafted, walked to Kerry said Bush's plunge into cam­polls, President Bush is striking back the edge of referring to Democratic paign mode signaled the president is with an aggressive new stump speech front-runner John Kerry by name. but nervous. and preparing a multimillion-dollar did not explicitly do so. aides said. "I think George Bush is on the run." advertising barrage. "It's going to be Kerry has yet to secure the And I think he's on the run because he 
+the year of the sharp elbow and the Democratic nomination as he and Sen. doesn't have a record to run on," quick tongue," Bush said Monday. John Edwards of North Carolina wage Kerry said while campaigning in New 
+Bush shelved the rhetoric he's been a two-man fight. Kerry holds a signifi­York's Harlem neighborhood. using for months on the fund-raising cant lead in the delegate chase, with "I don't think losing three million circ1,1it in which he tried to cast himself contests Thesday in Hawaii, Idaho and jobs, having deficits as far as the eye 
+as focused on policy and unconcerned Utah. and a 10-state election, including can go, having two million people lose with re-election politics. The new California and New York, on March 2. their health insurance, turning your speech, to be unveiled before a While engaging his Democratic rival. back on kids in schools and not fund­Republican Governors Association Kerry has succeeded in drawing Bush ing No Child Left Behind ... represents fund-raiser Monday night, drew con­into early skirmishes, like the one over a vision," Kerry said later in Queens, trasts between the way Republicans the weekend in which Kerry chal-N.Y. 
+Tuesday, February 24, 2004
+page 6 The Observer + NEWS 
+BOARD OF GOVERNANCE 
+
+
+Board discusses 
+charity events 
+
+By NICOLE ZOOK 
+News Writer 
+Few subjects were discussed in depth at Monday's abbreviated Board of Governance meeting. 
+Due to personal commitments of student body president Elizabeth Jablonski-Diehl, the meeting was held to only a few minutes. 
+The BOG discussed sponsoring the Prom Dress. Founders Nicole Watson and Emily Carey pre­sented the plan to BOG. 
+The two intend to collect prom dresses to give to Wabash and Walkerton students who would not be able to attend end-of-year formal events without them. 
+"We just thought it would be a good starting place here at Saint Mary's to collect prom dresses," Carey said. 
+Watson and Carey got the idea for the project last semester through a class assignment. It was inspired in part by Regina Perkins of United Way, who will help collect and distribute gowns. 
+"They are asking for any size semi-formal and formal dresses for middle school and high school girls," Watson said. 
+OIT 
+continued from page 1 
+that will [have] the least impact on operations and the user community." 
+Klimek said OIT will maintain a backup connection in the event of future problems. "Current plans are to keep a second service provider in standby mode and to failover all Internet traffic if required," he said. 
+The new connection will sup­ply significantly more band­width, both to the residence halls and the University at large, Klimek said. He said the new connection provides 100 megabits per second of band­width to campus, a 30 percent increase from the current level. 
+In addition, the University's Internet2 connection will get a 400 percent boost in band-
+
+The pair also requested $200 to fund advertisement and buy several new prom dresses to donate. 
+The drive was approved and will take place before prom sea­son. 
+In other BOG news: 
++ 
+The Saint Margaret's House Winterwalk in was a success in downtown South Bend Sunday, according to the Board. Over $600 was raised by Saint Mary's, along with a donation of cookies by the senior class. 
+
++ 
+The Student Activities Board is holding auditions to find an opening act for "Last Comic Standing" winner Dat Phan. Auditions will take place Friday and the winning student will per­form before Phan at March's Midnight Madness. 
+
++ 
+This weekend will be Soph­omon~ Parent's Weekend'. Parents will arrive Friday. Activities include free tours of the South Bend Chocolate Factory, an Academic Open House and a dinner and dance Saturday night at the Palais Royale. 
+
+
+Contact Nicole Zook at zook8928@saintmarys.edu 
+width to 100 megabits per sec­ond. 
+Internet2 is a consortium of more than 200 universities across the United States work­ing on cutting-edge technolo­gies to improve the Internet. 
+The connection will provide a direct fiber-optic link to Internet backbone components in Chicago, allowing OIT to increase capacity. 
+"With a complete fiber build from campus to Chicago, we will have the ability to scale as necessary," Klimek said. 
+Despite the setback, Klimek was optimistic the new connec­tion's installation will help the University community. 
+"I don't think we can base anything on one [failure]," he said. "We have confidence that the new connection will suc­ceed." 
+Contact Matt Bramanti at mbramant@nd.edu 
+
+
+2046 SouTH BEND AvE 
+272-!766 
+Open for lunch, dinner and late night fun There is always action at Bookmaker's 
+watch all your favorite sporting events on 14 
+Mon  Specials all day long  
+Tu e 5  Every Thes. is ND Night, DJ, and specials  
+starting at $1.00 all day long  
+Wed  Karaoke 9-12 and all day specials, starting at  
+$2.50  
+Thurs  Lunch and daily specials  
+Fri. Feb 27  Live music with Jason Sapen .  
+Sat, Feb 28  Live music with FBI (Funky Blues Inc)  
+Sun  Sports all day and all you can eat Buffet $5.96  
+
+Results 
+continued from page 1 
+a clear impact on voter turnout in Monday's primary class coun­cil elections. 
+While only 798 juniors voted in the student body primaries and 907 in the runoff, 1,053 voted for the officers of the class of 2005 -a race that will be decided Thursday in a runoff between the Darrell Scott-Lauren Flynn­Tom Raaf-Kristin Boyd (43.2 per­cent) and Katie Boyle-Brian Agganis-Sarah Bates-Steph Aberger (36.1 percent) tickets. 
+Scott attributed the increased voter participation to the consid­erable publicity -both positive and negative -generated by the previous election. 
+"The Ebersol-Istvan matchup may have increased voter apa­thy, but it helped out in getting student union issues to the fore­front," he said. 
+Boyle agreed the presidential election was a "pretty big factor" in attracting student interest. She added that especially for current juniors, class council representa­tives can seem more accessible and relevant than the student body president during their sen­ior year. 
+"The immediacy of our con­cerns is important," Boyle said, naming Senior Week and class reunions as important responsi­bilities of the senior class officers. "The junior class has a vested interest in seeing a good ticket elected -it will make or break our senior year at the University. ... It's easier for voters to think about life on campus, and then after college with the reunions, than about getting someone into 
+. the Board of Trustees." Judicial Council president Elliot Poindexter expressed simi­lar thoughts about juniors' prior­ities. "I would attribute the increase in juniors voting to already hav­ing more apathy for the student 
+body presidential elections," he said, adding that the controver­sial outcome did "not necessari­ly" influence juniors' choices. 
+Sophomore voters seemed to move somewhat in the opposite direction. Only 990 voted for the officers of the class of 2006, a 
+· decrease from the presidential primaries (1,077) and only a slight increase from the runoff (952). The class of 2006 race also required a Thursday runoff, as 
+36.7 percent voted for the Steve Miller-Ben Zerante-Patricia Adams-Erika D'Addabbo ticket and 26.2 percent voted for the VJjay Ramanan-Laureri Mullins­Lauren Hallemann-Emily Short ticket. 
+Both Miller and Ramanan cited the aftermath of the presidential elections as a negative factor in sophomore participation and said they would step up their campaigns over the next few days in order to combat the apa­thy shown Monday. 
+"People were really disen­chanted with the whole thing," Miller said. "The [Student] Senate decision didn't do any­thing to make students think they had a voice in student gov­ernment." 
+Ramanan agreed with Miller that the controversy of the previ­ous election contributed to the low turnout, but added that many voters in his class simply didn't know an election was held -a problem he hoped to fix by Thursday. 
+"My instincts would tell me there was a certain bit of fall­out," he said. "I think the num­ber of people voting Thursday will be quite different." 
+Freshman voters displayed the highest turnout, as 1 ,233 votes were cast for the officers of the class of 2007 as opposed to 1,069 votes cast in the presidential pri­maries and 1,028 in the runoff. The Jason Laws-Bill Andrichick­Megan Spokes-Laura Horne tick­et won the election outright, receiving 50.8 percent. 
+Laws said the freshman response reflected not only a "strong sense of community within [the] class," but also a heightened awareness of their power to swing an election's out­come. 
+"Our class has seen how much their vote can count," Laws said. "They ~anted to make sure they had the people they wanted to represent them." 
+Poindexter agreed the more elections freshmen experience and the more they are targeted by campaigns, the more motiva­tion they have to participate. 
+"With each election they get more used to it," he said. "There were also multiple candidates spending more time to reach every freshman.... When there are fewer votes on the table you have to treat every vote more carefully." 
+Contact Claire Heininger at cheining@nd.edu 
+
+
+THE OBSERVER 
+
+
+
+
+USINESS
+Tuesday, February 24, 2004 
+page 7 
+MARKET RECAP 
+Stocks 
+
+Dow 10 609.62 -9.41
+Jones ' 
+~ Same: • Composite Volume:
+11'sf 187 1,378,907,264 
+
+AMEX 1.229.30 -s.~o: ::::I 
+NASDAQ  2,007.52  -30.41  
+NYSE.  6,665.50  ·11.21  
+S&P500  1,140.99  -3.12  
+NIKKE.l(Tokyo)  10,712.87  -1.56~09!  
+FTSE IOO(LDndon) 4,524.30  +9.30  
+
+COMPANY %CHANGE I$GAIN I PRICE 
+INTEL CORP (INTC)  -3.33  -1.00  29.00  
+JDS UNIPHASE QDSU)  +0.40  +0.02  5.00  
+CISCO SYSTEMS (CSCO)  -1.90  -0.44  22.75  
+SUN MICROSYS (SUNW)  -2.96  -0.16  5.24  
+MICROSOFT CORP (MSFT)  +0.15  +0.04  26.61  
+Treasuries  
+3(}.YEARBOND  -0.73  -0.36  49.17  
+I(}.YEARNOfE  -1.17  -0.4B  40.50  
+. 5-YEAR NOTE  -1.79  -0.55  30.18  
+3-MONTH BILL  + 1.20  +0.1 I  9.27  
+Commodities  
+LIGHT CRUDE ($/bbl.)  +0.09  34.35  
+GOLD ($!Troy oz.)  + 1.30  399.30  
+PORK BELLIES (cents/lb.)  -1.05  96.20  
+Exchan  Rates  
+YEN  I 08.6  
+EURO  0.7975  
+POUND  0.5365  
+CANADIAN$  1.337  
+
+COMPANY BRIEFS 
+Campbell serves up Q2 profits 
+MOUNT LAUREL, N.J.-Campbell Soup Co. 
+reported a 2 percent increase in second quar­
+ter profits Monday as ready-to-serve soup sales 
+picked up but condensed soup sales stayed flat. 
+For the quarter ended Feb. 1, the Camden­based company had net income of $235 mil­lion, or 57 cents per share, up from $231 mil­lion, or 56 cents per share, in the same period a year ago. 
+Sales increased 10 percent from $1.9 billion in the second quarter last year to $2.1 billion this year. But expenses rose by 10 percent ­from $1.5 billion to $1.7 billion as the company sought higher quality ingredients, used more expensive packaging and spent more on mar­keting. 
+Lowe's posts surge in Q4 earnins;!s 
+CHARLOTTE, N.C. -Lowe's Cos., Inc., tTi.e world's second-largest home improvement retailer behind Home Depot, reported a 28 percent rise in fourth-quarter profits but saw shares tumble Monday as its forecast for this quarter and this year disappointed Wall Street. 
+Lowe's shares closed down $1.71 per share, or 2.9 percent, at $56.67 on the New York Stock Exchange. 
+The company earned $407 million, or 51 cents a share, for the three months ended Jan. 30, up from $319 million, or 40 cents a share, a year ago. 
+Disney board hears warning 
+LOS ANGELES -The two-month effort being waged by ex-Disney board members against Disney chief executive Michael Eisner may have created a false impression of weakness that encouraged cable giant Comcast Corp. to bid for the company, a Disney board member said Monday. 
+"There is a perception of weakness," Disney board member Judith Estrin said during a Proxy Talk investor conference call hosted by Glass, Lewis & Co., an investment research and proxy advisory firm. . 
+Stanley Gold and Roy E. Disney have waged a "Save Disney" campaign aimed at producing a protest vote against the re-election of four board members at the company's March 3 shareholder meeting in Philadelphia. 
+BEVERAGES 
+
+
+Coke expands search for CEO 
+Soft drink giant looks outside company to replace current chief by year's end 
+Associated Press 
+
+ATLANTA-Coca-Cola Co. is looking outside its ranks as it searches for a new chief executive, but some company-watchers say the beverage giant's size and complexity along with its recent legal and image problems may make an insider the right choice. 
+Only a handful of out­siders such as the bosses of major consumer prod­ucts companies such as Gillette or Procter & Gamble would have the knowledge, strength and experience to run a com­pany like Atlanta-based Coke, executive search experts and industry ana­lysts said Monday. 
+They say that because the pool of qualified out­siders is so small and the candidates might be unavailable or unwilling to take the job, Coke would be better off tapping an insider, like No. 2 execu­tive Steve Heyer, to replace did not return phone calls But, Lewis said, the officer of Coke in the retiring Doug Daft. Monday. problems Coke has faced December 2002. He 
+"You need someone who Daft, 60, said last week -from a major restruc­replaced· the company's has proven their mettle in that he will step down at turing that included sever­former president, Jack the consumer products the end of the year. al thousand layoffs to a Stahl, who left after a industry," said Gerald When he was appointed whistleblower lawsuit that reorganization in March Kraines, head of Jaffrey, president a little over a led to an ongoing criminal 2001. N.H.-based executive year ago, Heyer stressed investigation -make its Heyer also has prior development firm The that he was not necessari­selection a challenge if it experience at Coke. He Levinson Institute. "You ly being groomed to take · decides to hire outside. previously served as presi­can't take a chance with a over the top job. "There "Given the amount of dent and chief operating company this size that he were no promises made changes they've made over officer of Coca-Cola or she doesn't have the and there shouldn't have the past two years, a per­Ventures and Coca-Cola skilled knowledge." been," he said at the time. son that understands the Latin America. While he 
+Coke officials have said Whoever Coke hires will strategy would be the best would seem to be the like­little about their search for have the support of a person to carry that strat­ly choice to succeed Daft, a new chief executive strong and involved board egy out," Lewis said. "And Heyer has also had some beyond that Heyer is the made up of experienced it's all about execution difficulties. top internal candidate and business leaders like now. It would make a lot of Sales in Coke's North that other candidates from investor Warren Buffett sense to go inside the com­America unit have not outside the company will and Home Depot chief Bob pany." been as high as officials be considered. Nine Coke Nardelli, said Nathan Heyer, a former Turner would like. Also, Heyer board members contacted Lewis, an analyst with Broadcasting System exec­was a key figure in the by The Associated Press Jackson Securities in utive, was appointed presi­lawsuit that started the declined to comment or Atlanta. dent and chief operating criminal investigation. 
+• 
+
+
+EQUITY MARKETS 
+Intel news pushes Nasdaq down 
+reflects lingering concerns over valu­weekly decline of 0.1 percent. The
+Associated Press 
+
+ations and rising questions about Standard & Poor's 500 index lost 
+NEW YORK -Technology shares whether the economic recovery will 3.12, or 0.3 percent, to 1,140.99, fol­sank Monday on disappointing news hold, said Stephen Massocca, presi­lowing a 0.2 percent drop last week. from Intel, briefly pushing the dent of Pacific Growth Equities. The Nasdaq's weakness is "obvi­Nasdaq composite index into nega­There are also growing worries on ously part of a larger picture of mar­tive territory for the year despite a Wall Street about the upcoming pres­ket correction," said Richard E. brighter forecast from wireless idential election, he said. Cripps, chief market strategist for equipment maker Qualcomm. Blue "Nothing in the headlines today Legg Mason of Baltimore. But the chips also slumped after the U.S. was able to allay those concerns," economy's underlying strength and Army canceled a helicopter program, Massocca said. "We've also not seen the prospect of continued corporate sending Boeing and United a significant correction since March, earnings growth are likely to miti­Technologies lower. and a lot of people are concerned gate the long-term impact, he said. 
+A multibillion-dollar acquisition by that we're due for one, and they're "It's a consequence of how far, how Citigroup and strong sales at Wal­pulling back while they can." fast and how widespread the gains Mart gave those stocks a boost, but The Nasdaq shed 30.41, or 1.5 per­have been for the last 10 weeks," failed to .energize the markets. cent, to 2,007.52, after falling 0.8 Cripps said. "I'd say we're going Federal Reserve Chairman Alan percent last week. The tech-heavy through a sentimental correction, not Greenspan's remarks to a credit index was up just 0.2 percent for the one precipitated by fundamentals." union conference that American con­year, having closed 2003 at 2003.37. Intel Corp. dropped $1.00 to sumers are in "good shape" following The other major indexes were nar­$29.00 after the chipmaker reported a wave of mortgage refinancings also rowly lower. The Dow Jones industri­in federal filings that the Internal had little positive effect. al average gave up 9 .41, or 0.1 per­Revenue Service was examining its 
+The fourth straight day of declines cent, to finish at 10,609.62, after a tax returns for 2001 and 2002. 
+:ruesday, February 24, 2004 
+
+page 8 The Observer + NEWS 
+
+Go discusses Charismatic Movement in the Church 
+By KATIE MOUNTS 
+News Writer 
+
+Twenty students, faculty and community members met Monday evening to hear "The Fire Within: the Charismatic Movement in the Catholic Church," the first in a series of lectures discussing the Catholic Church in the modern world. Senior theology student Monica Go spoke to clarify some miscon­ceptions about the movement and to discuss its origins and future. 
+Go said a charismatic is some-
+
+Helicopter program cancelled 
+Associated Press 
+WASHINGTON -In a dra­matic about-face, the Army canceled its Comanche heli­copter program Monday after sinking $6.9 billion and 21 years of effort into producing a new-generation chopper. 
+It is one of the biggest pro­gram cancellations in the Army's history and comes less than two years after the ser­vice's $11 billion Crusader artillery project was dropped after $2 billion had been spent. 
+At a Pentagon news confer­ence, senior Army leaders said they would propose to Congress that $14.6 billion earmarked to develop and build 121 Comanches between now and 2011 be used instead to buy 796 additional Black Hawk and other helicopters and to upgrade and modernize 1,400 helicopters already in the fleet. 
+"It's a big decision, but we know it's the right decision," said Gen. Peter Schoomaker, the Army chief of staff. He said the Army also will invest more heavily in a variety of unmanned aircraft, such as the existing Hunter and the new Raven. 
+The Comanche decision reflects a growing realization in the Pentagon that the mili­tary has Il)Ore big-ticket weapons projects in the works than it can afford, even after seeing the .Pentagon budget grow by tens of billions of dol­lars since 2001. And it reflects the rising popularity in recent years of unmanned aircraft for surveillance as well as attack missions. 
+The RAH-66 Comanche heli­copter project was launched in 1983 and was eventually to have cost more than $39 bil­lion. The Army said it needed a stealthier, more capable armed reconnaissance heli­copter not only to collect and distribute battlefield intelli­gence but to destroy enemy forces. 
+The program encountered many setbacks and was restructured six times, most recently in 2002. The latest timetable had specified begin­ning initial low-rate produc­tion in 2007. with the first Comanches to have been declared ready for combat in 2009 with full-rate production to have begun in 2010. 
+one who has received at least one of the charismatic gifts ­knowledge, faith, healing, mira­cles, prophecy, discernment of spirits, the gift of tongues and wisdom -through Baptism in the Holy Spirit. Among these gifts she discussed are knowl­edge. faith, healing, miracles, prophecy, discernment of spirits, the gift of tongues and wisdom. . 
+Catholicism's charismatic movement began to spread after the second Vatican Council called for "renewal in the Church", she said. 
+The movement at Notre Dame began when a group of Notre Dame students met on March 4, 1967 to hear a student from Duquesne University speak about his experiences, according to Go said. At a retreat, some­one from the group was given the gift of prophecy, and "the movement quickly spread across campus." 
+But it continued to face criti­cism around the world, and debates arose in Church hierar­chy about the possibilities of the laity possessing these extraordi­nary gifts. Go explained that after papal support from Pope Paul VI and Pope John Paul II, by 1990, the movement had grown to 72 million Catholics world­wide and 15 million Catholics in America. 
+Although within the Charismatic community, Go said, a potential for conflict with authority exists, it is "essential to know that they ... build up the commJJ.nity" and are not only meant for individual growth. 
+Go discussed said that "Baptism in the Spirit does not replace the sacraments," but it further ignites the Spirit within Catholics that they have already gained through Baptism and Confirmation. 
+"We should all be striving 
+eagerly to renew the fire in our hearts.... It is only through the Holy Spirit that we are able to rejoice always," Go said. "Once the whole Church is renewed ... the movement will no longer exist:" 
+The department of theology and the Notre Dame Center for Ethics and Culture co-sponsored the lecture. Seven additional lec­tures will be presented by stu­dents on related topics through­out the months of March and April. 
+Contact Katie Mounts at kmount@nd.edu 
+
+
+
+
+NO DISAPPOINTMENTS 
+
+
+• 
+900 local Anytime Minutes 
+
+
+• 
+Includes Nationwide long Distance 
+
+• 
+Unlimited Nights and Weekends 
+
+• 
+Free Roadside Assistance for 1 month* 
+
+• 
+Free Motorola T731 {afteT $30 mail-in rebate) 
+
+
+
+-(<US.Cellular 
+1-888-BUY-USCC • GETUSC.COM. 
+
+
+
+Tuesday, February 24, 2004 The Observer + INTERNATIONAL NEWS page 9 
+IRAN 
+Iranian elections deemed ~fiasco' 
+Associated Press 
+TEl IRAN -Candidates con­sidered loyal to Iran's Islamic rulers regained control of par­liament, denying liberals an important forum in their drive to ease social and political restrictions, according to results Monday from the coun­try's disputed elections. 
+Heformers called the vote a "historical fiasco," noting that voters could only select from candidates chosen by conser­vative clerics. The European Union criticized the elections as undemocratic and warned of a new chill on efforts to warm relations between Tehran and the West. 
+"It's plain for everybody to sec that these were, from the 
+You f.o·st ~n ~-p-pend~~e earlter tod~y to ~ ral'et'\«>us s~ulrrel· on the ~u~d. 
+One of three valid excuses for missing the 
+BP Meal Auction. 
+Thursday February 26th 8:00-11:00 Lafortune 
+Submit to ... 
+
+Do you have a short story, poem. painting or photograph/ Submit your work to The Juggler, ND's student literary, art and design magazine, and "we'll see what to do with it"... lt might appear in the Spring 2004 issue! 
+• 
+
+Please submit artwork to Robert Sedlack in 212 Riley Hall. Supply slides for pieces larger than II "x 17" or 3-D work. .,. 
+Written work can be submitted to the box outside the Scholastic office in the basement of South Dining Hall or e-maile<f via attachment to juggler@nd.edu. No entries of more than 2.500 words please. All submissions should include title of piece. author/artist's name and an e-mail address. 
+start, flawed elections," British Foreign Secretary Jack Straw said. 
+A disappointed Bush admin­istration vowed Monday to keep hoping for revival of a reformist trend in the country. 
+"We continue to believe the Iranian people deserve a gov­ernment that responds to their aspirations and we believe that that desire on the part of the Iranian people will contin­ue to be expressed in a variety of ways," State Department spokesman Richard Boucher said. 
+Conservatives took at least 149 places in the 290-seat parliament, which has been controlled by pro-reform law­makers since their landslide win four years ago. Reformers and self-described independ­ents won about 65 seats, according to Interior Ministry figures. The final count was expected Tuesday. · 
+The conservative victory was expected even before Friday's elections. Reformers widely boycotted the vote after more than 2,400 liberal candi­dates were barred from run­ning. 
+The nationwide turnout stood at slightly more than 50 percen·t, a noticeable drop from the 6 7 percent in the last parliamentary elections in 2000. In Tehran, the Iranian capital and the country's l'liggest city, just a third of the voters turned out, the ministry said. 
+Despite the lower numbers, Supreme Leader Ayatollah Ali Khamenei welcomed the turnout as a "national and an Islamic epic in the true mean­ing." 
+The shift of control in par­liament expands the influence of theocracy and denies liber­als an important forum for challenging the almost limit­less powers of the country's Islamic leaders. It also deprives reformist President Mohammad Khatami of a key source of support. 
+In Tehran, previously a lib­eral stronghold, the new con­servative group "Developers of Islamic Iran" was firmly in the lead. The group is headed by Gholamali Haddadadel, a con­servative figure with a family relationship to Khamenei. 
+RUSSIA 
+Papal visit not possible 
+Associated Press 
+MOSCOW -The Hussian 
+Orthodox Church remains linn 
+in its objections to a visit by 
+Pope John Paul II. a top 
+Vatican envoy said Monday 
+before ending a six-day trip 
+aimed at easing tension. 
+The trip by Cardinal Walter 
+Kasper, head of the Vatican's 
+Pontifical Council for the 
+Promotion of Christian Unity, 
+was the highest-level visit by a 
+Roman Catholic representative 
+in four years. 
+Overcoming divisions among 
+Christians has been a main 
+goal of John Paul's papacy. and 
+he is especially eager to visit 
+Russia, but attempts to defuse 
+differences between the 
+
+Vatican and the Hussian 
+Church have stalled. Bussian 
+Patriarch Alexy II has said that 
+no visit by the pope can be 
+
+made until the disputes are 
+resolved. 
+"I would wish that the Holy 
+
+Father could come, and it is his 
+fervent wish to come, but we 
+cannot do it against the wish of 
+the patriarch," Kasper said. 
+Tensions between the 
+
+churches have deep historical 
+roots, but increased markedly 
+since the Soviet Union col­
+lapsed in 1991 and communist 
+restrictions on religion faded. 
+In particular, the head of the 
+
+Russian Orthodox Church has 
+accused Catholics of poaching 
+converts in Hussia and other 
+parts of the former Soviet 
+Union. 
+The Russian Orthodox Church also is angered by Vatican plans to elevate the Greek Catholic presence in western Ukraine into a full patriarchate. It alleges that Greek Catholics, who retain Eastern-rite rituals but recog­nize the pope's supremacy, have accelerated their expan­sion into traditionally Orthodox eastern and southern Ukraine. 
+Kasper, who met with Alexy on Sunday, said the patriarch had repeated the same com­plaints that have been heard for years. 
+"I responded to them and told the patriarch that we do not have a policy of strategy of proselytizing," Kasper said. 
+He acknowledged that single cases did occur but said the two sides had agreed to estab­lish a commission to investi­gate. 
+The Vatican contends it has the right to be active in Russia, which had small Catholic com­munities before the Bolshevik Revolution. The Homan Catholic Church has sought to recover churches that were seized after the revolution, and has drawn followers among Orthodox believers attracted by its social programs and com­munity outreach. 
+President Vladimir Putin, who met with John Paul at the Vatican in November. has indi­cated he would favor a visit by the pope but would not pres­sure the Orthodox church to agree. 
+Kasper delivered a personal message and present from the pope marking Alexy's 75th birthday. 
+L·-·-·-·-·-·-·-·-·-·-·-·~·=·-·-·-·-·-·-·-·~·~·-·-·-·-·~ 
+THE OBSERVER 
+
+
+
+
+
+
+
+
+IEWPOINT
+page 10 Tuesday, February 24, 2004 
+
+
+You are not from Chicago 
+I have got a beef with all the origin­claiming of Chicago, my hometown, by suburbanites -a recurring phenome­non of deceit at Notre Dame. Images of Chicago as an urban metropolis, cultur­al hub or a place for a good time are 
+Kamarla Porter 
+primary motiva­tions for these claims and compli­
+Breaking the 
+ment the city. 
+Habit
+However, my posi­tion has nothing to do with those who love the city or lament their town's obscurity. Running along with prevail­ing attitudes that ignore class and racial issues, idealized characterizations of Chicago excludes the reality of its segre­gated neighborhoods, under-funded schools and poverty. While my view of the city represent~ a minority here, I feel the complete picture of urban life is being harmfully distorted. 
+I have a rather conflictual affection for Chicago due to my experience of its many sides. The city exemplifies the reality of "1\vo Americas" -one for white or privileged and a different one for minorities and poor. Depending on residency, one can live in Chicago for a lifetime and see nothing of the run­down neighborhoods, struggling schools, 
+Shore since infancy. Lakeside property is dotted with high-rise apartments and condominiums, a golf course, parks and various businesses. Yet blocks away, neglected and vacant houses, shabby playgrounds and garbage-lined sidewalks become the norm. Aside from a few lovable greasy spoon family owned counter-restau­rants, my neighborhood seriously lacks business diversity. On the nearest main shopping block, dollar stores, beauty supply shops and nail salons dominate. The saddest part is that a majority of these identical establishments are not owned or operated by the mostly African-American residents of South Shore. If one wanted a job close to home, fast food and grocery chains are the chief options. Movie theaters, coffee houses, bookstores and other signature community business do not exist. The community library is smaller than our dorm common rooms. 
+As a youngster, I can remember play­ing in the yard, walking with my mom to the nearby park arid merrily pedaling size appropriate bikes down and 
+around the block. As crime and drug activity escalated in the area, those activities stopped. I became paranoid, espe­cially when my mom found a bullet hole in our front window -a stray shot from an altercation -which luckily did not find one of us in its path. Violence is a common experience for many 
+
+abandoned buildings 'The city exemplifies the school's percentage and lack of business reality of Two Americas' of low-income stu­
+diversity, while at the dents and overall 
+-one for the white 
+
+same time, see nothing performance on but these conditions. or privileged and national achieve­I have lived in the a different one for ment tests shows the class-divided lakeside poorer the school, 
+minorities and poor."
+neighborhood of South the worse the scores 
+Chicago residents and their stories do not appear in suburban envy narra­tives. 
+
+The state of Chicago Public Schools represents the biggest reason, logically, that a majority of Notre Dame Students could not possibly be from the city. 
+Looking at the rela­
+tionship between a 
+become. A city with 
+
+a school system that 
+leaves so many of its children behind could not be shuttling its progeny en masse to top tier univer­sities. 
+Teachers are not to blame. City public school teachers represent the hardest working and least appreciated people. Many, like my mom -the greatest early childhood instructor in the city ­assume the role of teacher, mentor, caretaker and disciplinarian. They care when no one else will. 
+The systemic problem of Chicago schools is indicative of the overall move­ment to forget low-income areas and misjudge the roots of their troubles. Many residents have never received the various class boosts throughout history or are the first to suffer in our unforgiv­ing market driven economy. 
+I suspect many outsiders' perceptions of Chicago begin and end with visions of the downtown area. From the Museum Campus to the Magnificent Mile, down­town Chicago offers a plethora of fine entertainment, shopping and dining places. What people fail to recognize is 
+"The systemic problem of Chicago schools is indicative ofthe overall movement to forget low-income areas and misjudge the roots of their troubles" 
+the area is also a haven for low wage service jobs. Sanitation, food service and sales positions domi­nate the area east of Chicago's thriv­ing business hub. Downtown hosts the convergence of the city's divid­ed classes. 
+
+Between dawn and 9 a.m., south and west side residents flood the city, gear­ing up for full and part-time shifts, at their primary and secondary jobs, sell­ing goods and services they could not think of purchasing to rich, predomi­nantly white north-side and suburban dwellers. 
+When you love something, or even like it enough to claim it as your own, you ought to recognize all its attributes. Ignoring social realities is irresponsible and compiling suffering of others through silent assent to systemic injus­tices is appalling. All cities like Chicago ought to be habitable for every resident. When that happens -through infra­structure rebuilding, unionization of service-sector workers and income redistribution -Chicago will truly be place to admire, wholeheartedly. 
+So, if your area code is not 77 3 or 312, give it up, you are not from Chicago. 
+Kamaria Porter. a sophomore history major. has "A Right to be Hostile, the Boondocks Treasury." a book worth your attention. Why Nader why? Her column appears every other Tuesday. Contact her at kporter@nd.edu. 
+The views expressed in this column are those ofthe author and not neces­sarily those ofThe Observer. 
+
+OBSERVER POLL 
+Where do you go to Mass? 
+Vote by 5 p.m. Thursday at www.ndsmcobserver.com 
+QUOTE OF THE DAY 
+"/am still determined to be cheerful and happy, in whatever situation I may be; for I have also learned from experience that the greater part ofour happiness or misery depends upon our dispositions and not upon our circumstances. " 
+Martha Washington 
+U.S. First Lady 
+
+THE OBSERVER 
+
+
+
+IEWPOINT
+Tuesday, February 24, 2004 page 11 
+Touring London 
+Even though I narrowly missed the Queen Mum's recent trip, there is still much to report from Oxford. A few of us Darners finally made it down to London, visiting all of the 'touristy' locales and enjoying the nightlife. In today's column I will try to describe the sights and 
+Geoff Johnston
+sounds of 'The City': Certainly one cannot visit London without venturing into 
+A Domer at
+thn Tower. It is not as big as you 
+Oxford
+might expect: the moat surround­ing the walls has gradually silted over and so the fortifications are lower than they once were. However, within the gates there is much to see: inside is a miniature city, with little roads, shops and homes in which the Beefeaters live and do whatever it is the Beefeaters do. One thing we noticed immediately were the huge shoe-polish black ravens, picking at bloody scraps of meat that their handlers had thrown over. The Tower Ravens have been under royal protection since the reign of Charles II; apparently there was a legend that if the ravens left. the Tower would fall. 
+After staring at the ravens we wandered over to a prison tower where generations of political offenders had etched elaborate Latin quotations and family crests on its walls. I also happened to examine Henry VIII's armor. and the pictures do not lie: that guy was huge. Then we made our way past the high-stepping guard into Jewel Tower, where the Crown Jewels are on display. The Jewels themselves are interesting at first. but there is so much gold and so many dia­monds, rubies, etc. that one loses any appreciation for how rare and beautiful they are. After we visited the torture exhibition -many Jesuits apparently availed themselves of the service there-we were so tired of armor, pageantry and blood-stained ravens that our next attraction was a perfect antidote. 
+My favorite part of London is the Tate Modern. Approaching the building from the Millennium foot­bridge, the Tate seems like a singularly ugly building compared to the futuristic, swooping curves of the landmarks of the London skyline. The Tate used to be a power plant, but it was redesigned and repack­
+aged as an art museum and all of the magic is inside. 
+The first exhibit one sees. titled "The Weather Project," covers a huge section of the museum: the ceiling, which is perhaps a hundred feet above, is covered with mirrors and on the far wall is a huge yellow 'sun' composed of thousands of yel­low fluorescent lamps. Dozens of people lie out on the concrete floor, sun­bathing before the huge artificial sun, forming stars. circles and other patterns on the ground. But "The Weather Project" is not the only exhibit there: there is also a public urinal from New York signed by Duchamp, Communist posters from Soviet Russia­expel all 'double­dealers' from the Party!-and Yves Klein's "IKB 79:" a large expanse of undif­ferentiated blue -IKB stands for 'international Klein blue.' Got to love mod­ern art. Having enjoyed one of the top 
+modern art museums in the world, we 
+traveled to Tower Bridge and walked on its 
+upper rise overlooking the Thames. From there we 
+were able to view all of London's skyline: the huge 
+egg-shaped Gherkin tower, Big Ben, the houses of 
+Parliament and St. Paul's Cathedral. We visited all of 
+them in turn and not all on purpose: London's trans­
+portation system is sometimes confusing. Which 
+brings me to the Tube, the subway system of Lond~n 
+and one of the most traveled in the world. Each sta­tion is different: some are grimy tiled pits, while oth­ers are so futuristic they seem to have leapt straight 
+out of 2001: A Space Odyssey. While on the Tube we were comment­ing on the amazing amount of Irish apparel one sees here, when a man behind us overhead and announced himself a Notre Dame grad, class of '80. I had to leave without talk­ing to him too much, since he was unfortu­nately a Keenanite, but 
+the fact that there happened to be a grad in that car goes to 
+show how global the Notre Dame commu­nity has become. 
+That about wraps up our London visits. While Oxford is a 
+great place to study, after a couple of weeks I start to feel the presence of that same bubble that envelops Notre Dame and I love being able to hop on 
+
+the bus and jet down to London for an afternoon of concerts, ethnic food and night 
+clubs. But I have bigger plans for the near horizon: our Easter break is approaching, and I have already booked tickets on the Eurostar-the Chunnel train-for a trip to Paris. Sweet! 
+Geoff Johnston is soon to be murdered by the New 
+College football team for missing so many games. 
+Condolences can be sent to gjohnsto@nd.edu. The views expressed in this column are those ofthe 
+author and not necessarily those of The Observer. 
+LETTERS TO THE EDITOR 
+
+Mardi Gras: Latest Victim 
+I low far will it go? In light of yet another restric­tion on social behavior, I see no slowing in this destructive trend. Please read on as I descrlbe how another dorm tradition is being executed for a fascist ideal that is creating a social environment at Notre Dame totally contradictory to the ideal's purpose. For years, the signature event of O'Neill Family Hall has been a Mardi Gras celebration. An SYR dance used to mark the event, as well as a parade around campus to pick up dates and an all out night of partying. Everyone on campus looked forward to the event. and it was a highlight of Notre Dame social tradition. 
+1\fter the new alcohol and SYR restrictions were imposed two years ago to kill such highly antici­pated student events such as Mardi Gras, O'Neill has remained steadfast. Last year, without official dorm sponsorship or funding, the men of O'Neill organized a Mardi Gras party for the whole cam­pus to enjoy. The night included all of the cos­tumes, beads and music of years past, but there was no dance, parade or any comparison to the amount of alcohol abuse that previous years had experienced. The night was as perfectly permissi­ble as any other dorm party, any night, and would have even besn in line with the atmosphere that the Dome was trying to dictate by imposing its policies a year prior. But listen to this. 
+1\s the week of Mardi Gras is upon us, O'Neill Family Ilall has been commanded by the social engineers of this University that: "Mardi Gras activities at O'Neill, or sponsored by O'Neill, are not allowed in any form, under any name, in any semblance, with any costumes or decorations, at any hall gathering at any time." This information was passed on by e-mail to the residents of O'Neill by our hall staff who, in looking out for our best interests. concluded by warning, "We fear that the punishment for defying the decision about Mardi Gras will be swift and severe." 
+Please stop to swallow this. The Dome has just conditioned what you may wear, when you can celebrate, how you should decorate your walls, where you are allowed to party and for what caus­es you are permitted to enjoy your life as a college student. Fascism: A one party system of govern­ment marked by a centralized dictatorship, severe social regimentation and forcible suppression of opposition. 
+This decree is enraging. The interpretation of this policy can be as loose and self-serving as needed. Any party, of any size, irt O'Neill this weekend could be identified as Mardi Gras moti­vated with its holders being sent to ResLife. Furthermore, any future party that O'Neill coordi­nates can be declared a Mardi Gras substitution and equally punished. 
+For those of you that write this off as merely a worthless attempt to save this weekend's party, guess again, because Mardi Gras will march on and that is precisely the point here. What do you think happened to the students who remember the glory days of Mardi Gras? They moved off campus and they are not about to see tradition die. Mardi Gras will no doubt be celebrated this year with lots of hard alcohol, long past 2 a.m., with zero hired security and far from home. The girls will be drunker than last year and instead of having South Quad between them and their bed, they will have miles. Oh, that is if they make it home at all. 
+Congratulations to the engineers of our social environment, employing a method that is 100 per­cent contradictory to their ideal. The attempt to slaughter a non-existent Notre Dame drinking problem (in comparison to every other school in the country) is making our students increasingly less safe. 
+I cautiously, but nonetheless, stamp my name on this letter to the editor in fear that the next beer I crack open will blow up in my face. "Freedom? Yeah right." 
+Nick Stahlschmidt 
+sophomore O'Neill Hall Feb. 21 
+
+Enjoy the college 
+•
+experience 
+My last semester at Notre Dame is seemingly an utter waste of time. Suddenly, my biggest challenge is getting to class on time. nay, getting to class at all. My job offer was not exactly motivation to crank out A+ papers. And while recent grads -the free and liberated -and underclassman -still bound by the chains of responsibility-tell me that I should be Jiving up the abundance of free time with incessant partying, I am finding that my lack of determination to do anything at all is actually a nightmare, not some coveted promised land. 
+What I have realized is just how good I had it before. There was never any time for anything. I complained about how many papers I wrote in the late hours of the night/morning, whined about my lack of sleep that resulted from Thursdays at the Boat Club and moaned about how many miles were put on my car dur­ing various road trips. But secretly, I loved every minute of it. It was the best time of my life. Yet outwardly, I prayed that senior year would come so I could just do nothing. 
+Now my respite from work is here and I yearn to go back in time. College flew by, and I do not remember half of it. Weeks were packed with work at Reekers, working out at Rolfs, mass at P.E., meetings at Lafortune, beers at bars and road trips to Windsor/Florida/Chicago/insert fun place here. Pictures were taken, drinks were consumed and laughter was absorbed. I had the perfect life. I had a boyfriend that I loved, unforgettable friends that desired my time and work that I actually felt like doing. 
+Underclassmen, if this is your life, do not waste it. Use that fake ID like it is your job. You can catch up on sleep later. Do your homework and go the extra mile. Meet your professors. Go to office hours. Who knows, they might have something interesting to say. Join a club. You will double your acquaintances. Work out. After this, you will have to pay to use Gold's gym. But whatever you do, do not say no to your friends when they ask you out. Do not say no to your professors when they offer extra credit. These are all opportunities that will enhance your life. Do everything and be everything. Be busy. By the time senior year hits, it just may be too late. 
+Amy Chambers 
+sen tor 
+off•campus 
+Feb. 21 
+
+
+
+THE OBSERVER 
+
+
+
+
+CENE
+page 12 
+Tuesday, February 24, 2004 
+
+
+
+
+An interview with hip-hop 
+pie have so many misconceptions about
+
+By MARIA SMITH 
+hip-hop.
+Scene Editor 
+
+Such as? 
+
+After director Paul Kelt graduated from the Cinema Production program at They think hip-hop is all about violence, 
+misogyny, drugs, crass consumerism, etc.
+ted to find a way to work with a sub­Even though those things do exist within he loved. At first Kell didn't set out to certain styles of rap, they aren't what's 
+documentary on hip-hop. inherent to hip-hop. 
+in the underground , and as he worked Was there much of a hlp-hop scene expanding to cover around where you grew up? 
+coast to coast and 
+No. Like I said, I grew up listening to 
+
+some of the most rap. I didn't really start hearing it being important figures in the referred to as hip-hop history of hip-hop in his until later on, around the search for the roots of the "The sad thing is, rap time the Native Tongues five elements of hip-hop crew stepped up. When I
+overshadows hip-hop 
+culture. It took him four first started hearing the
+due to its exposure, and
+years to collect and edit term hip-hop, I just 
+his tage. into an this is why so many thought it was a new way people have so many to define rap. At the time I was ignorant of the fact
+misconceptions about 
+that hip-hop was a cul­
+
+hip-hop." ture; it was a way of life. Eventually, thanks to emcees like KRS-One,
+
+Paul Kell 
+
+en acclaimed by Chuck D and other con­
+
+director
+
+critics and audiences at scious brothers within the the Montreal Film game, my eyes started Festival, the American opening up to a bigger Film Institute Festival and many others. picture. But even then it was still in the The film will continue to show around the '80s, and as a cultural movement country theatres. hadn da, at 
+_an 
+
+
+grow. It all started once I landed an inter­view with Run D.M.C. That happened by chance, but after that happened a light bulb went off. It snowballed from there. 
+It took about a year before I realized that this thing could be full-blown and it was around this time that I started writ­ing proposals for grants to get money to turn it into a feature. Eventually the money came and here we are today, over four years later. 
+How far back In the history of hlp-hop do the artists you've Interviewed go? 
+Guys like Kool Here are credited with creating hip-hop, so it's safe to say that I go right back to the birth. Although I felt it was important to get guys like Gil Scott­Heron in the film as well, since they helped give birth to the ideas and mindset of what became hip-hop well before Kool Here started throwing block parties. 
+Arguably, you could go back to the birth of the drum in ancient Africa to go all the way back to the beginning of what we know today as hip-hop. Give me the time and the resources and I'll do a Ken Burns style, 10-part miniseries on hip-hop. My documentary really only scratches the surface -within 70 minutes, that's all you can do. 
+Was It difficult to get Interviews with any of the artists? 
+
+
+THE OBSERVER 
+
+
+
+
+
+CENE
+Tuesday, February 24, 2004 
+page 13 
+urrrntary director Pau 
+Hap has been m~· in 
+States for a long ti no . In fact, some-as records lik · the this to Sugarhill Gang's came be properly out,. it changed the face "Personally, I find race divisions articulated, I'm of hip-hop culture forev-a societal construct that has no merely riffing off 
+cr. A lot of people would the top of my argue that rap killed the relevance anymore. Class head. There are culture and they might divisions exist, but race is a bigger and bet­ter thinkers out
+have a point. moot point. Poor white kids have 
+there who have Would you say that's more in common with poor black tackled these true even considering kids then they do with rich white types of issues; the underground rap kids, so why would there be any for example: 
+scene In the United Henry Lewis 
+states? racial animosity between whites Gates Jr., head and blacks? of African­
+A lot of the under­American ground rappers in the Studies at
+PauiKell
+states are plotting their Harvard. rise to the top, so it's director These guys can hard to say. Eminem was ~~~l.uch better an underground rappe~ ~tei'IS~r ticulat­Jay-Z was an undergro just an look at these cats now. 1lPJifML.W!vi most of exceptions to this ru ..,. .,..,......,L. By no question why peop ·~~mfiiY when Outside of the Unite 
+opportunity to beco ~~~~gg~~~~~!! at this
+through rapping, so so rewarding for me. I had a assume that people's in to learn and in many ways making this 
+That's not to say tha ere aren't film was a voyage of discovery for me. I underground rappers in the United States had ideas about what hip-hop was, but who don't have good intentions. Of course until I spent time with the people who tlwrc arc, but eventually their success is lived it, who created it, my knowledge was 
+It's 
+
+n embraced by peopl outsid hip-hop as much or more as those wi hip-hop, so it really does have that crossover appeal. 
+After it's released theatrically, 7th Art shouldn't have any problem selling it to broadcasters all over the world. It's got so much appeal based on so many different elements within it, that they have no excuse for not it as far and wide as possible. It documen­tary. If you' hop it auto other thing th 
+·IET·l<~lla 
+anyone can they're going taining. 
+
+So far, •"'!Wiiilli~ to it has be love it and people it. I don't want to be lofty in my tions, but I'd like to believe that it could help bridge the divide between those that understand hip-hop and those that don't. In fact, that's the tag line for the film: "Think hip-hop is 'rap music?' Think 
+again." 
+
+It's all about de-mystifying it, shattering the misconceptions. Even for people who think they know hip-hop, I'm sure there's a thing or two in the documentary that they weren't aware of. 
+Contact Maria Smith at smith.525@nd.edu 
+
+Tuesday, February 24, 2004 
+page 14 The Observer + CLASSIFIEDS 
+NBA 
+
+Battier leads Memphis to a 109-106 victory over Denver 
+Associated Press good performances from a lot of guys. We've been trying to 
+MEMPHIS, Tenn. -Shane get to .500 all year, and now Battier is not supposed to be a we are here. Now we have to jumper. He got high enough to stay there." turn back Carmelo Anthony on Lamar Odom led the Heat a big play. with 25 points. Wade, the 
+Battier's block of Anthony's Eastern Conference player of putback attempt with 7 sec­the week after leading Miami onds left Monday night pre­to three double-digit wins, fin­served the Memphis Grizzlies' ished with 12 points on 5-of­109-106 victory over the 15 shooting. ~ Denver Nuggets in a matchup Portland took control with a of two of the NBA's most surge that extended from the improved teams. third quarter into the fourth. 
+Battier's rejection prevented Down by 10 points. the Denver from taking the lead. Blazers rallied late in the third James Posey, who keyed and built a nine-point lead 
+Memphis' fourth-quarter rally early in the fourth. with 13 of his 20 points, The Blazers outscored the grabbed the blocked shot, was Heat 30-17 in the fourth quar­fouled and converted the free ter, including a 14-0 spurt at throws to seal the Grizzlies' the start. Shareef Abdur­fifth straight victory. Rahim's corner jumper gave 
+"The shot went up, and I Portland its first lead, 65-64, turned to look for [Anthony] since early in the second quar­and all of a sudden he had the ter. ball," Battier said. "I just tried Stoudamire's second 3­to react and jump in his direc­pointer in the run provided a tion. Luckily, I got up high 73-64 lead. enough to get a piece of the Meanwhile, the Heat missed shot." their first six shots from the 
+Denver took a 106-102 lead floor. The drought lasted five­with 1:22 left. But the plus minutes until Odom con­year coach Paul Silas said. Brown said. "I wasn't happy cials drew jeers from the Grizzlies scored the game's verted a three-point play with "This was sweet. We want to with some of the things we crowd. final seven points -five by 6:54 left. keep this thing going." did, but we finished it out." A Philadlfphia native, he Posey -to send the Nuggets James also had a basket, Kenny Thomas had 10 points joked with some fans as he to their second three-game Cavaliers 104, Hornets 100 steal and rebound in the final and 18 rebounds, and Eric walked off the court following losing streak of the season. CLEVELAND -In four days, 1:19 as Cleveland completed Snow added 12 points for a timeout in the third. 
+"For us to win this game, they've beaten the defending one of the biggest comebacks Philadelphia, which was with­"It's great to have a big guy down by four at the end, we NBA champions, won at in its 35-year history. out Allen Iverson because of a like him who can score," played almost perfect," Madison Square Garden and ·Neither the Cavs nor the shoulder injury. Iverson, tied Hamilton said. "I really love Memphis coach Hubie Brown rallied from 25 points down Elias Sports Bureau could for the NBA's scoring lead, our team now." said. "Whenever you overcome for a victory. determine if it was the Cavs' was replaced by Aaron McKie, The Sixers, competing for a team that gets 23 offensive Suddenly, there seems to be largest comeback, but there's who had two points. the final playoff spot in the rebounds and gets to the line nothing these Cleveland no disputing it was one of Philadelphia tied its second­East, are 2-3 under Ford. 40 times and then you don't Cavaliers can't do. their most improbable. lowest point total since 1954-Philadelphia, down by 18 in play your best game, you have "This is sweet," guard Jeff 55..The Sixers shot 30.1 per­the third quarter, cut the to be happy with your team." Mcinnis said. ''I've never come Pistons 76, 76ers 66 cent (25-for-83). deficit to 67-63 on a 3-pointer 
+back from so far down PHILADELPHIA -Lal"ry "Without AI, our guys gave by Greg Buckner with 5:36 Trail Blazers 89, Heat 81 before." Brown sat deep in his chair, us a legitimate shot to win," left. 
+MIAMI -The Portland Trail LeBron James scored 21 arms folded and a disgusted Sixers interim coach Chris A spectacular block by Blazers found a way to do points, fellow rookie Jason look on his face. Ford said. Prince on a breakaway layup what nobody else could lately Kapono added a season-high The Hall of Fame coach was­Brown again was booed in attempt by Snow prevented -stop Dwyane Wade and the 19 and the Cavaliers rallied n't pleased with his team's his second return to Philadelphia from getting Miami Heat. from a 25-point deficit performance, but his former Philadelphia since leaving the within two points, and the 
+Zach Randolph scored 22 Monday night for a victory club played even worse. Sixers to coach Detroit last Pistons scored nine of the last points and pulled down 12 over the New Orleans Hornets. Richard Hamilton scored 15 spring. 11 points.rebounds, and Derek Carlos Boozer had 24 points, points and Tayshaun Prince He spent six often-turbulent The Pistons used an 11-0 Anderson added 20 points to and Mcinnis added 14 and added 14, leading the Detroit seasons in Philadelphia, help­run to brellk the game open in lead the Trail Blazers over the nine assists for the Cavs, who Pistons to a victory over the ing rebuild a struggling fran­the third. Heat Monday night. have won three straight -at Philadelphia 76ers on Monday chise and often clashing with A driving layup by Prince 
+The Blazers won their fourth home against San Antonio and night. Iverson. and a jumper by Hamilton putstraight and snapped Miami's New Orleans and at New York Ben Wallace had 12 points, After the game, Iverson Detroit ahead 58-40. four-game winning streak. -since last Friday. 13 rebounds and six blocks, greeted Brown in the coach's But poor shooting and 
+Damon Stoudamire added 18 After starting the season 6-and Rasheed Wallace added room. turnovers by the Pistons points as Portland evened its 19, enduring turmoil and two 10 points and 11 rebounds for In his second full game with allowed the Sixers to get back record at 28-28, the first time major trades, Cleveland is the Pistons, who had lost eight the Pistons since a three-team in it.Glenn Robinson had 11 the Blazers have been at .500 within 1 1/2 games of the of nine and four straight on trade brought him to Detroit points for the Sixers, but sat since Dec. 31. eighth playoff spot in the the road. last week, Rasheed Wallace on the bench for the final 
+"Tonight was a grind-it-out Eastern Conference. "We haven't been winning was called for a technical foul 17:30 because of a sore elbow. game," Portland coach "I've never been around a games like this. We haven't in the third quarter, and his Samuel Dalembert also scored Maurice Cheeks said. "We had group that has jelled," first-been able to put teams away," constant complaints to offi-11. 
+
+The Observer accepts classifieds every business day from 8 a.m. to 3 f.m. at the Notre Dame office, 024 South Dining Hall. Deadline for next-day classifieds is 3 p.m. AI classifieds must be prepaid. 
+The charge is 3 cents per character per day, including all spaces. The Observer reserves the right to edit all classifieds for content without issuing refunds. 
+CLASSIFIEDS 
+NOTICES 
+COMPARE TEXTBOOK PRICES! Search 24 bookstores with 1 click! S&H calculated. www.bookhq.com 
+
+LOST & FOUND 
+FOUND: Part of a necklace in Hayes-Healy Friday morning 2120. Call 631-6375 to identify. 
+
+WANTED 
+Wanted-Old paintings, especially Indiana and Notre Dame (574) 286­9359 Summer Camp counselor for chil­dren w/disabilities. 
+$7-$11 hr., 35 hr/wk, summer only. 5 sites in Summit County, Ohio. Visit 
+www.akroncyo.org -download an application. EOE 
+Tired of no money? Looking for part-time work for full-time pay? Champion, the nations #1 Home Improvement Company is looking for energetic, self-motivated students for our Marketing Dept. Work Mon-Thur; 4hrs a day in the earlyevening; will not interfere with school work; earn up to $20/hr. No experiencenecessary. Will train right person. 
+Apply at 715 W. Edison Rd., Mishawaka 
+l. _,. . -.'J • ; . .
+L • -
+FoR SALE 
+COLLEGE PARK CONDO FOR LEASE 2004-2005 Academic year-Available June 1, 2 Bdrm ­2 Bath -Fully Furnished -Security System. (626) 441-1275 or salvaty @earthlink.net 
+FOR SALE-Like new Weights set with incline bench, leg lilt. Will deliv­er. $150 277-1345 
+1995 Red Chevy Camaro V6. 33,290 actual miles. Original owner, excellent condition. 654-7439. 
+
+
+FOR RENT 
+2-6 BEDROOM HOMES WALK TO CAMPUS MMMRENTALS.COM mmmrentals@aol.com 272-1525 
+..
+• 
+DOMUS PROPERTIES... 
+HAS A 8 BEDROOM HOUSE. ..2 BEDROOM HOUSE...2 BEDROOM DUPLEX...AND THREE 3 BED­ROOM CONDOS AVAILABLE FOR THE 2004-2005 SCHOOL YEAR....WE ARE ALSO STARTING TO LEASE FOR THE 2005-2006 SCHOOL YEAR... 
+CONTACT KRAMER AT OFFICE 234-2436 
+OR CELL 315-5032 FOR SHOW­INGS 
+New 3/4 bdrm homes close to ND, 3 full baths, 2-car garage, frpl, sky­lights. 
+$1640/mo./ 
+
+Call574-232-4527 or 269-683­5038. 
+NICE HOMES JUST NORTH OF ND GREA'r AREA FOR 5-6 STU­
+DENTS 2773097 
+
+VERY NICE 3bdrm home in EastBank area w/washer-dryer & alarm system incl. Nice yard for vol­leyball etc-full bsmt.Walk to Corbys&StJoe Church. 
+Call Joe Crimmins@574-514­0643(cell)or 574-273-0002(home) 
+1006 White Oak Dr. Rental: 3 BR/1 B,1 mile ND, great area. incl Stove, refrig,washer/dryer 
+$850/mo. 273-1717 
+920 Oak Ridge Drive Rental 3Bdrm/1 B Ranch, great area close to ND includes stove, new refrig. washer/dryer. 
+$960/mo. 273-1717 
+PERSONAL 
+UNPLANNED PREGNANCY? Do not go it alone. If you or someone you love needs confidential support or assistance, please call Sr. Mary Louise Gude, CSC, at1-7819. For more information, see our bi-weekly ad in THE OBSERVER. 
+#1 Spring Break Vacations! Cancun, Jamaica, Acapulco, Bahamas & Florida! Best Parties, Best Hotels, Best Prices! Book Now! 800-234-7007 endlesssum­mertours.com 
+Fitz, this one's for you 
+I match and I'm short and I'm ghetto 
+Make me a banana cognac 
+
+Tuesday, February 24, 2004 The Observer+ SPORTS page 15 
+NFL 
+
+
+
+49ers franchise Peterson, sign back Barlow 
+Owens' departure is imminent following announcement 
+Associated Press 
+SANTA CLARA, Calif. -The 49ers designated All-Pro linebacker Julian Peterson their franchise player on Monday, keeping him with San Francisco for next season and practi­cally guaranteeing Terrell Owens' departure. 
+The 49ers also agreed to terms with running back Kevan Barlow on a five­year contract extension, the first deal in what's sure to be a difficult offsea­son for a team with 14 unrestricted free agents and plenty of uncertainty. 
+Peterson. a two-time Pro Bowler, will be offered a one-year deal worth between $5.8 million and $7.2 million -whatever turns out to be the aver­age salary of the NFL's top five line­backers after various contracts are restructured. 
+The 49ers had hoped to sign Peterson to a contract extension before Tuesday's deadline to place the fran­chise tag, but general manager Terry Donahue and Peterson's agents quickly realized it wouldn't be possible. 
+"We're just so far apart that there was no point in using up any more energy on trying to get it done," said Donahue, while playing several positions. The 49ers credited him with 144 tackles, second on the team. 
+With Peterson under the franchise tag, Owens will be free to sign with any team if he chooses to void the final two seasons of his contract next month. The 49ers won't get 
+who hasn't met face-to-face with agents Kevin and  "We've got to look at what's important to this organization  anything higher than a third-round draft pick as compensation  
+Carl Poston for  over the next five years. It's  for losing a four-time  
+weeks.  very important that we choose  Pro  Bowl  selection  
+"When you put the franchise tag  cap health over cap hell. We  who has spent all eight of his NFL sea­ 
+on somebody, it  can't make short-term  sons  in  San  
+isn't  like  they  decisions. "  Francisco.  
+aren't going to  Owens' departure  
+be paid hand­somely. I think  Terry Donahue  has been expected after Donahue desig­ 
+players love to  49ers general manager  nated Peterson the  
+
+play, and I think Julian loves to play. I think he'll come to camp at the appropriate time." 
+Peterson was a standout last season with seven sacks and two interceptions 
+49ers' top priority shortly after their 7-9 regular season ended. Barlow was a restricted free agent after rushing for 1,024 yards and six touchdowns last season. After sharing time with Garrison Hearst in his first 2 
+Come and join the Campus Bible Study 
+Learn what Jesus taught by reading and discussing His words. 
+1 day a week-I hour per session Attending CBS would be a solid Lenten practice. 
+
+Meeting every Tuesday at 7:00 pm in room 114K Coleman-Morse Center If needed, Bibles provided. 
+C-M 
+For more info call Fr. Al631-5955 
+Campus Ministry 
+1/2 NFL seasons, Barlow took over as the full-time starter late last season, averaging 108 yards over the last four games. 
+Hearst, an 11-year veteran, probably must agree to a dramatic salary reduc­tion to stay with the 49ers. Donahue and Hearst's agent, Pat Dye Jr.. were negotiating in Indianapolis on Monday. 
+The 49ers also are hoping to restruc­ture the contract of quarterback Jeff Garcia, entering the fourth season of a six-year contract. 
+Donahue acknowledges the process has been difficult, but he still expects Garcia to return. 
+"Certainly, Jeff has the right to be concerned about his own career. short­term and long-term," Donahue said. "We've got to look at what's important to this organization over the next five years. It's very important that we choose cap health over cap hell. We can't make short-term decisions." 
+But Donahue said the 49ers haven't received any offers for Garcia, and they haven't allowed the three-time Pro Bowl quarterback to talk to other teams about a possible trade. 
+LOVE NOTRE DAME? 
+Want to convince high school students to apply? · Share your experience with Undergraduate Admissionsl From service to academics, community life to athletics, you choose the topic I 
+Submit a 500 word article and relevant digital photos to eflynnl @nd.edu. Writers of selected articles will be paid and given the opportunity to continue writing for 
+
+
+e-lrish 
+the Office of Undergraduate Admissions' online newsletter. Deadline for submissions is March 19, 2004. http://www.admissions.nd.edu/eirish/ 
+
+
+----------------------------------------------------------· 
+----------------------------------------------------------------------------------------------------------~ 
+NCAA BASKETBALL 
+Syracuse tops Nova at home 
+Associated Press 
+SYRACUSE, N.Y. -Hakim Warrick and Gerry McNamara combined for 36 points, 21 of them on free throws, to lead Syracuse to a 64-59 victory over Villanova on Monday night. 
+It was the third win in four games for the Orangemen (18-6, 8-5 Big East) and the fourth loss in five games for Villanova (14­12, 6-7 Big East). And it was a· struggle all the way on both sides of the ball -there were 39 turnovers and 45 personal fouls. 
+Warrick was 4-for-1 0 from the floor and McNamara was 3-for­1 0, but they were 21-for-24 from the foul line, and that helped seal the Wildcats' fate. Josh Pace had 14 points and Louie McCroskey fmished with 10. 
+Curtis Sumpter had 12 points and Jason Fraser and Allan Hay each scored 10 for Villanova. which went 7-for-23 (30.4 per­cent) on 3-pointers. 
+Syracuse, which was 24-for-32 on free throws. went on a 13-3 run early in the second half and seemed to take charge after McNamara hit four straight free throws. the last two after the Villanova bench was called for a technical. 
+That gave the Orangemen a 
+43-33 lead with 9:50 to go, but the Wildcats wouldn't quit. 
+Randy Foye, who finished with eight points, hit a 3-pointer from the right corner, Fraser convert­ed a fast-break dunk and Ray hit a 3 after stealing an inbounds pass as Villanova rallied to take a 49-48 lead with 4:50 to go. 
+Pace then drove the lane and hit a shot off the glass to give Syracuse the lead, and the Orangemen never trailed again. 
+McCroskey hit a long 3 from the right wing to extend the Orangemen's lead to 57-49 at 
+2:33 before the Wildcats rallied one more time. 
+I 
+1 
+page 16 Tuesday, February 24, 2004
+The Observer + SPORTS 
+
+MLB 
+Bonds says he will block numerous offseason distractions 
+Associated Press 
+SCOTTSDALE, Ariz.-A win­ter without his father beside him in the batting cage weighed more heavily on Barry Bonds' mind this off-season than his connection to a lab at the cen­ter of an alleged steroid ring. 
+"It's been difficult," the slug­ger said Monday, sitting in the dugout at soggy Scottsdale Stadium. "Just·hard all the way around. I broke down a couple times in the batting cage just due to the fact he wasn't with me. He's been my coach my whole life." 
+Bonds was surrounded by reporters on his first day at spring training, and he was asked repeatedly about his ties to the supplements lab accused of illegally distributing steroids to dozens of athletes. The six­time National League MVP, who appeared in December before a grand jury probing the lab, had repeatedly denied using steroids. 
+"They can test me every day if they choose to," said Bonds, who is right around his 228­pound playing weight. 
+After last season, Bonds seri­ously considered walking away from baseball for good, unable to imagine playing without his dad. Bobby, who had been ill for nearly a year with lung can­cer and a brain tumor, died in August at age 57. 
+But the Giants slugger pushed on, at the urging of his mother, his wife and godfather Willie Mays. 
+"I couldn't hit. I didn't want to go in the cage. I didn't want to swing the bat," Bonds said. "I really didn't want any part of it for a while." 
+Now, another important member of Bonds' supporting cast, trainer Greg Anderson, won't be around. Anderson was absent Monday when Bonds showed up for camp a day ahead of the voluntary report­ing date for position players. 
+Anderson, often seen with Bonds at spring training and during the season, was among four men charged this month in an alleged steroid-distribution ring that federal prosecutors say supplied professional ath­letes with banned substances. All the men have pleaded inno­cent and no athletes have been charged. 
+"I feel bad for him," said Bonds, who turns 40 this sum­mer. "I feel sad. We grew up together. We're friends. It's unfortunate what he's having to go through." 
+About BALCO, the Bay Area Laboratory Co-Operative that's at the center of the federal steroids case, Bonds said: "There's nothing I can do about it right now. I have to go out and play baseball and, hopeful­ly, it will blow over. 
+"I believe if I wasn't going for records, it would be a nullified situation," said Bonds, who is two home runs shy of tying Mays for third on the career list with 660. "If you want to be at the top, you've got to have broad shoulders. I know who I am. I know what I stand for. I know what kind of ballplayer I am." 
+Bonds spent two stints on the bereavement list in 2003 and, despite all he was dealing with, still batted .341 with 45 homers and 90 RBis. 
+When asked if he can pass Hank Aaron's record of 755 homers, Bonds quickly answered: !'I think I can do anything.... I'm going for it all." 
+Mays spent three days a week with Bonds the entire offsea­son, working with him on his swing while also mo.nitoring Bonds' mental frame of mind. 
+''I'm focused now, and ready," Bonds said. 
+He admitted, with a smile, that he wants to pass Mays on the homers list as soon as pos­sible. He just wishes his father could be there to see it. 
+
+Halaga: I AQur'an Discussion and Conversation Circle 
+Tuesday, February 24, 7-8:30 um Meditation Room, 102 Coleman-Morse Center 
+Fear ofGod 
+& 
+
+Day ofJudgment 
+Please refer to W\Vw.nd.eduf-..nduma/ for readings. Presented by the ND Muslim Students Association and Campus Ministry. 
+CM 
+
+Campus Min~tr) 
+II~ llrfi
+~L~ 
+Chips and .Salsa sampling wHi take 
+place following the
+-,~~::·t tr:.~~: P~~~~r.t<c·-~i~H·r=·~ F&.. 
+
+Gb~(·::~s~'::<.1 1f~.;, ~ t:.·:k. :....n www.:;!~d r:·:>n> . game 
+.------------------------------------­
+Tuesday, February 24, 2004 The Observer + PAID ADVERTISEMENT page 17 
+
+xTAX 2003 
+
+Last fall, 1.100 stud:!nts fJOm 24 oolleges and unhK!rsiti~ wa!i2 gttJen a diffcuK task: c~eate a tax J:Oii::y that stimulates economt gro·wth for a natbn. Their l:ii!as wen:~ evaluated b"y a ~nel o1 Pticewaterhou~oopeiS p!Ofess:bnals. who na me:J the top t~ m at each cam pus. 
+Join us in oongratulating all th6! studgnts who participatro and the tpp team from the Unh/Qrsity ot Notre Dame: 
+Ma 11<: BeIIantoni Crag Ollwi!r 
+Joo RGilty 
+John Shada Andi9W VarCura 
+
+OUVti! rZhan U, F'a:: ulty Advisor 
+l pwc .com/'..<T~Qme 
+•. • • • .• ~ ~ •.•.• _-~ ... •., • • •,! ':, •., •,... • a ~• ~ .a... I a .......~·! •.1,.-.,_.•·.~ .I!_ ... ' Ill •. • .....",•. •.• .• ~ ... "'. "'.• .• • ": • .. -.. -.-; : -----· 
+page 18 The Observer+ SPORTS Tuesday, February 24, 2004 
+BOXING 
+Bout waits Hopkins' approval 
+The 39-year old's signature could mean a meeting with Oscar De La Hoya 
+Associated Press 
+LAS VEGAS -The dates are set and so is the site. Now all promoter Bob Arum needs to do is get a signature from mid­dleweight champion Bernard Hopkins to complete his two­fight deal with Oscar De La Hoya. 
+Arum said he finalized a handshake deal Monday for the MGM Grand hotel-casino in Las Vegas to host a June 5 fight card featuring Hopkins and De La Hoya in separate bouts. If the two win as expected, they will meet Sept. 18 at the MGM for the middleweight title. 
+Arum said Hopkins has already agreed to terms and is coming to Las Vegas on Wednesday to sign his contract. The first news conference pro­moting the fights will be next Tuesday in Los Angeles. 
+"It's going to be the biggest non-heavyweight fight in histo­ry," Arum said. ''I'm looking to make this another [Marvelous Marvin] Hagler-[Sugar Ray] Leonard." 
+Though Arum declined to dis­cuss figures, he did not dispute previous reports that De La Hoya could make up to $30 mil­lion for the two fights while Hopkins will make at least $10 million. 
+De La Hoya, who lost his 154­pound title fight to Shane Mosley last September, will move up to middleweight to take .on Felix Sturm of Germany on the June 5 card while Hopkins will defend his undisputed titles against Robert Allen, who he has fought twice already. 
+Assuming De La Hoya and Hopkins win, they would meet in September at a contract weight of 157 pounds. 
+Arum said the two-fight series came together after De La Hoya couldn't get rematches with Shane Mosley and Fernando Vargas, while it is still unclear whether Felix Trinidad has come out of retirement. 
+"Oscar wanted to fight Hopkins last but everybody else was pricing themselves out of the market," Arum said. "Rather than wait and fight Hopkins at the end, he put him up front instead." 
+De La Hoya, who in the past has been criticized for picking his opponents carefully, will likely enter the ring as an underdog for the first time in his career in September. 
+Hopkins is 39, but he shows no sign of age and has defended his middleweight title 17 times. Hopkins stopped Trinidad in the 12th round in September 2001 in his biggest fight to date, but complained before his last fight in December against William Joppy that De La Hoya was ducking him. 
+"Am I being a bully by calling Oscar out?" Hopkins asked. "Why is the media treating Oscar like a prima donna? I beat the man [Trinidad] who 
+NFL 
+Browns' Green will serve sentence 
+Associated Press 
+WESTLAKE, Ohio Cleveland Browns running back William Green began serving a three-day jail sen­tence Monday after reaching a plea agreement on drunken driving charges. 
+Green, recently reinstated by the NFL after his suspension for violating the league's sub­stance abuse policy, reported to the city jail immediately fol­lowing his sentencing in near­by Rocky River Municipal Court. 
+Police Capt. Guy Turner said Green will not receive any spe­cial treatment while serving his time other than careful screening of any cell mate. 
+''I've got to watch who else he's in with," Turner said. "I've got to pay more attention to some of these other knuck­leheads in here." 
+Green has been cooperative throughout the case, including his Oct.. 27 arrest, Turner said. "He took responsibility for his actions," he said. 
+Judge Maureen Adler Graves sentenced the 24-year-old to six months but suspended all but three days if Green com­plies with terms of his one year of probation, which includes staying drug and alcohol free. 
+In exchange for Green's no contest plea to drunken driv­ing, prosecutors dropped charges of possessing marijua­na and making an improper lane change. 
+His lawyer, Brian P. Downey, said Green is remorseful and committed to straightening out his life. 
+
+"In court, he apologized to his family, the Browns' organi­zation and to Browns fans," Downey said. "He understands'­what he needs to do." 
+
+Commitment. It's mutual. 
+Join us and we'll make a commitment to you. A commitment to provide one of the best career experiences in the world. One that's full of opportunity, challenge, learning and support. In return, we expect a commitment from you. To perform at your best, to refuse second best, to take every opportunity we give you. It's a win-win. 
+
+
+OUND THE NATION 
+Tuesday, February 24, 2004 CoMPILED FROM Tnr: 0BSERvuts WHlE SERVICEs page 19 
+CSCAAMen's 
+~Wl~~~~]~~~~~~~~~;~~~ijillilil!!lil!li!li!llll
+f/ 
+team 
+1 Auburn 2 Stanford 3 TeJas 4 Callfomla S Floflda 6 Geofgla 7 Mlnne11uta 8 Virginia 9 Arl2ona 10 Michigan 11 Wisconsin 12 Tennea•ee 13 Southern Cal 14 TexasA&M 15 Arizona Slate 16 Pittsburgh 17 Wa•hlnglon 18 Northwestern 19 Srlgham 'l'oung 
+20 Hawaii 21 Kentucky 22 Prlmlon 23 Indiana 24 North Carolina 25 Harvard 
+Clemson 
+
+AP 
+team 
+1 Stanford 2 Saini Joseph's 3 Pittsburgh 4 Goll%aga 5 Duke 6 Oklahoma State 7 Mltslsslppl Stat& 
+8 Connecll~ut 9 kentucky ' 10 Tem 
+11 Wake forest n North carolina 
+13 Pfo~ldence 14 North Carolina Stat& 15 Cincinnati 16 southern Illinois 
+17 AfllOBB 18 Georgla18clt 19 Mempbl• 
+20 Kansas ·:: 21 Louisville 22 Wlsconslo 
+23 Illinois 
+24 Utah Slata 25 Texas Tecll 
+Men's Coli Big East 
+team 
+Pittsburgh Providence Connecticut Syracuse Seton Hall Boston College 
+NOTRE DAME We51 VIrginia Rutgers VIllanova Virginia Te~h Georgetown Miami St. John't 
+around the dial 
+CoLLEGE BASKETBALL Providence at Notre Dame, 7:30p.m., ABC Michigan State at Michigan, 7 p.m., ESPN 
+NHL Blackhawks at Flyers, 7 p.m., FOXCH 
+NFL 
+
+Associated Press Washington's player per­what team we're going to season, he has hinted he 
+sonnel director, said at be dealing with." might be a holdout when 
+the NFL scouting combine The negotiations with training camp starts 
+DENVER -The Denver in Indianapolis "We are Portis were first reported unless the Broncos Broncos are discussing a talking to a number of in The Denver Post. rework his deal. trade that would send teams and Denver is one The Redskins have pro­The deal would make running back Clinton of the teams." He would­tected Bailey, who can sense because the Portis to Washington for n't name the players. become a free agent on Redskins went last season cornerback Champ Bailey, Jack Reale, Bailey's March 3, by designating without an every-down a swap of two Pro agent, said the Redskins him their franchise play­running back, a must in Bowlers upset with their have talked with several er. That means the the offensive system contracts, a source said teams, including Detroit, Redskins must make him favored by new coach Joe Monday. the New York Jets, a one-year, $6.8 million Gibbs. Portis ran for 
+In giving up Portis for Houston, Chicago and tender, the average of the 1,591 yards last year Bailey, Denver also would Arizona. top five players at his despite missing three receive Washington's sec­"We have had prelimi­position. games with chest and ond-round selection in the nary discussions with the Portis has two years ankle injuries. April draft, the NFL Broncos and with other remaining on the contract Portis' agent, Drew source told The teams as well, just on the he signed as a second­Rosenhaus, declined com­Associated Press on con­broad outlines of a con­round draft pick in 2002. ment and the Broncos did dition of anonymity. tract," Reale said. "I can't Displeased with the not return a call seeking 
+Vinny Cerrato, go into detail until I know $300,000 he made last comment. 
+IN BRIEF 
+Hall of farner defends Rose means what he's saying.' I believe in Lindsey Hunter and Chris Mills ­
+CLEARWATER, Fla. -Hall of him and, you know, I don't want to had yet to be completed. Wallace Farner Mike Schmidt called Pete get caught in a con game. Pete's a and James also missed a practice Rose "a beaten man" and doesn't beaten man." Saturday before the NBA said the 
+know whether the career hits leader trade was "final and complete." will gain reinstatement to baseball. Pistons fined for illegal 
+Schmidt, one of Rose's biggest player use Former umpire charged in 
+allies, said Rose didn't come across NEW YORK-The Detroit Pistons scandal as a sympathetic figure in a book were fined $200,000 by the NBA on NEWARK, N.J. -Former major tour that included television and Monday for using Rasheed Wallace league umpire AI Clark pleaded 
+newspaper interviews. In "My and Mike James before the league guilty Monday to conspiracy to com­Prison Without Bars," Rose reversed finalized the deal that brought them mit mail fraud in connection with course from 15 years of denials and to the team. selling baseballs he falsely claimed 
+admitted to betting on the Cincinnati The league said it was the first had been used in memorable games. time a player acqui·red in a trade The 56-year-old Clark, formerly of
+Reds while he managed the team in the late 1980s. played for his new team before the Trenton and now of Williamsburg, "It wasn't the best showing of sor­NBA officially approved the move. Va., had claimed some of the balls row and regret," Schmidt said Wallace and James came to were used during games in which 
+Monday. "That's just something Pete Detroit in a three-team trade with Cal Ripken tied and broke Lou isn't great at doing. But I know he Atlanta and Boston on Thursday, Gehrig's consecutive games record. truly is sorry and that he regrets and both played in the first half of Clark pleaded guilty in U.S. 
+everything. lie talked to me about it the Pistons' 88-87 loss to the Disrrict Court. Memorabilia dealer in private, told me that he let me Minnesota Timberwolves on Friday Richard Graessle Jr., a 43-year-old night. from Millburn, pleaded guilty to tax
+down. And he broke down. "As soon as I got off the phone They were pulled at halftime when evasion for his role in the scheme, 
+with him, I contacted the commis­
+it was discovered that paperwork which operated from September sioner and told him, 'This guy for two other·players in the deal -1995 to Nov. 19. 
+------------, 
+page 20 Tuesday, February 24, 2004 
+The Observer+ SPORTS 
+CLUB SPORTS 
+Frisbee club excels at Mardi Gras meet 
+Special to The Observer 
+The ultimate frisbee club sent both its men's and women's squads to Baton Rouge, La. this weekend for the annual Mardi Gras Tournament. In the 67-team field for men's play, the Irish opened with .a loss to the Texas B-squad, 13-7 and rebounded with a 13-9 win over Pacific Lutheran. The Irish continued on a roll with wins over Flagler, 13-9, and Towson, 15-12 in Saturday's pool play to earn a trip to the round of 16 on Sunday. 
+The Irish then posted their biggest win of the weekend, 11-6 over Alabama. Maryland brought an end to the streak­ing Irish run, with an 11-6 quarterfinal victory. Seniors Sean O'Neill and Christian Braunlich provided steadying leadership while freshman Eric Morin dominated the air, scoring on several big bucks. Sophomores Andrew Sheehan, Vasili Karas and Ryan Butler shared handler duties and played stifling defense. The men will next defend their title as reigning champions at the Invitational in Savannah, Ga. 
+The women's squad posted a 3-3 record against an equally strong field. In see-saw results, the Irish dropped their opener to Chico State, 7-5, defeateq Tulane, 13-10, fell to Wisconsin, 13-1 and defeated Rice 13-7 to close pool play on Saturday at 2-2. On Sunday, the Irish dropped a closer rematch with Wisconsin, 13-7, before being awarded a forfeit against Arkansas. Sophomore Chrissy Hedges set the tempo in her first game as handler. Seniors Meagan Sutton and Priva Varghes spearheaded the attack with excellent cut­ting and solid throws, while Junior Heather Tsukamoto excelled with several out­standing layouts. 
+Women's water polo 
+The women hosted the Irish Invitational this weekend, bringing a strong field to Rolfs Aquatics Center. The Irish split four contests over two days of play. Behind the strong offen­sive play of co-captain Kimmy Moore and Kendra Harmon ­and stalwart defensive play of Christina Hoover and goalie Brigette Alge -the Irish defeated Northwestern, 11-2, and Illinois, 7-2. The Irish dropped a 7-2 decision to defending national champion and No. 2 Michigan State. 
+Bowling 
+The bowling club closed its season with a 39th place finish at the Hoosier Classic in Indianapolis this weekend. The club finished Saturday with a 1002 game, the fourth highest overall team score for that game. Jim Talamo, who rolled a 300 game in intramu­ral competition earlier this semester, posted a 183 aver­age with a high game of 205. Steve DePoy averaged 178, including a 234 game. Captain Jason Raver's 215 game earned him a 175 average. Dan Martin (172 average and 204 high game), Van Koppersmith (168 and 203) and Vance McClenton (156 and 197) completed the scor­ing for the Irish. 
+WOMEN'S lACROSSE 
+Irish finish preseason with losses 
+By MATT MOONEY Sports Writer 
+Notre Dame wrapped up its exhibition season Saturday with a sojourn to the Northeast, the cra­dle of lacrosse champions. In New Jersey, the Irish faced off against three different teams, including two-time defending national champion and No. 1 Princeton, No. 7 Dartmouth and No. 9 Ohio State. 
+At the Princeton Invitational, the Irish played in an altered for­mat in order to compete against all three teams. The team played one half each against Ohio State and Princeton with a full game against Dartmouth in between. 
+The Irish met with mixed degrees of success. They began the day strong, shutting out Ohio State 10-0 in one half of play. But coach Tracy Coyne was most looking forward to the showdown with Dartmouth. 
+"I wouldn't be surprised if they're in the Final Four," she said. "I don't think anybody that we face on our schedule is going to be better than Dartmouth." 
+Dartmouth gave the Irish a competitive match. Notre Dame hung around for much of the match before Dartmouth put the Irish away at the end en route to a 12"8 victory. 
+Dartmouth keyed its attack with an aggressive, penetrating offense and an equally potent trap on defense. 
+"From an attacking standpoint, we struggled when they were double-teaming," Coyne said. "We had solid opportunities to score against Dartmouth, [but their] attack was getting some opportu­nities going strong to the cage with their dominant hand." 
+Coyne felt her players could take away many positives from the match. 
+"To go up against a team like Dartmouth, and to know that we had opportunities, it pointed out some things that we can focus on," she said. "We were definitely competitive. I was very pleased with the way we came out in the second half." 
+Senior captain Andrea Kinnik agreed. 
+"It's a learning experience and it puts us in a good place for the rest of the season," Kinnik said. "It gave us the experience that we need." 
+Experience, however, was not enough to carry the Irish past Princeton. Notre Dame was over­matched at times and Princeton was able to handily defeat the Irish in only one half of play, 7-0. 
+Playing against three top 10 teams in one day proved to be a unique pre-season challenge. 
+"It's definitely intimidating, but you just have to put that behind you," Kinnik said. "You have to come there to make them adjust to your game instead of you adjusting to their game." 
+The challenge is one that Coyne feels will prove beneficial during a season in which the Irish face ranked foes early and often. Nine of the preseason top-25 teams appear on the Irish regular sea­son schedule, including Big East foe No.6 Georgetown. 
+"When you're trying to establish a winning tradition, you have to learn what it means to consistent­ly compete at a high level," Coyne said. "We feel confident that we can compete. It's just a matter of executing when it matters." 
+Coyne is also looking to her upperclassmen to foster leader­ship among the younger players, especially as the Irish prepare for their season opener on Feb. 27 at the University of California. 
+"They're doing a good job of mentoring the younger players and that was lacking last season." Coyne said. "They're choosing to go in a certain direction and it's going to help us be successful this season." 
+Contact Matt Mooney at mmooney@nd.edu 
+
+utch ~ Michael Stars * Juicy Couture * Rock ~.~. ....;~~;;; ohnson * Anna Sui 
+
+Granger, IN 46530 (574) 277-6693 
+528 E. Colfax Ave. South Bend~ IN 46617 (574) 232-1822 
+
+
+
+Undergraduate members ofthe gay, lesbian, and bisexual com.mW1ity are invited to apply for membership on the 
+Standing Committee 
+.... 1 
+
+for Gay and Lesbian 
+i" 
+
+
+Student Needs. 
+· APPLICATIONS arc now available in the Office of ; Student Affairs {316 Main Building) or on the Standing Committee web site http://\\'\Vw.nd.edu/-scglsn/ 
+Applications are due by 5:00p.m. on Friday, March 5, 2004, and can be submitted at the Office of Student Affairs. 
+c .. ,..,,,..~.,., 
+~' "-1118 !.ERIAII 
+&~TNUOS 
+
+
+page 21
+
+Tuesday, February 24, 2004 The Observer+ SPORTS 
+CLUB SPORTS 
+Jo Syetanott leads the Irish at IU invitational 
+Special to The Observer completed the scoring for theI Irish. Freshman Wendy Jo Syetanoff Salling
+I 
+
+stepped up with a strong per­Competing against a field ofI formance at the Indiana varsity teams that have sailed
+C)S PUB417N. Michigan Street 
+University Big Red Invitational all winter long, the Irish sailing
+I 
+
+this weekend to lead the Irish club finished 18th at the women's squad. Syetanoff Charleston Intersectional. The placed fourth on vault, fifth on Irish challenged a very tough
+WEDNESDAY'S I 
+I balance beam and third all­field as all but two of the seven­around with a season best of teen schools finishing ahead of
+I 
+
+34.85. Cecellia Torres also the Irish are currently ranked
+UPPER CLASS NITE I placed for the Irish, finishing among the top 25 varsity pro­
+MUST BE 21 WITH A VALID ID 
+fifth on floor with a 9.0. Kim grams nationally. The final
+I 
+
+Turnipseed, Maurie Donnelly rankings saw Charleston, and Lucianna Ravasio con­Georgetown, Dartmouth,
+ALL DRINKS, PITCHERS : 
+tributed to the team, as well. Stanford, UC Irvine, Coast 
+The men were led by Andrew Guard Academy, Brown, South Roberts, who finished third on Florida, Eckerd and Saint. floor exercise. Calvin Umeda, Mary's College complete the top 
+11HALF PRICE'' : 
+Aaron Roberts and Todd Moffat 10. 
+10PM-CLOSE I 
+Karaoke • Pool • Golf • VIdeo • Shuffle Board • Darts : 
+we're playing well and our body language is good," Brey
+Recipe 
+said. "We've got this attitude
+0 P E N ---=5:...-;U=--=-=N:....::::;;D;;....:A-=-Y..=.....=...S_1=--.~P.:::....:m::.:.::. 1 continued from page 24 where we're playing looseBuckets and Shooter Specials· Food 1pm • 9pm I and going for it and not being and nobody else really hurt afraid to win. We have to con­
+I 
+
+us," Brey said. "But they have tinue to play with that frame 
+of mind." hurt us." The fact that Notre Dame is Like Notre Dame, the Friars 
+• WED~ FRI LENT· SPECIALS I a number of guys who can 
+popcorn shrimp n' fries • fried clam strips n' fries I even in a position to chal­
+I depend on the 3-pointer for lenge for the NCAA 
+most of TournamentI t h e i r is a testa­offense, and ment to 
+fish n' chips • fish sand n' fries 
+.MON -TUES -THURS I 
+Providence how theI m a k e s Irish have
+Pint draft and Pitcher Specials 5pm • Close 
+about 37 played over
+I "You do have control ofyour
+percent their last from behind destiny and that's all you four games. the arc A loss to 
+FRI N' SAT I 
+can ask."
+Buckets and Drink Pint Specials 5pm • Close 
+I compared to Pittsburgh N o t r e Feb. 7 left
+MUST BE 21 WITH A VALID ID TO DRINK 
+I Mike Brey
+Dame's 3-the Irish NO AGE LIMIT TO EAT I point per­Irish coach one loss centage of away from around 35 dropping to percent. .500 on the In addi-season. But tion to t h r e e Gomes, Donnie McGrath, Rob straight wins against Sander and Sheiku Kabba all Connecticut, Seton Hall and 
+• average double-digits in Syracuse and a narrow loss at
+.,"-""··'·-Jegiate 
+_poiats for Providence. Connecticut Saturday helped The Friars have the confer-propel the Irish onto the bub­-~.s;e's best defense, giving up ble.
+·val 
+(i(T.l points a game in league "This is what it's all about," play, thanks in part to a sti­Brey said. "We're in meaning­fling zone. ful games, we're in the mix, 
+Brey wants his team to con­we're on the radar screen. centrate on pushing the "You do have control of tempo to score points in tran­your destiny, and that's all sition -similar to what the you can ask." Irk>h did in a win against Syracuse a week ago. 
+"rWe didn't win Saturday Contact Andrew Soukup at [&gainst Connecticut]. but ~oukup@nd.edu 
+l 
+l 
+UNIVERSITY OF' NOTRE: DAME: JAZZ BAND II AND COMBO all events. arefree 
+···~..... 
+IIIIOLIGNT 'TO YQ.I ISY au11 
+www.nd.edu/-sub/cjf/ page 22 The Observer + SPORTS Tuesday, February 24, 2004 
+Victories 
+continued from page 24 
+22-5 women), Detroit Mercy (27-0, 23-4), Wisconsin (23-4, 24-3) and host Purdue (25-2, 24-3) proved less of a chal­lenge. 
+The wins were more impres­sive because walk-ons provided much of the help. The University of Detroit fielded the only varsity team in atten­dance, so the Irish were able to give non-scholarship fencers experience. 
+Senior foilist Matt Castellan was pleased· with how the walk-ons carried themselves on the strip. 
+"[The wins] say something about the commitment [ofl the entire team and not just the starters," Castellan said. "It's a testament to the fact that the entire team is 100 percent when we're practicing." 
+Streaks were not the only milestones reached either. With her 7-2 record on Saturday, senior foilist Maggie Jordan became the second fencer in the history of Notre Dame men's or women's fencing to record 80 career victories with two weapons. At her current position in foil, Jordan owns an 83-36 record . .She also holds a career mark of 85-22 at sabre. 
+Claudette deBruin, who 
+Booth 
+continued from page 24 
+pop out to end the game. Megan Ciolli led the Irish with two hits and one run, while Stephanie Brown went 1-1 with one RBi. 
+Pacific 12, Notre Dame 1 
+The Irish couldn't overcome an 84-minute rain delay and came out flat in the fourth inning after holding Pacific scoreless through three. 
+"The weather played a huge factor," Fuemmeler said. "We started a little flat. It was a lack of focus after the rain delay." 
+Pacific tallied 12 runs in just two innings to spell doom for the Irish, fenced from 1993-96, is the only other fencer to accomplish the feat with 152 wins at epee and 81 at foil. 
+Jordan was one of many fencers who finished the sea­son with strong performances. Freshman epeeist Amy Orlando continued her late season surge, finishing the day at a perfect 14-0. She has won 45 of her last 50 bouts. Following her on the women's side were senior sabres Danielle Davis and Natalia Mazur, who both swept through the day with 17­0 records apiece. 
+On the men's side, freshman foilist Frankie Bontempo capped off his rookie campaign with an unblemished 11-0 record. Fellow foilist Castellan complemented his performance with a 17-1 mark. 
+For Castellan, the tourna­ment added to the growing anticipation of the post-season, especially among the new fencers. 
+"We are very excited," he said. "Everyone's really anx­ious to qualify the full 12 and get on to NCAAs. It's a totally different format compared to anything [the freshmen] have ever fenced in. That's the only question mark, but we're all confident that they're talented and motivated." 
+Contact Matt Mooney at mmooney@nd.edu 
+Nicole Wicks scored on Kellie Middleton's sacrifice fly. Pinch runner Gessica Hufnagle then scored after Stanford tried to catch her at third but instead overthrew the ball into left field. But that was all the scoring Notre Dame could manage in a disappointing loss. 
+"We hit very well," Fuemmeler said. "We just· weren't able to cash in on runs." 
+USA Olympic Team 10, Notre Dame 0 (exhibition) 
+In what Fuemmeler called "the experience of a lifetime," the Irish met the best softball players in the nation in an exhibition matchup. After--_ holding the Olympians to one --. 
+run on four hits, 
+pitcher Steffany 
+Stenglein was
+"We hit very well, 
+who only man­relieved after aged one hit. we just weren't able three innings. 
+Nicole deFau to cash in on runs. ,. Booth pitched 
+broke up the the next two no-hitter in the innings, giving
+Kenya Fuemmeler
+bottom of the up four runs. ~ fourth with an Irish pitcher But the Irish 
+RBI single. But despite the loss, Notre Dame didn't hang their heads. 
+"It might have been a good loss, because we don't want it to happen again," Fuemmeler said. "It was more of a learn­ing experience." 
+No. 8 Stanford 4, Notre Dame 2 
+After putting themselves in a 3-0 hole, the Irish bounced back to almost steal the game from the Cardinal. But two errors and the early deficit were too much for a Notre Dame team that left eight runners on base, despite outhitting Stanford 7­4. 
+"We would have won the game if we played the game defensively," Fuemmeler said. "It should have been a 2-1 game," she said. 
+In a game that included a home run robbing catch by deFau, the Irish scored their only runs in the top of the sixth when pinch runner 
+offense only 
+managed two hits, both by Sara Schoonaert, who singled in the first and' fourth innings. .? 
+The Irish fell victim to Lisa Fernandez's grand slam in the sixth inning to end the gam.e. 
+No. 12 Tennessee vs. Notre Dame, rain out 
+Neither team played the fmal game of the weekend as a result of the inclement weather. 
+But after playing the Olympic team, the Irish were ready to go home. The team hopes to carry the early sea­son momentum from five wins in eight games onto the upcoming weekend. 
+"We were very disappoint­ed," Fuemmeler said. "We felt like we had gained momentum and thought that we could prove ourselves against a ranked team." 
+Contact Heather Van Hoegarden hvanhoeg@nd.edu 
+
+Solid 
+continued from page 24 
+
+"Niese! was 'typical Niese!' and got us off to a good start," Mainieri said. "He comes in and starts throwing strikes right out of the. gate and really allows our team to be ener­gized." 
+Joe Thaman made his first relief.appearance by getting one out in the sixth. Thaman played first base from 2001-03 before moving to pitcher. 
+Grant Johnson worked his first two innings in a regular season game since having shoulder surgery before last season and missing all of '03. Johnson threw two scoreless innings, striking out two bat­ters. 
+First baseman Matt Edwards homered in his first at-bat and finished the first game batting 3-for-5 with four RBis. Second baseman and preseason Big East Player of the Year Steve Sollman collected two hits in three at-bats. Sollman walked twice. 
+In Notre Dame's game 
+SOHA BALL ON/The Observer 
+Senior Javl Sanchez swings at a pitch against Valpralso last season. Sanchez has helped lead the 
+Irish to begin the season an Impressive 2-0. 
+against USC, sophomore start­ing pitcher Tom Thornton gave the Irish an outstanding outing, going six innings and allowing zero earned runs. He struck out four, walked two and allowed just four base hits. 
+"I have always said Tom Thornton has the ability to be an outstanding pitcher against good teams, but he's never been on that· kind of a stage before," Mainieri said. "He just settled in and made a lot of big pitches when he needed to. I was just so happy for him and proud of him, and [his perform­ance] had a great effect on our team." 
+The top of the Irish lineup struggled against the Trojan pitching. Sollman, fr.eshman Danny Dressman, Edwards and Javi Sanchez combined to go 0­for-12 in the game. But the middle hitters led the way for the Irish offense as Cody Rizzo, Matt Macri and Matt Bransfield each had two hits. Rizzo also threw out a USC runner at the plate to end the sixth inning and help the Irish cling to a 2-1 advantage at the time. 
+Sophomore pitcher Ryan Doherty later struck out three batters in relief to pick up his first save of the season. The game was called after seven innings because of rain and a soggy field. 
+Mainieri was pleased with the win over USC because of the tradition that Trojan baseball has stood for throughout the years. 
+"It was a great victory for us," Mainieri said. "Southern Cal is to college baseball what Notre Dame is to college foot­ball. That's the level of tradi­tion there." 
+Notre Dame travels to Boca Raton, Fla. next we&kend for four games in three days. The Irish picked up an extra game to replace the Louisville rainout and will face Florida Memorial Saturday. 
+Although the Irish have played just two games, Mainieri is excited about his team's play. 
+"It was a tremendous full team effort," he said. "We have a lot of season to go, but if we play like [last weekend] we're going to have our share of suc­cess." 
+Contact Joe Hettler at 
+jhettler@nd.edu 
+
+
+
+Tuesday, February 24, 2004 The Observer+ TODAY page 23 
+DILBERT 
+ACCORDING TO THIS REPORT, OUR EMPLO'Y­EES ARE AFRAID TO TAKE RISKS. 
+FIVES 
+Hey -1mre. stvd .• · 
+LG\clic.sl LoCJks like. yov Md "' .3,.to.t ti..,t: a+ 
+Matdi ur"4S. 
+
+CROSSWORD 
+ACROSS 34"_ Irish Rose" 
+1 Bongo or conga 38 Music featured in 59-Across
+5 Bellhop's bur­den 42 English assign­ment
+a Integra maker 43 Slangy refusal
+13 Diarist Frank 44 Classic soda 
+14 Concert halls brand
+16 "Vacancy" sign site 45 Tiff 
+48 PBS Iunder 59-Across 17 Star of 
+50 Ill, to Jr. 20 Got 100 on 
+51 Author of 21 Extinct bird 59-Across 22 Brazilian hot 56 A.F.L. merger spot 
+partner 
+23 Director of 57 Suffix with 59-Across Peking 
+27 Pampering, 58"_ #11" briefly 
+59 Theme of this 28 Olive puzzle, with "A" 
+29 Saragossa's 65 Like bell-bot­river toms, nowadays 
+30 Circusgoers' 66 Claudius's sue-sounds cesser 
+32 Understand 67 Highlander 
+ANSWER TO PREVIOUS PUZZLE 
+!-rl7+:+.:-t 19 Paint crudely  41 Forest name  54 Special Forces  
+23 Plumlike fruits  46 From the top  cap  63 Gloppy stuff  
+24 Mtn. stat  47 Ex-champ Mike  55 Wipe clean  
+25 Fiber source  49 Antiquing agent  60 PC component  64 List ender  
+
+26 Radio personali----------..o~~----------­
+ty_Quivers 27 Repeated words in a famous 
+soliloquy 31 Narc's discovery 33 Hamilton's bill 35 Fundamentally 
+THE OBSERVER 
+Published Monday through Friday, The Observer is a vital source of information on people and events in the Notre Dame and Saint Mary's Community. 
+Join the more than 13,000 readers who have found The Observer an indispensible link to the two campuses. Please complete the accompa­nying form and mail it today to receive The Observer in your home. 
+SCOTT ADAMS 
+
+WE CAN TRAIN THEM 
+IT STOPPED TO TAKE RISKS B'Y 
+ALL THE GIVING THEM STRETCH 
+COMPLAIN­GOALS AND PUNISHING 
+ING, DIDN'T THEM FOR FAILING! 
+IT? 
+( 
+
+BRETT CAMPBELL & DAN ZYCHINSKI 
+w~~'t,l N'Jd lo"k at all of #lose. beA.ds .., yov two mv&+ hAYC. worlwl ho.t'"d., •• 
+' 
+
+
+WILLSHORTZ 
+
+68 Bus. aides 69 Little bit 70 Fair-hiring org. 
+DOWN 1 River regulator 2 Genetic stuff 3 Opens, as a 
+gate 4 Hajji's destina­tion 5 Proceed aIa Captain Kirk? 6 Nimitz or Halsey: Abbr. 7 Glittering, like a 
+diamond 8 Latin 101 verb 91t's no bull 
+10 Wombs 11 Archaeologist's find 12 Free of prob­lems 36 Group values 51 Capital of 61 Ring victories, Ghana for short
+15 "Have and 37 Tibia's locale a smile" (old 52 Frasier's broth­
+39 Doc's needle slogan) er 62 Malay
+40 Half an Orkan Peninsula's18 Wine: Prefix farewell 53 Whistle blasts Isthmus of 
+
+For answers, call1-900-285-5656, $1.20 a minute; or, with a 
+credit card, 1-800-814-5554. Annual subscriptions are available for the best of Sunday crosswords from the last 50 years: 1-888-7-ACROSS. 
+Online subscriptions: Today's puzzle and more than 2,000 
+past puzzles, nytimes.com/crosswords ($34.95 a year). Crosswords for young solvers: The Learning Network, nytimes.com/learning/xwords. 
+Make checks payable to:  The Observer  
+and mail to:  P.O. Box Q  
+Notre Dame, IN  46556  
+
+D Enclosed is $100 for one academic year 
+D Encmsed is $55 for one semester 
+Name ____________________________________________ Address ________________________________________ City _____________ State _____ Zip__________ 
+HENRI ARNOLD >
+JUMBLE 
+MIKE ARGIRION 
+
+
+THAT SCRAMBLED WORD GAME by Henri Arnold and Mike Arglrlon Unscramble these lour Jumbles, one 
+letter to each square, to form four ordinary words. Irs still not right 
+
+/ 
+KLIMY 
+
+± 
+Ol004 Tribuna Media Servlcae, Inc. All Rights RBBerved. 
+POCAN 
+I I I 
+
+TINADY WHE:N Hf C.OUL.DN'T
+± 
+
+FIX n£ VCR Cl.-OCK 1-f: SAID IT WAS-­
+www.jumble.com
+
+tTHROBE ± 
+Now arrange the circled letters to form the surprise answer, as 
+suggested by the above cartoon.
+
+J I r J I 
+P== 
+
+ITJ[I I J"[ I I I I J' 
+(Answers tomorrow)
+
+I Jumbles: LATCH HIKER ENTAIL THRASHYesterday's Answer: 
+The barflies got sick because they imbibed too often to-THEIR HEALTH 
+EUGENIA LAST
+HOROSCOPE 
+.. 
+
+CELEBRITIES BORN ON THIS DAY: Paul Jones, Helen Shaver, Paula · Zahn, Jenny O'Hara, Barry Bostwick, Abe Vigoda, Edward James Olmos 
+Happy Birthday: Take your time and think things through. If you jump too quickly this year, you'll have regrets. Don't rely on others to do things for you. You are the master of your own life, so take care of your own interests first. This is not the time to take unnecessary risks, so don't let anyone lead you astray. Your numbers: I, 8, 12, 28, 34, 42 
+ARIES (March 21-April 19): Romantic encounters will unfold if you go out with friends. You'll be in a talkative mood. It will be easy to write letters. It will be a good day to get your point across. **** TAURUS (April 20-May 20): You will have no problem with financial dealings. It is·best to try to finalize deals and sign on the dotted line. You can make career moves and can work well with your colleagues. ••• GEMINI (May 21-June 20): Investments may not be in your best interests. There appears to be someone around you who may try to take you for granted. Look into joining a club that offers individual sports. *** CANCER (June 21-July 22): Make those changc:s to your home A move, or possibly just changing things around, will lift your spirits. Expect people to drop by to see you at home or at work. *** LEO (July 23-Aug. 22): Make plans to get together with friends or at least phone them to catch up on all the latest happenings in their lives. Talk about commitments with the one you love. This could lead to matrimony. •••• • VIRGO (Aug. 23-Sept. 22): Disruptions may cause you to stop what you arc working on. Make arrangements quickly and carry on with your job. Problems with co-workers indicate that you should not rely on others. •• LIBRA (Sept. 23-0ct. 22): You will have no problem influencing others when 
+it comes to your beliefs and opinions. Put some effort into self-improvement. You will have a tendency to be overindulgent. •••** SCORPIO (Oct. 23-Nov. 21): You will have to be well-organized today. Learn to delegate less-important duties to those around you. You have a knack for taking on too much and then getting frazzled trying to do it all. ••• SAGITTARIUS (Nov. 22-Dec. 21): You can make new friends and meet an individual who could possibly become an important partner in the future. Doing things with children is favorable today. ••• CAPRICORN (Dec. 22-Jan. 19): You will find that those you least expect will rally around to aid you in achieving your goals. Don't forget to show your gratitude if you wish them to offer assistance again. ••• AQUARIUS (Jan. 20-Feb. 18): Pregnancies are likely if you don't take precautions. Do things that involve physical activity. Shopping sprees will be a learning experience. Don't buy things you don't really want. • • • • • PISCES (Feb. 19-March 20): Someone you work with cannot be trusted. Don't be so open about your personal life or your feelings about co-workers. Changing your professional direction is not a bad idea. ** 
+Birthday Baby: You are a dreamer and a drifter. You need to stay focused on the things that you do best in order to reach the success that you desire. The more you learn, the better you'll do. Your creative ability must be developed properly in order for you to take advantage of it. 
+Need advice? Try Eugenia's Web site at www.eugenialast.com 
+
+THE OBSERVER 
+
+PORTS
+Tuesday, February 24, 2004 
+page 24 
+... 
+FENCING 
+Winning streaks carry on as Irish end season 
+By MATT MOONEY 
+Sports Writer 
+The Notre Dame men's and women's fencing teams love to go streaking. 
+Saturday's dominating per­formance at the West vs. Central Dual Meet in West Lafayette, Ind. closed out a per­fect 26-0 season for the No. 1 ranked women. The men fin­ished the season 24-1, with a loss to top-ranked St. John's the only blemish on their schedule. 
+The six wins at the meet ­against one varsity team and five club teams -extended the women's dual meet winning streak to 40 over the past two seasons. That streak ranks third-best all time in program history, behind only a 75-meet streak from 1993-96 and 42­meet streak from 1985-86. 
+The undefeated season also marks the first time the women's team has completed the regular season without a loss since the 1994-95 season. 
+The No. 2 men's team had its own stretch of perfection this season. The men continued their run of 90 consecutive reg­ular season victories into this season -a streak that dated back to 2000. St. John's ended that streak at the New York University Dual Meet in the only Irish loss of the season. An even more dominating per­formance at the West vs. Central Duals helped the Irish men finish the regular season strong. 
+Both squads controlled the competition Saturday. No team posted double-digit wins against the Irish, as Michigan and the University of Chicago were the only teams able to approach Notre Dame. The men dispatched both squads by 19-8 scores, while the women dominated with two, 21-6 victo­ries. Michigan State (24-3 men, 
+see VICTORIES/page 22 
+NO SOFTBALL 
+
+Irish earn one win in Palm. Springs 
+By HEATHER VAN HOEGARDEN Sports Writer 
+
+The weekend looked quite promising Friday afternoon, but after a little rain and a rude awakening, Notre Dame (5-3) left the Palm Springs Classic with just one win. 
+The Irish faced Utah, Pacific, No. 8 Stanford and the United States Olympic team in the tournament. Their last game against No. 12 Tennessee was cancelled due to inclement weather. 
+Notre Dame 4,. Utah 3 
+
+Heather Booth pitched her second straight complete game, as the Irish jumped out to a 4-1 lead and never looked back. 
+"We were really aggressive at the beginning of the game, and that helped us jump on the board early," freshman Kenya Fuemmeler said. "It gave us insurance runs for later." 
+Every run was needed, as 
+BASEBALL 
+Solid pitching sends Irish to 2-0 start 
+By JOE HETTLER • 
+Sports Editor 
+Somebody forgot to tell the baseball team they aren't sup­posed to play this well this early in the season. 
+The Irish hit, pitched and fielded well in two wins last weekend over San Diego State and USC. Notre Dame's third game against Louisville was rained out. 
+"If someone walked into the park and didn't know we were from the Midwest and it was our first day outside, they would have thought we had 
+c. 
+played 20 or 30 games already," Irish coach Paul Mainieri said. "We played that well. I couldn't imagine that we could have played any better than we did in our first days outside." 
+The Irish beat San Diego State 7-1 and then ousted USC in a rainy game, 3-1. Starting pitchers Chris Niese! and Tom Thornton and four relief p1tch­ers posted a combined 0.56 ERA over the weekend. Niese! opened the weekend with a win over the Aztecs, going 5 2/3 innings, striking out nine and allowing one earned run. 
+see SOLID/page 22 
+
+MEN'S BAKSETBALL 
+1 Do or die' time 
+Irish face must-win against Providence 
+By ANDREW SOUKUP 
+Sports Writer 
+
+Torrian Jones isn't given to broad, sweeping generaliza­tions. 
+So when he describes how pivotal tonight's game against Providence is for Notre Dame's postseason aspirations by saying, "It's the biggest game of the season, bar none," fans should pay atten­tion. 
+Jones and the rest of the Irish know the magnitude of tonight's game against Providence, who is tied for second in the Big East and boasts an RPI of 11. If the Irish win, Notre Dame adds a fourth quality win in five games to its NCAA Tournament resume. If the Irish lose, Notre Dame is in the position of having to advance deep into the Big East Tournament to qualify for the NCAA tournament. 
+"It's do or die right now, because that's our last oppor­tunity to get a marquee win," Jones said. "It'll look real good on the resume and solid­ify us for the rest of the sea­son." 
+Tonight's game also has sev­eral ramifications for how the Big East will shake out for the rest of the season. Notre Dame (13-10 overall, 7-6 in the Big East) is one of seven teams who have records between 7-5 and 6-7. An Irish win tonight and wins in its last two conference games against Georgetown and St. John's could give the team a chance at a first-round bye in the Big East Tournament. 
+"We definitely need this game," Chris Quinn said. 
+Notre Dame's recipe for beating the Friars is contain­ing Ryan Gomes and prevent­ing the rest of the team from doing too much damage. Since conference play started. Gomes has ranked third in the Big East in scoring (19 .6) and rebounds (9.5). 
+But Irish coach Mike Brey said while the Irish know Gomes can score, the key to winning is stopping the rest of the·Friars. 
+"We've done a good job where the guys who are going to get their [points] got theirs, 
+see RECIPE/page 21 
+CLAIRE 
+
+Mallorle Lenn tags a St. John's runner last season. The Irish strug­gled at Palm Springs going 1-2 over the weekend .. 
+Utah hit a two-out, two-run Booth got the next hitter to home run in the top of the seventh to get within one. But see BOOTH/page 22 
+en 
+NFL
+CLUB SPORTS 
+
+NFL
+CLUB SPORTS 
+WOMEN'S LACROSSE 
+BOXING 
+w 
+49ers and Julian
+Cleveland's William
+The men's frisbee team 
+
+Oscar De Ia Hoya and 
+Irish end exhibition
+Freshman Wendy Jo 
+Peterson come to agree-
+Green began a three-day 
+Bernard Hopkins await 
+reaches the round of 16
+1--u z Syetanoff places third in 
+play with a disappoint­
+ments to extend his con-
+jail sentence after plead-
+a deal for a Sept. 18
+ing 1-2 finish over the 
+at the Mardi Gras
+the all-around competi­
+a: s 
+tract to next season. 
+
+ing guilty to drunk driv­
+weekend. 
+Tournament. 
+fight.
+
+tion at the Indiana
+C) c:s 
+ing charges. 
+University Big Red 
+a. ti Cl:
+.,.(, Invitational. 
+page 15
+page 20 
+page 18 
+page 18
+
+page 20
+page 21
+en 
+
+
+
+

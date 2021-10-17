@@ -1,0 +1,566 @@
+﻿Notre Dame Scholastic.
+Disce quasi semper victurus; vive quasi eras Tnorltniras.
+S’
+Volume XII.
+NOTRE DAME, INDIANA, JANUARY 11, }879.	Number 19.
+Oriental Studies.
+‘'ADON OHL AM.”
+[From the Jewish service on the Feast of Tabernacles.]
+“ Adon Ohlam. ”—Universal Lord! who the sceptre sway’d Ere creation’s first wondrous form was fram’dq.
+When by His will divine all things were made, Then King I Almighty! was His name proclaim’d!
+When all shall cease, and this world’s system o’er, Then He tremendously alone will reign :
+Who was, who is, and will for evermore In most refulgent glory still remain. Sole God! unequalled and beyond compare:
+Without division, or associate,
+Without commencing date, or final year, Omnipotence in His regal state.
+He is my God, my living Redeemer, My shelt’ring rock in a distressed hour;
+My refuge, my standard, and protector, My lot’s disposer, when I seek His power.
+Into His hands my spirit I consign
+Whilst wrapt in sleep, and when again I wake;
+And with my spirit, my body I resign
+The Lord’s with me, no fears my soul shall shake.
+Laplace.
+Pierre Simon Laplace was one of the ablest of modern geometricians—one of those who, by the grandeur of the results obtained, have most contributed to demonstrate the power of mathematics in the discovery of the laws that govern the material world. A brief exposition of his works, within the limits of this paper, will give an idea of their importance and utility.
+Scarcely was he twenty years old, when Laplace opened his scientific career by a emoire on the secular inequalities of the movements of the planets. The ellipses that the bodies of our system describe around the sun are ever variable—they approach and retire in a circular form—the extremities of their great diameters cross the heavens; independently of an oscillatory movement, the planes of their orbits experience a displacement, in virtue of which their paths on the plane of the terrestrial orbit are each year directed towards different stars. Through this apparent labyrinth of increase and diminution of velocity, variations of form, changes of distance and inclination, Laplace knew how to proceed with firm step, guided by the most perfect analysis. He discovered the laws of these different movements, so complicated, and demonstrated that through all these multiplied changes one thing at least remained fixed and constant: namely, the grand axis of each orbit, and consequently the time of the revolution of each planet.
+Thus all the anxiety of Newton and Euler in regard to the stability of the system of the world was removed; in this way he dissipated the fears of fretful minds, to whom the admirable order of the universe appeared but fleeting. Laplace showed that there was no cause to apprehend, in the course of ages, a renewal of chaos from the destruction of the actual state of things.
+In regard to the cause on which so grand a result depends, it consists solely in the primitive disposition of the bodies that compose our system, in the smallness of their masses compared with that of the sun, in the indentity of direction in their movements, in the slight mutual inclination of their orbits, in the littleness of their excentricities.
+It is true that in his calculations Laplace admitted the existence of but a single force, that of attraction or universal gravitation; and yet observation, the touch-stone of all theories, seems to contradict his. Thus the comparison of ancient and modern observations shows a continued acceleration in the motions of the moon and Jupiter, and a not less evident diminution in the movement of Saturn. Now, to an increase in motion there should correspond a decrease of distance from the sun; and to a decrease in motion, an increase in distance. It would seem, then, that some unknown cause, acting contrary to the laws of grav-tation, would one day bring Saturn and its mysterious cortege upon our world; that the moon would precipitate itself upon the earth; that Jupiter and his brilliant satellites would be swallowed up in the mass of the sun. But Laplace, by new analytical artifices, was able to discover the laws of these grand phenomena, prove their periodicity, assign their limits, and arrange them definitely in the class of common perturbations dependent upon gravitation. Thus it is mathematically established that the solar system can experience but slight oscillations about a certain middle state; that the momentary increase of motion in one planet is preceded and followed by an analogous de-, crease, without ever any disturbance in the general order of the universe.
+These grand discoveries are not the only ones made by Laplace in the domain of the celestial mechanism. Thus, thanks to his works on the perturbation due to the variations in distance between the sun and the moon, the observation of the motion of our satellite suffices to discover the mean distance of the sun from the earth. By analogous works upon the influence which the flattening of our globe exercises on the changes of the moon, he has made it possible to calculate the mean value of this flatten- , ing. The knowledge of these two elements, so important in the system of the world, no longer requires direct measurements. An observatory wi>h a mural circle, a meridian circle and a good pendulum, with exact and sufficiently prolonged observations on the plane of the meridian, is all
+294	THE NOTRE DAME SCHOLASTIC.
+that is required to discover by the formulas of Laplace that । the mean distance of the earth from the sun is 95,308,650 miles, that the Equatorial axis exceeds the polar axis by one-three-hundred-and-sixth. Now, these two results approximate wonderfully those that direct measurements made at great cost have given geometricians who have observed the parallax of the sun by the transits of Venus, and who have triangulated a marked portion of the terrestrial ellipsoid.
+To Laplace also is due the demonstration of the fact that the cooling which our globe is to undergo in the course of ages will be nothing in comparison to that rapid freezing threatened by the contemporaneous theory of Buffon. By comparing the observations made by Hipparchus, two thousand years ago, with those of modern times, it can be seen that the time of the revolution of the moon around the earth is still the same number of days and minutes. Now, the motion of the moon is entirely independent of the length of the day; this latter, on the contrary, depends essentially upon the thermometric state of the earth, and the slightest diminution of temperature would make a very sensible difference in the length of the day, because it would be accompanied by a contraction, a diminution of volume, and the velocity of the rotation of the earth around its axis would experience a corresponding increase. Consequently, if the time of the moon’s revolution expressed in days has not sensibly varied since Hipparchus, it is because the length of the day and the temperature of the globe have not themselves varied. Making the greatest allowance for possible errors in the observations of antiquity, let us suppose that the contraction due to the cooling of the earth would be the slightest ever observed in any body, and we shall find , that the temperature of our globe has not varied the hundredth part of a degree from the time of Hipparchus up to our own day. For, by the slightest possible diminution of temperature, the length of the day would have undergone a diminution, which ancient observations do not permit us to admit.
+The theory of the tides, conceived, though not fully developed, by Newton, remained still very imperfect even after the labors of Maclaurin, Bernouilli, and others. Laplace, by an artifice analogous to that employed in the discovery of the distance of the sun and the flattening of the earth, concluded from observations of the tides made at Brest during twenty years, that the mass of the moon is but a sixty-fifth part of that of the earth. Then, to confirm the laws of the permanency of the mundane system, he proved that the equilibrium of the tides was by its nature essentially stable—that is to say, that, notwithstanding accidental disturbances caused by the action of the winds, earthquakes, sudden upheavals from the depths of the sea, the waters of the sea can never oveiflow continents. To produce such an effect, it would be necessary that the mean density of the water be equal to, or exceed, that of the entire globe; but it is five times less.
+When we speak of the species of divination which calculus furnished Laplace, and by means of which he assigned the velocity that the rotation of Saturn’s ring should have around its axis—a velocity which Herschel deduced later from direct observations, made by the aid of his powerful telescopes; when we mention the discovery of those wonderful laws that govern the motions of the satellites of Jupiter; the calculus of capillary phenomena; experiments made with Lavoisier on the specific heat of bodies and their linear expansion; his formula for the velocity of sound;
+his formulas for the calculation of the tables of the moon; finally, his grand works, An Expotsition of the System of the World, Celestial Mechanics, The Analytic Theory of Probabilities; and we shall have enumerated the most important of his works—those which should immortalize his name.
+In all that precedes, we have only considered the sanant —and our praises have been unrestrained. Unfortunately, in regard to character, Laplace does not hold the same high place. His biographers agree in describing him as a wily courtier, greedy of honors and dignities. They show him as ridiculously discreet in regard to his birth; as if the son of a poor farmer in Auge had not more merit and acquired more glory in becoming the author of the Celestial Mechanics, than if fortune smiled upon him from infancy
+He had no capacity whatsoever for public affairs, in which he so eagerly desired to take active part; an idea may be formed of this from the six weeks during which he held the portfolio of the interior under the Consulate. Napoleon, in his Memorial of St. Helena, said of him: “ Geometrician of the first rank, Laplace showed himself but a poor administrator; at his first effort we saw that we had been deceived. Laplace never seized any question in its true point of view; everywhere he sought for subtleties, had only problematic ideas, and, finally, carried his spirit of the infinitely small into the administration.”
+Laplace was born at Beaumont-en-Auge (Calvados) on the 23d of March, 1749, and died in March, 1827. Almost his last words were: “What we know is but little; what we do not know is immense.”
+Reflections on New-Year’s Eve.	*
+•The grand Old Year of 1878 has bid us good-bye—I should say, a final adieu—adieu forever; no more to smile upon us, or gladden our hearts with his sweet presence. The Old Year has left us, has taken his departure hence. But he went not without leaving many remembrances behind.
+’78 will indeed be long remembered by many; remembered as a year of joy to some, of sorrow to others. To some, it was a year of blessing; to others, one of misery. Let us but call to mind last summer—a time when the scourge of pestilence and famine afflicted so many, here and in the Orient. Yes, Old Year, you have sent thousands, early and unexpectedly, to a silent grave. Without mercy you attacked, without mercy you scourged, and without mercy you laid many low. You deluged the South in a terrible manner; and although you Brew no sword, your strong and resistless arm brought many a brave man to the ground, never to rise until the great trumpet shall sound,	Ai
+calling all mankind to judgment. You well, know, I sup-pose, what you have done; you well know that you have left your mark behind you, and that when you are gone you will be remembered, not as a benefactor, but as a destroyer. You have robbed the world of its most glorious lights; you have taken from our midst our most dear and beloved ones. You visited us with a very severe summer— a summer that shall long be remembered; and then, as it were for spite—as if you had not done enough,—you ask the elements to concentrate their efforts against us and freeze us even in our houses. Where is your mercy?
+where is your humanity ?
+'But now, Old Year, that your misdeeds and shortcomings are related, let us see if we can find in you any good qualities. In Europe, you seemed to satisfy two classes of 4
+THE NOTRE DAME SCHOLASTIC.	.295
+
+
+persons. You took from one class men who were most ardently loved, and from another class persons whom the former had no reason to regard; hence you strove to keep a middle course, to please one party to the displeasure of the other, and nice versa. But we will let this go by; perhaps you had reasons for so doing. Again, you have here and there done many fine things. You have elevatec some in a most eminent degree; you have brought joy to many a sorrow-stricken heart. You have in many instances acted the part of a loving parent, and caused many a homecircle to rejoice and be glad. You have not altered materially the state of nations; you have wisely, we suppose, left that to your successor. But, poor Old Year, with all your good qualities and all your bad ones, you have taken your departure—taken your leave of us. Many will mourn your loss; many will rejoice that they have lived to see you down. But now the question may be put: Where are you going? Is old Father Time going to make some hand of you, since you can no longer suit him ? Or will you go whence you came? You came from nothing; do you intend to go back to it? You have, it is true, existed; you have had your day, but now you must go, never to return, never to look on us again, or do us good or evil. But, after all, it is sad to see you going. Some have just learned to love you, and now you leave them forever. This is really too bad. All of your children whom you have seen die in their turn were beautiful and fair, in a more or less degree; and as the worst of them, like yourself, had some good qualities, the people felt very lonesome after them, and for those that were really good in every particular they felt grieved. Just think of beautiful April, May and June— what fond recollections they brought to our memories—recollections of home, and all who were near and dear to us! September and October produced almost an opposite effect upon us: they reminded us that in order to be good, to be useful members of society, we had to store up knowledge whereby to combat everything that opposed our onward course to eternity; they reminded us that our time here is probationary, and that if we wish to do God’s will we must acquire that knowledge of Him which is necessary unto salvation. They want us to know God, to study His wonderful works; and, above all, to love Him with a true and lasting love—the love proper to our Creator. These fair children, then, of the Old Year of ’78 did not forget to remind us of this duty, and bring us back to the classic halls of old Notre Dame to finish our education and prepare ourselves for the battle of life. We should undoubtedly be grateful to them, and keep them in fond recollection as counsellors and advisers of no ordinary merit. November, sometimes making a great deal of noise, and sometimes making none at all, seemed, as far as we were concerned, to be bent on keeping us to our studies; so much so, that he made it a point to keep us by some means or other, even on Wednesdays, within doors, so that we might not become distracted from our studies. We are much obliged to him—but yet we would forgive some of his peculiar notions. December, although we must confess that we did not always agree with him, was not the worst of the twelve fair children of the Old Year, now departed. He whitened the ground for us, froze ponds and lakes, brought skates, sleighs, etc., into use; did many other beneficial acts to humanity, and would, in fact, have left a most creditable record did he not trespass the bounds of his power, and blow in a most furious manner, depriving us of all comfort both within and without,—at least so he thought to do; and were it not for our shrewdness in forti-
+fying ourselves against him, by plenty of fuel, etc., he would have completely succeeded. But seeing, no doubt, that we could not not be easily conquered, he soon assumed a milder appearance, relented in a short time, and with open arms invited us to enjoy ourselves either in skating on the lakes or in sleigh-riding over the hard and frozen road. The invitation was soon heeded, and then might be heard merry voices from the skaters, meny voices in the sleighs as they passed swiftly along, accompanied by the ringing of bells. Nature, dressed in her white mantle, never seemed to look so beautiful; the air was pure and invigorating, the young folks seemed to enjoy themselves, in a manner both beneficial to body and soul; and the old gravely smiled, as the ruddy youth with blooming cheeks and good appetite entered with his skates on his shoulder, or whip in hand.
+Thus the last child of the Old Year passed from our midst. We are, indeed, somewhat sorry, but it is of no use; things will take their course, do what we will. -But if we reflect, we shall come to the conclusion that we have no real cause to complain; for old Father Time sends us another of his numerous children—one who in turn will beget children, and thus fill np the vacancy caused by his most dear and faithful child—the Year ’78. Yes: another has come—a stranger, it is true, but nevertheless we must welcome him, and set up with him. It seems, too, that the Old Year had not settled all the business he had on hand; it seems as if he got sick from overwork, and left much to do to the one that has succeeded him. Be this as it may, his successor has entered on the business with much ardor of spirit and makes no complaints as to what he has to do. But now we may inquire how is this stranger going to transact the business left to him. We remember, however, the old saying, that it “ is better to have the d-----1 we know than the d-----1 we don’t know.” It is now too late to complain: the Old Year has gone. Good-bye, Old Year! you shall never return, and we hail with joy the appearance of the New Year. Beautiful and charming New Year, thou art welcome—a thousand times welcome! Thou art indeed more charming, more lovely than any of thy predecessors; and although the frost and snow are on your brow, your bearing is noble and majestic. Whence comest thou? Are you from a beautiful region far away beyond the sea—a fair land; or from some fairy isle, the abode of nymphs and of loveliness; or have you come
+“ From where the sirens dwell, beyond the sea. Whose song is death, and makes destraction please?”
+or have you descended from the high heavens ?
+To all these questions the New Year gives no answer, but only says, with grave, majestic bearing: “I have come to do the will of Him that sent me. I have come to take and to give. All you who now live, take care and be ready, for you know not when I may lay hands upon you and take you out of this world. Be prepared, then, for you know not the moment you may be called. I will call upon many: you may be among them. You,have only to ook back, on my predecessor and see how many he snatched away; you have escaped him, but you may not escape me. Beware, then, and take counsel of me. I will close the grave over many; look to yourself and be prepared. I too will leave my mark; but I wish to warn you, so that you may be ready when I call upon you.”
+Thus spoke in his inaugural address the New Year, 1879.
+C.
+I
+296	THE NOTRE DAME SCHOLASTIC.
+Two Gems of Art in the Cathedral of Munster.
+There is hardly any object which has so much occupied the genius of Christian art as the sorrowful Mother gazing at the corpse of her Divine Son after His descent from the Cross. It seemed that the highest standard of representation was reached in the PieU images of Michael Angelo in Saint Peter’s, and of Bernini in the Literan Basilica, at Rome; and yet these works of art have at least been equalled by an artist of our own day, Theodore William Achterman, still living in the Eternal City. The assertion that Achterman has rivalled the great Buonarotti will not be considered ah exaggeration when we consider that the artist is a real saint, as well as a true genius who, at a time of life when others begin to reap the fruit of their youthful studies, began to prepare himself for a career which should render his name immortal. The son of an humble carpenter in the city of Mhnster, Westphalia, Theodore William Achterman was born in 1799. Destined to become the heir of his uncle, a well-to-do farmer who lived in childless wedlock, Achterman was, until drafted into the Prussian army, and a short time afterwards, a husbandman. After his uncle’s death, his aunt, anxious to secure the farm (which in Westphalia always goes to the oldest male heir in the family) for one of her own relatives, our hero, then about twenty-seven years of age, apprenticed himself to his father, and began to learn the carpenter trade; but it was not long before the father discovered that his son was his superior in ornamental carving.
+After being about three years in his father’s workshop, it happened that General von Horn, in 1830, celebrated the golden jubilee of his entrance into the Prussian army. The city of Miinster presented the old warrior with two large casks of precious wine, and Achterman, who had already become famous as a carver, was requested to finish the ornamental work at the bottom of the casks. The carving was so well done that the civil Governor of Westphalia, Herr von Vinke, interested himself in having Achterman sent to Berlin to complete his artistic studies, where during two years he received slight aid from the Government. The Fine-Art Academy in Berlin, then under the direction of Professors Ranch and Schadow, was open only to graduates of the Prussian higher colleges, and ranked in this respect with a German University. William Achterman, the poor peasant, could not even read or write; it was only the influence of Mr. von Vinke, and the attention his carvings had attracted, that caused him to be received. Staatsrath Schmedding, a countryman of his, took him into his house and instructed him in the elementary branches of a common school. After two years the aid from the Government ceased, Since Achterman would not give up “ his Westphalian notions of the Catholic religion.” In vain did the Government officials try to make him relinquish Catholicism. For weeks, dry bread and water were his only sustenance; but he remained steadfast The trustees of the Catholic church at Berlin allowed him the free use of the bellows’ chamber, near the church organ, for his studio. Here he executed several orders, which enabled him to obtain money to travel to Rome.
+Arriving at the Eternal City, Achterman found ready orders for his works, but before he could finish and sell them his little savings became exhausted. He was forced to contract debts; but even this alternative was soon denied him, his creditors discovering his inability to pay them.
+Once he had not eaten a morsel for three days; he then received a few coppers, with which he bought a loaf of bread. This, and the water of the Fontana de Trevi, was all that he had for his meals that day. The day following, Sunday, he asked assistance from God in earnest prayer. He then met two young countrymen of his, who kindly asked him to shoy them to his studio, for they had heard much of him and his works of art. When Achterman had shown them the work he had done, his young visitors, who were only journeymen mechanics, said that such a famous artist as he “must have feathered his nest well.” Then Achterman said: “When I was only a farm-hand I had always a few pennies in my pocket; in the army my pay and rations were enough for me, and as a carpenter I had what I needed, with a little over; but now, as an artist— ” and the tears welled to bis eyes. He then told them how he was situated, and how on the following day he was to meet a note of $100 without a cent in his pocket. The two young mechanics consulted together, and generously offered him their little earnings, which more than covered his most pressing debts. Shortly afterwards, Princess Aldobrandini, a great connoisseur in art, purchased one of his works, and, in a generous mood, one roll of gold after another was taken out of her purse and laid on the artist’s table.
+Now the hard times of our hero were over. ■ He could pay all his creditors, and have a sufficient sum left to be above want for a considerable time. Almost at the same time he received an order from the Bishop of Munster for two groups, destined to make his name immortal in the catalogue of artists. It was a Pietd, and the “ Taking from the Cross.” We will give here a description of both. The PietS (our Blessed Lady supporting the dead Body of Christ) has been a favorite theme for many artists, both sculptors and painters. In the Piet st groups of Michael Angelo at Saint Peter’s, and of Bernini in the Lateran, the summit of art seemed to have been reached, and yet Achterman has, at least, equalled them. With artistic perception, be chose a new situation for the Body of our Lord; not, like other artists, placing it on the lap of the Divine Mother, or representing the Mother gazing at the Sacred Body laid on a winding-sheet. Achterman’s group is more sublime. Not seated,but kneeling, has the Virgin Mother waited for the moment when the Body should be taken down from the Cross. Slightly bent forward, the Blessed Virgin has one knee on the ground, the other being upright, supporting the upper part of the Sacred Body. The Head is supported"by her right hand, whilst the left upholds one hand of our Blessed Lord. It is to be regretted that the sombre light of the old Westphalian Catliedral does not show the magnificence of this colossal group to its full advantage. A copy in plaster, in the graveyardchapel of the German Campo Santo, shows the traits in a far better light, and here the effect is sublime and overwhelming. Every muscle in the features of the Virgin betrays the.most deeply and keenly felt anguish of the Mother Most Sorrowful, whilst the face of the dead Son bears the marks of the terrible agony, like the shadows cast by clouds passing overhead after a heavy thunderstorm has ceased raging. Full of deep compassion, the eyes of the visitor wander from the image of the Mother to that of the Son; louder than any wail of anguish is the mute sorrow speaking from these statues to our soul. The writer himself had often the happiness to kneel before the splendid original group, made of spotless white marble,
+THE NOTRE DAME SCHOLASTIC.	297
+how in the Cathedral of Milnster. The entire group seems to be clad in miraculous calmness, rendering it a real image of devotion, before which even the boldest scoffer would bend his knee, asking, perhaps, the Refuge of Sinners to intercede for him with the God-Man whose lifeless body is here represented resting on her knee. We feel as if Mary were presenting to us the Hand of her Son, to kiss the wounds inflicted for us, sinners, by the nails of the savage executioners. She invites us to gaze upon our -Redeemer’s cold, white features, to learn what her Son has suffered for our sake. She herself, all alone in the boundless woe of her maternal heart, gazes with a steady yet sad look upon the features of the Saviour. The fountain of tears has been dried up, as if scorched in the furnace of deep sorrow, piercing her soul with a sevenfold sword. Even her breathing seems to have ceased under the weight of her torments. Not seated, but kneeling, she holds the Sacred Body in her arms in holy devotion—a situation indeed worthy of the Qieen of Martyrs. Two hundred years have elapsed since an artist’s chisel had produced a similar image, and now no less than twelve reproductions in marble have been made by our artist to satisfy the demands of his friends.
+The second woik ordered by the B’shop of Milnster was the “ Descent from the Cross.” Hewn out of a single block of Carrara marble, this splendid group comprises five figures in more than life-size. L mg hours of earnest prayerdid it take the artist before he could find the true inspiration; but one fine autumn day, after returning from a walk, he once more went to work on the unfinished pattern, and at once conceived the true idea. Elated by his inspiration, he worked all night, without feeling the hast fatigue, and in the morning he could look with satisfaction upon the finished model. He now went to Carrara, to select a fitting marble block, and in a comparatively short time the work was completed. All Rome was delighted with the product of the German artist. Even Pope Pius IX, of saintly memory, honored the master by a visit, praising his work in the highest terms and presenting the ariist with a grand gold medal. The group was then packed in a strong box, and shipped by rail to Leghorn, but it took a long time before a suitable vessel could be found to convey it by sea to Rotterdam, Holland. At last, a Dutch merchantman, large enough to take the heavy cargo into its lowest hold, was found. When hoisting the enormous and weighty chest, one of the ropes of the derrick broke, and the heavy load fell side way towards the wall of the wharf. Achterman nearly fainted, but at once all the workmen, as if by a spontaneous inspiration, chanted the Litany of the Blessed Virgin. Achterman himself sang the sacred words, the tears streaming from his eyes. When new ropes had been procured it was found that an escape had been furnished by an opening of the wall, without which the heavy mass would have fallen upon the vessel and scuttled it instantly. While the Litany was chanting, one of the workmen mounted the heavy chest, and wound the new ropes around it. The derrick was then started again. Slowly rose the heavy load, then it sank down regularly, and when the last strains of the Agnus Dei were dying away on the morning air, the chest lay safe in the ship’s hold. The captain then asked what were the contents of the box, and when he learned that it was the “ Descent from the Cross,” his Protestant bigotry got the better of his good breeding, and he exclaimed: “ Had I known that, I would never have allowed the idol to be
+। brought into my ship!” Achterman could not pass this over in silence, and a sharp religious controversy arose,, in which the skipper, who was, after all, an honest but bluff kind of a fellow, like a great many of his class, was compelled to lower his flag, being but poorly instructed in his own creed. The ship sailed a few days afterwards, and Achterman travelled by land to Milnster, his native city. When the ship was due at the harbor of Rotterdam,, he went there, only to hear the appalling news that two of the ships that had sailed at that time from Leghorn had foundered in a heavy gale in the Mediterranean, and that no news had been received of the third vessel, carrying our artist’s works. Every day he asked for news, and in about a fortnight learned that the ship was safe, but had lost its foremast.
+A week afterwards it landed safely at Rotterdam. When the skipper saw the master, he, overcome with joy, embraced him, crying: “But for your masterpiece my ship would have been lost; it would have been at the mercy of the waves had not the ponderous weight of the chest kept my small sailing craft on a balanced keel. The Madonna has saved us, and the vow I made at the moment when, death was staring us in the face, I will accomplish at once. I will become a Catholic.” We need not say how rejoiced the pious master was at this good news.
+It is to be regretted that as yet no suitable place can be found in the old Cathedral to show all the features of this matchless group to advantage, and will not until the ancient building is thoroughly rebuilt, which will be some time in the future. A copy in plaster placed in the Borghese Chapel of the Ghurch of the Trinity dei Monti, at Rome, sets it off in a more favorable light, especially when the evening sun throws its beautiful tints on the matchless group. The Body of our Lord is the centre figure, around which the others are grouped in their sorrow. Mary, receiving the Body of the Redeemer, supports with a marvellous tenderness the head of her beloved Son, her forehead slightly bent towards the Divine countenance. At the Redeemer’s feet we see Mary Magdalen, the model of penitents, humbly kneeling, anxious to receive the drops • dripping from the Sacred Wounds into her dishevelled tresses—once perhaps, alas! the cause of her sins. A holy confidence is depicted in her features, for she knows that those sins have been blotted out by our Saviour’s passion and death. Saint John, the beloved disciple, supports the lower part of the Body, stooping forward in deep-felt compassion and impressing the Divine features of his Master’s Face in indelible characters upon his own heart. Joseph of Arimathea, the last who, boldly confessing himself our Lord’s disciple, had asked and obtained the Body from Pilate, supports the upper part of the Sacred Body. Thus we see the Divine Lamb, slain and sacrificed for our sins—“ because He so willed it’’—surrounded by perfect love in the persons of Mary and John, by ardent hope in Mary Magdalen, and by a determined faith in'Joseph of Arimathea.
+We regret that want of space does not permit a description of other productions from the hand of our saintly artist. We only remark that not the most tempting offers made by several modern Maecenases could induce him to try his chisel on subjects that were not truly religious. His pecuniary resources had assumed a more favorable aspect. But he thought it fit that an artist like himself, whose heavenly inspirations had chiefly the ever-spotless Virgin for their origin and object, should remain, like
+298
+THE NOTRE DAME SCHOLASTIC.
+her, in virginity, to which he bound himself by a solemn vow. Thus he was enabled to devote the means bestowed on him by Divine Providence to a good end. The Archconfraternity of the Campo Santo, of which he is an ardent member since his first visit to Pome, received from him a splendid brass crucifix, the Body being life-size, and a copy of the original marble cross made by him for the royal tomb of the Prussian sovereigns at Charlottenburg. At the foot of the Cross in the Campo Santo at Rome, the master has selected his last resting-place on this earth. Accustomed to spend the warm season in a little mountain village, Rocca di Papa, a suburb of Rome, he was grieved to behold the neglected condition of its inhabitants. Having obtained permission from the parish priest, he rebuilt an old dilapidated chapel, added to it a clergyman’s residence, and established a fund for the support of a priest who, by virtue of this foundation, is obliged to perform the Divine Service in the chapel, and teach the poor children the Catechism and the rudiments of an elementary education. He also strove to improve the material condition of the people, setting aside a legacy of which the interest in the course of time is destined to afford a dowry for two poor girls every year.
+William Achterman is exclusively a Christian artist, a true Catholic as well in his daily life as in all his works. His humble, childlike and modest demeanor has been unaltered from the days of his youth. Seldom does a day pass that friends from the Fatherland, as well as from all parts of the world, do not visit his studio on the Piazza Barberini, and are delighted.alike with the matchless sculptures as well as the saintly master who created them. Although an octogenarian, Achterman still enjoys good health and vigor; his creative hand has not yet been palsied by old age, nor the fountain of his religious and artistical ideas dried up. While closing our sketch, with the desire that Heaven may preserve the life of the venerable master for many years, the suggestion may not be out of place that not his countrymen alone, but the Catholics of the entire globe, should encourage him in his labor, and, wherever it can be done, support him by ordering masterpieces worthy of the House of God. Great men— and, above all, great men among Catholics—do not belong to their own nation alone, they belong to the entire Catholic Church; and when generations shall have passed away, Achterman’s name will stand side by side in history with those of the great Italian artists of the XVth and XVIth centuries; with a Leonardo da Vinci, a Raphael, and a Michael Angelo.
+The Choir of the Cincinnati College of Music.
+Not content with his grand orchestra in connection with the College of Music in Cincinnati, Mr. Theodore Thomas has issued an announcement of the organization of a “ choir ” for the College. The choir is to be formed in order to carry out Mr. Thomas’s plan—which is a broad one—of musical education. If this most remarkable of conductors can succeed, after practice, in making a chorus sing as he does in making an orchestra play, Cincinnati shall have musical attraction such as no city in the world can boast of.
+The following invitation, which we print for the benefit of those interested in music, has been issued by the College of Music, of which Mr. Thomas is Musical Director:
+“ In pursuance of the Musical Director’s original plan of
+education for the College of Music, it is proposed to establish a choir of one hundred or more mixed voices, the title of which shall be 'The Choir of the College of Music.’ This choir will be under the Musical Director’s personal supervision and leadership.
+“ The qualifications necessary in order to become a member of the choir are, first a good voice; next, some proficiency in sight-reading.
+“The terms of membership are $5 per year, payable strictly in advance.
+“The Choir will meet weekly for rehearsal, beginning Tuesday night, January 14th, at 7 30, in Dexter Hall, Music Hall Building. The Choir will be expected to sing in such concerts and at such times as the Director shall appoint.
+“ Punctual attendance will be required of every member. Inattendance will forfeit membership.
+“ At the rehearsals, the first part of the evening will be devoted to Chorus Class instruction, embracing ‘ Musical Notation,’ ‘The Interval System,’ ‘Sight Reading,’ and the ‘ Rudimentary Principles of Harmony.’ The remainder of the evening will be given to the study and practice of choral works of the great masters.
+“ Among the choral and orchestral works which will be taken up for study and performance will be Schubert’s ‘Grand Mass in E-flat,’ Verdi’s ‘Requiem,’ Handel’s ‘Hercules,’ selections from Beethoven’s “ Ruins of Athens,’ and Bach’s cantata, ‘Ein’ Feste Burg.’
+“The Choir is established by the Musical Director with the view of raising the standard of vocal and choral music; of teaching its members how to execute the most difficult music; also, howto best interpret musical compositions; and it is the intention from time to time ti produce these works in public concerts in connection with the Thomas Orchestra.
+“ The members of this Choir will.be considered students of the College, will be subject to its discipline, and will receive, for their better instruction and education, admittance to the private and public rehearsals, and to the concerts of the Orchestra, as well as to the Organ Concerts.
+“All persons desiring to join the ‘College Choir’ are invited to apply personally-at the office in Music Hall Building, or by letter, stating the part they sing.”
+The fact that Mr. Thomas considers so much instruction and practice necessary for the proper rendition of concert music from the masters,—and this a class of music with which most proficients are more or less familiar—should prove matter of reproach to those who grudge a little time for the practice of sacred music for our churches, for the temples of the Most High. Surely if so much is necessary for the proper understanding and rendering of concert music, even more should not be stinted on the music of such masters as Palestrina and other classic composers of sacred music.
+Scientific Notes.
+—Gen. G. K. Warren maintains that the Minnesota valley and the Mississippi valley have been formed since the deposition of the glacial drift, that the loess deposits extending up to Savannah are later than the last glacial drift, and that channels at the Des Moines rapids and river terraces in that vicinity are more recent than the loess.
+—At a late meeting of the Anthropological Institute in London, Mr. A. L. Lewis read a paper on the “ Evils Arising from the Use of Historical National Names as Scientfic Terms,” in which he argued that it is desirable to discon
+THIS NOTRE DAME SCHOLASTIC.
+299
+tinue the use of the political names of those peoples as ethnic names, and to employ others based on the physical characteristics of the individual.
+—Geneva Observatory will shortly receive a new equatorial telescope, constructed at the expense of Prof. E. Plantamour, who has been the director of the new observatory during the last forty years. The objective of the new telescope, ten inches in diameter and with a focal length of twelve feet one inch, comes from the hands of Merz, at Munich. This new instrument will be the more welcome, as at present the Geneva Observatory has only the old instruments of Gambey, mounted in 1833.
+—There is an almanac issued annually, in December, by the Chinese Board of Astronomy, and bestowed by a special act of imperial grace on the Coreans, Lewchewans, An-namites, and other tributaries. It contains, says Prof. Harrington, a section intended to be a practical guide in the common affairs of life. The poorer classes watch this part of the almanac, and marry, bury, and do other things only when it advises, and the better-educated people, it is thought, do not start on a journey or enter office except on favorable days.
+—“Jules Verne’s Voyage Round the World in Eighty Days,” says Galignani, “ has now been surpassed by Mr. Hars, American Consul at Alexandria, Egypt, who has done the journey in sixty-eight days It took him twenty days to go from Alexandria to San Francisco, by Brindisi, Paris, London, Liverpool, and New York; twenty days to go from San Francisco to Yokohama; six days to reach Hong Kong, ten days to travel from the latter place to Ceylon, and twelve days more to go from Ceylon to Suez, when he got back to Alexandria in a very few days.”
+—A. M. Bailey, of Paris, has invented an electric-spark pen which possesses some points of interest. If a sheet of thin paper is attached to a plate of copper or zinc, it is stated that an engraving mty be made with extraordinary facility by means of this pen. If one of the poles of a Ruhmkorff machine is attached to the plate and the other to the upper end of the pen, the current will run through, and in drawing the paper is perforated. When the drawing is finished, ink is laid on with an ordinary roller and the greasy fluid penetrates through the holes. The plate is tnen plunged in water, which detaches the paper, and it is ready for immersion in the acid.
+Art, Music and Literature.
+—The “ Almanack de Gotha ” for 1879 has just been published. This is its 116th year.
+—A new book on the “ Renaissance of Art in France,” by Mrs. Pattison, is in the press.
+—The Dnke of Argyll’s new book on the Eastern question will be out early in January.
+—L. Knaus’ “ Children at Play,” the chief work in the celebrated Oclzelt collection recently sold in Vienna, brought the sum of 17,000 florins (about §8,000), and will soon be in New York.
+—At last Spain, is coming forward with a complete translation of Shakespeare. The translator is the Marquis de los Hermanns, Don Matias de Velasco y Rogas. ^Three volumes are ready: Vol. I, “Sonetos y Poemas”; Vol. II, “El Mercador de Venecia"; Vol. Ill, “Julieta y Romeo.” Volumes IV, V, and VI, now in the press, will contain “Otelo,” “El Sueao de una Noche de Verano,” and “Hamlet.”
+—Drawings and sketches by Cruikshank were lately sold in London at moderate prices. A collection comprising 165 lots went for about §1,800, and included many humorous studies dating from the years when the artist was at the-height of his powers, besides several rare etchings and engravings. Among them were some of the original illustrations to “ Windsor Castle,” “ The Court of Queen Anne,” and “The Comic Almanack.”
+—The most salable books of the day are not the original works, but the collections or reprints of standard poetry and prose which have stood the test of time. As illustration, it is said that over eighty thousand copies of Bryant’s
+“Library of Poetry and Song” have been sold; twenty thousand of Foster’s “ Cyclop® Jia of Illustrations,” a large collection of elegant extracts; fifty thousand Bartlett’s “Familiar Quotations ’’; about the same number of Danaes “Household Poetry.”
+—Tbe Beaconsfield cartoons “from the collection of Mr. Punch ” have had a sale of nearly 106.000 copies, and the clear profit on them is estimated to have been between §15,000 and §20000. Mr. Punch has just published a similar collection relating to Gladstone and Bright, each volume containing forty cartoons. There are 100 in the Beaconsfield collection, but it is estimated that the number relating to Beaconsfield that have been published in the paper itself, first and last, reaches nearly 300.
+—Frank Leslie’s Chimney Corner got Joaquin Miller into serious trouble by reprinting from a London newspaper a copy of “Jeannette’s Hair” credited to the Poet of the Sierras. The fraud was, of course, instantly detected. Miles O’Reilly’s friends came to the rescue, and it was broadly intimated that Joaquin had attempted to deceive. The matter was afterwards cleared up to the satisfaction of everybody, except, perhaps, the editor of the Chimney Corner, who was neatly caught in an attempt to palm off a reprint as an original production.
+—Homer, Dr. Schliemann argues, can never have seen the Troy whose tragic fate he sings, because at his time and probably ages before his time, it was buried beneath the remains of debris. From Homer’s description, one is led to expect to find in excavations that Priam’s palace is a palace of polished stones, but the house found by Dr. Schliemann is built of unwrought stones joined with clay. In Homer’s time, public buildings, and probably royal mansions, were built of polished stones, so that he naturally attributed the same architecture to the house of Priam, using the poet’s license.
+—We are glad to learn from a letter to a common friend that the health of the popular young author, Mr. John O’Kane Murray, which some months ago was anything but good, has now become thoroughly re-established. He slates that he has at present a large volume in press, and two in course of preparation. The Sadliers are about issuing a sixth edition of his “Popular History of the Church in the United States,” which only a year or two ago first made its appearance; and a still later work, “The Prose and Poetry of Ireland,” published by Peter F. Collier, of New York, has alreadi' reached its seventh edition. The fact that some twenty or thirty illustrations now embellish the latter work speaks well for the enterprise of the publisher. '
+Books and Periodicals.
+The Homeopathic Family Guide. For the Use of Twenty-eight Principal Remedies in Treatment of the More Simple Forms of Disease. By George E. Shipman, M. D. Together with Directions for the Treatment of Yellow Fever. By W. H. Holcombe, M. D. Eighth Edition. Chicago: The Western News Company. 1878.
+For all who have faith in homoeopathy, this work is all that could be desired. It is simple and plain in its treatment of diseases; and should it happen that there is no physician covenient to be called, it will serve to take his place in the emergency. For ourselves, we have no faith in homoeopathy as a separate school of medicine, but to the many believers in it we can recommend Dr. Shipman’s work.
+Emerald Gems. A Chaplet of Irish Fireside Tales, Historic, Domestic, and Legendary. Compiled from Approved Sources. Boston; Thomas B. Noonan & Co., 23 and 25 Boylston Street. 1879. Pp. 408.
+The compiler of this fine collection of Irish tales has exhibited taste and judgment in the selections made. Of the stories presented to the reader some are grave and mournful, others are light and humorous. The volume opens with the touching story of Deirdre, made famous now by the delicious poem of Dr. Joyce in the “No-Name Series.” The volume is well printed and elegantly bound. The publishers promise that if success attends them with the present collection of tales, they will issue similar volumes. We trust such may be the case in their present venture, and that those volumes to follow may be equally entertaining.
+300	THE NOTHE DAME SCHOLASTIC.
+Jfotre Dame, January 11, 1879.
+The attention of the Alumni of the University of Notre Dame, and others, is called to the fact that the NOTRE DAME SCHOLASTIC has now entered upon the twelfth year of its existence, and presents itself anew as a candidate for the favor and support of the many old friends that have heretofore lent it a helping hand.
+THE NOTRE DAME SCHOLASTIC contains: choice Poetry, Essays, and the current Art, Musical and Literary Gossip of the day.
+Editorials on questions of the day, as well as on subjects connected with the University of Notre Dame.
+Personal Gossip concerning the whereabouts and the success of former students.
+All the weekly local news of the University, including the names of those who have distinguished themselves during the week by their excellence in class and by their general good conduct.
+A weekly digest of the news at St. Mary’s Academy, Notre Dame, Ind.
+Students should take it; parents should take it; and, above all,
+Old Students should take it.
+Terms, S1.5O Per Annum, Postpaid.
+Address EDITOR NOTRE DAME SCHOLASTIC,
+Notre Dame, Indiana.
+The Scholastic.
+We trust that the friends of the Scholastic in all parts of the country will this coming year make a determined eff rt to increase our subscription list. We have, it is true, a large number of readers, but there should be just four times as many as there are. The subscription price is very low—too low for us to run the paper with any idea of making money out of it. Indeed the Scholastic was never published with any idea of making it the means of securing an income to Notre Dame. The utmost expected of it was to make it a means of advancement for our students in English literature, a weekly bulletin between the College and parents etc., and to pay expenses, without bringing in any great pecuniary profit. These expectations have, we think, been fully realized, and as our paper has gone on from year to year on its course we have been glad to be informed from various quarters that it had become a welcome visitor, not only to old students and their friends, but also to many who had never seen Notre Dame. The Scholastic has now been published for twelve years, and, its dress of type has become much the worse for wear, so we would like all our friends and well-wishers to co-operate with us in extending its circulation the present year, in order that we may be able to present it in an entirely new dress next year.
+Although we are by no means ashamed of our printing, we desire to do better. If we can procure subscribers enough to make our paper a source of revenue, that revenue will be invested in new type, and then we can present to our readers a paper of the typography of which we and they may justly be proud.
+All the old students of Notre Dame should' take the Scholastic. It is peculiarly theirs. By means of it they are enabled-to learn of the career in the world of those with whom they associated during many of the happiest
+days of their lives. By means of It they are kept posted on all changes and improvements taking place at that place which was to them home for many years. By it they learn of +he prosperity of the Societies at whose meetings they spent many a profitable hour. We know that everyone who has spent any time at Notre Dame is interested' in her welfare, for there is no one connected with the College who is not, when met by an old student, plied with questions as to the officers, the old students, the Societies, • and indeed as to everything here, All these questions they may find answered weekly in our columns; and, such being the case, they ought to take the Scholastic. If the old students will interest themselves in the matter, our subscription list could be so largely increased as to justify us in purchasing a new dress of type and making a better ap. pearance. Will they do it?
+Time and Its Employment.
+Man is a wonderful creation; he is wonderful in his nature, wonderful in his individuality. He is mortal and contingent; and as such is as a “wind that goeth and re-turneth not.” He has been created for a noble end—to be placed, through the superabundant goodness of God, after his mortal career is over, in a state not due his nature—in	J
+the possession of the »ummum bonum. But man has been endowed with liberty; he is a free agent, capable of doing good or evil, and consequently responsible to authority for the observance of those laws that govern him as a moral,	,
+reasonable, and social being. Those laws come from God,	4,
+either directly or indirectly, and have His sanction; if man observes them, he will be rewarded; if he violates them, punishment awaits him in proportion to his guilt.
+This, after all, is nothing but order, and order is God.
+But we know that the nature of man in his fallen state is prone to evil; he stands in need of God’s grace to do anything meritorous for the life to come; he must constantly keep a guard over all his senses, and a careful watch on all his words and actions. His life here below is but short, and, though short, much must be accomplished in it; hence it becomes of primary importance for him to know	!
+and understand the value of that time which goes to make	v
+his career ou earth, so that it may be well employed.
+“All things have their season, and in their times all things pass under heaven.” Wherefore it is good at the	,
+commencement of the new year for each and every one	i
+to reflect and consider that time has not been given us by	I
+God to be wasted, or spent in idleness. Indeed we, as	I
+reasonable and thinking beings, are reminded by the ter-	W
+mination of one year and the commencement of another	y
+that time is the greatest gift that God in His goodness has bestowed upon us, and consequently should be well employed—employed to the advancement and promotion of our temporal and eternal happiness.
+Philosophers are free to think and dispute about the nature of this little word, time, about what it is in general, etc.; but not only these, but also all right-thinking men unanimously agree that time is a most precious gift— something lavished upon us by Him in whom everything that is good has its centre, its source; and this gift is	j
+given us, not to be despised or spent foolishly, but rather to use it well, to learn to understand its value as soon as	‘i
+we are capable of so doing, so that youth may be a prep-	.1
+aration for manhood, manhood for old age, and old age for heaven.- In youth the foundation of life is laid, whether it	* |
+THE NOTRE DAME SCHOLASTIC.	301
+be a good one or a bad one; if a good one, the serious duties of after-life will be well discharged; if a bad one, those duties are dealt with in an opposite manner. Hence it is that when young we are constantly admonished by those placed over us to learn to know and appreciate the value of time; to know it, so that we may employ it to the best advantage, and thus lay the foundation of a good and virtuous life—a life that is not to be easily blasted or blown around by every wind or breeze, but one that will stand firm and immovable on the solid foundation laid in youthful days. But this is not the only advice or admonition that is to be given to the young. There is a time for everything, as all things cannot be done at once. The present season, then, is a fitting time for those charged with the care or instruction of youth to implant in their tender minds the real value of time and the importance of spending it well. It is too short to be wasted in idleness, it is too precious to be thrown at our feet. When this notion takes root in the minds of students, their college career becomes bright and prosperous: advancement or progress i.u studies is sure, and it is also sure that when the time r-omes for their quitting the walls of their Alma fifater, they will go forth into the world men able to acquit themselves of the employment for which they had during their college days prepared themselves, to the great satisfaction of all that may be interested in them.
+There is no time better fitted for coming to a proper understanding of the manner in which it should be spent than at the commencement of a new year, and the reason of this seems to be in accordance to the laws that govern our nature. One part or season of the year is adapted to one thing that pertains to our well-being under one respect, another to another. Time, then, in so far as its employment is concerned, must be viewed in its moral aspects, in its relation to human existence, and from this arise its value and worth. Mau, as it were, is contained in time; he is surrounded by it, and without it he could not be what he is. Its value cannot be over estimated, its importance is primary, and its essentiality is evident. The moment one is born into the world, time becomes his; and the moment he quits his earthly home, time is lost to him forever, and eternity begins to him. It is in this world, then, that time is ours. We can use it to merit or demerit, to bring to us hereafter—and perhaps in this world, too,—joy or pain, praise or blame; but once it has slipped our grasp, once it has flown, we become incapable of using it to our own advantage or disadvantage. The proper use of this most excellent gift should be the end and aim of all. The poet says:
+“Seize, mortal, seize the transient hour;
+Improve each moment as it flies.”
+Time flies; it will wait for no man. The past is no more ours; neither is the future ours; and the present—what is it ? A moment—that portion of time which corresponds to our present thought. How much time, then, is ours ? But we should consider that it is not the length of time that makes it valuable: one hour may be worth a year; one moment worth a whole lifetime—as it is capable of changing our hearts, of putting us on the straight path of rectitude, of effecting our destiny. It is not by the length, breadth, or thickness that time is measured, in re. gard to its value; each moment is in itself of infinite value, because in this short period of time the possession of God maybe merited. A moment, then, is of priceless value; it can put us in the possession of God Himself, greater
+than whom cannot be thought of or imagined. Hence our-soul, large as it may be in its grasp, though it may encompass ten thousand worlds like our own, is brought to a stand-still in its desires; they are satiated the moment it beholds its God in His glorious kingdom; and all this can be done in one moment of well-spent time. What a thought for reflection!
+Now, since life is short, and we cannot afford to run in debt with time, we should improve each moment as it flits along; and it is to the students here that these admonitions are especially directed, for the very moment they pass within those walls they should know the object of their coming, and consequently employ their time to the best advantage. This is a duty which they owe first of all to God, afterwards to their parents, and to society. They enter college in order to prepare themselves, by a thorough course of secular and religious instruction, for the proper discharge of certain duties in after-life; to fit themselves to take an active part in human affairs as becomes men and Christians. Now this cannot be very well accomplished if close application is not given to studies during college days. This is the first point to be kept in view-; the others will follow of themselves. It is, therefore, at the beginning of the new year that each and every student within these walls should take resolutions to make the best use of the year that is before him. If this be done, much can be accomplished, and we may hope for better results than even those of the year that has gone by. - Close application to studies, and a desire to make progress in them, should be the aim of the students of Notre Dame; so that when another year has passed away, it will be a source of pleasure to each and everyone of them to be able to say in all sincerity: “I have passed a happy year. I have employed my time well, and by close application to study have made marked progress, and therefore have done my duty.”
+Personal.
+—Prof. Paul Broder is in business at Beloit, Wis.
+—M. H. Keeley, of ’72, is practicing law at Faribault, Minn. •
+—Thomas F. Gallagher, of ’76, is practicing law at Lynn, Mass.
+—Daniel M. M. Collins, of ’59, is practicing law in Philadelphia, Pa.	.
+—Mr. Dennis O’Connor and son, of Chicago, visited Notre Dame on the 6th.
+-—Rev. E. M. O’Callahan, of ’56, is pastor of St. Thomas’s
+Church, Cleveland, Ohio. •
+—John D. O'Connor (Commercial), of ’61, is in business at 54 West 13th Street, Chicago, Ill.
+—J. C. Dunlap, of ’65, visited Notre Dame on the 7th.
+Mr. Dunlap is in the best of health.	.
+—David Buest (Commercial), of ’59, is freight agent of the Pennsylvania Central R. R., Philadelphia, Pa.-
+—We have been told that Rev. Thomas Vagnier will shortly return to Notre Dame to remain.
+—Mr. P. L. Garrity, of ’58, visited Notre Dame on the '/ 7th, bringing his two sons back to class after the holidays.
+—We fear that those young gentlemen who promised us personals on their return from their holiday vacation, have forgotten their promise.
+—A. friend visiting Chicago during the holidays informs us that Harry J. Fitzgibbons (Commercial), of’65, is doing well. He is still in the employ of O'Neill, on State Street.
+—Bro. Leander, head prefect in the Junior Department.
+302
+THE NOitTRE DAME SCHOLASTIC.
+has been laid up in the Infirmary with sickness for the past week. Bro. Alexander has been prefecting in his place.
+—There were a number of friends of Notre Dame here during the holidays, but as we did not chance to meet them, and as they did not register, we were unable to get their names for publication.
+—From the Ohio Eagle we learn that Hon. John D. McCormick, of ’73, will be a candidate for Mayor of Lancaster, Ohio. Mr. McCormick holds that office at present, and has given general satisfaction to the people.
+—Among the visitors at Noire Dame lately were Mr. J. Stewart, Lancaster, Pa.; Rev. F. X. Shnlck. Chicago, Ill.; Mrs. J. R. Vanatta, Valparaiso, Ind.; V. E. Voisinet, Elkhart, Ind., and John B. Koonlz, Union City, Ind.
+—We return thanks to Mr. George H. Cochrane, who spent the holidays at home, for an invitation to attend the third reception of the Mianon Club at the residence of Mr. C. F. Periolat, No. 387 W. Adams St., Chicago, on the evening of the 8th. Unable to accept the invitation, we return thanks to Mr. Cochrane for his remembrance. Many of the members of the Mignon Club were students of Notre Dame. We are glad to see that they keep up their old college acquaintance.
+Local Items.
+—The St Cecilians are holding spirited meetings.
+•—All the societies are now in good working order. i •—The ice-cutters have been busy during the past week? —What day has been fixed for the Philodemics’ Entertainment?
+—Rev. Father Zahm will lecture next Thursday evening in Phelan Hall.
+—If plenty of snow is good for the crops, this year they\ ought to be splendid.
+—This has been the coldest winter known at Notrev Dame for many years.
+—The Bulletins for January will not be made out until the last week of the month.
+—The Scholastic Almanac has been very neatly gotten up this year. The price is 25 cts.
+—We have not yet learned what play the Thespians will give on the 22d of February.	'
+—On the Feast of the Epiphany, Solemn High Mass was sung by Rev. L. J. L’Etourneau.
+—Mr. Johnlnderrieden,of Chicago, has given §5 towards building the Chapel of the Sacred Heart.	I
+—The ice on the lakes is eighteen inches thick. There is not much danger of any skater breaking through it.
+—Remember, the Examinations take place the last week of this month. There is not much time left: make good use of it.
+—In addition to skating, the usual in-door amusements occupy the recreations of the students of the Junior Department.
+—The Philopatrians will present the “Prince of Portage Prairie ” to the public in Washington Hall in the cour se of a few weeks.
+—Vespers to morrow are of the Octave of the Epiphany, page 78 of the Vesperal. In the morning the Afissa Parvu-lorum will be sung.
+—We have heard it said that the bi-weekly lectures on* the “ Catechism," in the Junior Department, will be given by Rev. J. AL Toohey.
+—The room of the St. Cecilians will be very fine when the work on it shall have been completed. It is undergoing a thorough renovation.
+—The weather-prophets are predicting a cold, cold winter. Good! as these prophecies generally fail, we have hopes of the weather moderating.
+—We learn that on Easter Sunday the refectorian of the _______________________ _____________ ___________
+Junior Department will do the handsome thing to the /did was listened to with unflagging attention by all. Of table kept in best order from the present time up to Easier, course nothing ordinary is expected of the genial Profes-
+—Rev. M. P. Fallize was raised to the priesthood in Fort Wayne last week, Rt. Rev. Dr. Dwenger officiating. Rev. Father Fallize sang his first High Mass last Sunday.
+—At a regular meeting of the Thespian Association held last Saturday evening Messrs. A. Hertzog, J. P. Hagan, J. J. Quinn, J. P. Quinn and A. J. Burger delivered declamations.
+—Prof. W. Ivers desires to express to the members of his Composition and Arithmetic Classes (Juniors) his sincere thanks for the very acceptable Christmas “box” presented by them.
+—Owing to circumstances over which they have no control, the writers for the Scholastic will not have their “ Carving of a Turkey ” on the Feast of St. Francis de Sales this year.
+i —Prof. Tong gave an excellent banquet, to the members of the Law Class at his residence in South Bend a few days ago. All the members of the class speak of it as a recherche affair.
+—Everyone able to furnish us with personals is requested to send them in. After spending the holidays among their friends, the students ought certainly to be able to furnish a large number.
+—The Librarian of the College Library is indebted to Henry W. Howgate, U. 8. C., for a copy of his “Polar Colonization, a Memorial to Congress,” and “Action of Scientific and Commercial Associations.”
+—Quite a- number of students wTho spent their holidays at home declare that they are sorry they did not remain at Notre Dame, now that they learn there was such a gen-eral good time here during Christmas week.
+. —The 15 h regular meeting of the St. S’anislaus Philo-Apatrian Society was held January 4lh. The following dec-aimed: Masters M'rgenthcim, French, Guthrie, Manning, C. Rei.z, J. S. O'Donnell, Perley, and others.
+—A meeting of the St. Edward’s Literary Society was jheld on the Sih of January. The criticism of the preceding meeting was read by Mr. Donahoe. In the debate speeches were made by Messrs. Haley and Spangler.
+—A number of students were on the train on the M. C. R. R., which ran into a snow bank between Niles and S >nth Bend. They were unable to make their way to Notre Dame, and were forced to spend several days in Niles.
+—A large and disastrous fire occurred Christmas Eve at S6uth Bend. Tne row of buildings in which Gillen kept /nis restauiant was burned to the ground. We are sorry to say that T. A. Daily, of ’74, lost all his personal, property. •
+~The 16 h regular meeting of the St. Cecilia Philoma-! inean Association was held January 3d. After various ^reports were considered, Master Z ihm declaimed. The de-
+'bate was postponed on account of the absence of.some of the members.
+—Every student should purchase a Scholastic Almanac, were it only for the purpose of showing his regard for the compiler, to whom every student that has attended class at Notre Dame for the past twenty years is under some obligation.
+। —Very Rev. Father General received as a New Year’s \gift from two of his Minims $10 for the Chapel of the "Sacred Heart. Tne donors, J. J. Gordon, Cairo, Ill., and J. B. Inderrieden, Chicago, Ill., have the thanks of Very Rev.- Father General.
+/^-Mr. Condon, the tonsorial artist, gives general satisfaction to all his customers at Notre Dame. Although in ''former years there was always some growling at the work of this kind done by the mau employed, we have as yet failed to hear a complaint this scholastic year.
+—Mr. C. Polack, whose advertisement may be found in another column, was burned out in the big fire on Christ-ma/ Eve in South Bend. He has, however, opened out /gain just across the alley from Knoblock’s store, and op-
+posite Condon’s, the barber. Anyone wanting a first-class cigar should give him a call.
+—Prof. Stace lectured last Thursday evening in Phelan Hall to a fine audience. His lecture was on “Pain,”
+course nothing ordinary is expected of the genial Profes-
+THE NOTRE DAME SCHOLASTIC.	303
+sor, and on this evening no one was disappointed; be fur-.nished a grand intellectual treat long to be remembered.
+—At the beginning of the year the refectorian of the Senior Department announced to the young gentlemen that during the Cnristmas holidays he would do the handsome thing for that table which should be kept in best order. Last Monday a huge, firmly frosted cake adorned the table presided over by Bro. Emilius, and occupied by Messrs. A. B. Congar, S. Spalding, S. Terry, J Herman, P. Larkin, W. Carpenter, R. O’Brien and D. Coddington.
+—Of the many Guides and Seed and Plant Catalogues sent by our seedsmen and nurserymen, and that are doing so much to inform the people and beautify and enrich our country, none are so beautiful, none so instructive as Vick's Floral Guide. Its paper is the choicest, its illustrations handsome, and given by the hundred, while its colored plate is a’gem. This work, although costing but five cents, is handsome enough for a gift book, or a place on the parlor table. Published by James Vick, Rochester, New York.
+—The severe weather, with its frost and snow, besides -giving us something of a cold, has kept from us some of the most welcome visitors to our office. Among them are The Pilot, The Catholic Times, The Catholic Review, McGee's Illustrated Weekly, The Tablet, The Catholic Herald, and others. We don’t see how it happens, but the Irish-American has managed to come to us on time right aloug. All the other papers published in New York city have been late. We have not received the Daily Sun, of New York, since the first of January.
+—The members of the Elocution Class of the Minim De partment held a meeting last Wednesday evening for the purpose of organizing themselves into a literary society. After a few remarks had been made on the Exhibition lately given by the class, the organization was begun. It was unanimously agreed upon that the Society be called the Sorin Literary and Dramatic Society, in honor of their beloved and venerated patron, Very Rev. Father General. An election of officers then took place, with the following result: Director, Very Rev. E. Sorin, C. S. C.; AssistantDirector, Rev.T.E. Walsh, C. S. C.; President, Mr. T. McNamara, C. S. C.; Promoter, Bro. Albert, C. S. C.; 1st VicePresident, A. Coghlin; 2d Vice-President, W. McDevitt; Secretary, W. Coghlin; Treasurer, F. Campau; 1st Monitor, W. Rheinhardt; 2d Monitor, 0. McGrath; 1st Censor, G. Rhodius; 2d Censor, N. Nelson; 3d Censor, H. McD m-ald; Librarian, Jas. Courtney; Sergeant-at-arms, J. Gordon; and Marshal, C. Garrick. At present the Society has nineteen members.
+Obituary.
+Died on Sunday evening, January 5th, Anna Louisa, daughter of Prof. T. E. Howard, aged three months and twentj- days.
+Prof. Howard has the profound sympathy of all at Notre Dame, Professors and students, in his loss, and this sympathy is shared by everybody who knows him.
+k RoH of Honor.
+[The following are the names of those students who during the past week have by their exemplary conduct given satisfaction to all the members of the Faculty.]
+SENIOR DEPARTMENT.
+W. H. Arnold, R. M. Anderson, J. F. Arent z, J. B. Berteling, James P. Brice, J. M. Byrne, J. G. Baker, M. T. Burns, T. J. Burns, J. J. Coleman, A. B. Congar, G. P. Cassidy, Thos. F. Conlan, Wm. Connolly, C. J. Clarke, F. W. Cavanaugh, J. M. Carroll, E. Calkins, j. H. Delaney, P. J. Dougherty, E. J. Dempsey, L. J. Evers, M. English, A. J. Hertzog, P. J. Hagan, M. J. Hogan, T. Harrison, C. W. Hickerson, Louis Horn, J. Q. Johnson, U. E. Keenan, F. Keller, M. Laughlin, P. B. Larkin, A. A. Lent, W. J. Murphy, Thos. Mackey, M. J. McCue, J. B. McGrath, M. J. McEniry, J. J. MeErlain, W. B. McGorrisk, B. P. Mayer, Wm. O’Brien, R. C. O’Brien, L. N. Proctor, Jas. J. Qninn, Wm. Ryan, M. Reilly, T. 3. Summers, T. W. Simms, Jno. Simms, 8. T. Spalding, P. Shea, A. Scheiber, E. Seheiferle, O. Schaufet, John Thompson, S. P. Terry, P. H. Vogel, F. Williams, F. X. Wali, Wm. McGee, J. 3 Smith, J. F. Buchanan, J. Krost, D. Donohue.
+JUNIOR DEPARTMENT.
+J. W. Burns, J. Brady, C. Brinkman, F. Bloom, B. A Casey, J. C. Casey, G. C. Castanedo, H. E. Cannoli, G. H. Donnelly, J. W. Devitt, H. F. Devitt, J. M. Eisenhauer, R. L French, W. L. Foote, J. W. Guthrie, J. A. Gibbons, H. G. Guynn, F. H. Grever, Fred Glade, J. L. Halle, H. M. Hearly, J. A Kurz, J. A Lumley, E. Murphy, A. B. Mergentheim, W. J. McCarthy, R. E. McCarthy, J. F. Mug, J. L. Nelson. H. G. Niles, J. N. Osher, G. A. Orr, E. B. Piekenbrock, F. T. Pleins, F. B. Phillips, A P. Perley, A Rietz, W. Rietz, C. Rietz, A. S. Rock, K. L. Scanlan J. A. Seeder, G. A. Schnull, E. G. Sugg, F. C. Scheid, J. EL Schoby, C. P. Van Mourick, Max Wolf, F. E. Weisert, A F. Zahm, R. Emmet O’Connor.
+MINIM DEPARTMENT.
+A. M. Coghlin, F. X. Campau, C. M. Crowe, N. Nelson, F. P. Brady, P. Fitzgeraid, W. Coghlin, J. M. Courtney, U. L. Garrick" A. Hartrath, W. A. McDevitt, C. McGrath, J. McGrath, G. J. Rhodius, G. Tourtillotte, A. Chirhart, H. McDonald, G. Knight, G. Woodson, A. Van Mourick, W. Reinhardt, J. Gordon, H. Kitz, C. J. Weltv, E. Howard, H. Bachmann, A Reinboldt, E. Chirhart, L. J. Younz, C. Lons, J. Chaves. J. A. Crowe, T. McGrath, E. Earner, F. Parsons, F. Farrelly, J. S. Inderrieden, J. Garrity, A. Schmiickle, A. J. Campau, P. Campau, F. Garrity.
+Class Honors.
+[In the following list are given the names of those who have given entire satisfaction in all their clashes during the month past.]
+PREPARATORY COURSE.
+W. Connolly, R. Keenan, R. O’Brien, M. T. Burns, B. J. Claggett, W. H. Claggett, J. Krost, J. G. Baker, P. H. Vogel, J. J. MeErlain, C. Walsh, J. Shugrue, W. McGorrisk, T. W. Simms, F. Wall, W. J. Murphy, 8. Spalding, A. Scheiber, W. Arnold, M. McEniry, F. Williams, T. Hale, P.'Shea, K. L. Scanlan, J. Kurz, J. Nelson, B. Casey, J. G. Brady, J. O’Donnell, E. Murphy, G. Castanedo, J. M. Osher, F. Phillips, A. Zihm, W. Adams, J. W. Guthrie, J. Boose, H. Niles, D. Reidy, R. Williams, J. L. Morgan, C. Rietz, F. Glade, J. Halle, E. Gallagher, J. Gibbons, EL Fenner, G. Schnul1, A. Caren, P. Beriev, W*. Cannon, J. Devitt, H. Devitt, J. Mug, F. Scheid, C. Van Mourick. H. Gnynn, J. K. Schoby, J. Harrison. T. Mackey, W. O’Brien, F. Smith, E. Calkins, M. Foote, R. McCarthy, T. Arthur, J. H. Delaney.
+MINIM DEPARTMENT.
+A. Coghlin, 0. Farrelly, Farrelly, J. Gordon, H. McDona’d, F. X. Campau, J. M. Courtney, G. J. Rhodius, C. L. Garrick, W. A McDevitt, A. Hartrath, C. Crowe, G. Tourtillotte, G. Knight, W. Reinhardt, F. Omer, W. Cozhlin, C. McGrath, J. McGrath, P. S. Fitzgerald, F. Brady, A. Chirhart, J. S. Courtney.
+List of Excellence.
+[The students mentioned in this list are those who have been the best in the classes of the course named—according to the competitions, which are held monthly.—Director op Studies.]
+PREPARATORY COURSE.
+Reading and Orthography—J. O’Donnell, H. Guynn, T. Arthur, P. Perley, J. Boose ; Grammar—J. M. Byrne, P. Crowley, J. Mug W. D. Cannon, J. W. Guthrie, H. F. Fenner, J. Boose, M. Wolf, F. Weisert; Arithmetic—F. Zeis, J. Kennedy, J. Mc-Erlain, C. Rietz, P. Casey, M. Foote; Geozrapay—J. MeErlain, F. Smith, T. Arthur, F. Gaffney, B. Casey, J. Devitt, H. Devitt, P. Crowley, C. Rietz; Algebra—R. O’Brien, M. J. McEniry, A Zahm, J. A. Lumley, J. Kurz, J. G. Brady, C. F. Walsh; Latin— W.Connolly, R. Keenan; Greek—F. W.Bloom, C.Clarke; Christian Doctrine—M. Foote, K. Scanlan, A. Zahm.
+—Lake Eric is only sixty to seventy feet deep; but Lake Ontario, which is five hundred and ninety-two feet deep, is two hundred and thirty feet below the tide-level of the ocean, or as low as most parts of the Gulf of St. Lawrence; and the bottoms of Lakes Huron, Michigan, and Superior, although their surfaces are much higher, are all, from their vast depths, on a level with the bottom of Ontario. As the discharge through the river Detroit, after allowing for the probable portion carried off by evaporation, does not appear by any means equal to the quantity of water which the three upper lakes receive, it has been conjectured that a subterranean river may run from Lake Superior, by the Huron, to Lake Ontario. This conjecture is not impossible, and accounts for the singular fact that salmon and herring are caught in all the lakes communicating with the St. Lawrence, but in no others.
+304
+THE NOTRE DAME SCHOLASTIC.
+—Regular classes were resumed on Friday.
+—The honorable mentions this week are for those who attended classes held during the holidays.
+—The thermometer being so far below zero on the 2.1 of January, the arranged sleigh-ride to Niles was postponed.
+—On the first Sunday of the new year, Rev. Father Saulnier preached on “ The Necessity of Salvation.” The singing was of the bright, festive character of the season, but with all useless repetitions of words and music cut out.
+—The last act of the year 1878 was the chanting of the 2b Deum in the Chapel, in thanksgiving for all the blessings, spiritual and temporal, bestowed by Almighty God on the Congregation and schools of the Sisters of the Holy Cross.
+—The new year, with its unknown events, opened with the Holy Sacrifice of the Mass. All hastened to place the precious time allotted to each one at the disposal of the Ruler of heaven and earth, that every act should be to His honor and glory and the good of souls. x
+—Among the visitors during the week were: Mr. T. A. Zuorang, Chicago, Ill.; Mr. H. Thompson.Louisville,Ky.; Mrs. R. S ewart, Philadelphia, Pa.; Mrs. Voisinet, Elkhart, Ind.; Mr. J. P. Koontz, Union City, Ind.; Mrs. Howard, Mr. Stanfield, Mr. Perkins, Hon. P. Gibbons, South Bend; Hon. J. Gibbo is, Keokuk, Iowa; Mr. W. S;urgis, Sturgis, Mich.; Mr. J. B. Morris, R chmond, Ind.; Mrs. Oavenor, Chicago; Mr. King, Chicago.
+—In the afternoon of New Year’s Day, Very Rev. Father Genera], who had been absent for more than Jtwo weeks (kept away by a cold, and bad weather,) came to St. Mary’s. After giving his blessing and receiving the congratulations of the enure Community, he honored also the pupils with a visit. While receiving the greetings of the guests presented to him, Miss Kirchner played a transcription from “ Mignon,” on the piano. Twelve young ladies, representing the months of the year 1879, gave a unique address, comparing the festivals of each month to precious stones, emblems of the graces of Heaven which it was their desire should be granted their beloved Father., As the months revolved, each presented its record, handsomely ornamented. M'ss Adelaide Kirchner represented January; Miss McGrath, February; Miss Kirchner, March; Miss Winston, April; Miss Dallas. May; Miss Gordon, June; Miss Keenan, July; Miss Chilton, August; Miss Papin, September; Miss Galen, October; Miss Gall, November; Miss Brown, December. Miss Silverthorn then played Von Weber’s “Perpetual Movement,” which was very appropriate and well rendered. Mrs. Fitzgerald delighted everybody by her harp-playing, which was complimentary on her part. Miss Winston’s song showed great improvement, and a vocal duett by t he Misses Kirchner formed the musical offering. Miss Ellen Mulligan, with Maud Casey and little Elise Papin, gave a universal greeting in her own manner to Very Rev. Father General, then to Rev. Father Shortis, Rev. Father Saulnier, Hon. P. Gibbons, of S mth Bend, and Hon. James Gibbons, of Philadelphia; Mrs. Phelan, Mrs. Redman, Mrs. Papin, Mrs. - Fitzgerald, Mrs. Piquette and Miss Perley, who were present. Very Rev. Father General expressed his thanks for the Entertainment, and bis happiness at this joyful reunion after his absence. He delegated Rev. Father Shortis to praise the efforts made to please him, jocosely remarking that if Father Shortis should leave out anything he ■would “rise and correct the omission.” The Rev. Father therefore did his best to express these wishes, and added his own admiration of the unity of design between the twelve months. Hon. P. Gibbons, of South Bend, then arose to express his regret that all the parents of the pupils were not present to see the healthful appearance and the happy faces of their children, and to witness the admirable training of one of the finest institutions in the West. After supper, this first happy day of the new year ended with Benediction in the chapel.
+Roll of Honor.
+ACADEMIC COURSE.
+HONORABLY MENTIONED IN THE
+Graduating Class—Mies Sarah Moran.
+1st Sr. Class—Misses Ellen McGrath, Clara Silverthorn, Eleanor Keenan, Sarah Hambleton, Mary Danaher, Zo6 Papin.
+2d Sr. Class—Misses’Adella Gordon, Adelaide Kirchner, Ellen Galen, Catharine Hackett, Mary Brown, Mary Plattenburg, Catharine Lloyd, Genevieve Winston, Catharine Danaher, Annie Ryan, Jessie Grover, Angela Ewing.
+3d Sr. Class—Misses Lucie Chilton, Annie McGrath, Emma Gerrish, Alicia Donelan, Elia Mulligan, Margaret Carroll, Mary Mulligan.
+1st Preparatory Class—Misses Mary Mullen, Minna Loeber, Marie Dallas, Mary Feehan, Kathleen Wells, Mary Fitzgerald, Adelaide Bisby, Caroline Hopkins, Martha Pampel.
+2d Pkep. Class—Misses Ollie Williams, Caroline Gall, Mary Ludwig, Mary Hake, Teresa Zahm, Della McKerlie, Annie Orr, Laura French, Johanna Baroux, Anna Herman, Mary Campbell, Margaret Cleghorn.
+THE CONSERVATORY OF MUSIC. .
+1st Class—Misses Clara Silverthorn, Elizabeth Kirchner.
+2d Class—Misses Ellen Galen, Eleanor Keenan.
+2d Div.—Misses Adella Gordon, Genevieve Welsh.
+2d Div., 31. Class—Misses Mary Brown, Adelaide Kirchner Mary Campbell, Annie McGrath, Mary McGrath, E. Lange.
+4th Class—Misses Marie Dallas, Catharine Hackett, Mary Mullen, Jessie Grover.
+2d Div.—Misses Kathleen Wells, Caroline Gall, Genevieve Winston, Kathleen Campbell.
+5th Class—Misses Annie Hermann, Mary Danaher, Zoe Papin, Angela Ewing, Della McKerlie, Emma Gerrish.
+2d Div.—Misses Laura French, C. Danaher, Mary Mulligan, Minna Loeber.
+6rn Class—Misses Mary Hake, Julia Wells, Martha Pampel.
+2d Div.—Misses Johanna Baroux. Lucie Chilton, Julia Kingsbury, Catharine Lloyd, Annie Orr, Maud Casey, Ellen Cavanagh, Elise Dallas.
+7tu Class—Misses AHcia Donelan, Grace Glasser, Mary Fitzgerald, Mary McFadden, Margaret Ryan, Catharine Ward, Caroline Hopkins, Julia Barnes.
+8th Class—Miss Elise Papin.
+9th Class—Misses Ellen Lloyd, Martha Zimmerman, Manuel-ita Chaves, Ada Clarke.
+Harp—2d Class—Miss E Galen.
+3d Class—Misses Mary Brown, Mary Campbell.
+Harmony—1st Class—Misses Elizabeth Kirchner, Clara Sil* verthorn.
+3d Class—Misses Ellen Galen, Adella Gordon.
+vocal department.
+.1st Class, 2d Div.—Miss Elizabeth Kirchner.
+2d Class—Mics Adelaide Kirchner.
+3d Class—Misses Adella Gordon, Genevieve Winston, Clara Silverthorn, Catharine Hackett.
+5th Class—Misses Mary McGrath, Zoe Papin, Annie McGrath, Angela Ewing, Mary Mulligan.
+ART DEPARTMENT.
+DRAWING.
+honorably mentioned in the
+1st Class—Miss Emma Lange.
+3d Class—Misses Jessie Grover, Agnes Joyce.
+PAINTING IN WATER-COLORS.
+2d Class—Misses Sarah Moran, Genevieve Welch, Sallie Ham* bleton, Marie Plattenburg.
+OIL-PAINTING.
+2d Class—Miss Elizabeth Kirchner.
+For politeness, neatness, order, amiability, and correct deportment the following young ladies are enrolled on the
+Tablet of Honor.
+SENIOR DEPARTMENT.
+Misses Sarah Moran, Ellen McGrath, Clara Silverthorn, Eleanor. Keenan, Sarah Hambleton, Mary Danaher, Zoe Papin, Emma Lange, Adella Gordon, Adelaide Kirchner, Ellen Galen, Catharine Hackett, Mary Brown, Mary Plattenburg, Catharine Lloyd, Genevieve Winston, Catharine Danaher, Annie Ryan, Jessie Grover, Elizabeth Kirchner, Genevieve Welch, Emma Gerrish, Alicia Donelan, Margaret Carroll, Mary Mullen, Minna Loeber, Kathleen Wells, Mary Fitzgerald, Adelaide Bisby, Caroline Hopkins, Martha Pampel, Ollie Williams, Caroline Gall, Mary Ludwig, Mary Hake, Della McKerlie, Mary Campbell, Annie Herr-man, Teresa Zahm, par excellence.
+JUNIOR DEPARTMENT.
+Misses Angela Ewing, Annie McGrath, Mary Mulligan, Ella Mulligan, Marie Dallas, Mary Feehan, Laura French, Margaret Cleghorn, Johanna Baroux, Annie Orr, Julia Wells, Mary Me-
+THE NOTRE DAME SCHOLASTIC.	305
+Fadden; Elise Dallas, Catharine Campbell, Maud Casey, Ellen Lloyd, Sophie Papin, Ada Clarke, Elizabeth Consadine, Elise Papin, Elizabeth Lavoie, Mary Paquette, Jessie Pampel, Manu-elita Chaves, Jane McGrath, Martha Zimmerman.
+St. Mary’s Academy,
+NOTRE DAME, INDIANA.
+Under the Direction of the Sisters of Holy Cross.
+The course of Studies is thorough in the Classical, Academical and Preparatory Departments.
+NO EXTRA CHARGES for French or German, as those languages enter into the regular course of studies.
+The Musical Department is conducted on the plan of the best Conservatories of Europe.
+EST* In the Art Department the same principles which form the basis for instruction in the great Art Schools of Europe are embodied in the course of Drawing and Painting. Pupils in the Schools of Painting or Music may pursue a special course.
+Those who have passed creditab'y through the Academic and Classical course receive the Graduating Gold Medals of the Departments. Graduating Medals are awarded to the students who have pursued a special course in the Conservatory of Music or in the Art Department.
+Gold Medal for German, presented by Right Rev. Bishop Dwenger, of Fort Wayne.
+Gold Medal for Domestic Economy, presented by Right Rev. Bishop Gilmour, of Cleveland.
+Gold Medal for French, presented by Very Rev. E. Sorin, Superior General of the Order of the Holy Cross.
+Gold Medal for Drawing and Painting, presented by Dr. Toner, of Washington, D. C.
+Gold Medal for Christian Doctrine, presented by Mrs. M. Phelan, of Lancaster, Ohio.
+Number of teachers engaged in Preparatory, Academical and Classical Departments, 14; Modern Languages, 6; Drawing and Painting, 5; Instrumental Music, 10; Vocal Music, 2; Dress-making, plain and fancy needle-work, 7.
+Simplicity of dress enforced by rule. For Catalogue, address, MOTHER SUPERIOR, • St. Mary’s Academy,
+Notre Dame P. 0., Indiana.
+NOW READY.
+The Scholastic Almanac
+THE “AVE MARIA,”
+•A. CATHOLIC JOVHKAL
+(16 pp. Imperial 8vo.)
+Published Every Saturday at Notre Dame, Ind.
+BLESSED BY OUR LITE HOLY FATHER PIUS E, CONFIRMED BY POPE LEO HIT And Encouraged by Many Eminent Prelates.
+Among the many contributors to the Ave Maria may be mentioned
+Aubrey de Vere,	Grace Ramsay,
+Henri Lasserre,	Anna H. Dorset,
+Rev. A. A. Lambing, Eleanor C. Donnellt, Lady Fullerton, _ Eliza Allen Starr, The Author of “Christian Schools and Scholars.” The Misses Howe, The Author of “Tyborne,” etc., etc., etc.	etc., etc., etc.
+TERMS: ’
+One Year..........................................$ 2 50
+Five Years.........................................10	00
+Clubs of Ten (and over, at the rate of $2 each)....20	00
+A specimen copy sent free to any address on application.
+Payments invariably in advance. Money should be sent either in Registered Letter or by Post Office Order on Notre Dame Post-Office.
+AU communications should be addressed to the
+REV. EDITOR OF THE “AVE MARIA,”
+Notre Dame, Indiana.
+Dealers Supplied by the American News Company-39 & 41 Chambers St. New York.
+IXS ORMATIOX WANTED
+OF the whereabou's of WILLIAM GATES, aged abont 18 years, Was a Minim in 1;64 and 65 at the University of Notre Dame. Ind. Resided in Chicago, Ill.; afterwards in St Louis. Mo.
+Please address,	“ The Scholastic.”
+For 1879
+P^ICE 2J CTS.
+Look to Tour Health.
+Table of Contents:
+Introduction,	’ To Signor Gregori,
+Our Predictions for 1878, Good Books, Astrological Predictions for Some Curious Words,
+1879,
+Names and Titles, Days of Obligation, Days of Abstinence, Eclipses for 1879, Movable Feasts, Rates of Postage, An Astronomical Myth,
+The Catechism, Purple Days, Napoleon on the Divinity of
+Christ,
+Mutability,
+An Evening Picture, The Papacy, The Things of God, . ,
+Calendars, Astronomical and Grasshoppers,
+Ecclesiastical, Wild Flowers,
+Shall it Ever be Thus? Wolves in the Street,
+The Court of Charlemagne, Hens and Their Poetical
+At Our Wit’s End, Our Alma Mater, Indirect Egotism, Address,
+Lays, Berenice’s Hair.
+J. A- LYO3STS, Notre Dame, Ind.
+Boland’s Aromatic Bitter Wine of Iron is the best Spring remedj7 for impoverished blood, physical exhaustion, or impaired digestion.
+Ladies troubled with ailments incident to delicate constitutions will find it invaluable. '
+Depot, Boland’s Drugstore,
+53 CLARK ST., opposite Sherman House,
+Chicago, Illinois.
+Chicago, R. I. & Pacific.
+Through trains are run to Lea renworth and Atchison,connecting with trains for all points in Kansas and Southern Missouri. Thia is acknowledged by the travelling public to be the
+Great Overland Route to California.
+Two express trains leave Chicago daily from depot, corner Van Buren and Sherman streets, as follows:
+Leave. Arrive.
+Omaha, Leavenworth and Atchison Express.. 10 15 a.m. 4 CO p.m
+Peru accommodation............... 5 00 p.m.	9 45 a.m
+Night Express....................10 00 p.m. 6 3u a.m
+A. M. SMITH, A, KIMBALL, Gen’l Pass. Agent.	General Superintendent.
+306
+THE NOTRE DAME SCHOLASTIC.
+Civil Engineers & Surveyors. IML PROCTOR [of ’75], Civil Engineer of City and \_y. County of Elkhart. Office, 67 Main St., Elkhart, Indiana. Special attention given to Hydraulic Engineering. A TFT Al U Ft J. STACK [of’64], County Surveyor for XX St. Joseph County. South, Bend, Ind.	L S. & M. S. Railway. On and after Sunday, Nov. 10,1878, trains will leave South Bend $ follows:	- GOING EAST. 2 25 a. m., Chicago and St. Louis Express, over Main Line, arrives at Toledo9 50; Cleveland 2 30 p m; Buffalo 8 05 p.m. 11 05 a m. Mail, over Main Line, arrives at Toledo, 5 25 p m; Cleveland 1010 p m; Buffalo, 4 am. 12 16pm, Special New York Express, over Air Line; arrives at Toledo 540 p m, Cleveland 1010 p m; Buffalo4 am. 9 12pm, Atlantic Express, over Air Line. Arrive^ at Toledo 2 40 am; Cleveland, 7 05 a m; Buffalo, 110 p m. 4 50and4 pm, Way Freight. GOING WEST.	■ 2 43 am, Toledo Express. Arrives at Laporte 3 35 a m, Chicago 6 am. 5 05 am,Pacific Express. Arrives at Laporte 5 50 am; Chicago 8 20 s m. 4L 50 p m. Special Chicago Express. Arrives at Laporte 5 40; Chicago, 8 pm.	- 8 03 a m, Accommodation. Arrives at Laporte 9 05 am; Chicago 11 30 a. m. 7 30 and 8 03 a m, Way Freight. F. C. Raff, Ticket Agt., South Bend J. W. CARY, Gen’l Ticket Act., Cleveland. J. H. PARSONS, Sup’t West Div., Chicago. CHARLES PAINE. Gen’l Snpt.
+Weeklv Newspapers.	
+mHK CATHOLIC COLUMBIAN, published JL weekly at Columbus, O. Subscriptions from Notre Dame’s students and friends solicited. Terms, $2 per annum. D. A. Clarke, of ’70. r I iHB A. V E MARIA, a Catholic journal devoted to the JL Blessed Virgin, published every Saturday at Notre Dame, Ind. Edited by a Priest of the Congregation of the Holy Cross. Snbscrip-ion price, $2.50.	
+Hotels.	
+rpECJE BOND IIOUsL, A. McKay, Prop., Niles, Mich-_L igan. Free Hack to and from aU Trains for Guests of the House. rpHB MATTESON HOUSK, Corner of Wa-JL bash Ave. and Jackson St., Chicago, Ill. All Notre Dame visitors to Chicago may be found at the' Matteson.	
+	Indianapolis, Peru & Chicago RAILWAY.
+Book Binders.
+EDW A_It O I*. FLYNN, Plain and Fancy Book-binder, Kalamazoo, Mich.
+Visiting Cards.
+CALLING CARDS-no two alike, with name ZitJ neatly printed for 10 cents.	E. A. Wilkie,
+Mishawaka, Ind.
+CENTS will obtain yon a Copy of The Scholastic ZltJ At.-mawac for 1878. Address
+J. A. Lyons, Notre Dame, Ind.
+Attorneys at Law.
+BTtO	NT & IIARVJtc V (E. M. Brown of ’65), At-
+torneys at Law. Cleveland, Ohio.
+Spekr & mitcttell in. s. Mitchell, of ’72], Attorneys at Law, No. 225 Brady St., Davenport, Iowa.
+THOMAS B. CLIFFORD, [of’62] Attorney at
+Law, Notary Public and Commissioner for all the States, 206 Broadway (cor. Fulton), New York. Special attention given to Depositions.
+FANNING <Sc HOGAN id. J. Hogan, of ’741, Attorneys at Law, Koom 26, Ashland Block, N. E. Cor. Clark and Bandolph sts., Chicago, Ill.
+J OFT IV W. McHUGH [of ’72], Attorney at Law. Office 65 and 67 Columbia St., Lafayette, Ind.
+BODGE DODGE [Chas. J., Notary Public, and Wm W., both of ’741, Attorneys at Law. Collections promptly made. Office, Hedge's Block, Burlington, Iowa.
+ORVILLE T. CHAMBERLAIN (of ’61) Attorney at Law, Notary Public and Comm_ssioner of Deeds Office, 93 Main St., Elkhart, Ind.
+McBRIDE «fc Virr.’L.VTtD (Jas. E. McBride, of ’68). Att’y° at Law, Solicitors in Chancery, and Proctors in Ad, miralty. Practice in all tho courts of Mich, and of the U. S. Office 41 Monroe St.. Grand Rapids, Mich.
+WILLTA M .1. CL A RTvE (of ’74) Attorney at Law, Rooms 3 & 4, Law Building, No. 67 S High St., Columbus. O.
+JAMES A_. O’REILIW—of’69—Attorney at Law 527 Court Street, Reading, Pa. Collections promptly attended to
+JOFFTV D. McCORMICK-of ’73-Attorney at Law and No Lary Public, Lancaster, Ohio.
+DAJVIEX. 131. HIBBARD, Jr., (of’70), Circuit Court Commissioner, Law and Collecting Office, 98 Griswold Street, Detroit, Michigan.	; sep 14-ly
+Time Table, in Effect MAY 19, 1878.
+Going North.		STATIONS	Going South.	
+1.40 a.m. 12.55 “ 12.28 “ 12.07 “ 11.27 p.m. 10.31 “ 9 55 “ 9.25 “ 9.'3 •• 8.33 “ 7.52 “ 7.10 “ 6.10 “	3.20 p.m. S.30 “ 2.08 “ 1.44 “ 1J.7 “ 12.10 “ 11.26 a.m. 10.47 “ 10.26 “ 9.56 “ 9.13 “ 8.3') “ 7.25 “	Arrive	• Leave. - - Michigan City, - - - - - - LaPorte, - - - - - - Stillwell, - - - - - - - TValkerion, - - - - - - Piymouih, - - -	- - - Rochester, - - -- - - - Denver, - - - -	- - - Pern, - - - -- - Bunker Hill. - - - -	Kokomo Junction, - -- - - - Tipton,- - - - -	- - Noblesville, - - - - - Indianapolis, - - - -	- - - Cincinnati, - - -- - - Louisville, - - - -	-	Saint Louis, - - -	9.35 a.m 10.25 “ 10.45 “ 11.10 “ 11.47 “ 12 40 p.m 1.17 “ 2 00 “ 2.22 “ 3 00 “ 3.38 “ 4.25 “ 5.25 “ 10.00 “ 10.45 “ 7.30 a.m	8.05 p.m. 8 55 “ 9.20 “ 9.47 “ 10.33 “ 1132 “ 1212 a.m. 12 40 “ 1.01 “ 1 35 “ 216 “ 3 02 “ 4.00 “ 8.15 “ 8.20 “ 5.00 p.m.
+PERU & INDIANAPOLIS. EXPRESS.
+Leave Peru 6.10 a. m, - - - - Arrive Indianapolis 9.35 a. m-«	“ 9.00 “	- - -	“	“	■ 12.00 noon.
+- RETURNING
+Leave Indianapolis 12 25 p. m, - - - - Arrive Pern 3.50 p. m.
+“	1118 “	- - -	“ .	“ 2 55a.m.
+
+WOODRUFF’S SLEEPING AND PARLOR COACHES
+Through to Indianapolis!
+Allowing Passengers the privilege of remaining in. Car until a Late Breakfast Hour.
+®“Bertlis SI.25. Chairs 50 and 25 cents, according to distance.	"
+F. P. Wade,	V. T. Malott, ’
+Gen’l. Pass. Agt., Indianapolis.	Gen’l. Manager, Indianapolis
+C. POLACK,
+WHOLESALE & RETAIL DEALER IN
+Cigars and Tobaccos,
+and a full line of smoker’s articles. Sole Agents for the Columbus 5 Ct. Cigars, warranted Handmade and Long Havanna filled. Give them a trial.
+Sign of the Big Indian.
+101 Main St., SOUTH BEND, INDIANA.
+THE NOTRE .DAME SCHOLASTIC.	3Q7
+Michigan Central Railway
+Time Table-Nov 11, 1877.
+	•Mail	•Day Express.	•Kal. Accom.	tAtlantic Express.	tNight Express.
+Lv. Chicago		7 00 a.m	9 00 a.m	4 00 p.m	5 15 p.m	19 00 p m
+“ Mich. City..	9 25 “	11 10 “	6 35 “	7 40 “	1 15 “
+“ Niles 		10 45 “	12 15 p.m	8 12 “	9 00 “	12 35 a m
+“ Kalamazoo..	12 33 p.m	1 40 “	10 00 “	10 26 “	2 17 “
+“ Jackson		3 45 “				
+Ar. Detroit		6 48 “	o 30 “	♦JacfcBOD Express.	3 35 “	8 00 “
+	•		•Day		tPacific	t Evening
+	•Mail	Express.	5 40 a.m	Express.	Express.
+			8 40 “		
+Lv. Detroit		7 00 a.m	9 35 a m	4 45 p.m	9 50 p.m	6 20 pm
+“ Jackson		10 20 “	12 15 p.m		12 45 a.n	9 40 “
+" .Kalamazoo..	1 IS^p.m	2 38 “	4 30 a.m	2 53 “	12 35 a m
+“ Niles		3 05 “	4 07 “	6 3i “	4 24 “	2 38 “
+“ Mich. City..	4 303“	5 20 “	7 55 “	5 47 “	4 i5 “
+Ar. Chicago		6 55 “	7 40 “	10 30 “	8 00 “	6 45 “
+Wiles and. Son ill Bend. Division.
+•GOING NORTH. Lv. So. Bend—8 45a.m. 630 p m. “ N. Dame—8 52 ‘	6 38 “ Ar. Niles— 9 25 “	715 “	•GOING SOUTH. Lv. Niles— 7 05 a.m. 4 15 p.m “ N. Dame— 740 “	4 48 “ Ar. So. Bend—7 45 “	4 55 “
+•Sunday excepted. tDaily. ^Saturday and Sunday excepted.
+Hbnby C. Wentworth,	H. B. Ledyard,
+G. P. & T. A., Chicago, Hl. Gen'l Manager, Detroit, Mich.
+G. L. Elliott, Agent, South Bend, Ind.
+C. & N.-W. LINES.
+THE CHICAGO & NORTH-WESTERN RAILWAY
+Embraces under one management the Great Trunk Railway Lines of the WEST and NORTH-WEST, and, with its numerous Branches and connections, forms the shortest and quickest route between Chicago and all points in Illinois, Wisconsin, Northern Michigan, Minnesota, Iowa, Nebraska, California and the Western Territories. Its
+OMAHA AND CALIFORNIA LINE
+Is the shortest and best route between Chicago and all points in Northern Illinois, Iowa, Dakota, Nebraska, Wyoming, Colorado, Utah, Nevada, California, Oregon, China, Japan and Australia. Its
+CHICAGO, ST. PAUL AND MINNEAPOLIS LINE
+Is the short line between Chicago and all points in Northern Wisconsin and Minnesota, and for Madison, St. Paul, Minneapolis, Duluth, and all points in the Great Northwest. Its
+LA CROSSE, WINONA AND ST. PETER LINE
+is the best route between Chicago and La Crosse, Winona-Rochester, Owatonna, Mankato. St. Peter, New Ulm, and all points in Southern and Central Minnesota. Its
+GREEN BAY AND MARQUETTE LINE
+Is the only line between Chicago and Janesville, Watertown, Fond du Lac, Oshkosh, Appleton, Green Bay, Escanaba, Negaunee, Marquette, Houghton, Hancock and the Lake Superior Country. Its
+FREEPORT AND DUBUQUE LINE
+Is the only route between Chicago and Elgin, Rockford, Freeport, and all points via Freeport. Its
+‘ CHICAGO AND MILWAUKEE LINE
+Is the old Lake Shore Route, and is the only one passing between Chicago and Evanston, Lake Forest, Highland Park, Waukegan, Racine, Kenosha and Milwaukee.
+PULLMAN PALACE DRAWING-ROOM CARS
+are run on all through trains of this road.
+New York Office, No. 415 Broadway; Boston Office, No. 5 State Street; Omaha Office. 245 Farnham Street; San Fran, cisco Office, 121 Montgomery Street; Chicago Ticket Officcs-62 Clark Street, under Sherman House ; 75 Canal, corner Madison Street; Kinzie Street Depot, corner W. Kinzie and Canal Streets; Wells Street Depot, corner Weils and Kinzie Streets.
+For rates or information not attainable from your home ticket agents, apply to	.
+W. H. Stennett,	Marvin Hughitt,
+Gen. Pass. Ag’t, Chicago. Gen. Manager, Chicago.
+Pittsburgh, Ft.Wayne & Chicago
+’ AND PENNSYLVANIA R. R. LINE.
+CONDENSED TEMCE TART-TI.
+NOV. 10, 1878.
+TRAINS LEAVE CHICAGO DEPOT, Cor. Canal and. Madison Sts. (West Side). On arrival of trains from North and Southwest.
+GOING AVEST.
+	No. 1, Fast Ex.	No 7, Pac. Ex.	No .3, Night Ex	No. 5, Mail.
+Pittsburgh,	Leave Rochester,	 Alliance,	 Orrville,	 Mansfield,	 Crestline,	Arrive	11.45 pat. 12.53 A.M. 310 “ 4.50 “ 7.00 “ 7.30 “	900 A.M. 10.12 “ 1250 p.m. 2.26 “ 440 “ 5.15 “	1.50 p.m. 2.55 “ 5.35 “ 7.13 “ 9.20 “ 9.45 “	6.00 A.M. 7.45 *r 11.00 “ 12.55 p.m. 3.11 “ 3.50 “
+Crestline,	Leave Forest,		7.50 a.m. 9.25 “ 10.40 “ 1.20 pm. 3.50 “ 7.00 “	5 40 p.m. 7 35 “ 9.00 “ 11.55 “ 2 46 a.m. 6.00 “	9.55 p.m. 11.25 “ 12 25 a.m.		-
+Lima,					
+Ft.Wayne,	•.... Plymouth,	 Chicago	Arrive			2.40 “ 4.55 “ 7.58 “		
+GOIING EAST.
+	bio. 4, Night Ex.	No. 2, Fast Ex.	No. 6, Atlan.Ex.	No 8, Mail.
+Chicago,	Leave	9.10 P.M.	8.30 A.M.	5.15 p.m.	
+Plymouth,		2.46 A.M.	11.48 “	8.55 u *	
+Ft”. Wayne,		6 55 “	2.25 P.M.	11.30 “	
+Lima,................ >	S 55 u	4.20 “	1 SO A 1W	
+Forest,		10.10 “	527 “	233 “		. - - —
+Crestline,	Arrive	11.45 “	6.55 “	4.05 “	
+Crestline,	Leave	12.05 p.m.	7.15 P.M.	4.15 A.M.	6 05 A.M.
+Mansfield,			12.85 “	7.45 “	4.55 “	6 55 “
+Orrville,...............	2.26 “	9.38 “	700 “	915 “
+Alliance,		4.00 “	11.15 “	9.66 “	11.20 “
+Rochester,							6.22 “	1.20 A.M.	11.06 “	
+Pittsburgh,	Arrive	7.30 “	2.30 “	12.15 p.m	3.30 “ ’
+Trains Nos. 8 and 6 run Daily. Train No. 1 leaves Pittsburgh daily except Saturday. Train No. 4 leaves Chicago daily except Saturday. All others daily except Sunday.
+THIS IS THE ONLY LINE
+That runs the celebrated Pullman Palace Cars from Chicago to Baltimore, Washington City, Philadelphia and New Ycrk without change. Through tickets for sale at all principal ticket offices at the lowest current rates.
+F E. MYEBS, G- P & T. A.
+INMAN LINE.
+BOA'AL MAIL STEAMERS.
+NEW YOBE to QUEENSTOWN and LIVEBPOOL, Every Thursday or Saturday.
+Tons.	Tn^s.
+CITY OF BERLIN, 5491 | CITY OF BRUSSELS, 3775 C1TY0F RICHMOND,4607 I CITY OF NEW YORK, 8500 CITY OF CHESTER, 4566 | CITY OF PARIS. 3080 CITY OF MON fREAL, 4490 | CITY OF BROOKLYN, 2911 Th-se magnificent steamers, built in watertight compartments, are among the strongest, largest and fastest on the Atlantic.
+For rates of passage and other information, apply to
+JOHN G. BALE, Agent.
+15 Broadway, New York.
+Or to JACOB "WTXZE,
+Foreign Exchange and Passage Agent, octB-tf LaPorte, Indiana.
+308
+THE NOTEE DAME SCHOLASTIC.
+THE SUN FOR 1879.
+The Sun will be printed every day during the year to come Its purpose and method will be the same as in the past: To present all the news in a readable shape, and to tell the truth though the heavens fall.
+The Sun has been, is, and will continue to be independent of everybody and everything save the Truth and its own convictions of duty. That is the only kind of policy which an honest newspaper need have. That is the policy which has won for this newspaper the confidence and friendship of a wider constituency than was ever enjoyed by any other American Journal.
+The Sun is the newspaper for the people. It is not for the rich man,against the poor man, or for the poor man against the rich man but it seeks to do equal justice to all interests in the community. It is not the organ of any person, class, sect or party. There need be no mystery about its loves and hates. It is for the honest man against the rogues every time. It is for the honest Democrat as against the dishonest Republican, and for the honest Republican as against the dishonest Democrat. It does not take its cue from the utterances of any politician or ' political organization. It gives its support unreservedly when men or measures are in agreement with the Constitution and with the principles upon which this Republic was founded for the people. Whenever the Constitution and constitutional principles are violated—as in the outrageous conspiracy of 1876, by which a man not elected was placed in the President’s office, where he still remains—it speaks out for the right. That is The Sun’s idea of independence. In this respect there will be no change in its programme for 1879.
+The Sun has fairly earned the hearty hatred of rascals, frauds and humbugs of all sorts and sizes. It hopes to deserve that hatred not less in the year 1879, than in 1878,1877, or any year gone by. The Sun will continue to shine on the wicked with unmitigated brightness. •
+While the lessons of the past should be constantly kept before the people, The Sun does not propose to make itself in 1879 a magazine of ancient history. It is printed for the men and women of to-day, whose concern is chiefly with the affairs of to day. It has both the disposition and the ability to afford its readers the promptest, fullest, and most accurate intelligence of whatever in the wide world is worth attention. To this end the resources belonging to well-established prosperity will be liberally employed.
+The present disjointed condition of parties in this country, and the uncertainty of the future, lend an extraordinary significance to the events of the coming year. The discussions of the press, the debates and acts of Congress, end the movements of the leaders in every section of the Republic will have a direct bearing on the Presidential election of 1880—an event which must be regarded with the most anxious interest by every patriotic American, whatever his political ideas or allegiance. To these elements of interest may be added the probability that the Democrats will control both houses of Congress, the increasing feebleness of the fraudulent Administration , and the spread and strengthening everywhere of a healthy abhorrence of fraud in any form. To present with accuracy and clearness the exact situation in each of its varying phases, and to expound, according to its well-known methods, the principles that should guide us through the labyrinth, will be an important part of The Sun’s work for 1879.
+We have the means of making The Sun, as a political, a literary and a general newspaper, more entertaining and more useful than ever before; and we mean to apply them freely.
+Our rates of subscription remain unchanged. For the Daily Sun, a four page sheet of twenty-eight columns, the price by mail, (postpaid) is 55 cents a month, or 86.50 a year; or, including the Sunday paper, an eight page sheet of fifty six columns, the price is 65 cents a month, or §7.70 a year, postage paid.
+The Sunday edition of The Sun is also furnished separately at $1.20 a year, postage paid.
+The price of the Weekly Sun, eight pages, fifty-six columns, is SI a year, postage paid. For clubs of ten sending §10 we will send an extra copy free. Address
+L W. ENGLAND,
+Publisher of The Sun, New York City
+SHICKEY
+PBOPBIETOB OF THE
+NOTRE DAME AND ST. MARY’S ’BUS LINE
+For my attention to the patrons of Notre Dame and St. Maiy’s, I refer, by permission, to the Superiors of both Institutions.
+'	f.SHICKEY.
+CHICAGO, ALTON AND ST. LOUIS AND CHICAGO KANSAS CITY AND DENVER SHORT LINES.
+Union Depot, West side, near Madison street bridge; Ticket offices at Depot and 122 Randolph street. ■	Arrive. Leave.
+Kansas City. nd Denver Express via Jack-
+sonville, IL., and Louisiana, Mo.....3	40	pm 12 30 pm
+Springfield and St. Louis Ex. via Main Line.8 00 pm. 9 00 am
+Springfield, St. Louis and Texas Fast Ex. via
+Main Line............................7	30	am 9 00 pm
+Peoria Day Express......................3	40	pm 9 00 am
+Peoria, Keokuk and Burlington Ex.......7 30 am 9 00 pm
+Chicago and Paducah Railroad Express...8 00 pm 9 00 am Streator, Wenona, Lacon and Washington Ex 3 40 pm 12 30 pm
+Joliet Accommodation....................9	20	am 5 00 pm
+J. C. McMullin, Gen. Manager. J. Charlton, Gen. Pass. Agt
+University of Notre Dame,
+Founded 1842.	Chartered 1844
+This Institution, incorporated in 1844, enlarged in 1866, and fitted up with all the modern improvements, affords accommodation to five hundred Students. It is situated near the City of South Bend, Indiana, on the Lake Shore and Michigan Southern Railroad. The Michigan Central and the Chicago and Lake Huron Railroads also pass near the College grounds. In the organization of the house everything is provided to secure the health and promote the intellectual and moral advancement of the students. Three distinct courses of study are established: the Classical, the Scientific, and the Commercial Optional courses may also be taken by those students whose time is limited.
+The Minim Department.
+This is a separate Department in the Institution at Notre Dame, for boys under 13 years of age.
+Thorough and comprehensive instruction in all primary branches is imparted. The discipline is parental, and suited to children of tender years. Personal neatness and wardrobe receive special attention from the Sisters, who take a tender and faithful care of their young charges.
+Full particulars are contained in the Catalogue, which will be mailed on application to
+Very Rev. W. Corby, C. S. C., Pres’t.,
+Notre Dame, Ind.
+All Kinds of Engraving Done,
+SOUTH BEND, INDIANA.

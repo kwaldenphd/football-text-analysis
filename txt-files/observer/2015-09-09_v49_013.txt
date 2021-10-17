@@ -1,0 +1,790 @@
+ThE INdEPENdENT TO uNCOVER NEWSPAPER SERVINg ThE TRuTh NOTRE dAME ANd ANd REPORT SAINT MARy’S IT ACCuRATELy 
+
+VOLuME 49, ISSuE 13 | WEDNESDAY, SEPTEMBER 9, 2015 | NdSMCOBSERVER.COM 
+OIT updates hardware, online services 
+Changes include installation of new printers, website tweaks, additional features for ND mobile app 
+By KATIE GALIOTO 
+News Writer 
+In a world that seems to be making technological prog­ress every day, Notre dame’s Office of Information Technology (OIT) works to fulfill its stated mission of providing “effective infor­mation technology solutions to advance the university’s mission and goals.” OIT made several updates to its technological services offer­ings for the 2015-2016 school year, affecting university printers, websites and the Nd mobile app. 
+Katie Rose, OIT senior di­rector of user services, said the new printers across 
+of the printers out.” 
+
+
+Viruses infect SMC emails 
+By HALEIGH EHMSEN 
+Saint Mary’s Editor 
+Today, Saint Mary’s students re­ceived several emails from faculty and staff with links containing vi­ruses. These emails were followed up quickly, as administrators warned students about opening the emails. 
+Last week, a single email was sent out from an administrator’s account and subsequent warning emails were sent to students to de­lete the email immediately. 
+Michael Boehm, chief informa­tion officer, said IT has blocked the website links included in the infect­ed emails to prevent students from inadvertently going to those sites. 
+“When a particular virus is identified the security firms offer updates immediately to address them. ... We update our virus pro­tection databases on a daily basis,” Boehm said. 
+he also said this issue is not unique to Saint Mary’s. 
+“higher ed computers are set up, by design, to promote easy ac­cess and flexibility,” Boehm said. “This makes college and univer­sity systems prime targets for virus attacks.” 
+Boehm said IT is doing every­thing possible to keep students’ account safe from hackers and vi­ruses, but students should avoid opening any emails with suspicious links. 
+“If [students] do accidentally se­lect that link they should immedi­ately change their passwords,” he said. 
+Boehm said it is a good idea for students to keep their virus protec­tion software current and updated to prevent threats online. 
+Contact Haleigh Ehmsen at hehmsen@saintmarys.edu 
+
+
+
+Panel examines leadership 
+By NICOLE CARATAS 
+News Writer 
+Saint Mary’s hosted an in­teractive panel Tuesday called LeadhER, featuring Indiana Lieutenant governor Sue Ellspermann and her Chief of Staff, Tonya Brothers-Bridge, to discuss topics including fear­less leadership and the power of women mentorship. 
+
+Along with Ellspermann and Brothers-Bridge, panelists in­cluded president and CEO of MARY O’NEILL | The Observer 
+Lieutenant Governor Sue Ellspermann and her Chief of Staff Tonya see PANEL PAGE 4 Brothers-Bridge lead panel discussion on female mentorship. 
+
+
+
+
+Mayor speaks to College Democrats club 
+By CLAIRE KOSSLER 
+Associate News Editor 
+South Bend Mayor Pete Buttigieg shared lessons from his political career with the College democrats and articulated his admin­istration’s policy and his future aspirations for the city Thursday in deBartolo 
+hall.  
+Buttigieg,  himself  a  
+member  of  the  College  
+democrats  during  his  
+
+undergraduate years at harvard, said while South Bend has struggled eco­nomically in the past, he thinks the city is on the right track to full recovery. 
+“you’re in South Bend in an extraordinary moment in the history of the city, because we’re on the re­bound,” he said. “We have had the fastest popula­tion growth in 25 years. It wasn’t much, but the fact that it’s positive numbers itself is pretty exciting.” 
+Buttigieg said crucial to the recovery of South Bend 
+— and one of the corner­stones of his administra­tion — is the ability of its municipal leaders to listen to the needs of the average citizen. Indeed, he listed his ability to respond ef­fectively to his constituen­cy as one of the reasons for his election to the office of mayor in 2011. 
+“We entered a five-way race where I was not the most credible candidate coming into it,” he said. “We built credibility by talking and listening to voters and having a mes­sage that really spoke to where South Bend is at.” 
+he said one of the chal­lenges he faced coming into office and even dur­ing the mayoral race itself was that South Bend was regarded by many as a dy­ing city. In fact, Buttigieg said South Bend was listed by Newsweek magazine as 
+see MAyOR PAGE 5 
+
+
+
+NEWS PAGE 4 VIEWPOINT PAGE 7 SCENE PAGE 8 FOOTBALL PAGE 16 MEN’S SOCCER PAGE 16 
+
+
+
+
+Have a question you want answered? 
+Email photo@ndsmcobserver.com 
+
+
+QUESTION OF THE DAY: 
+
+ndsmcobserver.com 
+
+P.O. Box 779, Notre dame, IN 46556 024 South dining hall, Notre dame, IN 46556 
+Editor-in-Chief 
+greg hadley 
+
+Managing Editor  Business Manager
+                      Jack Rooney                    Cristina gutierrez Asst. Managing Editor: Mary green Asst. Managing Editor: Wei Lin 
+News Editor: Margaret hynds Viewpoint Editor: Tabitha Ricketts Sports Editor: Zach Klonsinski 
+Scene Editor: Miko Malabute Saint Mary’s Editor: haleigh Ehmsen Photo Editor: Zach Llorens Graphics Editor: Erin Rice Multimedia Editor: Wei Cao Online Editor: Michael yu Advertising Manager: Mariah Villasenor Ad Design Manager: Marisa Aguayo Controller: Emily Reckmeyer 
+Office Manager & General Info 
+Ph: (574) 631-7471 Fax: (574) 631-6927 
+
+Advertising 
+(574) 631-6900 ads@ndsmcobserver.com 
+
+Editor-in-Chief 
+(574) 631-4542 ghadley@nd.edu 
+
+Managing Editor 
+(574) 631-4542 jrooney1@nd.edu 
+
+Assistant Managing Editors 
+(574) 631-4541 mgreen8@nd.edu wlin4@nd.edu 
+
+Business Office 
+(574) 631-5313 
+
+News Desk 
+(574) 631-5323 news@ndsmcobserver.com 
+
+
+Viewpoint Desk 
+
+(574) 631-5303 viewpoint@ndsmcobserver.com 
+
+Sports Desk 
+
+(574) 631-4543 sports@ndsmcobserver.com 
+
+Scene Desk 
+(574) 631-4540 scene@ndsmcobserver.com 
+
+Saint Mary’s Desk 
+hehmse01@saintmarys.edu 
+
+Photo Desk 
+(574) 631-8767 photo@ndsmcobserver.com 
+
+Systems & Web Administrators 
+(574) 631-8839 
+
+
+Policies 
+
+The Observer is the independent, daily newspaper published 
+in print and online by the students of the university of Notre 
+dame du Lac and Saint Mary’s College.  Editorial content, 
+including advertisements, is not governed by policies of the 
+administration of either institution. The Observer reserves 
+the right to refuse advertisements based on content. 
+The news is reported as accurately and objectively as 
+possible. unsigned editorials represent the opinion of the 
+majority of the Editor-in-Chief, Managing Editor, Assistant 
+Managing Editors and department editors. Commentaries, 
+letters and columns present the views of the authors and not 
+necessarily those of The Observer. 
+
+Viewpoint space is available to all readers. The free 
+expression of all opinions through letters is encouraged. 
+Letters to the Editor must be signed and must include contact 
+information. 
+
+Questions regarding Observer policies should be directed to 
+Editor-in-Chief Greg Hadley. 
+
+Post Office Information The Observer (uSPS 599 2-4000) is published Monday through Friday except during exam and vacation periods. A subscription to The Observer is $130 for one academic year; $75 for one semester. The Observer is published at: 024 South dining hall Notre dame, IN 46556-0779 Periodical postage paid at Notre dame and additional mailing offices POSTMASTER Send address corrections to: The Observer P.O. Box 779 024 South dining hall Notre dame, IN 46556-077 The Observer is a member of the Associated Press. All reproduction rights are reserved. 
+
+
+If you could live anywhere in the world, where would you live? 
+
+
+Dan Kendall 
+
+
+Julianna Yee 
+junior 
+
+sophomore 
+Stanford hall 
+
+Pasquerilla East hall 
+“New Jersey.” 
+
+“Seattle.” 
+
+Emily Garrett 
+
+
+Melissa Rogers 
+sophomore 
+
+senior 
+howard hall 
+
+Mcglinn hall 
+“Anywhere but home.” 
+
+“Australia.” 
+
+Jacob Dean 
+
+
+Sam Bradley 
+senior 
+
+sophomore 
+O’Neill hall 
+
+St. Edward’s hall 
+“Alaska.” 
+
+“Australia.” 
+
+
+
+Want your event included here? 
+News Sports 
+
+Margaret hynds Kit Loughran Email news@ndsmcobserver.com 
+THE NEXT FIVE DAYS: JP gschwind Ben Padamilam Megan Valley 
+
+Graphics Scene 
+
+Wednesday Thursday Friday Saturday Sunday 
+Erin Rice Adam Ramos 
+Photo Viewpoint 
+
+Art Attack @ DPAC Panel Discussion and PEMCo presents Men’s Soccer vs. Women’s Soccer vs. 
+Rosie Biehl Bianca Almada 
+DeBartalo Performing Awards Ceremony “Ordinary Days” Clemson Michigan Arts Center Hesburgh Center Washington Hall Lab Alumni Stadium Alumni Stadium 
+4:30 p.m.-6:30 p.m. 12:30 p.m.-2 p.m. 7:30 p.m.-9 p.m. 7 p.m.-9 p.m. 5 p.m.-7 p.m. 
+Corrections 
+
+Multiple clubs will be Civil Rights today: Student musical The Irish take on The Irish women take 
+In the Sept. 8 edition of The showcased. Challenges for Peace. theatre performance. Clemson. on Michigan. Observer, the article “hesburgh Library undergoes renovations” 
+“My Value System” Postgrad Service Fair Women’s Soccer vs. Volleyball vs. Penn One Hundred Years 
+gave the incorrect uRL address for 
+Mendoza College of Joyce Center Indiana State of Automobile 
+updates on library construction. The 
+Business 4 p.m.-8 p.m. Alumni Stadium Purcell Pavilion Snite Museum of Art 
+correct address is renovation.library. 
+7:30 p.m.-9 p.m. More than 50 7 p.m.-9 p.m. 7 p.m.-9 p.m. 2 p.m.-4 p.m. 
+nd.edu. The Observer regrets this 
+Part of Berges Lecture organizations are The Irish take on the Part of the Golden Public exhibition and 
+error. 
+
+Series. registered to come. Hoosiers. Dome Invitational. automobile collection. 
+
+NdSMCOBSERVER.COM | WEDNESDAY, SEPTEMBER 9, 2015 | ThE OBSERVER 
+
+dPAC hosts art showcase 
+By SELENA PONIO 
+News Writer 
+This Wednesday, the arts at Notre dame will come together at the deBartolo Performing Arts Center (dPAC) for the second year in a row at Art Attack, a two-hour event that will showcase the various opportunities for involvement with perfor­mance, visual and creative arts at Notre dame. 
+Arts at Notre dame will be the primary hosts for the event, along with represen­tatives from other groups such as the College of Arts & Letters, Shakespeare at Notre dame and the Snite Museum of Art. 
+Leigh hayden, director of external relations for the per­forming arts at dPAC, has been a part of the collabora­tive effort on campus to in­crease the engagement with Notre dame’s performing and visual arts entities. 
+“Art Attack was conceived of two years ago as a signifi­cant effort ... to introduce new students to ‘that big building’ on south campus, as well as attract returning students who may realize how much the center and the arts have to offer in terms of quality of campus life,” hayden said. 
+hayden said Art Attack is an excellent opportunity for Notre dame’s artistic community to throw its doors open to the entire student population, especially the freshmen. 
+
+“An objective is certainly to attract first years — particu­larly seeing as 50 percent of the class of 2019 was involved in the arts in high school,” she said.  “At the same time, if a returning student is a fre­quent visitor or has never set their foot inside this build­ing before, even for a class or event such as the recent talk by u.S. Supreme Court Justice Sonia Sotomayor, we want them here, too. We hope they’ll see dPAC and the arts in a new and different way.” 
+Stacey Stewart, outreach specialist for the film, televi­sion and theatre department, said despite the abundance of artistic talent at Notre dame, much of it tends to go unno­ticed or under-appreciated. 
+“I’m excited to see a wide range of artistic disciplines represented this year — mu­sic, dance, musical theatre, film, and visual art — all together under one roof,” Stewart said. “I hope both students and faculty will feel welcome in our campus artis­tic community, whether they see themselves as artists or as audience members.” 
+Senior Jon Olansen, execu­tive producer of Pasquerilla East Musical Company (PEMCO), said Art Attack aims to attract people who may still be unsure about which club or organization they should join. 
+“Fine arts challenge people, especially students, to think creatively and with open mind, a skill that is vital in many ways throughout life,” Olansen said. “I hope that those who do not know yet if it is right for them find them­selves a place in the arts at Notre dame.” 
+hayden said there are many resources available to stu­dents, but many are still un­aware of what exactly is being offered to them. 
+“That’s why the Arts at Notre dame group came to­gether, to fill the gap in in­formation and connectivity,” hayden said. “Art Attack is our biggest effort to address that opportunity.” 
+hayden said the arts on campus are “alive and well” and the arts in college are a low-risk, high-return proposition. 
+“While there may be many different departments and centers involved, we are uni­fied in our effort to make what we have to offer students a memorable part of their Notre dame experience,” hayden said. “Show up. We all know how to put on a great event.” 
+Contact Selena Ponion at sponio@nd.edu 
+PAId AdVERTISEMENT 
+
+
+SMC alumnae discuss speech disorder 
+By MARGARET BROWN 
+News Writer 
+As part of Support a Belle, Love a Belle (SABLAB) week, the Student government Association presented two alumnae of the College, Kathy hennessy and her daughter, Kate hennessy, on Tuesday, September 7 in Madaleva hall. They discussed aprax­ia and the impact it had on their lives, highlighting how we should be aware of dis­eases that aren’t physically crippling. 
+Kathy hennessy described childhood apraxia of speech (CAS) and the effects it has on children. 
+“Speech is a complex mo­tor task that involves the planning, the programming, and the execution to obtain speech,” she said. “With childhood apraxia of speech, there’s an interruption in the planning and programming of speech. So in other words, there’s a breakdown between the message in the brain, the lips, the tongue, the jaw, the articulator. 
+“CAS is not about weak muscles; it’s not about wait­ing for a child to outgrow it. It’s not a learning disabil­ity, and what we now know is that the vast majority of children who have CAS can be resolved. And there’s not a whole lot of research on CAS, but we are coming to understand that there’s one in 1,000 children who will be diagnosed with CAS.” 
+Before apraxia was diag­nosed as a disorder, parents were ill-informed on the matter, Kate hennessy said. 
+“With this sort of disorder, parents were advised to lower the expectations,” she said. “They were told that their kids would not go to college, wouldn’t talk and in some cases they were told to insti­tutionalize their children.” 
+As a single mother, Kathy hennessy raised her two children, Kate and Andy, who were both diagnosed with apraxia at young ages. The process of discovering their disorder, however, proved to be difficult due to the lack of knowledge and research on apraxia. 
+“According to the American Speech and hearing Association, in 2007, they came out with a position statement and a technical report that recognized the childhood apraxia of speech as an actual disorder,” Kathy hennessy said. 
+Kate hennessy described her experience growing up with a disorder that made feel different from her friends and the impact that has had on her life. 
+“you know, growing up be­ing different than everyone else and having something that makes you stand apart from your friends and other people in the classroom, it made me all the more com­passionate to people who do have differences,” she said. “And it really made me and my brother advocates for not just childhood apraxia of speech.” 
+Through Kathy’s encour­agement, the help of thera­pists and patience, Kate and Andy became more confident in their ability to speak over time. Although they carry a residual affect, they continue to strive in everyday matters. Kate hennessy successfully works in the film industry across the country, while Andy hennessy is studying electrical engineering. The hennessy family promote the awareness of apraxia through talks and through its book, “Anything but Silent.” 
+Kathy hennessy empha­sized the importance of ac­knowledging non-physical disabilities, particularly in children. 
+“It’s important to realize that not all disabilities can be seen, that there are hid­den disabilities and people can suffer and need help but look happy,” she said. “It’s important to reach out. If you think somebody’s in trouble, as well as yourself, and you find help, I don’t think there’s any embarrass­ment in that. 
+“I think there’s plenty of places on campus to go to or to each other. I think sup­porting each other is crucial. I think Saint Mary’s is really great with that — the girls support each other so well here.” 
+Contact Margaret Brown at mbrown04@saintmarys.edu 
+
+
+
+ThE OBSERVER | WEDNESDAY, SEPTEMBER 9, 2015 | NdSMCOBSERVER.COM 
+
+Celebrity chef serves mushroom dishes at NDH 
+By RACHEL O’GRADY 
+News Writer 
+Mushroom Mania swept through North dining hall Tuesday night in the form of a variety of burgers, courtesy of celebrity chef Jehangir Mehta. 
+“Though I don’t really like mushrooms, I decided to try out a number of the burgers this evening, and I was actu­ally pleasantly surprised with the result,” sophomore grace garry said. 
+Mehta, executive chef and owner of New york City restau­rants graffiti and Mehtaphor, stopped by North dining hall to make some some of his sig­nature dishes and also to offer a sampling of different mush­rooms. Most notably, Mehta 
+Panel 
+CONTINuEd FROM PAgE 1 
+Michiana Partnership Regina Emberton, presi­dent and CEO for the yWCA North Central Indiana Linda Baechle, senior business ma­jor Ambar Varela and senior global studies major Eleanor Jones. The discussion was moderated by associate proj­ect director of the Women’s Entrepreneurship Initiative (WEI) Joan McClendon. 
+“Saint Mary’s College has ed­ucating women leaders since our founding in 1844,” College president Carol Ann Mooney said in her welcome.  “I wasn’t at all surprised to learn that after attending the WEI lead­ership event in the spring, Tonya Brothers-Bridge from the Lieutenant governor’s of­fice realized that Saint Mary’s was the perfect place to return to and take about women’s leadership.” 
+Both Ellspermann and Brothers-Bridge talked about their experiences as women in the professional world and in politics specifically. They both said they do not try to step away from who they are as women but rather work to gain respect as women in male-dominated fields. 
+Ellspermann said she tries to bring in new ways of thinking and problem solving from her female perspective and thinks it is important to bring in other minorities because everyone has something new to offer. 
+Jones posed the question of whether or not fearless lead­ership exists and what fears Ellspermann and Brothers-Bridge face in their careers in politics. 
+“I think a career life is meant for taking on the fearless op­portunities,” Ellspermann said. “It’s taking on a job you’re not sure you can do and real­izing that each time you do it, you get confidence for the next position.” 
+Brothers-Bridge said that she served his signature graffiti burger. 
+“I have been making the blended mushroom graffiti burger since the advent of graffiti nine years ago,” Mehta said. “The graffiti burger, be­sides mushrooms, has onions, cilantro, mint, lemongrass and chiles. It makes the burger ex­tremely flavorful and moist, and also cuts the animal pro­tein in the burger.” 
+The menu also featured a blue port salmon burger with peach salsa, a chermoula grilled crimini and a malai chicken mushroom burger slider, as well as stand-alone white button, crimini, porta­bella, shiitake, maitake, oyster and trumpet mushrooms. 
+“The graffiti burger was sort 
+does not believe fearlessness exists. 
+“I think if you’re not scared, your goals are not big enough or your dreams aren’t lofty enough,” Brothers-Bridge said. “I don’t try to go through life fearless. I try to go through life taking the appropriate risks and managing those risks.” 
+The women also discussed the power of women mentorship; both attested to its importance in paving the way for future gen­erations of women leaders. 
+“Mentoring to me is having a very personal, sincere, open, honest relationship with some­one that you trust,” Brothers-Bridge said. “I love to mentor others. I’ve had some really ter­rific mentors in my life, and I feel that is a way I can give back. 
+“We take it seriously that we should mentor other people,” Ellspermann said. “We should encourage them, and when they step forward [in leader­ship roles], we should get be­hind them. … We need to be active in that role so that our daughters, my four daughters, won’t see politics as ‘that ugly thing.’” 
+Ellspermann said the way for women to advance to leader­ship position is to not be afraid to ask for it. She said women should not lower expectations or accept lesser pay when they deserve more. 
+“Life is too short,” Ellspermann said. “you need to be doing something where you’re making a difference, where you’re loving to get up everyday, where you’re loving to engage in what you’re doing. 
+“As women, we try to prepare the way so that those who are out there can do whatever they want to. Whether you want to be a stay-at-home mom, or whether you want to be a Ph.d., or whether you want to be the president of a bank or whether you want to start your own business. We want all of those options out there.” 
+Contact Nicole Caratas at ncaratas01@saintmarys.edu 
+of spicy, but I really appreciat­ed how flavorful it was,” garry said. “It definitely tasted less like mushroom than I initially expected.” 
+The peach salsa served with the salmon combined the fla­vor of the fruit with cilantro, tomatoes and other season­ings, sophomore Jake Miller said. 
+“I liked the salmon burger, it was full of flavor and the peach salsa complemented it nicely,” he said. 
+When offered condiments to accompany his burger, sopho­more Joey Pye vehemently re­jected them. 
+“Are you serious? This doesn’t need ketchup,” Pye said. “This has enough flavor on its own.” 
+The sampling of mushrooms also received positive reviews from the students. 
+“The portabello mushrooms, in particular, were really sweet and tender, and I was surprised that enjoyed them so much,” Miller said. 
+Mehta interacted with stu­dents waiting for their mush­rooms, which were freshly sautéed with oil when ordered. 
+“I just want the campus to understand there is protein in vegetables, and one must try to get their intake of pro­teins through vegetables too,” Mehta said. “One must try and strike a balance between ani­mal laden meals and a vegetar­ian diet.” 
+After training at the Institute of hotel Management, Catering, Technology and Applied Nutrition in Mumbai, India, Mehta moved to hyde Park, New york to pursue a ca­reer in the culinary arts and began studying at the Culinary Institute of America, accord­ing to a press release from Food Services. From there, he worked at a number of New york restaurants before open­ing graffiti, his first restaurant, in 2007. Two years later, Mehta competed on the Food Network show Iron Chef America, as well as the Next Iron Chef. 
+“Notre dame is a prestigious university and it is an honor to be cooking for the students here and give them a different perspective of food,” he said. 
+Contact Rachel O’Grady at  rogrady@nd.edu 
+
+
+Lieutenant Governor Sue Ellspermann addresses the topic of female leadership in the workplace and      encourages women to persevere in traditionally male-dominated fields in a panel Tuesday. 
+PAId AdVERTISEMENT NdSMCOBSERVER.COM | WEDNESDAY, SEPTEMBER 9, 2015 | ThE OBSERVER 
+
+
+
+
+OIT 
+CONTINuEd FROM PAgE 1 
+Rose said the Canon printers also provide additional tech­nological services to students. 
+“We should see better, faster printing with these newer devices,” she said. “Now you can use your Id card to swipe to sign in, in­stead of having to log in on a release station. And, in addi­tion to that, the printers are all now multifunction devic­es (MFds), so you can copy and scan to e-mail as well.” 
+Rose said although stu­dents’ print quotas are now shown in monetary form instead of the old point system, nothing about the university’s print quota sys­tem has changed. 
+“you get the same number of pages that you had before,” she said. “The switch back to using dollars instead of points is because of how the Canon system actually works.” 
+Rose said OIT also im­proved some of its existing services over the summer, including the Notre dame mobile application, Sakai and campus wireless inter-net coverage. 
+OIT added new modules to the Nd mobile app over the summer that allows stu­dents to print, request rides from O’SNAP and view the campus schedule, according to mobile Nd’s website. 
+“We’ve added some mod­ules and some adjustments to the Notre dame mobile app, that will allow [stu­dents] to access the modules that students care about a little bit faster,” Rose said. 
+“That way, you don’t have to dig quite so deep into the app. They’re continuing to work on the mobile app and add more modules and more functionality.” 
+Rose also said OIT made adjustments to Sakai that will allow students to more easily submit group assign­ments and provide peer re­views in their classes. OIT plans to continue to make improvements to Sakai and other Notre dame interac­tive websites over the course of the school year, she said. 
+“We want to build integra­tions with Sakai into other applications like google Apps and e-Portfolio so that you guys have a central­ized system to manage your academic work,” Rose said. “We’re also looking at re­placements for the InsideNd portal so that we can update that and make it a little more mobile friendly.” 
+Rose said OIT also hopes to make adjustments to the password policy during the fall semester so students could create more secure and easier to remember passwords that would no longer have to be changed every 180 days. 
+Additionally, OIT is ex­tending its help desk hours, Rose said, to give students more opportunities to get technological support when they need it. 
+“We’re continuing to build and train the team that’s working there so that you can get even better tech­nical support,” she said. “We’re going to be launch­ing a knowledge base on the web as well that allows you to search for answers to IT questions and find what you need without having to talk to somebody.” 
+Rose said overall, the OIT staff finds their role at the university to be extremely rewarding. 
+“I work at a place where the focus of what I do isn’t on a bottom line, it’s on deliver­ing services that enable the university to educate amaz­ing people who go out and do awesome things in this world,” she said. “We can roll out a billion technology services, but if we can’t help everybody make the best use of them and make sure those tools meet everyone’s needs, then we’re not doing our job for the university.” 
+Contact Katie Galioto at  kgalioto@nd.edu 
+Mayor 
+CONTINuEd FROM PAgE 1 
+one of 10 dying cities of America the very week he declared his candidacy. 
+Buttigieg said part of the reason for South Bend’s past economic troubles was the large amount of vacant and abandoned properties still leftover from the closure of the South Bend Studebaker factory over 50 years ago. 
+“Even though we’re best known for the university of Notre dame, we actually didn’t grow up around edu­cation as a city. We grew up around industry,” he said. 
+In order to combat the city’s vacancy problem, Buttigieg said his adminis­tration unveiled the “1,000 homes in 1,000 days” pro­gram, which aims to demol­ish or renovate 1,000 of the city’s abandoned houses over the course of 1,000 days. Already, he said, the city is on its 975th house after only about 900 days of the project being in place. 
+“It’s kind of unsexy, but it makes a huge difference,” he said. 
+Among his administra­tion’s other “unsexy” un­dertakings, he said, is the 
+“You’re in South Bend in an extraordinary moment in the history of the city, because we’re on the rebound.” 
+Pete Buttigieg 
+South Bend mayor 
+creation of a smart sewer system.  Buttigieg said South Bend is the first city in the world to put its sewer system on the Cloud. 
+“The rest of the world is getting more productive thanks to technology — why shouldn’t cities?” he said. 
+
+PAId AdVERTISEMENT 
+
+But even considering its recent growth, Buttigieg said South Bend still faces a number of challenges. 
+“Our industrial past is a great thing in terms of hav­ing brought us here, but it also means that we’ve strug­gled for 50 years to adjust,” he said. “It’s taken my entire first term as mayor just to get people ready to believe in the city.” 
+Still, Buttigieg said he has seen an improvement in the outlook of South Bend since he took office in 2012, in part evidenced by the city’s recent 150-year anniversary celebration. 
+“honestly, what has made the biggest difference is peo­ple believing in the city, and having a celebration of our city … cemented the aware­ness that our city is back,” he said. “I think it was the perfect hinge point for being in the middle of this decade, which I think will go down in history — if we keep push­ing — as the most transfor­mative decade our city has ever had.” 
+Buttigieg said he thinks this decade is particu­larly historic for a number of reasons, including the city’s recent push towards 
+acceptance of all members of society. having recently 
+come out publicly as gay in an 
+“Our industrial past is a great thing in terms of having brought us here, but it also means that we’ve struggled for 50 years to adjust. ... It’s taken my entire first term as mayor just to get people ready to believe in the city.” 
+Pete Buttigieg 
+South Bend mayor 
+essay published in the South Bend Tribune, Buttigieg said one of his greatest concerns as a politician is equality. 
+“I really want to be judged in my job based on, ‘Are we filling the potholes, and are we generating jobs, and is the city coming back?’” he said. “I will absolutely be outspoken on LgBT issues and especially when fairness comes into play.” 
+And for now, Buttigieg said, he is exclusively focusing 
+
+Like us on Facebook. 
+facebook.com/ndsmcobserver 
+
+on the mayoral election. he said he does not currently have aspirations to run for state or federal office. 
+“Right now, I’m just think­ing about the city,” he said. “I know it’s not a job I can do forever, but I’ll do it as long as it’s the place I can make the most impact. … This may be the last office I ever run for, and it might not.” 
+Looking towards the fu­ture, Buttigieg said he thinks the involvement of students and young people is essential to the contin­ued recovery of the city. he said the many joint proj­ects between South Bend and Notre dame “could put South Bend on the map as one of the great city-uni­versity collaborations in America.” 
+“If you could pick one thing to put in the middle of your city, as a mayor — a waterfall, an NFL team — what you would pick would be a world class univer­sity, and we have that,” he said. “Which is exactly why South Bend is not going to die. South Bend is going to grow.” 
+Contact Claire Kossler at       ckossler@nd.edu 
+
+
+INSIDE COLUMN 
+
+Coping with stress 
+Margaret Hynds 
+News Editor 
+
+Caffeine and work-induced stress levels have been at an all-year high this week (yes, I know we’re in week three of the semester, sue me) and so the telltale signs of my anxiety have been going full throttle. 
+I’ve always been a little dramatic, so some­how stress seems to follow me wherever I go, often over things that could have been easily avoided and also easily fixed had I put my energy into finding a solution. 
+Alas, that’s usually not the case. Instead of focusing on productivity, I tend to channel all of my time into other symptoms of stress, conveniently listed for you here: 
+Symptom one: I compulsively write to-do lists on yellow legal pads, often including ex­tremely productive tasks such as “eat snack” and “take shower.” 
+Symptom two: I clean everything in my dorm room, which takes a while. On more relaxing days you’ll find heaping piles of laundry piled upon stacks of notebooks in the corner behind my desk, with shoes strewn about the floor. For some reason, my room­mates have graciously agreed to keep me around. 
+Symptom three (and perhaps the most prevalent): I bake. Cookies, cupcakes, banana bread, bars, cake balls and pie. you name it, I’ve baked it. 
+My mom has always told me that the best way to make friends is to show up with food. Well, apparently she was right because I’ve become way more popular in the last few days as I’ve shown up to work, tupperware in tow, hoping to get rid of the fruits of my labor before I move on to symptom four: stress eat­ing everything in sight. 
+But the thing is, baking gives me a strange sense of satisfaction. Frosting cupcakes and shaking sprinkles onto cookies have become a somewhat bizarre outlet for the days when I’m trembling from too much coffee and not enough food and my eyes have become bleary from staring blankly at my laptop, waiting for sentences to appear in the Word document in front of me. 
+I suppose my point is, do what works. Life is stressful. School is stressful. I’m a junior, but to all of you freshmen out there, the first month of school is ridiculously stressful. you’re away from home, expected to keep yourself healthy and fed while balancing a difficult course load and at the same time trying to make new friends. 
+If that’s easy for you, shoot me an email. I’d like to study your ways. 
+At the end of the day, your health matters way more than your grades. So if you need to back off from studying to bake some cookies, go for a run, read a book or watch Netflix, do it. I can promise you that taking a step back every once in a while will leave you way bet­ter off in the long run. 
+And if you’re in need of some baked goods, let me know. I have lots. 
+Contact Margaret Hynds at  mhynds@nd.edu 
+
+The views expressed in this Inside Column are those of the author and not necessarily those of The Observer. 
+No man is an iLand 
+
+Raymond Ramirez 
+The Crooked Path 
+
+One of the most popular board games of the 1980s was Trivial Pursuit. Players took turns field­ing questions in a variety of subject areas — sci­ence, entertainment, sports — to collect tokens for correct answers and eventually make their way around the game board to the finish line. Sounds thrilling, eh? 
+The game was dominated by certain types of nerds who had amassed mountains of useless in­formation. What was the name of Robert E. Lee’s horse? Which British city sits on the prime merid­ian? Are you more likely to encounter chiropterans at midnight or high noon? With no hesitation, a savvy gamer would respond: Traveler, greenwich, and midnight (they’re bats), and move smoothly to inevitable victory. 
+With the advent of smartphones, this game seems, well, trivial, and somewhat pointless. Today you can call on Siri (or googli, or whatever you call your e-concierge) and get the answer to almost any question in moments. In a world where instant ac­cess to information is the norm, Trivial Pursuit is as irrelevant as rolling a hoop with a stick when you can play with a remote-controlled car. Trivial Pursuit rewarded skill in summoning information, however otherwise useless, stored in one’s own brain. 
+In contrast, skill in using devices such as smart­phones and tablets to access and download in­formation from the Internet in real time is the hallmark of a modern, connected person. Let’s face it, you do not really think grandma will be Periscope-ing any time soon. 
+We may have a smug sense of accomplishment in mastering the latest and most popular technology, and applications but let’s ask a simple question: with all these technological innovations, are we getting smarter? The answer depends on what “we” means. 
+Some writers have explored the question by pos­iting a scenario where a time traveler from the late 19th century arrives at the present time. The time traveler asks a series of questions to a person sit­ting behind a screen, and the seated person is look­ing at a smartphone. In seconds, the seated person answers each question correctly. The time traveler can only conclude that “we,” i.e., this latest genera­tion of Americans, are smarter than ever. 
+But suppose we flip the thought experiment by having the modern smartphone user travel back in time. Once again, he or she sits behind a screen for interrogation by an average, educated, late 19th century resident. Robert E. Lee’s horse? No response. Prime Meridian? Zilch. Chiropterans? Nada. 
+The smartphone user is prepared to solve basic math problems as long as the preloaded calculator app can be accessed and the battery holds out, but there is no Internet. No cell towers, transceivers, switches or roaming charges. Perhaps the smart­phone time traveler can at least get rich by bet­ting on some sporting events — who won the 1895 Kentucky derby? Was there even a Kentucky derby in 1895? Siri? Why hast thou forsaken me in my time of need? 
+The 19th century resident probably speaks a bit of Latin, enjoys opera in the original Italian and has passing knowledge of algebra and calculus. I suggest that if you were to give this person a couple weeks to recover from the initial shock of seeing our current world, he or she could learn to use computers and smartphones and microwave pop­corn as well as most of us. Will this person then have become smarter than before? 
+Well, he or se will have acquired a new set of skills using machines that were not available in the 1890s, but how well would we adjust to horse-drawn transportation, handwritten communica­tions and nascent telephony? 
+The point is that we should not confuse the tech­nology of any given time with the intelligence of the then-current inhabitants. 
+So, back to the question: Are we getting smarter? That’s for each of us to answer, but I think the answer is no if we think intelligence is simply us­ing a search engine to acquire information. That is a helpful skill in today’s world, but our aptitude with technology should never be mistaken for intelligence. 
+Knowing how to use a computer is not the same as knowing how to build a computer, or even know­ing how a computer works on a basic level. The use of technology is not necessarily making us less intelligent, though as with any distraction it may prevent us from trying to make sense of all the in­formation we acquire. 
+“We” as a society have certainly expanded the ability to store and access information, but “we” as individuals can only claim to be smarter than those who came before us if we use that information to improve and advance our society. 
+The net of technology that connects us is more complex than ever, and we owe it to ourselves to make sure we carry within us our own reserves of valued knowledge. We should enjoy the technol­ogy of the hyper-connected i-Land of the Internet and smartphones, but we should also be islands of independent knowledge, making our own connec­tions to uncover deeper truths. 
+The pursuit of knowledge — and not just infor­mation — is never trivial. 
+Ray Ramirez is an attorney practicing, yet never perfect­ing, law in Texas while waiting patiently for a MacArthur Genius Grant. You may contact him at  patrayram@sbcglobal.net 
+The views expressed in this column are those of the author and not necessarily those of The Observer. 
+
+Get ready to live long, but die poor 
+Louis Bertolotti 
+Mr. 2016 
+
+We millennials have it good. 
+By the time a man born in the early 1990s reaches the current full retirement age of 67, he can expect to live another 20 years to the age of 
+87. Women have it even better — females born at the same time can expect to live another 22 years to the ripe age of 89. 
+This remarkable achievement in human lon­gevity is the culmination of centuries of incred­ible medical, social and economic advances, and such an amazing feat rightfully deserves to be commended in the loudest way possible. As a point of comparison, in 1940, those same num­bers told us men could only expect to live for 13 years after that retirement age, to 80, while women could expect another 15 years of life, to 82. 
+Such a large, positive change in something as important as life expectancy should be em­braced, but it must also be understood. People are living much longer today than they ever have before, but our current entitlement system re­mains nearly indistinguishable from its original 1930s form. This problem is known as the dread­ed “third rail” of American politics — any poli­tician who attempts to talk about entitlement issues seems to be ostracized from the public debate. 
+There can be no denying that a social safety net must exist for seniors in need, and that both Social Security and Medicare have helped se­niors in countless ways since their inception. Nevertheless, it is a fact that Medicare is set to be insolvent by 2026 and Social Security by 2033. It is also a fact that just three workers support every eligible retiree today, compared to the six­teen that existed when Social Security was first created. 
+Now, as we face a national debt of more than $18 trillion, the only candidate who has put forth a serious attempt at entitlement reform, New Jersey gov. Chris Christie, sits tied for tenth in line for the Republican presidential nomination polling at only 2.8 percent. 
+governor Christie’s proposal would transform Social Security into a means-tested program, which means that benefits would be gradually phased out for those who continue to make over $80,000 after they retire and would cut them en­tirely for those who make $200,000 or more after they retire. A similar sliding scale would be put into place for Medicare, and the retirement age would be raised to 69 to qualify to receive Social Security and 67 to qualify to receive Medicare benefits. Furthermore, none of this would take place until 2022 and it would not be completed until 2040. 
+While this may not be the perfect plan, it at least starts a discussion on this increasingly im­portant issue, and no other candidate has been bold enough to speak his or her mind past vague policy statements. 
+In 2014, entitlement spending alone made up 60 percent of the federal budget. Why has no progress been made in shrinking this number yet? 
+The answer is simpler than you think: senior citizens vote. Millennials do not. 
+In 2012, voter turnout for eligible citizens un­der the age of 30 was just 45 percent. For those over 30, it was 66 percent. But even with such small numbers, we made a difference. If no vot­ers under the age of 30 had shown up to the polls in 2012, Mitt Romney would be the President of the united States. 
+Imagine if young people united together in bigger numbers and for a cause upon which we can all agree: our economic security for us and our children after us. 
+Over the last ten years, the AARP has spent an average of $19.36 million on lobbying Congress every year. It currently has 38 million dues-pay­ing members. 
+While we may not have an “American Association of young People,” we must all unite if we are to raise our children in a country as great as the one in which we were lucky enough to be raised. We must hold our representatives accountable for their actions and demand real solutions to tough problems. We cannot be bul­lied by special interest groups or by lying politi­cians who try to tell us that it is all going to be okay. 
+Above all, we must realize that every vote counts and that we young people have the power to make a real difference. We just have to go at it together. 
+Author’s note: Louis interned for Gov. Christie’s office this summer. 
+Louis Bertolotti is a junior in the College of Arts & Letters. He is majoring in political science and history and is from the great state of New Jersey. He can be  contacted at lbertolo@nd.edu 
+The views expressed in this column are those of the author and not necessarily those of The Observer. 
+LETTERS TO THE EDITOR 
+
+ND has not set a precedent of divestment 
+William O’Laughlin’s letter (“heeding Pope Francis’ call,” Aug. 26) was well-targeted on some issues. however, in calling for divestment as a tool for global justice, he is misleading in crediting Notre dame with having set a prec­edent by divesting from corporations flourishing in apartheid South Africa. Regrettably, it did not. 
+Rather, our university adopted the “Sullivan Principles.” Proposed by an eminent mem­ber of the Board of general Motors, Rev. Leon Sullivan, the university continued to invest in these exhorted corporations in South Africa so long as they desegregated their premises amidst apartheid. In essence, Fr. Ted hesburgh and Notre dame’s Trustees, top heavy with corporate leaders and lawyers, argued that di­vestment from these companies would conse­quently shrink the South African economy and inflict disproportionate suffering on the coun­try’s black majority. 
+These pro-investment convictions ignored the fact that once the workers walked out of the fac­tory gates, they stepped right back into the racist structures of an increasingly brutal apartheid regime. In addition, Fr. Ted and the majority of Notre dame’s trustees dismissed the pro-sanc­tions appeals of the entire liberation movement: the African National Congress(ANC), the united democratic Front, the (black) Congress of South African Trade unions, the South African Council of Churches, the Southern African Catholic Bishops Conference, the Christian Institute and a range of black student organizations. Even the personal appeals of prophetic church lead­ers like Archbishop desmond Tutu, Archbishop denis hurley and Reverends Beyers Naude, Allan Boesak and Frank Chikane went unheeded. When Rev. Leon Sullivan belatedly called for divestment,having recognized the ineffective­ness of his own principles, Notre dame’s trustees still would not budge. 
+By the second half of the 1980s, the global di­vestment movement along with initial interna­tional trade sanctions — and the threat of more to come — had brought the South African econo­my to stagnation. As a result, unemployed teen­agers and workers boosted the mounting ranks of anti-apartheid protesters. At the same time, South Africa’s regional neighbors were no longer under its control. In this context, apartheid’s military leaders let the government know they could no longer sustain the country’s stability. 
+Consequently, though reluctantly, in 1990 the regime released Nelson Mandela after 27 years of imprisonment, unbanned the exiled African National Congress and entered four years of fraught negotiations with the ANC and broader liberation movement before apartheid was aban­doned. having hammered out a non-racial con­stitution, one bolstered by a commitment to both civil and social human rights, South Africa’s irenic election in 1994 finally brought the ANC to power under the leadership of President Nelson Mandela. Founded in 1912, the movement had taken almost a century to achieve its vision: to eradicate racism from the country’s statute books. 
+In short, while the campus Anti-Apartheid Coalition gathered regularly throughout the 1980s on the steps of Notre dame’s administra­tion building protesting the university’s refusal to divest, and both student as well as faculty referenda called for such sanctions, our Trustees failed to recognize the urgency of forcing the apartheid regime to the negotiating table. had Martin Luther King lived, he would not have been pleased. 
+Peter Walshe 
+professor emeritus department of political science 
+
+Where was ‘America the Beautiful’? 
+According to my research, the Notre dame-Texas football game this past weekend was the first time since the Kennedy assassination that “America the Beautiful” has not been played prior to a home football game in the Notre dame stadium. 
+All through the 35 privileged years that I have been fortunate enough to have attended Notre dame homefootball games, this long­standing tradition has inspired me, my family, friends and many others to join hands and sing “America the Beautiful” prior to reunions, tail­gates, parties, weddings, rehearsal dinners and funerals alike. 
+Omitting “America the Beautiful” from the university’s  pre-game ceremonies will sad­den my Notre dame football experience in the future. 
+Thomas  E. Clay 
+des Moines, Iowa 
+
+
+ERIN RICE | The Observer 
+
+
+
+
+By MIKO MALABUTE 
+Scene Editor 
+
+during Notre dame’s domi­nant win over the Texas Longhorns Saturday night, former Indiana State Police Sergeant Tim McCarthy left the fans in the stadium one of his last punny anti-drunk driving messages. To paraphrase: if you drive half lit, you aren’t very bright. however, Travis Scott’s debut album, “Rodeo,” poses the question: what happens when a person is fully “lit” (different mean­ing of the word)? does that make them fully bright? Because that is exactly how I would characterize Scott on his debut album. 
+Scott is known for three things: his characteristic auto-tuned delivery, his dark-yet-catchy song style and his catchphrase ad-lib, “It’s lit!” This album is chock-full of all three of these. The 14-track project features several sure-fire hits, with “3500” and “Antidote” released as singles pre­viewing the album’s style. After lis­tening to these two songs on repeat, I was convinced that I myself had an auto-tuned voice, braids and a knack for producing absolute bangers. The lyric content is good, if not simplistic. But “simplistic” in this sense is not condescending or negative at all. In fact, it works directly in Scott’s favor, enticing listeners to chant choruses and short, concise verses along with him over and over again. 
+The features on the project are also noteworthy. guest appearances by hip-hop A-list names such as Future, 2 Chainz, Juicy J, The Weeknd and Kanye West help add a sense of vindi­cation to the project’s likability (as if it needed any). Furthermore, pop super­star and Scott’s friend Justin Bieber, along with up-and-coming rapper young Thug, also hops on the project’s album-exclusive “Maria I’m drunk” to create yet another simple-yet-catchy song, with a seductively dark, unorth­odox feel. The guest list itself ensures that the project is a success — not just off of name power alone, but quality by those big names. however, even without these A-list artists, Scott has demonstrated the ability to succeed on his own. 
+As is unfortunately all too common in today’s age, “Rodeo” leaked about a week prior to its official release. however, the album’s quality and lik­ability was enough to compel people to support the debut effort by the artist, as evidenced by its position at No. 1 on the iTunes hip-hop chart and number two overall on the iTunes chart. There’s a maxim that says, “Everyone says it, so it must be true.” With so many co­signs and a loyal, rabid fan base pro­pelling the album to success, it’s safe to say that “Rodeo” is absolutely “lit” and, therefore, very much brilliant. 
+Contact Miko Malabute at                 mmalabut@nd.edu 
+
+By BRIDGET DEDELOW 
+Scene Writer 
+
+hipsters. hipsters everywhere. 
+But boy, was it lovely. That’s the best way I can describe seeing Modest Mouse Thursday night in Chicago. I’ve been in love with them ever since I was 13, singing along to “The World At Large” in my bedroom. Modest Mouse is made up primarily of eight mem­bers, with Isaac Brock being both the founding member and lead singer. The other seven members are Jeremiah green, Tom Peloso, Jim Fairchild, Russell higbee, Lisa Molinaro, davey Brozowski, and Ben Massarella. The band is multi-instrumental, with many members switching instru­ments between songs. For example, Lisa Molinaro played keyboards, violin and cello all in one show. The band’s name is derived from a passage from the Virginia Woolf story “The Mark on The Wall,” which reads, “I wish I could hit upon a pleasant track of thought, a track indirectly reflect­ing credit upon myself, for those are the pleasantest thoughts, and very frequent even in the minds of modest, mouse-coloured people, who believe genuinely that they dislike to hear their own praises.” 
+In 2000, Modest Mouse released “The Moon & Antarctica,” its first al­bum on Epic Records. The album, despite coming from a major label, was very well received by the pub­
+lic. Modest Mouse’s newest album, “Strangers to Ourselves,” was released on March 17, 2015. 
+The band opened at Concord Music hall with “3rd Planet,” which was off of their very first album. The crowd loved it, and even if you weren’t a die-hard Modest Mouse fan, it seemed like we were all singing along by the third verse. The band seamlessly transitioned from song to song, and though this prevented fan interac­tion, it didn’t seem to matter at all. Modest Mouse also balanced the new with the old, going from “Lampshades on Fire” to “Coyotes” to “Bukowski” and “dramamine.” If the air wasn’t filled with song, the random sounds and white noise between made for a unique experience. 
+
+The concert seemed to end at 9:20, with Concord closing promptly at 10. however, in true Modest Mouse fash­ion, the band had something up its sleeve. The band played not one, but six encores. The crowd went crazy (as Chicago crowds always do) with the opener of “Satellite Skin,” and you could feel the energy throughout. I was constantly amazed how I would be waiting in anticipation for my favorite songs, then forget all about that because I was so immersed in the song that was playing currently. 
+The band ended with their all-time hit, “Float On.” I screamed my lungs out, but not just because it was one of the band’s most popular songs. “Float On,” in particular, has helped me through a lot of rough (and not so rough) times in my life, and finally seeing it live was incredible. I seemed to soak in the lyrics more than ever, and walked away not with a sense of finality, but a sense that I could expe­rience that concert ten times over and not get sick of it. I definitely had a case of the post-concert blues, and imme­diately got on Spotify when I got home to do it all over again, belting out the songs that I know and love. 
+Contact Bridget Dedelow at                   bdedel01@nd.edu 
+ERIN RICE | The Observer 
+
+
+SPORTS AUTHORITY 
+
+St. Louis ready for playoff run 
+Marek Mazurek 
+Sports Writer 
+Very rarely is the best team in a league the least talked about. Everyone knew how good the Seahawks were in the NFL last year, everyone knew the Blackhawks had a great chance to win the Stanley Cup  (spoiler alert, they did). But ask any casual baseball fan who the best team is this year, and I bet that not too many would guess the correct answer: the St. Louis Cardinals. 
+Basically every other con­tender is getting more me­dia attention than St. Louis. The dodgers have Clayton Kershaw and Zack greinke, the Cubs have a crop of young stars and the Astros are a novelty. 
+yet something tells me the lack of attention is just fine with the Birds. They are not a flashy ball club, they don’t make big trades like the yankees, they aren’t dependent on start like the dodgers. 
+This year, many wrote off St. Louis when star pitcher Adam Wainwright got injured. But relative unknowns such as Michael Wacha and Carlos Martinez have carried the Cardinals into September, where they’re sitting pretty. 
+Though it causes me tre­mendous pain to say this as Cubs fan, the Cardinals are the safest bet to win the World Series this year. They are the embodiment of a championship con­tender: they win at home, they win on the road, they win against the National League, they win against the American League. And still no one talks about them. 
+With the division more or less in hand, Cardinal fans are already looking ahead to the playoffs where some combination of the Pirates, dodgers, Cubs and Mets awaits them. 
+The Cubs are inexperi­enced and beyond starting pitcher Jake Arrieta, their pitching staff isn’t very scary. The seam goes for the dodgers. yes, Kershaw and greinke have domi­nated in the regular season, but Kershaw has had his struggles in the playoffs, and if he isn’t on, yikes. And the dodgers have been no-hit twice in the last three weeks. That doesn’t bode well, either. 
+The Pirates may be a tough match for St. Louis, as their season record is split at 8-8. And finally, the Mets are just the Mets. 
+however you slice it, the Cardinals have all the pieces in place to make a deep postseason run. They have three great pitchers in Wacha, Martinez and Jamie garcia, a solid bull­pen, timely hitting from Matt Carpenter and Jhonny Peralta and veteran leader­ship from yadier Molina. 
+A great start from Jake Arrieta or Kershaw may push St. Louis back a game in the playoffs, but I just don’t see anyone getting the better of the Cardinals in four out of seven games, no matter how much young tal­ent or trade deadline moves are involved. 
+Even Vegas isn’t giving the Cardinals much love. According to Vegasinsider. com, St. Louis has the third best chance to win the World Series behind Toronto and Kansas City. 
+But that’s ok with the Cards, they’ll just do what they’ve done all season and keep winning until their names are on the Commissioner’s Trophy as World Series champs. 
+They were ignored when Albert Pujols left, they were written off when Wainwright went down. don’t make that mistake again, the Cardinal is the true bird of October. 
+Contact Marek Mazurek at mmazurek@nd.edu 
+The views expressed in this Sports Authority are those of the author and not necessarily those of The Observer. 
+
+
+NCAA FOOTBALL 
+
+Penn State loses to Temple, buries game film 
+Associated Press 
+
+Penn State was let with a lot of work to do after a humbling, historic loss to Temple. 
+Coach James Franklin said Tuesday he’ll make some changes on the offensive line, following the 10 sacks taken by quarterback Christian hackenberg and a net rush­ing total of 77 yards. Starting middle linebacker Nyeem Wartman-White, who suffered a season-ending knee injury, must be replaced. Frustrated fans and former players could use some placation. 
+First, the Nittany Lions need­ed to move on from the deci­sive 27-10 defeat that was Penn State’s first by Temple since 1941, so the players rid them­selves of the evidence. 
+Literally. 
+
+“We actually buried the tape. With a shovel. On the practice field, right where we walk out,” strong safety Jordan Lucas told reporters. 
+The symbolic dig took place Sunday. 
+“I think that’s something that we needed to do to keep moving forward and kind of give us that positive energy back,” Lucas said. 
+After a promising 7-6 finish in his first year on the job served as a clear step forward from the scandal-stung environment he entered, Franklin has quickly found out about the scrutiny and pressure that comes with coaching at such a promi­nent program. The grumbling around Pennsylvania Saturday grew loud. 
+“I get it. I get it. But I’d ask for everybody to take a deep breath, have some patience and stay positive,” Franklin said on the Big Ten coaches confer­ence call. “And good things are coming.” 
+Other notes from around the conference: 
+Banged up 
+Corey Clement’s debut as the featured running back for Wisconsin was waylaid by a sore groin that limited him to eight carries and a not-Badgers­like 16 yards in the 35-17 loss to Alabama. Coach Paul Chryst said he’d wait and see how the week goes before deciding whether to rest Clement against Miami of Ohio. 
+“There’s always that balance if a guy can play, who are you as a coach to prevent them from playing? And yet certainly there are some injuries that if you can benefit from rest, if it’ll help them heal, if they’re not healthy enough to go, then you certainly don’t play them,” Chryst said. 
+Nebraska quarterback Tommy Armstrong wore a walk­ing boot Monday, but coach Mike Riley said that was a pre­caution for a “temporary situ­ation,” without specifying the injury. 
+Riley said Armstrong was “do­ing much better” Tuesday and expected to practice. 
+Fashion statement 
+Northwestern’s win over Stanford, ranked 21st in the pre­season Associated Press poll, was the highlight of opening week­end for the Big Ten. On a steamy day in suburban Chicago, coach Pat Fitzgerald coached the game in shorts, with approval from the school administration and pro­gram sponsor under Armour. The idea was hatched by long­time equipment manager Curtis Shaner. 
+“Not trying to make any state­ments. Not trying to do any­thing, other than just beat the heat,” Fitzgerald said. 
+NCAA FOOTBALL 
+
+Kansas State to pay fine after band performance 
+Associated Press 
+
+Kansas State will pay a $5,000 fine and its marching band will perform without its director later this season as part of self-imposed sanc­tions following a routine that turned into a widespread social-media meme over the weekend. 
+The school also said Tuesday it would require approval of all future half­time shows after the Big 12 warned of potential sports­manship and ethical conduct violations. 
+The controversy erupted af­ter Saturday’s space-themed halftime show during the team’s home opener against South dakota. One formation featured the Kansas State band forming the university of Kansas mascot and a phallic-looking Starship Enterprise crashing into it. 
+Kansas State president Kirk Schulz quickly tweeted an apology for the perfor­mance, and band director Frank Tracz issued a state­ment Sunday in which he said “there was absolutely no in­tent to display anything other than the Enterprise and the Jayhawk in battle.” 
+
+“Our response has noth­ing to do with any perverted social media,” Kansas State athletic director John Currie said Tuesday. “Our response is solely the fact we por­trayed the disintegration of the Jayhawks by the Starship Enterprise.” 
+Currie said that was deemed by the Big 12 office to be an unsportsmanlike act. 
+Kansas State came under scrutiny last season when fans rushed the court after a victory over the Jayhawks in men’s basketball, with some physically jostling players. The school responded this fall by asking students pick­ing up football tickets to sign a sportsmanship code of conduct. 
+“This is very significant as it relates to the new sports­manship rules,” Currie said. “I believe that the Big 12 Conference and our univer­sity and our president are trying to be leaders in sports­manship. That is a significant aspect of this.” 
+The entire episode gener­ated thousands of responses on Twitter, ranging from humor to outrage. Even ac­tor William Shatner, who portrayed Captain Kirk on “Star Trek,” chimed in on his Twitter account after the sanctions were announced Tuesday: “I think it’s time for the @Big12Conference leaders to step down and get their eyes checked. What a travesty!” 
+Currie said school officials reached out to their counter­parts at Kansas, but he does not believe that the university of Kansas or its band was ever in contact with the Big 12. 
+
+The Observer accepts classifieds every business day from 8 a.m. to 3 p.m. at the Notre Dame office, 024 South Dining Hall. Deadline for next-day classifieds is 3 p.m. All classifieds must be prepaid. The charge is 5 cents per character per day, including all spaces. The Observer reserves the right to edit all classifieds for content without issuing refunds. 
+
+NCAA FOOTBALL 
+
+Serious injuries mar opening week 
+Associated Press 
+An injury-marred opening week of college football began with Arizona star linebacker Scooby Wright tearing carti­lage in his left knee and ended with Virginia Tech quarterback Michael Brewer breaking his collarbone. 
+They are expected to return sometime this season. Plenty of other players weren’t as fortunate. 
+Pittsburgh running back James Conner, TCu linebacker Sammy douglas, Notre dame running back Tarean Folston, Byu quarterback Taysom hill, Syracuse quarterback Terrel hunt and uCLA defensive tack­le Eddie Vanderdoes suffered likely season-ending injuries. 
+“Any team that has dreams of playing at the highest level real­izes they have to have depth be­cause you’re going to, through the course of the season, have some injuries,” uCLA coach Jim Mora Jr. said. “you have to have quality guys who can come in and fill that role. Most good teams do have that. 
+“It’s as easy as looking at Ohio State and their quarterback position last year to tell you how important quality depth is.” 
+Ohio State overcame injuries to quarterbacks Braxton Miller and J.T. Barrett on the way to winning last year’s national championship. 
+Some teams already have gone to the depth chart. 
+With a knee injury sidelining Conner, Pitt freshman Qadree Ollison ran for 207 yards in a 45-37 win over youngstown State and was chosen Atlantic Coast Conference rookie of the week. 
+Byu freshman quarterback Tanner Mangum replaced hill and threw a 42-yard hail Mary touchdown pass to Mitch Mathews as time expired to give the Cougars a 33-28 victory at Nebraska. 
+here’s a rundown of other no­table injuries: 
+MICHAEL BREWER, QB, VIRGINIA TECH 
+After breaking his collarbone in a 42-24 loss Monday to No. 1 Ohio State, Brewer will miss four to eight weeks. he was replaced by Brenden Motley, a mobile quarterback who isn’t nearly as polished a passer as Brewer. 
+JAMES CONNER, RB, PITTSBURGH 
+The reigning ACC player of the year tore the medial collat­eral ligament in his right knee Saturday. Ollison has a difficult task trying to replace Conner, who rushed for 1,765 yards and set an ACC record with 26 rush­ing touchdowns last season. 
+SAMMY DOUGLAS, LB, TCU 
+douglas was hurt Thursday while making his first career start in a 23-17 victory at Minnesota, though the nature of his injury hasn’t been specified. The loss of douglas adds to the youth of what already was an inexperienced TCu linebacker corps. No. 3 TCu entered the season as the only Football Bowl Subdivision pro­gram whose linebackers had never started a college game. 
+JESSE ERTZ, QB, KANSAS STATE 
+Ertz got hurt early in a 34-0 vic­tory over South dakota. Without detailing the nature of Ertz’s injury, Kansas State coach Bill Snyder said the quarterback would be out “for quite some time.” Joe hubener re­placed Ertz on Saturday and went 9 of 18 for 147 yards and a touchdown. 
+PAId AdVERTISEMENT 
+TAREAN FOLSTON, RB, NOTRE DAME 
+Notre dame’s top returning rusher from last season tore the ACL in his right knee in a 38-3 victory over Texas. Folston’s in­jury makes C.J. Prosise the ninth-ranked Irish’s No. 1 running back and creates playing time for freshmen Josh Adams and dexter Williams. 
+TAYSOM HILL, QB, BYU 
+he sustained a mid-foot sprain against Nebraska, marking the third time in four years that an injury has ended hill’s season early. Mangum, who takes over for hill, isn’t a typical freshman. he graduated from high school in 2012 and returned three months ago from a Mormon mission in Chile. 
+TERREL HUNT, QB, SYRACUSE 
+After missing the last seven games of the 2014 season with a broken left calf bone, hunt injured his right Achilles ten­don Friday in a 47-0 win over Rhode Island. Freshman Eric dungey replaced him and went 10 of 17 for 114 yards and two touchdowns. 
+EDDIE VANDERDOES, DT, UCLA 
+during the 13th-ranked Bruins’ 34-16 victory over Virginia in which he made a team-high eight tackles, Vanderdoes tore a knee ligament. his injury creates more playing time for Eli Ankou and Matt dickerson. 
+KEVIN WILLIAMS, WR, CLEMSON 
+Clemson’s top receiver from last season sustained a small frac­ture in his neck Saturday when he crashed into a padded goal post while making a touchdown catch in a 49-10 rout of Wofford. Clemson coach dabo Swinney said Williams “might not be able to play the rest of this year” for the 12th-ranked Tigers. Williams’ in­jury may allow germone hopper to inherit a starting role. 
+SCOOBY WRIGHT, LB, ARIZONA 
+The 2014 Nagurski Trophy, Lombardi Award and Bednarik Award winner is expected to miss three or four weeks for the 22nd-ranked Wildcats after in­juring his knee in Thursday’s 42-32 win over Texas-San Antonio. 
+
+
+
+ThE OBSERVER | WEDNESDAY, SEPTEMBER 9, 2015 | NdSMCOBSERVER.COM 
+
+Panken 
+CONTINuEd FROM PAgE 16 
+a great sport because there are always areas to improve.” 
+After redshirting his freshman year, Panken saw his Notre dame career take off in 2013, when the Irish won the program’s first na­tional title. Panken netted his first career goal to put the Irish on the board in the 3-0 win at Syracuse on Sept. 13, 2013. he also pushed the Irish ahead 3-2 with his goal in the 4-2 win over Wake Forest in the NCAA round of 16 match on dec. 1, 2013, and again put the Irish ahead, 1-0, Notre dame’s 2-1 victory over Michigan State in the NCAA quarterfinals on dec. 7, 2013. 
+All these spurts led Panken and his teammates to what he said he considers his all-time soccer moment. That time, the Irish took down Maryland, 2-1, for the national title. 
+“My best moment on the field had to be winning the national championship in 2013,” Panken said. “It was amazing to be on the field after that game, to see how all the hard work we had put in all year had paid off and to be able to celebrate that with all my teammates.” 
+Panken said the Irish are striv­ing for the usual, easier-said­than-done goal once again, the enviable “Big 3” — to win the ACC regular season, ACC tour­nament and NCAA tournament. his personal goals, though, are a little less tangible — in terms of titles, that is. 
+“My goals for this season are to play well and help the team succeed in anyway possible,” Panken said. “I also want to be a leader for the underclassman and be a resource for them. As a senior I think everyone is put into a leadership position be­cause you are now the ones who know what the program is about and the ones who are role mod­els for the underclassmen. 
+“I am grateful to be part of such a strong senior class that prides itself on both academic and athletic excellence. I hope that the underclassmen will see the standards that my class­mates and I hold ourselves to and take these on to be their own.” 
+With another year of eligibil­ity to chug along, Panken could have one more season to rein­force those standards. 
+“My plans for next year are still a bit up in the air,” Panken said. “I am eligible for a fifth year for soccer and would love to take that. 
+“I will also be applying to medical school next year, so I will just have to wait and see where life takes me.” 
+In the meantime, between winning potential NCAA titles and MCAT prep, Panken and his engine-like grittiness will help the Irish take on their first ACC opponent of the season, No. 9 Clemson, on Saturday at 7 p.m. at Alumni Stadium. 
+Contact Kit Loughran at kloughr1@nd.edu 
+
+
+PAId AdVERTISEMENT NdSMCOBSERVER.COM | WEDNESDAY, SEPTEMBER 9, 2015 | ThE OBSERVER 
+
+
+
+ND WOMEN’S SOCCER 
+
+Jacobs makes easy transition to life at ND 
+By MAREK MAZUREK 
+Sports Writer 
+For most students, college is a new experience. For student ath­letes, it’s a whole different game. The game is faster and players are bigger and tougher. Most fresh­men need an adjustment period. Not freshman forward Natalie Jacobs. 
+Jacobs had an impressive re­sume heading into her first year. She was ranked the sixth-best high school recruit by the IMg Academy and has seen exten­sive playing time with the u.S. Women’s National Team as a member of the u-14, u-17, u-18 and u-20 squads. Jacobs said her experience has helped ease her transition into the college-level game. 
+“[International] games are re­ally important because they bring out a lot,” Jacobs said. “They show you every different kind of situa­tion that I would be in. 
+“going through all the differ­ent times with that team and the nerves with that help me through­out anything that I go through be­cause of the experiences that that brought.” 
+As a highly-ranked recruit, Jacobs had multiple options when deciding on where to take her talents. however, Jacobs said the complete package Notre dame represented was what brought her to South Bend. 
+“There’s so many cool aspects of [Notre dame],” Jacobs said. “definitely the soccer is top-notch and it’s a great program. 
+“And then academically it’s a great school as well, so I wanted that. Also a thing that really stood out to me was the religious part of it, how it’s a great place for that. So it’s all those things combined, I think, that really make it such a cool place.” 
+As Jacobs has begun to find her niche on campus, the num­bers certainly indicate that she has found her place on the field. Through just six games, Jacobs leads the No. 13 Irish with four assists and finds herself with two goals, just shy of lead scorer senior forward Anna Maria gilbertson. 
+Those are not the statistics of a freshman looking to find her way, but rather those of a major con­tributor to a top ten program. 
+The modest Jacobs said she is not willing to take all the cred­it, saying her teammates have helped her elevate her own game. 
+“I think a lot of [the success] is the people that I’m playing with,” Jacobs said. “having a great de­fense that … hardly allows any goals really takes the pressure off the people up front, allow­ing more opportunity for us. And then having such great players around me for me to play with definitely helps a ton in all these games.” 
+Off the field, Jacobs said her teammates continue to sup­port her in the locker room and beyond. The atmosphere in the locker room is just another com­ponent that Jacobs said has made Notre dame special to her. 
+“It’s an awesome environ­ment,” Jacobs said. Everyone’s so friendly, you can kind of pump each other up before games, but with all that it definitely has a seri­ous tone because each game we’re trying to get something done.” 
+And while Jacob thrives on the support from her teammates and the atmosphere they foster, Jacobs said she still criticizes her own play to constantly find ways to grow her game. 
+“I can improve in every area,” Jacobs said. “Keep working on every part of each day try to im­prove in my shots and the way I’m playing. 
+“I think in every category, I can always get better.” 
+Jacobs will continue to help the Irish through their 2015 schedule, starting with Indiana on Friday at Alumni Stadium at 7 p.m. Jacobs and the Irish take on their first ACC competitor Clemson on Sept. 19 at Riggs Field in Clemson, South Carolina at 7 p.m. 
+
+
+Contact Marek Mazurek at mmazurek@nd.edu 
+
+
+
+ThE OBSERVER | WEDNESDAY, SEPTEMBER 9, 2015 | NdSMCOBSERVER.COM 
+
+Football 
+CONTINuEd FROM PAgE 16 
+particular, that this still comes down to our prepara­tion and then meeting and exceeding our opponent’s will to win. 
+“I think that first home game for Virginia, playing Notre dame, they will have a high, high will to win, and we’re going to have to match and exceed that if we want to come out of Charlottesville with a victory.” 
+The game marks the first time in program history Notre dame has compet­ed in the commonwealth of Virginia. The only other previous contest between the Irish and the Cavaliers came at the now-demol­ished giants Stadium in New Jersey in 1989, a 36-13 Notre dame victory. 
+Defensive improvements 
+Though the Irish defense kept Texas out of the red zone for the entirety of Saturday’s 38-3 win and yielded just a field goal to the Longhorns, Kelly said the sample size of a single game is too small to determine how good his de­fense is. however, he said he knows what the defense will need to do to have a strong season. 
+“Certainly, the measure­ment of a great defense will be in its longevity,” Kelly said. “I think we saw some good things last year and then some injuries, obvious­ly, derailed us. I think that will certainly be the case again this year. We’re go­ing to need to keep some key players on the field.” 
+Kelly said his fully-stocked defense was able to chal­lenge Texas’ offense in a way the Irish struggled in last year. 
+“I think, first and foremost, I would say that our defense is so much more comfortable with the communication,” Kelly said. “We didn’t have any issues with tempo. We actually drove them out at tempo, which is a first for our defense in a sense that, obvi­ously, that was a problem for us last year.” 
+Anchoring that defense was junior linebacker Jaylon Smith, who led the way with seven tackles and a sack Saturday. Kelly did not shy away from revealing how Smith stacked up against other players he’s coached in his 23-year career. 
+“Short answer, I haven’t coached a player like him be­fore, period,” Kelly said. “ … he can line up with his hand on the ground. he can cover the inside receiver. he can play in the box. he can tack­le in open space. There’s not much he can’t do. he’s a rare, rare defensive player. It’s just fun watching him play.” 
+Contact Mary Green at mgreen8@nd.edu 
+
+
+
+
+PAId AdVERTISEMENT 
+
+PAId AdVERTISEMENT 
+
+
+NdSMCOBSERVER.COM | WEDNESDAY, SEPTEMBER 9, 2015 | ThE OBSERVER 
+
+CROSSWORD | WILL ShORTZ 
+
+
+SUDOKU | ThE MEPhAM gROuP 
+
+HOROSCOPE | EugENIA LAST 
+Happy Birthday:Keep your life simple and your overhead reasonable. you don’t have to impress anyone this year. Just be yourself and enjoy what life has to offer. your ability to get things done using your skills and common sense will help you counter any negative influences. Focus on financial improvements and perfecting your image and talents. your numbers are 6, 11, 23, 29, 38, 40, 46. 
+ARIES (March 21-April 19): you will gain more by being nice than by being stern. Keep in mind that not everyone is as quick as you are. Patience will be required if you want help. discuss your plans with your partner or business associate. 
+
+
+TAURUS (April 20-May 20): Look at the big picture, but don’t exceed your budget. you’ll face opposition if you try to make physical changes. Focus on getting along with the people you live with. Compromise and taking care of your responsibilities will ease tension. 
+
+
+GEMINI (May 21-June 20): don’t take on too much or indulge in something that will make you look or feel bad. Put more into home, family and affection toward the people you enjoy being with most. A change of location will do you good. 
+
+
+CANCER (June 21-July 22): uncertainty will take over if you allow someone to put you in a vulnerable position. don’t put up with pushy behavior. Take a course or research something that interests you. Avoid anyone who is trying to bait you into a disagreement. 
+
+LEO (July 23-Aug. 22): Money matters will take an unusual twist. don’t leave cash or valuables out in the open. Kindness and generosity will lead to loss. Put your skills to work in a progressive fashion and you will advance. 
+
+
+VIRGO (Aug. 23-Sept. 22): use old ideas and skills in an interesting manner. Take on less responsibility and make sure that whatever you do, you do it superbly. A sudden change in financial, legal or health matters will lead to an important decision. 
+
+
+LIBRA (Sept. 23-Oct. 22): don’t let minor setbacks put you at a disadvantage. Set reasonable goals and don’t worry about what anyone else thinks. Stay on track and avoid any emotional disputes. Only offer help to those you know will reciprocate. 
+
+
+SCORPIO (Oct. 23-Nov. 21): Business trips will give you reason to celebrate. A positive change at home and to your reputation is within reach. A proposal you cannot turn down is heading your way. Prepare to negotiate and get what you want in writing. 
+
+
+SAGITTARIUS (Nov. 22-Dec. 21): Precision, coupled with facts and figures, will be the only way to operate today. Know exactly what you will get before you make any offers. Risky joint ventures are best avoided. Invest in yourself. 
+
+
+CAPRICORN (Dec. 22-Jan. 19): don’t overanalyze. Focus on what you know and do well and make deals that are precise and non-negotiable. A partnership can bring you good fortune if it’s set up fairly. don’t make any impulsive decisions or travel to unsafe territory. 
+
+
+AQUARIUS (Jan. 20-Feb. 18): Make love, romance and social activities a priority. Share your thoughts and flesh out how others feel about you and your plans. A personal change can be made, but hold off if you are thinking about a vocational move. 
+
+
+PISCES (Feb. 19-March 20): Take action with confidence and the outcome will be stellar. use your unique qualities to draw reactions and responses from those you want to interact with. you will be pleasantly surprised by the input and offers you receive. 
+
+
+Birthday Baby: You are adaptable, compassionate and just. You are courageous and captivating. 
+JUMBLE | dAVId hOyT ANd JEFF KNuREK 
+
+
+
+
+Make checks payable to and mail to: The Observer 
+P.O. Box 779 
+Notre dame, IN 46556
+
+
+ Enclosed
+ is $130 for one academic year
+
+
+ Enclosed
+ is $75 for one semester
+
+
+Published Monday through Friday, The Observer is a vital source of information on people and events in the Notre Dame and Saint Mary’s Community. 
+Name 
+
+Join the more than 13,000 readers who have found The Observer an indispensable link to the two campuses. Please complete the accompanying 
+Address 
+
+form and mail it today to receive The Observer in your home. 
+City State Zip 
+
+FOOTBALL 
+
+Kelly names Prosise starting running back 
+
+By MARY GREEN 
+Assistant Managing Editor 
+With junior Tarean Folston sidelined for the season with an ACL tear, senior receiver­turned-running back C.J. Prosise moved up No. 9 Notre dame’s depth chart to the starting running back role against Virginia on Saturday. 
+Right behind him are true freshmen Josh Adams and dexter Williams, both of whom received playing time against Texas as well. 
+At his press conference Tuesday afternoon, Irish head coach Brian Kelly said Adams has picked up ele­ments of the offense quicker than most first-year players. 
+“Josh does a pretty good job of recognizing the move­ment after the snap. That’s generally the learning curve for the younger players,” Kelly said. “They’re good on the board. They can see it and draw it up, but then they move. They weren’t in that position after the snap. So some take a little more time with that concept of pre­snap, post-snap. Josh seems to pick that up, and it’s just his ability to learn quicker than others.” 
+Kelly said all three backs will receive reps with the first team Saturday, but Prosise won’t play with the second team. he added that, under the current circumstances, he would like to see Prosise carry the ball between 15 and 20 times a game. 
+“We don’t feel like we’re putting him in a position of taxing him at that number,” Kelly said. 
+Recent road struggles 
+Virginia will present the Irish with their first game of the season on the road, where Notre dame has strug­gled recently. Excluding neu­tral-site games, the team’s last true road win came against Air Force in Colorado Springs, Colorado, on Oct. 26, 2013. Since then, the Irish have dropped five straight games of that type. 
+Notre dame has also lost its last two matchups against ACC opponents, at Florida State last October and at home against Louisville in November. 
+“We know that Virginia plays extremely well at home as well,” Kelly said. “So our guys, what I talked to them yesterday about in 
+see FOOTBALL PAGE 14 
+MEN’S SOCCER 
+
+Panken leads with heart and grit in senior season 
+By KIT LOUGHRAN 
+Sports Writer 
+The engine that could, senior midfielder Evan Panken thrives on his work ethic and commit­ment to the sport. 
+It’s not about being flashy for Panken. 
+“I would describe my style of play as gritty, and I like to think of myself as an engine,” Panken said. “I work hard in every game and never shy away from a challenge. 
+“I definitely play with my heart on my sleeve, and I really love the camaraderie of soccer.” 
+And his grittiness and heart have certainly taken him far on the pitch. Panken has started every game for the past two sea­sons — 45 straight contests. Not surprisingly, he’s started all four games in 2015. he’s managed one assist and six shots in that short time. 
+Last season, he contributed four goals and a career-high six assists, landing third on the Irish roster with 14 points. Panken attempted 24 shots, with 10 on goal, for a .417 shot-on-goal percentage. he posted the game-winning goal and added a sec­ond half assist in Notre dame’s 4-1 win over dartmouth on Sept. 
+6. From game-winning goals to assists, he also gave the assist on the game-winning goal in the 3-0 triumph over No. 15 Virginia in last season’s ACC champion­ship quarterfinal on Nov. 9. 
+And the engine doesn’t lose his steam on the field. Academically, the pre-med and Spanish double major was named to the all-ACC men’s soccer academic team in both 2013 and 2014. 
+Looking back on his suc­cess last year, Panken said he couldn’t have mastered his work ethic or field performance with­out his teammates. 
+“I would say that I have learned a lot from past upperclassmen that have moved through the program,” Panken said. “They were always willing and avail­able to help me in my personal development as my role on the team grew every year. 
+“Every year I have made it a goal to get better, and soccer is 
+see PANKEN PAGE 12 
+
+
+EMILY KRUSE | The Observer 
+
+Irish senior midfielder Evan Panken forces his opponent to the outside during Notre Dame’s 2-0 win over South Florida on Friday at Alumni Stadium. Panken has tallied six shots on the year so far. 
+
+
+
+
+

@@ -1,0 +1,1039 @@
+﻿Series IV.
+Number IV.
+BULLETIN
+OF THE
+University of Notre Dame
+NOTRE DAME, INDIANA
+Chemical and Mining Engineering
+PUBLISHED QUARTERLY AT NOTRE DAME
+THE UNIVERSITY PRESS
+April, 1909
+Entered at the Postoffi.ce, Notre Dame, Indiana, as second class
+matter, July 17, 1905.	'
+Chemical and Mining Engineering;
+A course in Mining Engineering was begun at the
+University Sept., 1908, and in Sept., 1909, Chemical En-
+gineering will be open to students wishing to take up the
+work peculiar to this course.
+The demand for such training as will afford a chemist
+a fair understanding of the subjects essential to Mechani-
+cal and Electrical Engineering makes a course in Chemical
+Engineering desirable. Eor this course there will be
+required a greater number of hours per week than for
+other Engineering courses with the exception of Mining
+Engineering, but the ground covered and the information
+imparted will be worth the extra effort.
+Mining Engineering will make even greater demands
+on the student as far as hours of work are concerned.
+It is not possible to equip the mining engineer satis-
+factorily for his work without familiarizing him with the
+work set down in the program of studies, (E- M.
+Program) that follows.
+The four year course in Chemical Engineering leads to
+the degree of Chemical Engineer, (Ch. E.) The four
+year course in Mining Engineering leads to the degree of
+Engineer of Mines, (E. M.) The requirements for ad-
+mission to the courses of either Chemical or Mining
+Engineering are the same as those required for entrance
+to any course of Engineering.
+Bulletin of the University of Notre Dame
+3
+REQUIREMENTS FOR ADMISSION
+Algebra. The whole subject as far as logarithms, as-
+given in Wentworth's College Algebra, or an equivalent
+in the larger treatises of other authors.
+Geometry. Plane and solid, including the solution of'
+simple original problems and numerical examples, as
+given in the works of Wentworth, Chauvenet, Newcomb,
+or an equivalent in treatises by other authors.
+Trigonometry. Plane and spherical.
+Civics. The Constitution of the United States; Fed-
+eral Government and State Government.
+History. General outlines of ancient, medieval and
+modern history.
+Geography. Physical, as much as is contained in
+Tarr's text-book or an equivalent treatise.
+Physics. Elementary. The preparation on this sub-
+ject should include a course of lectures, illustrated by
+experiments and recitations from a text-book like Carhart
+and Chute's or Gage's. laboratory work is also required.
+Chemistry. The elements of Chemistry, labora-
+tory work required.	'
+Botany, Physiology and Zoology. Elementary.
+Modern Language. Engineering students must
+present a three years’ course in German.
+English. Part of the examination time is given for
+answering questions upon books required to be read in
+the preparatory courses in English; the remainder for
+writing an essay.
+If the applicant passes these examinations satisfactorily
+he may begin at once the regular Freshman work; but
+if he is deficient in any one or more subjects he may
+enter conditionally and make up his deficiency as soon as.
+possible in the Preparatory School of the University.
+Credits from high schools or preparatory schools in
+good standing will be accepted in place of examinations..
+4
+Bulletin of the University of Notre Dame
+STUDIES PRESCRIBED FOR THE DEGREE OF
+MINING ENGINEER*
+FRESHMAN YEAR.
+SUBJECTS First Term	Hrs. a Week	SEE FOR DESCRIPTION		SUBJECTS Second Term	Hrs. a Week	SEE FOR DESCRIPTION	
+		Page	Course			Page	Course
+Algebra	5	18	I	Anal. Geom.	5	18	II
+Chemistry	4	6	II	Chemistry	4	6	II
+Drawing	3	14	I	Drawing	3	14	II
+Shopwork	3	22	XlVa	Shopwork	3	22	XlVb
+Mining Eng’ng.	5	23	I	Mining Eng’ng. Surveying	5 5	23 9	I II,III
+SOPHOMORE YEAR.
+Calculus	5	18	III	Calculus	5	19	IV, V
+R. R. Surveying	5	11	VI, VII	Adv. Surveying	5	10	IV, V
+Physics	5	24	II,III	Physics	5	24	II, III
+Chemistry	4	7	V	Chemistry	4	7	V
+Drawing	1	15	V	Drawing	1	15	V
+Crystallog’phy	5	16	IV	Mineralogy	5	16	II
+JUNIOR YEAR.
+Anal. Mechanics	5	11	VIII	Meeh, of Mats.	2	12	X
+Geodesy	4	12	IX	Hydromechan.	3	13	XVI
+English	3	15	I	Petrography	2	17	V
+Mineralogy	3	16	II	Geology	4	16	I
+Drawing	3	15	VIII	Drawing	3	15	VIII
+Shopwork	3	22	XIV e	Shopwork	3	22	XlVf
+				Chemistry	5	9	XV
+SENIOR YEAR.
+Metallurgy	3	23	I	Assaying	8	23	II
+Physical and Chern. Geol.	3	17	VI	Economic Mining Geol.	2	17	VII
+Petrography	2	17	V	Graphic Statics	5	13	XV
+Thermodynam.	5	19	I	Thermodynam.	3	19	II
+Materials of Engineering Shopwork	2 3	20 22	II XIV f	Thesis			
+Bulletin of the University of Notre Dame
+5
+STUDIES PRESCRIBED FOR THE DEGREE OF
+CHEMICAL ENGINEER.
+FRESHMAN YEAR.
+SUBJECTS First Term	Hrs. a Week	SEE FOR DESCRIPTION		SUBJECTS Second Term	Hrs. a Week	SEE FOR DESCRIPTION	
+		Page	Course			Page	Course
+Algebra	5	18	I	Anal. Geom.	5	18	II
+Chemistry	4	6	II	Chemistry	4	6	II
+Drawing	3	14	I	Drawing	3	14	II
+French	5	15	I	French	5	15	I
+English	3	15	I	English	3	15	I
+Shopwork	3	22	XlVa	Shopwork	3	22	XlVb
+SOPHOMORE YEAR.
+Calculus	5	18	III	Calculus	5	19	IV, V
+Physics	5	24	II,III	Physics	5	24	II,III
+Drawing	2	14	III	Drawing	2	14	III
+Chemistry	4	7	V	Chemistry	4	7	V
+Shopwork	3	22	XIV c	Shopwork	3	22	XlVd
+JUNIOR YEAR.
+Chemistry	5	7	VI	Chemistry	5	9	XV
+Physics	3	24	IV	Physics	3	24	IV
+Anal.Mechanics	5	11	VIII	Meeh, of Mats.	2	12	X
+Kinematics	3	21	V	Hy dromechan.	3	13	XVI
+Drawing	2	15	V	MachineDesign	3	21	VI
+Drawing	3	15	VIII	V alve Gears	2	21	VII
+				Chemistry	2	7	VIII
+				Steam Boilers	3	20	IV
+SENIOR YEAR.
+Chemistry	6	7	IX	Chemistry	7	7	IX
+Chemistry	3	8	XIII	Chemistry	4	8	XI
+Chemistry	5	9	XIV	Chemistry	5	9	XIV
+Thermodynam.	3	19	I	Thermoydnam.	3	19	I
+Mechanic’lLab.	3	22	VIII	Thesis			
+6
+Bulletin of the University of Notre Dame
+SUMMER WORK.
+Students taking tlie course of Mining Engineering are
+required to take a six weeks trip into mining regions,
+previously selected, during the summer preceding the
+senior year. The object of this trip is to familiarize the
+student with actual mining operations. Underground
+workings, hoisting plants, shaft houses, mills and
+smelters are thoroughly inspected. Practical work in
+mine surveying is given in order that the student may
+become familiar with the use of the transit underground.
+COURSES OF INSTRUCTION.
+CHEMISTRY.
+II.
+(a) Advanced Inorganic Chemistry. Lectures
+and recitations. A complete study of the elements and
+their most important compounds, following the classifi-
+cation based on MendeleefPs Law, and including a dis-
+cussion of the theories of science. Text-book, Alexander
+Smith's College Chemistry.
+[Two hours a week for two terms.]
+(A) Experimental Chemistry. A Laboratory
+•course to accompany Course II. {ay the work consist-
+ing of the preparation by the student of the elements and
+their more typical compounds, determination of mole-
+cular weights, verification of the fundamental laws of
+chemistry, etc. During the latter part of the course,
+•there is taken up the study of the reactions involved in
+the separation and detection of the more common inor-
+Bulletin of the University of Notre Dame
+ganic bases and acids, the analysis of salts, mixtures of
+salts, aud complex substances such as earths, ores,
+ashes, etc. Text-books, Perkin, Thorp, supplemented
+with lectures.
+[Two to three hours a week for two terms.]
+Quantitative Analysis. A laboratory study of the
+principles involved in the quantitative separation and
+estimation of substances, both gravimetrically and vol-
+umetrically. Complete analysis of a number of simple
+salts, like barium chloride, with partial analysis of many
+complex substances. Text-books, Appleton and Schimpf.
+[Four hours a week, with recitation, for two terms.]
+VI.
+{a} Elementary Organic Chemistry. lectures
+■and recitations. A systematic study of the hydrocarbons
+and their derivatives, and the investigation of their
+properties. Special attention is given to the aliphatic
+and aromatic series. Text-book, Remsen.
+[Three hours a week for one term.]
+(#) Experimental Organic Chemistry. A course
+fitted to accompany the preceding, involving the prepara-
+tion by the student in the laboratory of the most impor-
+tant and typical organic compounds and the investigation
+of their properties. Text-book, Gattermari s Manual.
+[Two hours a week for one term.]
+VIII.
+Technical Chemical Analysis. Iron Analysis.
+[Two hours a week for one term.]
+IX.
+(a)	Advanced Organic Chemistry. An advanced
+course, intended for students specializing in chemistry.
+8 Bulletin of the University of Notre Dame
+Lectures, recitations and discussions of special subjects
+of organic chemistry, synthetic chemistry, isomerism,
+and stereochemistry. Text-books, Cohen, and special
+reference works.
+[Two hours a week for one term.]
+(b)	Advanced Organic Laboratory, (i) The
+first term of this course is spent principally in the mak-
+ing of organic preparations by methods demanding
+special care, skill and accuracy in the student. (2) The
+second term is devoted to ultimate organic analysis,
+qualitative and quantitative; analysis of carbon, hydrogen,
+the halogens, sulphur and nitrogen in organic compounds
+by the various methods; also in the determination of
+molecular weights of organic compounds. Text-bookSj
+special notes and reference works.
+[Ten to fifteen hours a week for two terms.]
+XI.
+(a) Blrctrochbmistry. Lectures, experiments and
+recitations on the principles of electrochemistry and their
+application in the chemical industries, separation of
+metals, the preparation of chemical elements and elec-
+trosynthesis of compounds. Text-books Classen and
+Litpke.
+[Two hours a week for one term.]
+(£) EeECTrochemicae Laboratory. A laboratory
+course accompanying Course XI. (a). Experiments
+demonstrating the laws and principles of electrochemis-
+try, electroylsis, electrosynthesis and electrometallurgy.
+Quantitative determination of metals electrolytically.
+Text-books, Litpke and Classen.
+[Two hours a week for one term.]
+XIII.
+(a) Physical Chemistry. Lectures, recitations
+and demonstrations, experiments on the subjects of gas
+Bulletin of the University of Notre Dame
+9
+density, solutions, chemical dyamics, the phase rule,
+thermochemistry, photochemistry, etc. Text-book, Van
+Deventer.
+[Two hours a week for one term.]
+(£) Experimental Physical Chemistry. Lab-
+oratory work to accompany Course XIII. («). Vapor
+density methods, calorimetric demonstrations, molecular
+weight demonstrations by the freezing and boiling point
+methods, etc.
+[One hour a week for one term.]
+XIV.
+Industrial Chemistry. Lectures recitations and
+laboratory work. The consideration of chemical manu-
+facture, fuels, etc., and the preparation in the laboratory
+of chemically pure substances, organic and inorganic.
+Special reference books and journals. Special attention
+given to advanced organic work.
+[Five hours a week for two terms.]
+XV.
+Advanced Quantitative. Mostly laboratory work
+in special methods for gravimetric and volumetric de-
+terminations of inorganic substances. Special reference
+work.
+[Five hours a week for one term.]
+CIVIL ENGINEERING.
+II.
+Surveying. This course comprises the whole theory
+of land surveying and leveling; the use and adjustment
+of the transit, compass, level, and plane table ; methods
+of measuring; relocations of boundaries; supplying
+omissions; obstacles to measurement; computations;
+10 Bulletin of the University of Notre Dame
+field notes and plots ; laying out land; parting ofi land;
+dividing up land; public lands survey. Text-book,
+Gillespie.
+[Five hours a week for one term J
+III.
+Surveying. Field practice and application of theory;
+adjustment and use of instruments in the field ; solution
+of problems in the field, the theory of which is taught in
+the class room ; practice in keeping field notes; computa-
+tion and plots.
+[Five hours a week for six weeks.]
+IV.
+Higher Surveying. This course is a more complete
+treatment of the theory of Surveying than Course II. and
+cannot be taken until the completion of that course. It
+treats of the adjustment, use, and care of all kinds of
+engineering instruments; problems pertaining to solar
+attachment; topographical surveying with the transit
+and stadia; mining surveying ; mining claims; survey of
+mines with shafts and drifts; determining positions of
+ends of tunnels, and depths below surface; theory of
+hydrographic and city surveying; geodetic surveying and
+leveling; measuring base lines; adjustments of angles,,
+triangles, and quadrilaterals; latitude and azimuth;
+time and longitude; changing mean time into sidereal
+time and sidereal time to mean time. Text-book,.
+Johnson.
+[Five hours a week for one term.]
+Surveying. Fxercises in the field in the adjustment
+and use of engineering instruments; stadia and plane
+table surveying in the field, leveling; practice in hydro-
+graphic surveying.
+[Five hours a week for six weeks.].
+Bulletin of the University of Notre Dame 1I
+VI.	.
+Railroad Surveying. This course comprises all the-
+theory pertaining to reconnoissance and preliminary
+surveying for a railroad; theory and maximum economy
+in grades and curves; location of curves by deflection
+angles and offsets ; obstacles to location of curves ; special
+problems in curves; theory of compound curves ; turnouts,
+and crossings; curving the rail on curves and elevation
+of outer rail; easing grades on curves; vertical curves;,
+earthwork and prismoidal formula; theory of excavation
+and embankment; correction in excavation on curves
+cross-section leveling; theory of the transition curve and
+practical applications. Text-book, Searle, Crandall.
+[Five hours a week for one term.]
+VII.
+Railroad Surveying. Exercises in the field; staking-
+out and running tangents, simple, compound and transi-
+tion curves ; execution on the ground of many problems,
+previously treated theoretically; survey for a short line
+of railroad, leveling, cross-section work, and setting slope
+stakes ; making profiles aud maps ; calculating the neces-
+sary excavations and embankments and cost of construc-
+tion; culverts.
+VIII.
+Analytic Mechanics. The aim of this course is to
+prepare students of engineering for the study of the
+courses of applied mechanics. The course comprises a
+study of the fundamental principles of statics, kine-
+matics, and kinetics. The subjects selected are studied
+with the object of thoroughly preparing the engineering
+students to pursue the technical and practical branches
+of their resgective courses. Some of the topics con-
+sidered in this course are: work, energy, conservation
+12 Bulletin of the University of Notre Dame
+of energy; power, composition and resolution of forces,
+center of gravity, center of mass, moment of inertia,
+acceleration, dynamics of rigid bodies, laws of friction,
+etc.
+[Five hours a week for fourteen weeks.]
+IX.
+Gfodbsy. This is an elementary course prescribed for
+Civil and Mining Engineering students in the Junior
+year, and comprises a study of the instruments and
+methods of observation, base measurements and field
+work of the triangulation ; methods of least squares,
+elementary course; calculation of the triangulation, and
+theory of probable errors; geodetic latitudes, longitudes,
+and azimuths. This is followed by a brief discussion of
+the figure of the earth. Text-book,Merriman.
+[Four hours a week for one term.]
+Mechanics of Materials. This course is intended
+to meet the requirements of engineering students, and to
+prepare them, by a study of the action and effect of
+forces on beams and structures, to design economically
+and intelligently the parts entering into a complete
+structure. This course comprises a study of the elastic
+and ultimate strength and ultimate deformation of the
+materials of engineering, their properties and methods
+of testing, and discussion of cases of simple stresses.
+The general theory of beams including cases of simple
+and cantilever beams, overhanging, fixed, and continuous
+beams, is thoroughly investigated. Columns are examined
+according to Euler’s, Rankine’s and other formulae, and
+results compared. Some of the other subjects con-
+sidered in this course, are torsion of shafts, the trans-
+’ mission of power by shafts, apparent combined stresses,
+Bulletin of the University of Notre Dame 13
+such as flexure and compression, flexure and torsion, etc.
+Compound columns and beams, reinforced concrete
+beams, plate girders and other forms. Then is studied
+the subjects, resilience and work, impact and fatigue,
+true internal stresses, centrifugal tension .and flexure,
+unsymmetric loads on beams,—the course closing with
+a study.of the mathematical theory of elasticity.
+[Two hours a week for one term.]
+XV.
+Graphic Statics. This course teaches the deter-
+mina of stresses in framed structures by the graphical
+method. Shearing forces, bending moments, centers of
+gravity, and moments of inertia are graphically deter-
+mined by the application of the principles of the force
+and equilibrium polygons; also the determination of
+stresses in bridge trusses with -parallel chords and with
+broken chords, caused by uniform loads and locomotive-
+wheel loads; graphical determination of stresses in roof
+trusses, graphical treatment of the arch symmetrical and
+unsymmetrical cases, graphical methods of arch-ribs of
+hinged ends and of fixed ends; stress diagrams; tem-
+perature stresses; braced arches; graphics applied to
+continuous girders. This course is supplemented by full
+explanations, notes, examples, and problems. Text-book
+Merriman.
+[Five hours a week for one term.]
+XVI.
+Hydromechanics. This course is a thorough study
+of the theory of hydrostatics, hydraulics, and hydrody-
+namics, to which are added many practical exercises.
+The subjects submitted are the transmission of pressures,
+center of pressures; velocity of flow from orifices of
+various shapes; fluid friction ; Bernaulli’s theorem with
+friction ; Chezy’s formula; Kutter’s formula; flow over
+14
+Bulletin of the University of Notre Dame
+weirs, and through tubes ; flow in pipes; loss of head in
+friction and other losses; flow in conduits, canals, and
+rivers; velocities in cross sections; methods of gauging
+the flow, measurement of water power, dynamic pressure
+of flowing water; designing of waterworks and stand-
+pipes ; hydraulic moters and relative merits; discussion
+of water wheels of different types, and a study of the
+conditions determing high efficiencies; classification of
+turbines, and a complete study and discussion of the
+different forms.
+[Three hours a week for one term.]
+DRAWING, MECHANICAL.
+I.
+Freehand. This course consists of sketching with
+pencil and pen from flat copies and models of machine
+parts, and freehand lettering, hater in the term, the use
+of instruments, section-lining and lettering are taught.
+Text-book, Jamisori s Elements.
+* [Three hours a week for one term.]
+II.
+Projection Drawing. The course embraces the
+principles of projection, methods of shop-drawing,
+tinting, tracing, blueprinting, line-shading and the
+preparation of working drawings of complete machines.
+This course must be preceded by Course I. Text-book,
+Jamisons Manual.
+[Three hours a week for one term.]
+III.
+Descriptive Geometry. A series of accurate plates
+is made, illustrating the principles of orthographic and
+.spherical projections, shades and shadows, perspective
+-and isometric projections.
+[Four hours a week for two terms.]
+Bulletin of the University of Notre Dame
+15
+Topography. Pen and colored topographical draw-
+ing, conventional signs, map drawing from notes taken
+from surveys. This course must be preceded by Course I.
+Text-book, Reed.
+VIII.
+Machine Drawing. A continuation of Course I.
+and II. embracing advanced work in machine drawing
+and the elementary principles of mechanical design with
+calculation of dimensions and construction of drawings
+from sketch-book notes. Text-book, Low's Machine
+Drawing and Design.
+{Three hours a week for two terms.]
+ENGLISH
+I.
+'(a) Sheran’s Handbook of Literary Criticism.
+[Three hours a week for fourteen weeks for Mining Engineering
+Students.]
+[Three hours a week for twenty-six weeks for Chemical Engineer-
+ing Students.]
+(jj) Sears’ Methods and Principles of Criticism.
+(Three hours a week for ten weeks for Chemical Engineering
+Students.]
+Practice in writing in all literary forms and assigned
+readings.
+FRENCH
+I.
+Grammar with written and oral exercises; the inflec-
+tion of nouns and adjectives, the use of all the pronouns
+the conjugation of reguar and the common irregular
+verbs; the correct use of moods and tenses; the essentials
+16 Bulletin of the University of Notre Dame
+of French syntax, and the common idiomatic phrases.
+Frequent practice in writing in all literary forms and
+assigned readings. Reading of three of the following
+works: La Tache du Petit Pierre, Mairet; Un Cas de
+Conscience, Gervais ; LaMain Malheureuse, Guerber; Sans
+Famille, Malot; Readings from French History, Super.
+[Five hours a week for two terms.]
+GEOLOGY
+I.
+Geology, Principles of. Lectures, recitations, de-
+monstrations. The study of the general features of the
+earth ; the material composing the accessible parts of the
+earth; the arrangements of the material in rocks; the
+causes of geological changes; the history of the earth
+and the various forms of life that existed in the different
+periods of successive geological ages. Text-book,
+Brigham.
+[Four hours a week for one term.]
+II.
+Mineralogy. The object of this course is to train
+the student to identify minerals by their physical
+characteristics, such as crystal form, cleavage, color,
+hardness and specific gravity without having to resort to
+blowpipe or chemical tests except in the rare minerals.
+Recitations are made upon drawers of minerals in which
+the student points out the distinguishing features by which
+he recognizes the different minerals. Text-book, Dana.
+[Five hours for one term, three hours for one term.]
+IV.
+Crystallography. In this course there is made a
+complete study of the laws in the different systems of
+crystal formation, by means of laboratory work in models,
+Bulletin of the University of Notre Dame 17
+natural crystals and cleavage specimens. Text-book,
+Williams.
+V.
+Petrography. This course is a study of rocks with
+regard to their classification, structure, mineralogical
+constituents., chemical composition and alterations; a
+study of the physical characters of the minerals shown
+in thin transparent rock sections with the aid of the
+microscope; a practical study of rocks in the hand
+specimens and also in summer field work.
+[Two hours a week for two terms.]
+VI.
+.Geology, Physical and Chemical. A course treat-
+ing of the origin and alterations of rocks, of general
+eruptive and earthquake action, metamorphism, faulting,
+jointing, and mountain building; the action of atmo-
+spheric agencies, surface and underground waters. All
+of which subjects are specially considered in their appli-
+cation to mining pursuits. Text-book, Chamberlin and
+Salisbury's Geology.
+[Three hours a week for one term.]
+VII.
+Geology, Economic Mining. A study of the genesis
+of the useful ore deposits, both metallic and non-
+metallic; an analysis of the relation existing between
+structural, dynamic and chemical geology, petrography
+and the ore deposits encountered in mining operations.
+Frequent reference is made to the bulletins, monogrophs
+and reports of the United States Geological Survey.
+Lectures and recitations.
+[Two hours a week for one tern.]
+18 Bulletin of the University of Notre Dame
+MATHEMATICS
+I.
+Algebra. This course includes a study of the
+binomial theorem, the theory of logarithms, choice,
+chance, variables and limits, series, determinants. Then
+follows a thorough study of the general properties and
+solution of equations, embracing the subjects of deriva-
+tives, transformation, detached coefficients, surd and
+imaginary roots, incommensurable roots, limits of roots,
+biquadratic equations, Des Cartes’ and Cardan’s rules;
+Sturm’s theorem; Horner’s method. Text-book, Went-
+worth.
+[Five hours a week for one term.]
+II.
+Analytic G^ombtry. This course includes a study
+of the point and right line; conic sections ; their equa-
+tions and properties; discussion of the general equation
+of the second degree containing two variables; different
+systems of coordinates; transformation of coordinates;
+an elementary course in geometry of three dimensions,
+embracing the point, straight line, plane, and surfaces of
+revolution; transformation of coordinates; quadric sur-
+faces and supplementary propositions. Text-book,
+Bailey and Woods.
+‘ [Five hours a week for one term.]
+III.
+Calculus, Difflrkntial. This course as also
+Courses IV. and V. is designed to meet the requirements
+of Engineering students. It includes a study of the
+methods for the differentiation of algebraic, logarithmic
+and exponential, trigonometric, and inverse trigonometric
+functions, successive differentiation, and differential co-
+efficients ; treatment of implicit and compound functions;
+Bulletin of the University of Notre Dame
+19
+expansion of functions; indeterminate forms; partial
+differential coefficients of the first order and of higher
+orders; direction of curvature; radius of curvature;
+envelopes; maxima and minima of functions of one
+independent ^variable, and of several independent vari-
+ables ; tracing curves; differentials of arcs, plane areas
+surfaces and volumes of revolution. Text-book, Osborne.
+(Five hours a week for one term. [
+IV.
+Calculus, Integral. Integration of elementary
+forms and of rational fractions; integration by rational-
+ization and by parts; successive integration; multiple
+integrals . definite integrals, limits of integration; double
+integration applied to plane areas and surfaces of revo-
+lution ; surface and volume of any solid; intrinsic equa-
+tion of a curve. This course is supplemented by numerous
+exercises and examples. Text-book, Osborne.
+[Five hours a week for twelve weeks.]
+Differential Equations. An elementary course for
+Engineering students, supplementary to the course of
+integral calculus. It embraces equations of the first
+order and first degree; equations of the first order, but
+not of the first degree; singular solutions; linear equa-
+tions with constant coefficients; special forms of equations
+with higher orders. Numerous applications to mechanics
+and physics are introduced during the course. Text-
+book, Murray.
+[Five hours a week for six weeks.]
+MECHANICAL ENGINEERING
+I.
+Thermodynamics. The subject begins with a theo-
+retical study of the steam engine, gas engine and other
+20
+Bulletin of the University of Notre Dame
+heat motors involving the laws of thermodynamics of
+gases, saturated vapors and superheated steam. The
+applications of this preliminary work are then dwelt
+upon, and prime movers, the injector, condensers, refrig-
+erating machinery, boilers and pumps are studied in
+detail. During the second term a study of the difficult
+types of internal combustion engines is made together
+with a general study of casts in operating power plants.
+Frequent reference is made to trade catalogues, of which
+an abundant supply should be obtained by the student.
+Text-book, The Steam Engine by Holmes.
+[Fours hours a week for two terms.]
+II.
+Materials of Knginebing. This course, supple-
+mented by shop work and laboratory work in testing
+materials of construction, is designed for the purpose of
+acquainting the student with the properties or the ma-
+terial he will use in his profession. Tensile and shearing
+strength, elasticity and resistence are studied, together
+with the effects of strain, intermittant' loading and
+impact. The process of manufacture of the most im-
+portant materials, is taken up, and estimates of the cost
+of construction at market prices complete the work.
+Text-book, Thurston1 s Materials of Engineering.
+[Two hours a week for one term.]
+IV.
+Steam Boilers. This subject is treated much as
+that of Course III. The determination of sizes of parts
+from considerations of strains, thickness of shells, size
+of rivets, braces, furnaces and proper methods of con-
+nection of boilers, with efficiency of furnaces and life of
+boiler, are some of the subjects considered. The method
+of determining the efficiency of fuels, heating surface,
+Bulletin of the University of Notre Dame 21
+heights of chimneys, boiler settings and materials used
+in connection are also discussed. Text-book, Steam
+and Boilers by Munro.
+[Three hours a week for one term.]
+* V.
+Kinematics. This course treats of the geometry of
+machinery, the determination of the paths of the various
+parts of an elementary combination and the constraining
+of the parts to move in these paths. The general theory
+is then applied to cams, and gear teeth, the relative motion
+of machine parts and kinematic trains, belts, pulleys,
+speed cones, link work and other aggregate combinations.
+Barf s Kinematics of Machinery is the text-book used.
+[Three hours recitation and two hours drawing a week for one
+term.]
+VI.
+Machine Design. This work involves a study of
+the form and strength of machine parts as applied in
+designing, with computation of dimensions for fastenings,
+bearings, rotating pieces, belt and tooth gearing, etc.
+The derivation of rational formulae and the determina-
+tion of empirical formulae are included and applied in
+designing. The text-books used are Unwiri s Elements
+of Machine Design, Low s Handbook for Mechanical
+Engineers and Reed's Machine Design and Drawing.
+[Three hours a week for one term.]
+VII.
+Valve Gears. This course includes a complete study
+of the Bilgram diagram as applied to slide valves and the
+principal automatic cut-off engines. The radical gears,
+such as Hack worth, Walschaert, Marshall and Joy are
+treated in the same way, and in conclusion the student is
+made familiar with the various types of Corliss valves,
+22
+Bulletin o£ the University of Notre Dame
+shifting eccentrics and link motions. The text-book is
+Halsey* s Valve Gears.
+[Two hours a week for one term.]
+»	VIII.
+Mechanical Taboratory. The work taken up in-
+cludes a study of the methods of testing the steam engine
+under varying running conditions, valve setting, cali-
+bration of thermometers, gauges and indicator springs,
+use of Prony brake, Weber and Emerson dynamometers.
+Pelton water wheel, Weir calibration, etc. Text-book,
+Carpenter* s Experimental Engineering.
+[Five consecutive hours a week for one term.]
+SHOPWORK.
+XIV.	,
+(a) Woodwork. Exercises in planing, splicing,
+framing, scroll sawing and turning.
+[Three hours a week for one term.]
+(£) Application op Carpentry to pattern making,
+cores, etc., including parts of machines, pipe joints,
+cranks and bearings.
+[Three hours a week for one term.]
+(E) Foundry Practice. Setting up and drawing
+simple and complicated patterns. lectures on heating
+and pouring metals for different purposes. Core making.
+[Three hours a week for one term.]
+{d) Iron Forging, welding, annealing, shaping,
+tool making, tempering and case hardening.
+[Three hours a week for one term.]
+(^) Benchwork in iron, including surface chip-
+ping, key setting, draw filing, scraping and polishing.
+[Three hours a week for one term.]
+Bulletin of the University of Notre Dame 23
+(/) Accurate Work on lathe, planer, shafting and
+milling machines. Construction of machine tools, reamers,
+taps, twist drills, gear wheels and complete machines.
+[Three hours a week for two terms.]
+METALLURGY.
+I.
+•»
+Mrtaiaurgy. Among the subjects studied in this
+course are the following—classification of ores, sampling,
+crushing, milling practice, roasting and smelting; the
+various extraction processes of the following metals—
+gold, silver, copper, lead and zinc, are given special
+attention; the production of pig iron in blast furnaces.
+A trip of inspection is made to smelting plants, blast
+furnaces and mills (stamps and rolls) in order to
+familiarize the student with metallurgy plants in
+operation.
+[Three hours a week for one term.]
+II.
+Assaying. This course consists of a series of actual
+determinations of the quantity and value of gold, silver
+and lead in the various ores by the crucible and
+scorification methods of the fire assay; the assaying of
+gold and silver bullion; determining the strength of
+cyanide working solutions; the assay of gold bearing
+cyanide solutions; and wet determinations of copper and
+zinc.
+[Eight hours a week for one term.]
+MINING ENGINEERING
+-	I.
+Mining Engineering, Principles of-. This course
+includes a general study of Mining operations divided into
+24
+Bulletin of the University of Notre Dame
+the following subjects: occurrence of minerals in the
+earth’s crust, discovery, boring, excavation, supporting
+excavations, exploitation, haulage, hoisting, drainage,
+ventilation, lighting access, ore dressing and treatment.
+Text-book, Foster and Brough.
+PHYSICS.
+II.
+General Physics. In this course there is a more
+extended treatment of the same subjects than is given in
+Course I., .Elementary Physics. Mathematical principles
+are applied to physical phenomena. Special attention is
+paid to accuracy in the mathematical work and in the
+statements of the principles involved, lectures and recita-
+tions. Text-book, Hastings and Beach.
+[Three hours a week for two terms.]
+III.
+♦ Physical Problems. The application of mathematics
+in physical work. Measurements of length, mass and
+time. Work in mechanics, heat, light, sound, electricity
+and magnetism. The work is done in the laboratory and
+the student is taught to depend on his own resources and
+to check his results.
+[Two laboratory hours a week for two terms.]
+IV.
+Physical Laboratory. Special advanced work in
+heat, light, mechanics, sound, electricity, and magnetism.
+Accuracy in observations and in the calculation and
+recording of the results is required. Students may
+specialize here according to the program which they are
+following. This course must be preceded by Courses
+II. and III.
+[Three hours a week for two terms.]
+Bulletin of the University of Notre Dame
+25
+UNIVERSITY BUILDINGS
+THE ADMINISTRATION BUILDING
+The dimensionsions of this building are 320 by 150
+feet; it is five stories in height and is surmounted by a
+dome 207 feet in height. The executive offices, two
+study-halls, some dormitories and class rooms and the
+dining-rooms are in this building. The Library and the
+Bishops’ Memorial Hall are also here temporarily. This
+building, like all the others of the University, is lighted
+by electricity and gas, and heated by steam. The corridors
+of the first floor are decorated with mural paintings by
+Gr egori.
+THE CHURCH
+The Church of the Sacred Heart is 275 by 120 feet in
+ground dimensions and 125 in height from the floor to
+the roof-ridge. The interior is decorated by Gregori,
+and the architecture is Gothic. There is a large crypt
+and many chapels. In the tower is a chime of 32 bells
+and the great six-ton chief bell.
+THE LIBRARY
+The Library contains 55,000 volumes and several
+thousand unbound pamphlets and manuscripts. The
+departments of literary criticism, history, political science
+and the Greek and Latin classics are well represented.
+Special libraries containing reference works on technical
+subjects are provided in the Colleges of Engineering and
+Science. The College of Law has a complete library of
+its own. Ample reading room is provided in the main
+library. The best literary magazines and reviews, as
+well as the current numbers of scientific and technical
+journals are kept on file. Students have access to the
+Library from 8:00 A. M. to 9:00 p. M.
+26
+Bulletin of the University of Notre Dame
+WASHINGTON HALL
+This hall is 170 feet in length, 100 feet in width, and
+about 100 feet in height. It contains the rooms of the
+Department of Music, the reading rooms for Brownson
+and Carroll Halls, and the University Theatre. The
+Theatre is elaborately equipped with stage settings. It
+will seat 1,200 persons, lectures by men eminent in
+public and professional life are given here. Concerts
+and .plays by professional companies are also presented
+in this theater. The dramatic clubs of the University
+present five plays annually.
+SCIENCE HALL
+is situated a few steps south of Washington Hall. Its
+dimensions are 105 by 131 feet, and it is three stories
+in height. A large central space, the full height of the
+building, is occupied by a museum containing mineral,
+fossil, and biological specimens. The departments of
+Physics, Electrical Engineering, Civil Engineering,
+Philosophy, Botany and Biology have recitation rooms
+and laboratories in this building. The equipment for
+each of these departments is extensive and complete.
+THE MUSEUM
+connected with the departments named above, is well
+arranged for convenience of study. The zoological col-
+lection on the second floor at present fills sixteen large
+cases and represents typical forms of all the orders and
+genera of vertebrate and invertebrate animals. A large
+collection of representative vertebrate skeletons forms a
+considerable part of the Museum.
+The botanical collection, also on this floor, consists of
+two complete Herbaria, one of the United States, the
+other of Canada. There is also a second collection of
+Bulletin of the University of Notre Dame
+27
+the woods and fruits of the United States, almost com-
+plete.
+The collections in Geology and Mineralogy occupy the
+first floor. These collections are arranged in a series of
+cases on each side of the building. In one series is a
+carefully classified collection of minerals and ores. The
+opposite series of cases contains a large geological collec-
+tion ; some of the specimens here are of the rarest fossil
+remains of animal and plant life.
+THE CHEMICAL LABORATORIES
+occupy a large three-story building directly south of
+Science Hall. The entire first fioor is devoted to ad-
+vanced work and space is given to three large labora-
+tories, a library and lecture rooms. The second floor is
+occupied by the Department of Pharmacy, and contains
+a large, well-equipped laboratory, a modern drug store,
+a lecture room and museum, a library for pharmaceutical
+publications, and a general stock-room. The general
+inorganic, organic and elementary chemical laboratories
+are on the third floor. Bach laboratory is provided with
+ample hood accommodations, and each desk is furnished
+with water, gas and suction.
+ENGINEERING HALL
+This building is situated in the southern part of the
+grounds and is a large two-story brick structure, well
+lighted and heated. The lower floor contains the me-
+chanical laboratory, machine shop, blacksmith shop and
+foundry. The second floor provides the shop for wood
+work and also contains a well lighted drawing room
+where students in designing may consult complete work-
+ing drawings of the best steam engines and pumps to be
+found on the market.
+28
+Bulletin of the University of Notre Dame
+THE OBSERVATORY
+This building is located near the Chemical Labora-
+tories and is designed for an equatorial telescope and
+for a transit or meridian circle. The equatorial telescope
+now in the building is intended for students of astronomy,
+and is in use whenever favorable weather permits.
+THE GYMNASIUM
+The Gymnasium which was burned down in Novem-
+ber, 1900, was replaced by a bnilding 230 by 200 feet in
+dimensions. The track-hall is now 100 by 180 feet on
+the ground; it is used for indoor meets, winter baseball
+practice, basketball and military drill. The gymnastic
+hall is 100 by 40 feet and is furnished with a full set of
+apparatus; below that are the offices, dressing-rooms
+and shower-baths. Friends of the University and the
+alumni contributed more than three thousand dollars to
+the fund for rebuilding.
+Cartier Field is an enclosed field for athletic games.
+There is a permanent grand stand near the baseball
+diamond and the running track, and a portable stand
+near the football rectangle. The field contains ten acres
+of ground, and is a gift to the University from Mr.
+Warren A. Cartier, C. B., of the class of ’87.
+OTHER BUILDINGS
+There are numerous other large buildings connected
+with the University, Sorin, Corby, Walsh, Brownson,
+Carroll, St. Joseph Halls, the Infirmary, Holy Cross
+Hall, Dujarie Hall, the Community House, the Presby-
+tery, and Saint Bdward’s Hall.
+9
+Bulletin of the University of Notre Dame
+29
+SYSTEM OF INSTRUCTION
+The entire plan of studies is based on the modified
+elective system. The student is free to select his own
+curriculum conformably to his natural liking, the career
+in life he may have in view, or the determinate intel-
+lectual bent developed during his secondary school years;
+but, though he is free to elect his own studies, he has not,
+however, unlimited freedom in this respect. The prin-
+ciple of general election is modified. Lest the young
+Freshman in his inexperience choose unwisely, he is
+aided in making his choice of studies by being permitted
+to select from among a number of parallel programs
+leading to baccalaureate degrees. Sixteen programs are
+open for his choice in the Colleges, each embracing
+courses which, in the opinion of the Faculty, contribute
+best to cultural, scientific or professional knowledge.
+These programs are, in some cases, made elastic by the
+introduction of elective courses, especialbHn the Junior
+and Senior years. Students who wish to spend a limited
+time in study and cannot complete all the courses in a
+program for a degree may register as special students
+« and elect any courses for which their preparation has
+fitted them.
+The hours scheduled in the different programs are
+credit hours based on the average amount of time
+required for attendance at recitations and the time
+necessary for preparation of recitations. One hour of
+recitation is regarded as the equivalent of two hours of
+laboratory work. The minimum number of credit hours
+whi^h a student must carry is sixteen, the maximum
+number which he may ordinarily carry is twenty.
+Students who wish to take more work than is indicated
+by the maximum requirements must apply by formal
+petition to the Faculty for the requisite permission.
+30 Bulletin of the University of Notre Dame
+NECESSARY EXPENSES
+Matriculation Fee (payable on first entrance).$ 10.00
+BOARD, TUITION, Lodging, Washing, and Mending of
+Linens, per school year.................. 400.00
+PAYABLE IN ADVANCE, as follows:
+ON ENTRANCE IN SEPTEMBER:
+Matriculation Fee (payable first year only)...$ 10.00
+First Payment on Board and Tuition....... 250.00
+Uuse of Gymnasium and Natatorium and admission to all
+intercollegiate games and contests throughout the year. 10.00
+Special Lecture, Entertainment and Concert Course...	5.00
+Also, in this First Payment must be included any Extra Ex-
+pense the student may wish to incur, such as charges for Private
+Room, Special Courses (listed below).
+ON JANUARY 15:
+Balance on Board and Tuition......................$150.00
+and any extra expenses the student may have incurred.
+No student will be entered for the second term whose account
+for the first term has not been adjusted.
+No rebate will be allowed for time absent at the opening of
+the Terms, September and January. The charge of $400.00 covers
+the tuition fee, which is fixed at $100.00 per Scholastic Year.
+The latter sum is accepted as an entirety for tuition during the
+Scholastic Year, and will not be refunded in whole or part if the
+student be dismissed for wilful infraction of the fundamental rules
+and regulations herein stated and hereby brought to his notice;
+and so likewise in the event of his leaving and absenting himself
+from the University at any time or for any cause without proper
+permission. However, an exception is made if it seems to be ex-
+pedient for him to go to his home because of severe or protracted
+illness. Degrees will not be conferred on any student whose account
+with the University has not been settled.
+'	OPTIONAL EXPENSES.
+For whole Year of nearly Ten Months, Payable in Advance.
+PRIVATE ROOMS—
+Seniors, Juniors, and Sophomores Free; Freshman.$50.00
+Preparatory Students..............$80.00 and upwards.
+Bulletin of the University of Notre Dame
+3t
+While the students, as a rule, are advised to confine themselves
+to the regular courses of the programs they have entered, any of
+the following may be taken at the rate mentioned per Scholastic
+Year, payable in advance. The charges will be pro rata for any
+portion of the year.
+Instrumental Music — Lessons
+on Piano and use of Instru-
+ment................$60.00
+Use of Piano for Advanced
+Students.......... 30.00
+Telegraphy.......... 25.00
+Typewriting-Pull Course 20.00
+One month.......... 5.00
+Phonography......... 25.00
+Lessons on Guitar, Piute,
+Cornet, Clarinet or
+Mandolin........... 30.00
+Lessons on Violin.... 60.00
+Use of each Instrument.. 5.00
+Vocal Culture........ 75.00
+Elocution —Special
+Course............ 10.00
+“Scholastic” — College
+Paper.................. 1.50
+Artistic Drawing....... 35.00
+Library Fee............ 5.00*
+—
+Physical Culture....... 5.00
+GRADUATION FEE.
+For all Courses leading to Bachelor Degrees, $10.00 ; Com-
+mercial Course, $5.00.
+REMARKS.
+The Entrance Fees, cost of Books, Music and Laboratory Fees,
+etc., are required with first payment.
+Remittance should be made by draft, post office money order or
+express, payable to the order of the President.
+Checks on local banks are not desirable, and exchange will be
+charged in all cases.	'
+Term bills and other accounts are subject to sight draft if not
+paid within ten days after they have been rendered.
+LABORATORY FEES.
+Physical Laboratory, III..............................$	5.00
+Physical Laboratory, IV.............................. 15.00
+Shopwork, per term................................... 15.00
+Chemistry, IL, VI., VIII., IX., XL, XIII., each...... 10.00
+Chemistry, V......................................... 20.00
+Mineralogy, II., Sophomore Year...................... 10.00
+Mineralogy, II., Junior Year.........................  5.00
+Crystallography, IV................................... 2.00
+Petrography, V........................................ 5.00
+Metallurgy, 1......................................... 5.00
+Assaying, II......................................... 15.00

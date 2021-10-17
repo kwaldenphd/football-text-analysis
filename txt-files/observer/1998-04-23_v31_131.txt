@@ -1,0 +1,1795 @@
+
+
+Thursday, April , 23, 1997 • Vol. XXXI No. 131 
+THE INDEPENDENT NEWSPAPER SERVING NOTRE D~E AND SAINT MARY'S 
+Club funding for 1998-99 falls short of expectations 
+By ANNE MARIE MATTINGLY A"isram News Editor 
+In the Student Senate's 1998-99 bud­get. approved at its meeting yesterday, student clubs and organizations received only 47 percent of the funds they requested, resulting in uneven budget cuts or increases, according to senate documents. 
+Clubs requested $251,270 in total funds. but the Club Coordination Council received only $198,000, to be distributed at its discretion; though more than last year's $152,000 budget, most clubs expressed disappointment that the $10 increase in the student activity fee did not necessarily positively affect their budgets. 
+"It's difficult to say to a group, 'Well, you can't have that event because we don't have enough money,"' said Ryan Harding. Club Coordinator, whose job is to request funding for the more than 200 campus groups. "We're disappointed that we can't meet more of the club need." 
+Tlw $198.000 received by the CCC is thn minimum amount of money that could bl' allocatPd to student groups, according to a University mandate. 
+Harding said rlubs are a very large part of campus life. noting that approxi­
+• TECHNOUJGY BEAT
+
+r The world is spending $800 billion-to fix more than 3 billion computer chips; as 
+the deadline nears, even the experts aren't sure what will happen 
+By HEATHER COCKS Ediror-in-Chief 
+On Dec. 31. 1999. as the sec­onds tick away toward mid­night. the world will be waiting anxiously to begin the journey into the next millennium. 
+On Jan. 1. 2000. analysts will wait to see if the world's com­puter systems come along for the ride. 
+Specifically, they will monitor the Year 2000 virus, dubbed Y2K by the nxpnrts. Though all its potential df'ects remain a mystery. one thing is certain: It could mean the difference between moving ahead to a nnw century or getting stuck in thn old one. 
+"It's massive. it's mind-bog­gling. to think of all the things that could go wrong," said Willie Kennndy, the Year 2000 engagement manager for Key Corp., which owns Key Bank. "Systems have doubled. tripled, even quadrupled in size in the last 30 years [since Y2K's cre­ation1. Anything can happen. We can't tell for sure." 
+Programmers first planted the Y2K seed two decades ago, long before computers became household items. Memory space was too costly to waste; to conserve precious megabytes, programmers used only two digits to delineate the year. 
+So when the date rolls over to 1/1/2000. the computer sees only the last two digits of the century, "00," and draws its own conclusions. 
+Welcome to 1900 AD. 
+"Typing in '19' each time seemed bothersome because it was assumed," Kennedy said. "No one thought those pro­grams would still be running mately 5000 of 7600 undergraduates participate. He also mentioned that there is "really no avenue for additional fund­ing" other than an emergency fund the CCC maintains for unexpected expenses. 
+
+"Clubs and organizations have recog­nized substantial increases in funding over the last two years. This trend is very encouraging as clubs continue to receive more adequate financial support," Harding noted in an April 22, 1998, letter to the Student Senate. 
+But an anonymous source claimed Harding was dissatisfied with the funding the CCC received, and speculated that he probably wanted and expected thou­sands more. 
+"They can't be happy that they had to cut their [requested] budget by $50,000," commented the source. 
+Habitat for Humanity, Experiential Learning Programs (this includes semi­nars like the fall trip to Appalachia), and the Women's Resource Center were among the vicitms of the cuts in proposed budgets. The NAACP received 25 percent of its requested budget, and La Alianza was allotted only a 13 percent of its need. 
+"It hurts to see the ethnic groups cheated out of the money they need and deserve," commented April Davis, ethnic representative of the CCC. 
+Part of the monetary shortage may be due to a large addition to the Office of the President's budget, which received $39,200 this year compared to last year's allocation of $25,450. 
+Student body vice president Andrea Solak explained that the increased bud­get will be used to extend SafeRide to include Thursday nights and to pay a dis­patcher to ensure that the program will always be available. 
+Other goals of the Cesaro-Selak admin­istration that won them extra funds are the continuation of Project Warmth, the expansion of the Nike shoe drive, and the Irish elves program, in which a dorm adopts a previously homeless family for Chrismas, according to Selak. 
+The duo also wants to create diversity panels, a night of reflection at the Grotto, an end-of-year mass for 1998-99, and set up a phone line students can use to ask questions about majors and study-abroad programs. 
+"I believe in strength in numbers," Selak said, explaining her belief that channeling money through student gov­ernment will result in a:nlore efficient use of funds, accomj)lishing more with the same numbev-uf dollars. 
+"We want to be a resource for the entire UniVersity ... we want to serve as a 
+
+Division Requested Recommended Academic $34,120 $17,985 (53%) Athletic $74,222 $30,350 (41%) Ethnic $125,285 $40,050 (32%) Social Service $80,180 $56,800 (71 %) Special Interest $81,805 $41,800 (51%) Contingency $25,000 $11,015 (44%) 
+~
+Total Requested: $420,612 
+
+r~, 
+
+Total Available: $198,000 Balance: -$222 612 
+
+resource to coordinate with other student organizations," she said. 
+Some CCC members remained uncer­tain that the large investment in the 
+see BUDGETS/ page 3 
+
+
+IN THE YEAR 
+
+
+
+anywhere near the year 2000." happen, but how big it will be, They are, and they are run­how long it will last," said Bill 
+ning straight toward it. Paced Pierce, director of the State of 
+( Tf's massive, it's mind-boggling, .l.to think of all the things that 
+could go wrong.' 
+by popularity of computers, technology pervaded society with such quickness that Y2K was deeply embedded before programmers realized the ram­ifications. 
+"The question is no longer whether or not anything will 
+WILLIE KENNEDY 
+Year 2000 compliance expert 
+Indiana's Y2K office. "My con­cern is that there's something out there no one's told us about." 
+Left unchecked, Y2K can either corrupt a system's data or shut it down altogether, something Kennedy said may cause 80 percent of date-relat­ed technology to fail. 
+
+
+The task at hand is arduous, at best. Computer experts face the chore of checking all hard­ware and software used on a system, making sure both can either interpret the four-digit date, or be upgraded to do so. 
+Notre Dame students should weather the year 2000 storm with little difficulty, at least within the confines of campus, according to Velma Harris, leader of the Office of Information Technology's Year 2000 Management Team. 
+"We look like we are in good shape," she said. "A lot of our technology. like computers in Grace Hall, are already compli­ant. 
+"We're putting together a database so that each depart­ment can enter its specifics on there," she said. "We want to 
+
+From that database the orr can create a master list of all manufacturers or vendors from which Notre Dame acquires its products. Each will get a letter asking if the product is year­2000 compliant, Harris said. 
+"We are still in the process of collecting the data. Our top pri­orities are the applications or systems that are mission-criti­cal," she said, adding that the team expects to meet its target­ed completion date of Dee. 31, 1998. 
+Neither the campus clusters nor ResNet will be affected by Y2K. Harris said. 
+Key Corp.'s Kennedy warned against heavy reliance on ven­
+see YEAR 2000/ page 4 
+page 2 
+• INSIDE COLUMN 
+Dow-n the Hall ... 
+You wait in angst Christine Kraly over the whims and 
+News Copy Editor 
+wishes of upperclass­
+men and those with 
+bntter numbers. This stress-inducing, tension­
+causing procedure isn't applying to college, or 
+even DAHTing for the upcoming semester. 
+No. this painstaking headache is the lengthy 
+process of room picks-the ultimate test of 
+wlwrn and with whom you will be living for 
+tho next year. 
+Being a freshman, this has bmm my first 
+expnrience with choosing roommates for an 
+entire year. For weeks I've listened to tho 
+advice of upperclassmen, some saying that 
+room picks am a cinch and that everyone is 
+happy in the mul. others saying that it will 
+test tlw bonds of friendship and that almost 
+every timn someone ends up unhappy. 
+Throughout these past few weeks, I've come 
+to realize and appreciate a few simple, unde­
+niable truths: a) room picks are NOT easy; b) 
+people are sellish; and c) yes, women DO talk 
+about nach other behind others' backs. 
+I realize that no two situations arc alike. 
+Take, for example, two women who are getting 
+a double in my dorm next year. Life couldn't be 
+simpler for them. They've got a terrific room 
+pick, want to live with each other and have 
+found a fantastic (and, might I add, enormo.us) 
+room on the fourth floor. 
+Now let's analyze the situation with my 
+friends. There are nine of us. Yes, nine. We 
+have a happy little group with a happy little 
+friendship and we all wanted to live in what 
+we see as the ideal room, the master of all liv­
+ing spaces: a quad. Guess what? That didn't 
+work out. 
+I guess we went wrong when we decided to 
+look at things the logical way-you know, 
+write up the pros-and-cons list, over-analyze 
+the possibilities, drive each other insane over 
+the different combinations. 
+What should have occurred might go some­
+thing like this: Friend A says, "Friend B, I 
+want to live with you. But Friend C (no 
+oll'ense. because. after all, you ARE my 
+friend), you're too loud and messy, and I can't 
+live with you." Friend A would live with 
+Frinnd B happily ever after (or at least for one 
+year) and no feelings would be hurt. 
+Uni(Jrtunately, that's not what happened. 
+People were unhappy. Feelings got hurt. It 
+didn't happen the way it was supposed to. 
+What happened to the upperclassmen who 
+said that everything would be easy and that 
+no one would feel left out or cheated? Oh, 
+that's right-they probably didn't have eight 
+othm· friends. 
+It wasn't until this week that I rnalized how 
+truly petty picking rooms can be. I really wish 
+I could live in the same section with all my 
+friends. but it's not possible, and it's not life­
+thrnatnning if we don't. 
+My roommate has a boyfriend at Boston 
+College. Although he's not in the room next 
+door, does hn stop being her boyfriend? No. 
+Thny writP letters. They talk on the phone. If 
+we're not across the hall from each other, 
+don't worry-we'll still be friends. I can walk 
+down thn hall to visit. 
+Wlwn you think about it, what is all the 
+stress over? Does is it really matter who the 
+lucky person is to wake up Friend C, or toler­
+ate Friend A's morning breath? No, because. 
+regardlnss, we're all still friends. I'll still have 
+to listen to the same stories about high school 
+friends and dining hall crushes, no matter 
+with whom and where I live. And that's okay, 
+because, after all, I'm just down the hall. 
+The views expressed in the Inside Column are those of the author and not necessarily those ofThe Observer. 
+• TooAv's STAFF 
+News Scene Anne Marie Maningly Emmett Malloy Tom Enright Jenn Zatorski Alex Orr Dominic Caruso 
+Sports Graphics Brian Kessler Melissa Weber Viewpoint Production 
+Eddie Llull Anthony Bianco Lab Tech 
+
+Thursday, April 23, 1998
+The Observer • INSIDE 
+
+(~-,~~,/Outside the Dome 
+'-""\.-/-.,:£"''"\\
+
+\J ·· Compiled from U.Wire reports 
+Clinton accepts invitation to address MIT seniors 
+CAMBRIDGE, Mass. 
+President Clinton will be the fea­tured speaker at MIT's graduation ceremonies this June, one day after former Irish President Mary Hobinson addresses Harvard's seniors. 
+MIT officials said the White House had initially contacted the Institute on Friday about the possibility of the President speaking at its commence­ment. Winners of the annual scram­ble among universities to snag big­name commencement speakers often reap the benefits in increased press attention. 
+A proud MIT president Dr. Charles 
+M. Vest attributed Clinton's decision to MIT's leadership in innovation and technology. 
+"We are honored and delighted that President Clinton has selected MIT as the place to deliver a major address to people who will be leaders of the 21st century," Vest said in a 
+• UNIVERSITY OF IlliNOIS 
+Commission examines tuition waivers 
+CHAMPAIGN, Ill. 
+
+The University had a discrepancy of more than $22 million in its tuition waiver reports to two government agencies. In documenting 1996 graduate tuition waivers to the Illinois Board of Higher Education, the university reported graduate tuition waivers of $46,198,400. But in its report to the Office of the Auditor General, the university reported tuition waivers totaling $23,657,805. The Performance Audit Commission, led by Auditor General William Holland, began looking into the distribution of tuition and fee waivers at Illinois state universities in July of 1996. In a report released Tuesday, the commission highlight the discrepancies within various institutions and provided recommendations for improvements. Here at the University of Illinois, the commis­sion looked into various aspects of tuition and fee waivers, management controls and financial aid. According to the commission, the university included $1.6 million of duplicate tuition waivers to the Office of the Auditor General. 
+• UNIVERSITY OF MINNESOTA Latino fraternity seeks charter 
+MINNEAPOLIS, Minn. 
+The University might be adding a new combination of three Greek letters to its list of fraternities. In a quest to become the lirst Latino fraternity on campus, the universi­ty organization Hermanos Unidos, or "brothers united," is seeking a colony charter from the national Latino chapter, Sigma Lambda Beta. If the colony status is gained, the group will become the only Latino fraternity in the state. On a campus with an enrollment of about 700 Latino stu­dents, no specific fraternal system for the ethnicity is cur­rently in place. Sigma Lambda Beta is a growing national Latino chapter. beginning in 1986 at the University of Iowa and expanding to campuses across the country. The idea for a local chapter surfaced in fall quarter in the mind of business education freshman Juan Telles. "What inspired me is everybody talked about it, but nobody ever did any­thing," Telles said. "My goal was to bring a fraternity over here to get people together and help the community and children." 
+• SOUTH BEND WEATHER • NATIONAL WEATHER 
+5 Day South Bend Forecast 
+The AccuWeather®forecast for noon, Thursday, April 23. 
+Lines separate high temperature zones for the day.
+AccuWeathcr® forecast for daytime conditions and high temperatures 
+H L 
+I 
+
+
+
+statement. "The future will be shaped in large measure by advances in science and technology, and MIT is the home of many of the people mak­ing those advances." 
+Clinton will share the podium with AIDS researcher and Institute alum­nus Dr. David Ho, whom MIT had invited to speak in February, at MIT's June 5 ceremonies. MIT has recently scored high in the race for celebrity commencement speakers. The list includes United Nations Secretary General Kofi Annan last June, Vice President AI Gore '69 in 1996, Harvard Corporation member Hanna Gray in 1995 and The Aga Kahn '5S in 1994. 
+Clinton's acceptance of MIT's invi­tation brings his eomnHmeemcnt speech total to three this spring. The President, who spoke at Princeton University last year, is also planning to speak at the U.S. Naval Academy in Annapolis and Portland State University in Oregon, Tlw Associated Press rcport1~d. 
+While expressing disappointment at missing Clinton's speech, which will occur after students havn left cam­pus, Harvard undnrgraduates said they continue to support the University's choice of Hobinson, the United Nations High Commissioner for Hefugees. 
+"Given what's going on in Ireland right now, it would be a bit presump­tuous to look down on Mary Robinson," said the undnrgrad uatn council president Beth Stewart. 
+• UNIVERSITY OF CALIFORNIA 
+
+Concrete canoe wins second place 
+DAVIS, Calif. 
+While most of UC Davis was recovering from Picnic Day, the UCD concrete canoe team celebrated its second­place finish -the highest finish ever for a UCD team ­in the annual Concrete Canoe Competition, held this weekend at University of the Pacific on Lake Lodi. A con­crete canoe is exactly what it sounds like: a 19-foot-long, 10-inch-high, 100-pound boat crafted out of quarter­inch-thick reinforced concrete. "It's a ynar-long project with the most intensive period being the last four months or so," said Matt Barnard, a concrete canoe team mem­ber. "This is the best that we know of that we've ever done." Building a concrete canoe is no small task, and the team has a strong network of faculty advisers to ndy on for help -only if needed, of eourse. "The group is pretty much self-sullicient," said civil engineering assis­tant professor John Bolander. "They do have past experi­ence to go on, and don't start from scratrh 1wery year." 
+• UNIVERSITY OF MARYlAND Museum displays poster collection 
+COLLEGE I'AHK. Md. 
+You know those people on the dorm floor. Thn ones with posters covering all the available wall space and maylw even the ceiling. If it's out there, it's on thnir wall. Tlw National Museum of American Art's newest exhibition, "Posters American Style," captures the walls of eollege stu­dents during the last 100 years. Divided into four broad cat­egories (American events, designed to sell, advocaey and advice and patriots and protesters), the new exhibit displays posters that arc uniquely American. "Posters. Auwrican­style, are raucous, brash and uneven in color, siz1~ and liH·­mat," said Therese Thai Heyman. the flxhibit's curator. "Tiw exhibit has areas like rock posters and from tlw cinema where American contributions are dear, and it also inducltls notable events." A walk around tlw exhibit space rnveals tlw myriad of styles employed throughout the years. Thn exhibit ranges from art nouveau-style ads at the turn of the centu­ry, to psychedelic rock posters of San Frandsen in tlw '(>Os featuring the Grateful Dead and .Jimi llendrix. 
+
+COLD WARM STATIONARY 
+Cl 1998 AccuWeather, Inc. 
+Pressure 
+
+H L B ESl lTII 
+
+HIGH LOW SHOWERS RAIN T·STORMS FLURRIES SNOW ICE: SUNNY PT CLOUDY CLOUDY 
+V~o~ Assoet.~~ted Press 
+
+Michelle Keefe  
+The Observer (USPS 599 2-4000) is published Monday through Friday cxcepr during exam and vacarion periods. The Observer is a member of the A~sociarcd Press. All reproduction righrs arc reserved.  q,Q,~pc6jQi) Showers T-storms Rain Flurries Snow Ice Sunny Via Assoc~ated Press GraphicsNet  ~ u Pt. Cloudy Cloudy  
+Atlanta 64 45 Jackson 72 45 Orlando 75 53 Birmingham 68 42 Las Vegas 70 39 Phoenix 98 66 Boise 78 46 Miami 78 58 Raleigh 56 45 Dallas 78 56 Nashville 67 43 Tampa 75 53 Fairbanks 54 27 New Orleans 73 51 Waco 80 56 
+
+
+Thursday, April 23, 1998 The Observer • CAMPUS NEWS page 3 
+
+
+Budgets 
+continued from page 1 
+Office of the President was the best way to use student funds. 
+"We did think that it was kind of unfair [that our clubs' bud­gets were cut] but there's not enough money to go around," commented Jill Kula, an athletic representative of the CCC. "We did feel like a lot of our athletic club teams are going to be hurt and some of [the money given to the Office of the President] may have been put to better use." 
+Social service representative Tim Vieira agreed. 
+"l think that the social service 
+unication and Theatre 
+presents 
+Directed by Reginald Bain 
+Wednesday, Aprit 22 -7:30p.m. Thur$tlay, April 23 -7:30 p.m. Friday, April 24 -1:36 p.m. Saturday, April 25-7;30 p.m. Sunday, April 26-2:30p.m. 
+Playing at Washington Hall 
+Reserved Seats -$H Senior Citizens -$7 Students -$6 
+Tickets m available at th~ Lafortune Student Center Ti~ket Ut1it;t: MastntCard and VISA orders cail b H !Lo 
+clubs are very important to the Student Senate's role [in the overall mission of the University budget process]," said Vieira, ... [they are] a major pillar of adding that he was unaware of the message of Notre Dame ... I the senate's power to alter the think they should have [left the budget. ''I'm surprised that [he] money] with the clubs because didn't bring it up." the clubs represent the students Vieira also stated that, had he in the school." known it may have been possi­
+Both Kula and Vieira also ble for the CCC to get more than commented, however, that they $198,000, he may have further were fairly unfamiliar with the investigated that option as an goals of the Office of the alternative to cutting service President and their funding program funding. needs. ''I'm offended as a student to 
+The student budget is pre­see that they only gave the mini­pared by the Financial mum [amount of money] to Management Board, but the fig­clubs ... that are really impor­ures it sends to the Student tant to the survival of this Senate for approval are not University,'~ Davis said. unchangable, according to "I see it as a slap in the face," board member Matt Mamak. said Davis. "The student activity The Senate can alter the alloca­fee went up and we got the per­tion of the money, he explained. centage we were supposed to. I 
+"Ryan [Harding] didn't seem guess we're supposed to be con­to reveal a whole lot about the tent with that," she said. 
+Irish Guard Try-Outs 
+1nformational Meeting 
+Thursday, April 23 
+7:00 @ Montgomery Theatre in LaFortune 
+If you can't be there, or have questions, 
+contact: 
+Brian Hardy 243-5638 or 
+Ben Wright/Kip Moen 4-4995 
+Summer Classes in Italian -9 credits in 6 1/2 weeks! 
+ROIT 101 June 6-July 7 ROIT 101 July 8 -July 21 ROIT 101 July 22 -August 5 
+For information, contact Mrs. Mangione, 631-7485 or Summer Session, 631-7282. 
+
+
+
+SEE WHY HE'S ALWAYS BEEN A CAMPUS FAVORITE. FOR 10TH YEAR @ SENIOR CLUB. HALF PRICE LIFETIME MEMBERSHIP NIGHT! 
+-------------------------~ 
+• 
+Be iV\volved with coordiV\atioV\ of the lArbaV\ Plt-1V\9e 
+
+• 
+.All participaV\ts are iV\vited to apply 
+
+
+Applications currently available in the Center for Social Concerns 
+
+Monday, April 27, 1998 is the deadline 
+
+Thursday, April 23, 1998
+page 4 The Observer· CAMPUS NEWS 
+
+and shut down the computer. al air travel, but a global econo­played rumors that phone com­microchips used in such equip­"After you're sure enough time my. pany computers could charge for ment, more than 50 million will
+
+
+
+
+Year 2000 
+
+has passed and the date will "International commerce can a 1 00-year conversation if a call fail in 1999 or 2000, a large­have changed, reboot it," he con­be affected by the failure of air lasts past midnight on New scale problem for which most 
+continued from page 1 Year's Eve. homeowners are unprepared.
+tinued. "If the year is not '2000,' traflic control systems anywhere 
+in the world," said Gartner "If your bill comes out to Especially in the dead of winter 
+dors to supply year-2000 compli­you have a problem." 
+But the Y2K problem exists Group's James Cassell in a Nov. $20,000, we'd notice that," when the central heating quits. 
+ant products. 
+
+beyond the personal computer, 4, 1997, report to Congress. "The Vadney said. "We'll be checking "There's about 5,000 utility"Programmers generally don't beyond Notre Dame's computer year 2000 crisis is a 'war' we things harder." companins in the country, and1:ome in on time or on budget," Key Corp., whose bank has a none of them are prepan~d righthe stated. "Every day the vendor clusters and almost beyond the cannot afford to lose." 
+comprehension of the expert Programmers at Illinois-based branch office in LaFortune now to faee this problem," saidis late providing your upgrade, 
+programmers. Businesses, gov­Ameritech Corp., which provides Student Center, budgeted $40 Bill Pierce of Indiana's Y2Ktho problem gets bigger. 
+ernments and home computer local telephone service to Notre million for its Y2K project and is ollice.
+"Some companies take six 
+
+Dame and South Bend. must proceeding on track, according None, except the power plant<>months to a year to get every­users worldwide will spend an to Kennedy. controlling Notre Dame's earn­estimated $600 to $800 billion scrutinize 3,000 products andthing up and running," Kennedy 
+worldwide to assess and, hope­services, 25,000 desktop comput­"Everything will be working pus.
+said. "The more you depend on 
+
+fully, correct the Y2K problem, ers and more than 25 million correctly,'' he said. "People won't "We have two separate energytlw vendors, the bigger the risk according to a report from mar­lines of computer code, accord­suddenly lose money in the year systems running right now, andand the nightmare." 
+ket research firm Gartner Group ing to media relations manager 2000. That's a doomsday sce­we're making sure that they're
+This lack of preparedness 
+
+Frank Mitchell. nario that only would happen if both compliant," said Mikecould create a widespread domi­Inc. 
+The Federal Aviation "This is our biggest project. It we ignored Y2K completely." Smith, director of Faeilities no efl'ect in which smaller com­Administration needs $156 mil­affects all aspects of business," But the little inconveniences Engineering. "We've been meet­panies founder and knock each 
+other out of business. Anderson lion to cover the cost of checking he said. "Fortunately, we've been are starting to mount. ing for the last several months 
+about this and we're pretty well­
+Consulting. Inc., estimated that its 290 mission-critical FAA sys­savvy about upgrading our "[An Automatic Teller 10 to 20 percent of all businesses tems, 84 of which require repairs equipment in the last two years," Machine) rejected my cash card prepared." 
+but Ameritech will still spend twice before it finally ate it," said But the experts remain unsurewill fail as a direct result of Y2K or upgrades to beat the Y2K bug, according to media spokesman more than $200,000 on invento­CBLD's Vadney. "I couldn't with­whether the world's program­compliance glitches. 
+Paul Takamoto. ry and Y2K compliance, he draw money for a while." mers can defuse Y2K on time ­Macintosh owners are a step 
+"[Nothing) can malfunction," added. The bank later told him the and the deadline is fastahead in the compliance race 
+machine confiscated his card approaching. As 1999 draws to abncause all machines made by he said. "It's a huge international Cincinnati Bell Long Distance, because the expiration date read dose, the world will wait to see ifApple Computer Inc. can read effort [because of international with which Notre Dame has long-standing service arrange­"00" and it could not interpret it will chase technology into theflights), and we're all in differentand understand a 4-digit date. 
+places in terms of year-2000 ments, is similarly well-posi­that date as anything but invalid. 21st century, or whether theWindows-and DOS-based sys­computers, for once, will b1~ thecompliance. It's complicated." tioned.
+tems are another story. 
+
+The FM must double-check all "We already use 4-digit dates FORGOTIEN HARDWARE ones lagging behind. 
+"Of all personal computers 
+
+for everything," said Mike Microprocessors are the brains "It's a really interesting time.
+air traflic control systems nation­more than two years old, 90 per­
+wide, both to avoid failure and Vadney, assistant vice president behind all automated equipment, There will be a global impact ...
+cent will r1wert to the year 1980 
+
+prevent data corruption. of Information Systems at CBLD. including elevators, thermostats, but we will have to wait and see or l9841on Jan.1, 20001," said 
+Kennedy, who recommended "The system can still function, "Our internal systems are work­hospital equipment, security sys­what it is," Kennedy said. 
+that PC owners test their own but it may transmit the data from ingjust fine." tems and cars. GartnerGroup "Somehow, some way, it will yesterd~y·s radar readings, Both he and Mitchell down-estimated that, of the 3.3 billion affect everyone." 
+machines for compliance, rather than lugging them to a service which could lead to some bad 
+decisions," Kennedy said.
+shop. 
+
+"Go into your computer's DOS "Planes won't just drop out of the mode and change the date to sky, but the computers will show read 12/31/99," Kennedy said. flawed data." 
+"Chang1~ tlw time to 11:58 p.m. At stake is not just safe nation-
+UNIVERSITY LIBRARIES SELECT ALEPH500 
+For the move into the next meiJenium, ALEPH 500 from Ex Libris has been selected by the University Libraries of Notre Dame as its library management software. ALEPH 500 was selected for its: 
+• 
+State-of-the-art client! server architecture 
+
+• 
+ability to offer extended functionalty 
+
+
+• 
+support of current library services such as circulation and public online catalogs 
+
+• 
+new features suchas hot links to external electronic databases; etc. 
+
+
+• 
+ability as a gateway to other online resorces allow -ing the "catalog" to take on a new visibility and role 
+
+• 
+future developments which include electronic reserves and extended interlibrary loan activities 
+
+
+Initial elements in an ALEPH-based campus-wide informa­tion system (CWIS) will support bibliographic access to the Libraries' collections via the traditional catalog and the possi­bility exists to create, store, index, and retrieve from other citation, full-text, or numeric databases. Already other departments such as the Snite Museum, th Lab for Social Research, and the Human Resources Wellness Group have begun to explore the potential of the ALEPH software. 
+ALEPH should become operational in August 1998, given delivery of software by the vendor. If there is a delay the ALEPH system will be installed during Christmas 1998. 
+The Effect on the Notre Dame and Saint Mary's communities should be minimal because ALEPH's public access is web­based. This means: 
+• 
+NO additional software is needed since ALEPH 500 uses existing web browsers such as Netscape 
+
+• 
+NO steep learning curve since many users are familiar with web-based searching like Yahoo 
+
+• 
+NO large investment in equipment because OIT clusters and machines on faculty desktops already support web-based information 
+
+• 
+Usable on any platform since Netscape exists for Windows 3.1, Windows95, Windows NT, Mac OS, and many flavors of UNIX. 
+
+
+
+
+
+Thursday, April 23, 1998 COMPILED FROM THE OBSERVER WIRE SERVICES page 5 
+• WORLD NEWS BRlHS French parliament votes to 
+adopt the euro 
+PARIS 
+
+Tlw French parliament Wednesday voted in favor of adopting Europe's new single curren­cy, although conservative lawmakers from l'rnsidr.nt Jacques Chirac's party abstained. 
+. Thn non-binding resolution passed easily by a vote of 334-49. Deputies from the Socialist Partv and thr. conservative Union for French Dem"ocracy voted for the measure, while the Communists and the Socialist-allied Movement of Citizens were opposed. Leaders of the 15 Europnan Union nations will meet in early May to officially announce the 11 countries nxp1)cted to take part in the single euro cur­rency, which will debut in January. Chirac last wc1~k made a strong pitch for the euro in a rare Paris news conference, but many mem­bers of his Rally for the Republic (RPR) party worry that the currency will undermine French sovereignty. 
+Firing squads to exep.Ite
+
+Rwandans for genocide 
+KIGALI, Rwanda 
+
+Firing squads across Rwanda will publicly nxncutn 33 pnopll\ marking the first execu­tions of participants in the central African country's 1994 genocide, officials said WNlnesday. Thf) nxecutions will take place Friday morning in the capital of Kigali and four other locations. Government officials and survivors hailnd the decision as a victory for justicn. But international rights agencies said thn move violated conventions on human rights. "This will show people ... that justice is really working," said Justice Minister Faustin Ntezilyayo. "JusticP must be seen to be done." Spoknsman Jose Louis Herrero said the U.N. human rights agency is protesting the execu­tions bncause the convicts' trials did not prove guilt beyond a reasonable doubt. 
+Feces-covered killer pleads 
+insanity 
+WEST PALM BEACH, Fla. 
+
+A murderer who smeared himself with feces and snored and shouted through most of his two-day trial on escape charges convinced a jury he was innocent by reason of insanity. The jury never heard any testimony that Hector Hivas was insane when he and five other killers tunneled their way out of a prison in Belle Glade in 1995. But his behavior appar­nntly spoke for itself. Acting as his own lawyer, Hivas. 36. shaved his head into a patchwork of tufts and began his trial by answering the judgn's questions with closed eyes and loud snores. On Tuesday, for the second time in two days. Hivas smeared himself with his own fncns bPI'ore court, then refused to change his clothns. An nxpcrt testified that Rivas was fak­ing insanity. 
+
+S&P 500: 
+Composite
+1130.00 Volume: 
++3.33 70 I ,000,000 
+
+9176.72 
+BIGGEST PERCENTAGE GAINERS 
+
+~ i!~ll'·li:S~" II~ Kl E '\11 ~ IJ·~~~~~ s ~i~lrs ~BICt 
+TRAC:KOATA COR/' TRAC 272.50 6.8125 9.313 AI.I'IIA MIC ROSYS ALMJ 120.00 3.3750 6.188 INSOOATA CORP INODD 104.09 1.5938 3.125 SCOOP INC SCPI 85.19 1.4375 3.125 EUROWF.B INTI. EWEB 72.73 1.0000 2.375 
+BIGGEST PERCENTAGE LOSERS 
+
+:'\IAVt\RRE COHP r\AVR 36.84 3.5000 6.000 I'C QUOTE ISC rQr 35.71 1.5625 2.813 U~IIWSF CORP UPY~E 28.57 1.5000 .!.750 1\UDIO BOOK CLUB KI.B 27.27 3.0000 8.000 IKON OHlCE IKN 27.08 9.3750 25.250 
+• THAILAND 
+Remaining Khmer Rouge side with royalists 
+~---=::-' 
+AFP 
+A. recent Khmer Rouge defector, still wearing the guerrilla's outfit, carries a mortar piece .!-\near Anlong Veng. Remnants of the hard line Khmer Rouge are holed up at "Hill200" 
+north of Anlong Veng near the Thai border. 
+ASSOCIATED PRESS 
+SURIN 
+
+Khmer Rouge rebels are joining 
+forces with fighters loyal to Prince 
+Norodom Ranariddh. the Cambodian 
+prince's military commander said 
+Wednesday. The merger could threat­
+en an internationally mediated settle­
+ment of the power struggle that has 
+convulsed Cambodia for years. 
+Gen. Nhek Bunchhay announced the 
+merger in an interview with The 
+Associated Press. Hours earlier, the 
+prince had denied any Khmer Rouge 
+links and said Khmer Rouge leaders 
+
+• COLOMBIA 
+
+
+
+Relatives identifY victims of crash 
+53 killed as airliner slams into mountain 
+ASSOCIATED PRESS 
+BOGOTA 
+
+Tearful relatives gathered at a Bogota morgue Wednesday to try to identify the mangled remains of their loved ones who were killed when the Boeing 727 slammed into a mountain shortly after takeoff. 
+The crash Monday killed all 53 people aboard. 
+Rescue workers recovered some 34 black bags of human remains, including the tiny body of a 2­month-old baby taken to the morgue on Wednesday. Fewer than 10 bodies were found intact. 
+Some family members gave blood, and others were told to bring dental and medical records. Ana Maria Berenguer, director of the government forensic. unit, said 
+"should be condemned and sent to an international tribunal." 
+When they held power in the late 1970s, the Khmer Rouge implemented policies that were responsible for the deaths of as many as 2 million people from overwork, starvation and execu­tion. The group began breaking up in 1996 with the remnants continuing to wage guerrilla warfare. 
+An alliance with the Khmer Rouge could derail elections in whic'h Ranariddh hopes to regain the power he lost last summer when ousted by his co-premier, Hun Sen. 
+Under international pressure, Hun Sen agreed to allow Ranariddh to take 
+some bodi~k ~d~ld h~ released by Thursday, butvery few. 
+Marco Vasconez, his eyes red from crying, defended his brother, the plane's pilot, JaimeVasconez. 
+"Only God kriows what happened 
+-God and the hlackbox," he said 
+at the morgue 
+Officials Were investigating Wednesdaywhy Jaime Vasconez deviated from his required takeoff pattern and seemed .to ignore a
+'o·NLYGOD KNOWS WHAT 
+HAPPENED-GOD AND
+
+.. 
+MARCO VASCOM?Z 
+BROTHER OF PILOT 
+
+warning he f course before crashing Jus.....· .....· .... l>·houndplane into ElCable mQtintain,just 150 feet below itS W•l!O-~oot summit. 
+. Th(lplp.:ne Wa~ leased to Air 
+. . . . . . . . . . ::::·:: :-:::·:::·:::·~::::··. . ... 
+France by TAME, the Ecuadorian military-run airline. 
+The Ecuadorian crew flew the route, from Quito to Bogota and back, three times a week. Jaime Vasconez had 5,500 hours of flight experience, nearly half of it in a Boeing 727. 
+The 43 passengers included two Colombians, a Briton, a Swede, a Honduran, six French, four Danes and six Italians -two of whom were on their honeymoon. 
+A TAME spokesman said the plane had been in excellent shape. 
+''The president of Ecuador is flown on these planes, so they must be in perfect condition," Marco Emilio Erazo told The Associated Press. 
+TAME aircraft have been in sev­eral fatal accidents. In 1988, a TAME-owned Electra crashed into Lake Agrio northeast of the Ecuadorian capital of Quito, killing seven people. In 1983, 119 people were kill when a TAME plane crashed in southern Ecuador. A 
+part in the July elections if he would 
+cut ties to the Khmer Rouge. 
+
+Though ideologically opposed to 
+Ranariddh, the Khmer Rouge provid­
+ed tactical help to the prince's sup­
+porters after the bloody coup. Now 
+the Khmer Rouge is under attack by 
+Hun Sen's troops. 
+
+Nhek Bunchhay claimed there are 
+8,000 Khmer Rouge left. But the Thai 
+military, which monitors the group's 
+movements, estimates there are only 
+about 2,000, which is still more fight­
+ers than Ranariddh is believed to 
+have. 
+
+The Khmer Rouge sent peace feel­
+ers to the government over the week­
+end and was rejected. Government 
+spokesman Khieu Kannarith said the 
+guerrillas offered no written propos­
+als. 
+
+The deal with Ranariddh's forces 
+was struck Tuesday, said Nhek 
+Bunchhay, a deputy chief of staff in 
+the Cambodian army before last 
+year's coup. 
+
+Under the agreement, Khmer 
+Rouge leader Ta Mok would become 
+a political adviser to a Khmer Rouge 
+political party but have no military 
+role, he said. 
+
+"I don't think the international 
+community should have any problem 
+with it," Nhek Bunchhay said. "I see 
+no reason why Ta Mok cannot be 
+accepted. He will have no military 
+role whatsoever." 
+
+He said thousands of Khmer Rouge 
+defectors had been incorporated into the Cambodian army since 1996, and Ta Mok's men should be given the same chance. 
+''I'm not joining them, they are join­ing me," he said. 
+Hun Sen called the parliamentary eleGtions to earn international legiti­macy and aid dollars, which were cut off after he deposed Ranariddh. The prince is Hun Sen's only serious oppo­nent in the election, which is to be monitored by the United Nations. 
+Ranariddh's party won U.N.-spon­sored elections in 1993 but was forced to share power when Hun Sen threat­ened renewed civil war. 
+-____... ~-~.._---------~ 
+----------------------~.­page 6 The Observer • CAMPUS NEWS Thursday, April 23, 1998 
+• 'STUDENT SENATE 
+Letter supporting commencement speaker approved 
+By TIM LOGAN stated "Joe Kernan apparently ued when Keough senator Brian lie service." Matt Mamak. "If we do it now, it News Writer isn't good enough for some O'Donoghue read a letter by "The critics ... underestimate has that much more impact." Notre Dame seniors." Paul Rathburn, associate profes­Kernan.... The content of his The Senate's statement, which 
+The Student Senate drafted a Discussion of the issue began sor of English, and motioned message will stay with them was approved 22-2, concludes: letter last night voicing its sup­when senior Mark Councilman that the Senate adopt the letter longer than the aura of celebrity "We ... arc delighted and privi­port of Notre Dame's selection of addressed the Senate, pr.otesting as an open statement to the that a bigger name speaker leged to have ... Kernan as our Indiana Lt. Governor Joseph the resolution and criticizing the administration. might bring," Rathburn wrote. commencement speaker." Kernan as the 1998 commence­disrespect shown to Kernan. Rathburn's letter states the The Senate took much of The letter will be sent to news ment speaker. "I think it's insulting and kind choice of Kernan is "brilliant" Rathburn's language and put it organizations which have car­
+The choice, which has raised of arrogant," he stated. "It lacks for three reasons -his status as into a letter, intended to address ried stories about the issue, heated debate on campus and a humility that we ought to have a 1968 graduate of Notre Dame, the issue while still timely. "If we including the Chicago Tribune, attracted significant outside as we're just entering the his "magnificent war record," do it next week, it doesn't serve the Indianapolis Star and the media attention, had led to a world." and his "brilliant career in pub-a purpose," said Keenan senator Associated Press. resolution brought before the Councilman also questioned senate on April 8 criticizing the the necessity of student input in r.=======;;:::;::= sel!~ction and calling for grnater the selection process, noting student input in tiH~ future. that, while students pay to 
+Sinw its inception, the rnsolu­attend, the University selects the tion has bnen n~wordnd to avoid students and the decides when criticism of Kernan and focus a student is fit to graduate. 
+Louise
+primarily upon increasing stu­"I don't think that anywhere dnnt voieo in the process. here is any sort of democratic 
+as Ros...............~ 
+However, student discontent process," he noted. I think stu­over Kernan's selection had dents should have a say in the 
+
+experien
+begun to attract widespread process, but this [resolution] has media attention. including an a certain arrogance." 
+
+enchant 
+Indianapolis Star story which Debate on the subject contin­.., 
+
+the Forest 
+
+Thursday, April 23, 1998 The Observer • PAID ADVERTISEMENT page 7 
+Calendar of Events 
+
+Second Annual Retrea 
+for lesbian, gay and bi students and their frle Friday-Saturday, AprHZ~~ ARE YOU LESBIAN? GAY? .. L? ARE YOU A FRIEND OF;$0MEONE WHO IS?­*STUDENT-LED *STUD.ENTTALKS *CONVERSATION *PRAYER l For more information ortto regis~er ,!.please call or e-mail: 
+Kate. 1-5242 katherine.s.barrett.~8@no.edu 
+Mark,4-1933mark.f;massoud,1@nd.eai..l!1il' 
+·~:. . . ~f~";?::.~.: 
+
+Alyssa,4-1884 alyssaJ;hellrwng;5@(ld;~dq 
+Senior ROTC Retreat 
+Saturday·Sunday April 25-26 
+Mass and Rite of Confirmation ········· Monday, April 27, 7:00 pm F"':;,;i< Basilica of the SacredHe.art 
+these men and \AinlrYIQ .... 
+n1r'Tn.D."III'Hr> 
+
+community! 
+SECOND SUNDAY OF EASTER LAETARE SUNDAY 
+Weekend Presiders at Sacred Heart Basilica Saturday, April 25 
+5:00p.m. 
+Rev. William A. Wack, C.S.C. 
+Sunday, April 26 
+10:00 a.m. Rev. Patrick M. Neary, C.S.C. 
+11:45 a.m. Rev. David J. Scheidler, C.S~C. 
+Vespers 
+Sunday, March 26 
+7:15p.m. 
+
+Scripture Readings 
+N/A 
+
+Alcohol Jim Lies, C.S.C. 
+Are you struck by the number of people around Notre Dame who seem unable to socialize, particularly with the opposite sex, with­out first consuming excessive amounts of alcohol? I probably shouldn't take up this topic here since, like sex and chastity, alcohol is one of those topics that could leave me yet again looking the prude. And yet, for some reason, I feel compelled, even obliged to say something on the topic. And it wouldn't be on this page if it didn't have something to do with a deep abiding concern for those who might read this column. 
+Alcohol on this campus is messing up people's lives. We as Campus Ministry would be remiss if we did not have something to say about the elephant in the middle of the room. As we attempt to nurture the spiritual life of this campus with our many liturgies and programs, we would be crazy to think that our efforts are unaffected by the use and abuse of alcohol on this campus. The ways in which we socialize on this campus has everything to do with the health and life of this community, as individuals, as couples, as friends, and as the larger fam­ily of Notre Dame. 
+Don't misunderstand me, I like to drink. It is, in fact, one of the few vices that I haven't publicly forsworn. I suspect my reputation for enjoying spirits far exceeds the reality, at least from that which I hear through the grapevine, but I will never deny enjoying a few drinks with friends. Where we go wrong are those instances when we seem to depend on alcohol to give us what we need to adequately enter into a social situation. It may be because I'm a rector this year, but I don't think it takes a social scientist to figure out that there is something wrong with the way we socialize on this campus, especially at SYRs, Hall Formals, off-campus parties, and even on weekend nights (includ­ing Thursdays) at the bars. 
+Please, please, don't misunderstand me. I am not a prohibition­ist. I do not support our becoming a dry campus. I think we would be as remiss in disallowing alcohol on this campus as we would be if we didn't attempt to teach people about responsible drinking and personal accountability. This is an appropriate time and place to learn how to drink. But I think you know that the pn~~patory rituals which seem to happen on this campus before hall dances are not happening in your parents homes or before office parties or even before nights out with friends beyond these days. And while you might explain it away by saying that it's just a college thing, I worry about what you'll walk away from here with in the ways of socializing and relationships. 
+If we don't appreciate the fact that their is a direct correlation between the prevalent abuse of alcohol on this campus and the prob­lems that we have with gender relations then we're nuts! Many would like to say that we drink so much because the social life on this campus is so bad. I wonder if the social life on this campus is, so bad because we drink so much. Aside from the fact that we often sit around with the "guys" and drink, which isn't in itself bad unless it becomes the very reason why we gather, we should be thinking about how it relates to the gender relations on this campus. If we've come to believe that it's "normal" to enter into an evening with a person of the opposite sex, much less end it, seriously wasted then we need to think again. Too often, the drinking is inversely proportional to how well one knows the other person. And when we go out with the person we know least well we're in no condition to meet them, and we end the evening (early probably) looking the fool, or at least not knowing them any better than when we started. What will you walk away from an evening like that with? And how often have you done things in relationship that you would never have done but for the fact that you were drunk? At the time it seems to heighten your courage, but more often, upon reflection, it impairs your judgement, especially regarding physical expression. How often would we like to have those moments back when we didn't consider well enough what we were doing? , My real concern is that, in our present reality, we're not well dis­posed to learn how to socialize, to enter into deep and intimate relation­ships, friendships, with those of the same or opposite sex. We live under this illusion that we're better communicators or funnier or less timid when we're drinking/drunk, but what is that going to do for us beyond these days when we're in a social setting where there is no alco­hol. We have to learn to develop the skills of communication, and humor and overcoming shyness without alcohol. 
+It's a practical matter gang. It's not about me, or Campus 
+Ministry, or Student Affairs; it's about you. It's about making choices 
+for your life that are consistent with the integrated whole of the rest of 
+your life, and <1f the person that you want to be when you leave this 
+place. In these waning days of the semester, take it for what it's worth 
+
+
+
+0MPUS
+and do with it what you will. But time is too fleeting to waste it; just ask the seniors. MINISTRY 
+• 
+
+• 
+
+
+
+
+
+
+VIEWPOINT 
+page 8 Thursday, April 23, 1998 
+THE OBSERVER 
+
+NOTRE DAME OFFICE: P.O. Box Q, Notre Dame, IN 46556 (219) 631-7471 SAINT MARY's OFFICE: 309 Haggar, Notre Dame, IN 46556 (219) 284-5365 
+1998-99 GENERAL BOARD 
+EDITOR-IN-CHIEF Heather Cocks MANAGING EDITOR BUSINESS MANAGER Brian Rcinrhalcr Kyle Carlin 
+AsSISTANT MANAGING EDITOR Hcarher MacKcnzic 
+NEWS ElliTOR ... Mmhew Loughran ADVERTISING MANAGER ........................Kris Klein VIEWPOINT EDITOR ....... Eduardo Llull An DESIGN MANAGER ....................... Bretr Hud,u SPORTS EDITOR .................... Kathleen Lopez SYSTEMS MANAGER ................... Michael Brouillet SCf.NE EDITORS........, ................ Sarah Dylag WEB Ai>MINISTRATOR ................. Jennifer llreslow 
+Kri~ri Klirsch ...O>NTROU.ER Dave Rogcro SAINT MARY's EmTOR .............Shannon Ryan PHOTO ElliTOR . ...............Kevin Dalurn 
+l'hc ( lb!oervcr is 1hC' JndepC'ndciJI llt'WSpapcr puJ,Ji~IH..J by the students of the Untvcrsi[}' of Notre Dame du [,ac and Saini Mdry\ College h dc.x"$ nul nc~.:o.\arily rdlccl the policic~ of the J.dnuni~rr~non nf either institution. The news is rC"porttl.l .L\ Jn:uraldy .md objcc.:uvdy .t!o po..,~iblc. Un~igncJ cditur~ah rcpre:o.cnl the opinion of the majority of the Editur·m·( :hu{ M.tn.!SIIlg F.dimr, A\sist.tlll M.tnagmg Editor and dcpartmcnl cdiwrs. Commcntaric.... letters and column.\ present the VICW.!o uf the author.~o, .md nut necessarily those: ufThe Observer. Viewpoint 5pace is available to all memhc:rs nlthc Nouc lJ.unc/S.um Mary'5 communny and tn .tll rc:J.ders. The free cxpre.s..\inn of v.trying opinions thwu~h lcuct!> i\ C"ncouragcd. 
+Contacting The Observer 
+
+Etl1tor-in-C:h1cf 6.~1-4542 Business Oflicc 6.31-53U Mana~ing EdilOr/A~... i.'ilanr ME 6j 1-4541 Advertising 631-6900/8840 Nc:w~/Piwto 631-5323 Systems 631-8839 Sporrs 6.~1-4543 Fax 631-6927 Sccnc//Sainr MJry'' 6:11-4540 Viewpoint E-Mail Vicwpoinr.l@nd.eJu Day Edirnr/Vicweoinr 631-5303 AJ E-M.1il obscrver~ildarwin.cc.nd.eJu ()!TicC" Managcrft,C"nC"rdllnfurm;uion 6.~ 1-7471 News E-Mail obscrvcr.obsncws.1 @nd.cJu 
+• LETTER TO THE EDITOR 
+Kernan Brilliant Choice as Speaker 
+The student body of the University of Notre Dame du lac is honored and proud to have Indiana Lt. Gov. Joe Kernan as its commencement speaker. 
+Joseph Kernan graduated from Notre Dame with a degree in government in 1968. He entered the U.S. Navy in 1969 and served as Naval Flight Officer aboard the U.S.S. Kitty Hawk. In May of 1972 he was shot down by the enemy while on a reconnaissance mission over North Vietnam. He was held as a Prisoner of War in the infamous Hanoi Hilton for 11 months. 
+For his service, his personal heroism and his couragf' under great duress he was awarded the Navy Commendation Medal, Two Purple Hearts and the Distinguished Flying Cross. 
+He was elected Mayor of South Bend in 1987 and served as Mayor for nine years, longer than any other mayor in the city's history. During that time as mayor: 
+l) 
+South Bend's bond classifications jumped three dassilications to AA as a result of sound tlscal man­agement. 
+
+2) 
+The prHsf'nce of uniformed police officers on the streot increas~d more than 50 percent due to invest­ment in new technology. 
+
+3) 
+City investment in the Blackthorn development area attracted more than 160 million dollars helping to create/retain over 4,000 jobs. 
+
+
+In 1996 he was elected Lt. Gov. oflndiana in which capacity he is president of the Indiana Senate, direc­tor of the Indiana Department of' Commerce and is the Commissioner of Agriculture. 
+The choice of Kernan is brilliant because: 
+l) Kernan is a Notre Dame graduate. Wo honor one of our own. 
+2 l lie has a magnificent war record of service to and suffering !'or our country. 
+3) He has forged a brilliant career in public service. 
+We the student body of the University of Notre Dame du lac are delighted and privileged to have Indiana Lieutenant Governor .Joe Kernan as our com­mencement speaker. 
+The Student Senate University of Notre Dame April 22, 1998 
+• DOONESBURV 
+f)() YaJ THINK TH&YU 
+MAl<& OTHeR 6/RI-­
+FRIENI/t-"Y-ROMAN77C 
+CfSA'3T&R. 8PIC5 UK& 
+"T/77W!C"~ 
+\ -«~::;... 
+• LETTER TO THE EDITOR 
+Notre Dame More Than Just Drinking 
+' 
+
+I am quite concerned by the sentiments expressed in Bob Kerr's article "Administration Allows Drinking But No Space," that appeared on April 17. The close-mind­edness exhibited in this article is the main cause for my concern. It's no secret that alcohol is a problem on this campus, partially because of the abusive con­sumption that Kerr recognizes as an issue. 
+However, abuse is not the only problem. ofT-campus parties, bars, movies and Flip 
+From the very beginning of his or her Side events; in eaeh of these cate­stay at Notre Dame, each student is gories, there have been some good forced to choose one side of the issue, and bad times. i\s a group, we to drink or not to drink. Those who should be (and I believe »'lt;tri~L choose not to usn alcohol are often creative enough to find otlwr shunned and ridiculed as a result things to do, and we should of their decision. Let me empha­want morn from our eollegiatn size that the problem is not that a experience than hazy nwmo­large number of people usc alco­ries of being hamnwred, hol. The problem is caused by the smaslwd, toasted, sloshed or individuals who obnoxiously pro­housed. claim that their decision to get Kerr states that Notrn Damn hammered every weekend is right social life lias always indudod and that those who choose not to drinking, and always will. While imbibe are making an unacceptable his pn~dietion may be corn~r.t, il choice. Similarly, although not as fre­·-::c~--:'"'· ·~ .;c-.... dons not. have l.o lw correct, and ('.(~r­quently, those who do not drink isolate ·~s;: ..... -.. -·;:: tainly not insofar as it is now. It snmns themselves from those who do, creating an clear that as deaths and otlwr casualties 
+unhealthy dichotomy. In the middle are those who · have learned how to be responsible with their alcohol use. On the two polarized sides of the question, there needs to be a much more open attitude. This is the Notre Dame family, isn't it'! Shouldn't people be accepted based on who they are, not based on whether or not they decide to drink? 
+I also have great difficulty accepting the suggestion that "drinking is our pastime," and therefore we should "learn to accept it as an inescapable part of our identity." While !firmly believe that there is nothing wrong with using alcohol, as long as it is used respon­sibly, I also believe that college drinking is not a rite of passage. It is not something that everyone has to do, as Kerr implies in the quoted statement. It involves a personal decision made by each individual as an indi­vidual, hopefully without the interference of anyone else. 
+I would also like to question Kerr's claim that, "If we had another outlet ... the University might be able to pull off a dry campus. But not in this town, and not with these students." First, I am fairly sure that a dry campus is not the University's goal. and it probably 
+GARRY TRUDEAU 
+~ICKJMIIJJON.' 
+AR8YOU K/Pil/N6 Mer 
+should not be, because of the greater risks involved in making more ofT-campus excursions necessary. Second, the Notre Dame student body is a collection of some of the brightest individuals in the country. "Not with these students" sounds like an insult to me. In almost four years here, I've tried a good variety of 
+have oecurmd at other sehools as a rnsult of abusive drinking, we will sec another one of tlwsn con­sequences first-hand at Notn~ Damn if our eollnctiw drinking habits remain the same. 
+In addition, Kerr's comparison of Notro Dame's drinking to the "pastimes" of other schools is just a hit ridiculous. The pastimes he mentions that are associ­ated with other schools, including skiing, hiking and hiking, are all active, healthy activities, and they have another !'actor in common: Tlwy're all legal. Don't for­get that about 75 percent of tht~ undt~rgraduatt~ stu­dent body is underage. The University is not going to overtly permit illegal activities by including a bar in tl1e addition to South Dining I tall. Other schools may be known !'or other pastimes and they may be situated in more pleasing locales. Dons anyone really want Notm Dame to be "known" for its alt:oholust~? I hope 
+not. 
+Steve Ponisciak Senior 
+O'Neill Hall 
+April 20, 1998 
+• 0.UOTE OF THE DAY 
+'Historically, a Canadian is an American who rejects the Revolution.' 
+-Northrop Frye 
+
+• 
+-----~--~~­
+
+
+VIEWPOINT
+Thursday, April23, 1998 page 9 
+• PERSPECTIVES OF ND 
+Affirmative Action A Necessary Evil 
+"When you live in a poor neighborhood. 
+you're living in an area where you have to have poor schools. When you have poor schools. you have poor teachers. When you have poor teachers you get a poor education. With a poor education. you can only get a poor paying job, and that poor paying job enables you to live. again, in a poor neighborhood! So .~t's a very vicious cycle. 
+-Malcolm X 
+
+T
+hese are America's realities: The founding fathers infused a racial caste system -not a color blind one-into the U.S. Constitution by rele­gating "negroes" to property, worth no more than three-fifths a human being. After Lincoln's reprieve from obvious bondage, Jim Crow laws and procedures shn~wdly circumvented and nullified the Civil Rights legislation of the late 1860s, maintaining the t)ppressive racial caste system. 
+Mel Tardy 
+In 1896, Plessy vs. Ferguson only enhanced the oppression. The mantra of "separate but equal" legally cut negroes orr from whites and, in effect, all resources whites were privy to in improv­ing life for their own families and posteri­ty: schools. libraries, colleges, hospitals, hotels. banks. politicians and safe neigh­borhoods. On the freeway of opportunity, the ghetto could claim no entrance ramps. This was reality in America circa 1950, nearly 100 years after Congress added civil rights to the Constitution (Amendments XIII, XIV and XV). 
+Then came a turning point. In the 1954 Brown vs. Topeka Board of Education case. young Thurgood Marshall success­fully argued that a doctrine of "separate but equal" in a racially oppressive society was inherently unequal and unfair, laying the legal groundwork for what became the Civil Rights Movement. 
+Integration was not the ultimate goal; it was a means to achieve a goal: the end of racial oppression towards African Americans. Whites refused to share resources with African Americans, but civil rights leaders reasoned that if they were forced to integrate -share space ­with blacks, sharing of resources would naturally follow. Self-serving as it was, when Dr. Martin Luther King Jr. took up the cause, he infused a spiritual, moral dimension with which the Caucasian (Christian} community could empathize. 
+King's murder sparked deadly riots, prompting President Johnson to issue Executive Order No. 11246 in 1965. Adding teeth to JFK's Executive Order No. 10925, which bade federal cont~tors to "... take affirmative action, to ensure that applicants are employed ... and ... treated ... without regard to their race, creed, color or national origin," Johnson's order required employers to "promote the full realization of equal employment opportu­nity through a positive, continuing pro­gram in each executive department and agency." Johnson felt the government, a participant in discriminatory practices, was duly obligated to bring those "shack­led" victims up to speed with those who had, at the former's expense, inherited a running start. He wanted equal results, not just equal opportunity. 
+In 1971, Nixon further required all fed­eral contractors to develop affirmative aetion plans, including analysis by job classification of areas where minorities and women were being underutilized, goals and timetables. By this, he didn't mean illegal quotas, just a good faith effort and reasonably attainable targets. 
+Each presidential order inched affirma­tive action from passive concept to results­oriented plan. While some argue ideology, it is with the implementation phase that most opponents now take issue, via the courts. Some believe the very existence of Civil Rights laws means equality. Others argue that the obvious use of "non-merit" criteria like race, even to "level the play­ing field," was outlawed by the 1964 Civil Rights Bill. Still others claim affirmative action just hasn't been effective or helped the right people and has even hurt whites unjustly. 
+Over the past 30 years, many forms of "affirmative action" have evolved. The book "Affirmative Action" by Tomasson, Crosby & Herzberger (1996} suggests viewing them on a continuum, from "equal opportunity" and active nondis­crimi­nomer) for past discrimination, the bene­fits of diversity, social contract theory, sociological arguments and pragmatic (i.e. prevents riots and black 'nationalism). Perhaps the most persuasive argument, however, is to ask whether or not the cli­mate/situation that spawned ailirmative action still exists (i..e. is playing field level), and whether affirmative action is a fair, effective equalizer. 
+Many who advocate "equal opportunity" believe things became equal with the mere passage of the 1964 Civil Rights Bill. 
+Yet, we're 
+
+nation reminded
+'w'hites rarely claim that denial to 
+(i.e. that for
+selective schools was due to prefer­
+sensi­nearly 100 tivity ence programs for legacies (roughly years prior train­to that bill,
+25 percent ofND's class), but in a semantic twist
+ing) to Articles XIII the they'll raise the roofabout affirmative action and and XIV and active XV of the US
+African Americans (roughly 3 percent ofND's
+seek­Constitution 
+ing of class).' candi­dates based on desirable characteristics (what Fair calls "remedial affirmative action"). Tomasson offers a workable summary using Oppenheimer's models: targeted hiring, quotas, preference pro­grams, self-examination and outreach programs. 
+While most quota and set aside pro­grams have been deemed illegal by the Supreme Court based on the 1964 Civil Rights Bill, other programs, including hir­ing and admission policies that use race/gender as a "plus factor" (i.e. in the case of a tie) or those enacted by Congress (see Fullilove case), currently have the court's favor if they pass the "narrowly tailored" standard. In the wake of Proposition 209 and the Hopwood case, which both attacked preference pro­grams, that may change, but the Supreme Court still views such programs as legal. 
+On ideological grounds, rights of Lockean (discrete) individuals clash with group social justice. Many Americans value "rugged individualism", but racial oppression has tainted that term for many African Americans. We survived by devel­oping a heightened sense of community. Slavery, Jim Crow, Rodney King's beating, all affected us as a "group." When African proclaimed 
+civil rights while Jim Crow circumvented them. De jure freedom is no substitute for de facto freedom. 
+Here's an example of a non-level play­ing field. The parents of many college-age African Americans were denied the right -and expectation -of a college educa­tion. Thus, many oftoday's African American collegians are first generation, with parents not "college savvy" or finan­cially able enough to enroll their kids in SAT prep courses, have them improve scores via multiple retakes, or to have a doctor determine whether a learning dis­ability may be hurting their ability to test well. The regents of the University of California chose to be insensitive to that in their "merit-only" admissions crusade. 
+Y
+et, in that same crusade, did these 
+regents target legacies? Children 
+
+of same-era whites make up sig­nificant, pre-determined percentages of selective schools' incoming classes, as legacies -a privilege to which many African Americans had no entrance ramp, due to oppression. 
+On the surface, the policy appears color­blind, but is this equality of results? Is the playing field level? Loopholes like this (and I could list many others) would make 
+
+Americans were publicly whipped or lynched, and survivors knew police wouldn't do anything to prevent it from happening to them next -to call that a crime against an "individual" would have been an insult. 
+Thus, anti-discrimination laws requiring the victim to prove an institution's history of discrimination against that "individual," before justifying the legitimacy of remedi­al affirmative action towards that "individ­ual," ring hollow to African Americans from here to California! 
+Ultimately, it may not matter. Some politicians shrewdly use affirmative action to pit African Americans against Asian Americans, "angry white males" against Janet Renos, Reagan Democrats against Clinton Republicans. We are mere specta­tors in a game of political football. If blacks truly had power, affirmative action would be politically untouchable (similar to entitlement programs benefitting elder­ly whites), or obviously unneeded. For example, a majority of neither people of color (including Asians) nor white women voted in favor of Proposition 209 in diverse California, but white males outvot­ed them all. Does that make Prop 209 "the will of the people?" 
+People justify affirmative action by using several different arguments. Tomasson summarizes them as retribution (a mis-Jim Crow envious. Whites rarely claim that denial to selective schools was due to preference programs for legacies (roughly 25 percent of ND's class), but in a seman­tic twist they'll raise the roof about affrr­mative action and African Americans (roughly 3% of ND's class). 
+Here's another example: A recent TV documentary selected two men, similar in every respect (age, college, degree, occu­pation, salary) except one was Caucasian, the other African American. 
+In St. Louis, they were told to apply for jobs and rental properties, inquire about car purchases and bank loans, etc. Alone, one would go, then shortly after, the other. The results were disgusting. 
+In most instances, the African American man was ignored, doubted, lied to about openings, asked to pay higher premiums or in some way shown that inequalities do exist in attitude as well as action. The white man, conversely, was treated like a king. This is reality in America. Why would we want to get rid of affrrmative action in such an environment? 
+Given an unlevel playing field, is affir­mative action an effective, fair remedy? In judging effectiveness. Bryon Fair reminds us in "Notes of a Racial Caste Baby" (1997) that the goal of affrrmative action was never racial integration for the sake of brotherhood and an end to segregation ... it was for the sake of access to resources and an end to racial oppression. In this sense, affirmative action has become the once-craved entrance ramp to American opportunity; for African Americans as well as similar victims of oppression. Affirmative action has forced Americans to think twice about "business as usual." 
+If those were the only benefits, then affirmative action would be relevant. In addition, however, attention to diversity has opened new markets, in our backyard and abroad. Moreover, affirmative action has not hurt race relations in America ... it is race relations in America. No other pro­grams force people from divergent back­grounds to interact in their everyday experiences the way affirmative action has, especially in the corporate world and in universities which are developing lead­ership for the 21st century. Not even churches do this. If we are closer as brothers and sisters in America, give some credit to affirmative action. Who initially would have thought that, once we got together, we might actually get along. 
+Perhaps affrrmative action would be more effective if executives didn't practice selective networking (i.e. exclusive coun­try clubs), if "white flight" would stop seg­regating neighborhoods, if the diversity oversight committees usually assigned to people of color were stronger factors of consideration for promotions or faculty tenure, and if glass ceilings, salary inequities and unfair promotional policies were easier to see. (Sometimes, suggest Crosby and Herzberger, such inequities are only apparent with larger data sam­ples viewed in aggregate.) 
+Some argue that affirmative action is unfair to whites. Perhaps, it is in a few iso­lated cases, but as a battle cry, "reverse discrimination" truly mocks African American history. For example, this zero­sum mentality blames affrrmative action for tightening job markets, rather than demographic trends, "trickle-down eco-' nomics" and the short-sighted decisions of 
+U.S. corporations. In the 1980s, the latter tried to force-feed inferior products via "made in the USA" stickers, financed greed-based corporate takeovers, and underestimated the viability of interna­tional rivals-all leading to a weak econ­omy, severe corporate down-sizing, a tem­porary moratorium on new-hires and so­called "angry white males." 
+Nevertheless, as changing political and ideological winds swirl around affrrmative action, the courts bear watching. A way once paved with Brown, Weber, Fullilove and Johnson now has Proposition 209, Hopwood, and a pending University of Michigan case. Sure, there are problems with affirmative action. For example, a program initially designed to remedy racial oppression of African Americans runs into problems when applied to other races and ethnicities, mixed races and women. That's grounds for mending affir­mative action, not ending it. 
+We owe it to ourselves, and to those who will judge us in history, to protect affirmative action. Inequities still exist, and history has shown us we can't trust "business as usual" to right these wrongs. Affrrmative action has done more than anything else to build an entrance ramp from the ghettos-and middle-class hold­ing tanks blocked by glass-ceilings -to the freeway of American opportunity. Currently, nothing else is more effective, timely or practical, and the benefits to America of keeping affrrmative action alive clearly outweigh the costs of aban­doning it. 
+Affirmative action is not, and cannot be, a stand-alone solution to all racial prob­lems, nor to achieving the goal of a level playing field. Nevertheless, if the goal of our country is equality, unity and freedom from oppression, we must continue the affirmative action experiment a bit longer, just as we continue this elusive goal of an American democracy. 
+Melvin R. Tardy is a graduate ofthe ND 
+Classes of'86 and '90 and an Advisor in 
+the First Year ofStudies. He can be 
+reached at melvin. r. tardy. I @nd. edu. 
+The views expressed in this column are 
+not necessarily those ofThe Observer. 
+
+~---~---­
+----~--~~~----~---.~--~~·---------·------,--------~-.~--.r-------------­
+
+
+o~~ n 
+
+
+page 10 --------------------------------~OBSERVER-----------------------Thursday, April 23, 1998 
+
+
+Capricorn Records 
+***** (best out of five) 
+W
+ith summer quickly approaching, the thoughts of college students turn from books and studies to concerts and freedom. For those interested in seeking out the best of summer concert experi­ences. concerts such as Lollapalooza, Horde Festival, the Rolling Stones, Dave Matthews and Phish are relatively well-known. Another name worth knowing is Widespread Panie. 
+The name Widespread Panic might ring a bell with Notre Dame students after their concert here in South Bend in September at the Morris Civic Auditorium. For those unfamiliar with the band, they are a six-man ensemble originally from Athens, Ga. Consisting of John Bell on vocals and guitar, John "Jo-Jo" IIerman on key­boards and vocals, John Houser on guitar and vocals, Todd Nance on drums. Domingo Ortiz on percussion and vocals and Dave Schools on bass and vocals, the band began as a Grateful Dead cover band. Since the mid-80s, the band has focused its sound on a combination of hard rock, blues and acid rock. While much has changed since then. the band's relentless touring has gained them international popularity, a huge grass-roots following, and a reputation as one of the best live bands to see today. For this reason, Widespread Panic's sixth and newest album, entitled Light Fuse Get Away, is possibly the most exciting album they have released simply because it is a sampling of their live sound. 
+The cover of the album looks like a firecracker wrapper and the name of the album also implies explosiveness. Even the release of this album was done in a way which exemplifies the manner in which Widespread Panic seems to approach their music. After a long European and Australian tour, the band returned to their hometown in Georgia to give a free concert in the town square. The two-CD live album opnns with an enchanting version of "Porch." rich with mysterious vocal harmonies which gradually erupt into a foot-stomping and consistently con­cise jam. This song alone gives the _listener a great idea of what's to come as it leads into the previously unreleased "Disco." The two CDs are packed with music from beginning to end, mix­ing songs from their oldest albums to songs from last year's release, Bombs and Butl!~rflies. There are also plenty of unreleased concert favorites such as "Conrad" and "Papa Legba." 
+Throughout the various phases of the album. the energy never drops a beat while many songs reflect variance in fePiing and influence. Experienced "Spreadlwads" will savor favorites such as "Space Wrangler," "Traveling Light" and "Hock" while those not familiar with the band might find appeal in songs such as "Pirkin' up the Pieces," "Pilgrims" and "WondPring." Tlw best facet of the album is the uniqun, once-in-a­lifetime feel of each song that can't bn found on any studio album. 
+All in .all. tlw CD brings the group back to tlw 
+U.S. with monwntum as thnv head into anotlwr great summer of touring and.gives fans and new­comers just what they'vn benn looking for: a great live recording for all to nnjoy. 
+
+Dave Clark 
+
+~urrent pioneer of jaZ7Jfusion guitar,
+A
+John Scofield h_as gained notoriety (albeit 
+behind the likes of John McLaughlin) as 
+me of the few innovators willing to morph his sound according to the setting. On his new disc, A-Go Go. he does just this to complement to the young and impressive trio of keyboardist John Medeski, percussionist Billy Martin and bassist Chris Wood. More popularly known as MMW, they are the quintessential acid jazz trio of the 90s. and their release with Scofield has been in the works for some time. 
+This all-instrumental album is by no means short of melody, one of Scofield's past demons. Medeski is thP master of an eerie but catchy acid jazz, and his Wurlitzer, Clavinet. Hammond B3 and piano are the means by which he gets there. Thoroughbreds of the New York scene, MMW sounds tighter and more eclectic than they ever have thanks to Scofidd's scm~-,rwriting. Throughout tlw album. Scofield and Mcdeski trade ideas with an nxcellent sensn of complement and let the album steadily gain momentum from catchy melodic rifTs to outright jamming, preserving a laid-back groove throughout. On "Chank," Medeski lays out a pleasant melody which progressively bneomcs more and more atonal and climaxes with a loosn guitar-organ fugun. Scofield dons the Marc Hibot (a frequent guest guitarist for MMW) outfit for this piece, but quickly returns with a rather tonal and melodic lead in "Boozer," which inciden­tally includes a blatant "Mercy, Mercy, Mercy" quote. The group again changes gears for the brief but hauntingly enchanting and possible tribute "Kubrick," which features the eeriest side of Mndnski coupled with a flamenco-tinged edge from Scofield. 
+The album hits an upbeat gait with "Hottentot," as Chris Wood furiously pounds the groove on the upright bass. Wood's sound has continuously become more autonomous with MMW. He is defi­nitely at his peak when, as in this piece, he com­bines the necessary groove with assertive punctua­tions and dissonant insertions. Martin, a very loose percussionist with an addiction to strange rhyth­mic devices. is a good fit for Scofield. although Scofield's work sounds more furious and perhaps a bit tighter on his earlier work with Dennis Chambers. However. the f(JUr mesh quite well as a unit and the result is pleasing to the ear, uniform and clearly original. 
+John Scofield has done himself a great service by collaborating with the underground trio MMW. lie not only expands his already-enormous repertoire of musical genres, but will certainly bring more mainstream recognition to himself from an audi­ence who was most likely previously unfamiliar with his work. Scofield's interaction with Medeski on the album rotates from consonant to dissonant. 
+Exciting and well-stated, Medeski real11rms that he champions chromatic harmony and cross­rhythms, and does so with such panache that few could be turned off by the music's somewhat arcane tendencies. This quartet exudes ingenuity. experience and fun, and their collaborative project should be enjoyed by any listener of the groove. 
+
+Joel Cummins 
+
+Chris Goddard Fill The Silence (EP) 
+
+Chris Goddard/ascap 
+.
+,,.., 
+
+**** (best out of five) 
+.... Following in the footsteps of the In the other songs we sec seenPs from Chris' life Skachoholics and the Dunn Brothers, and it foels like he is telling the truth. llis songs Morrisey resident Chris Goddard has lack the pretense that holds many lyricists from released a four song EP, and you should being able to eommunic.atn with llw listnnor, but go buy it. The campus music scene is sporadic at after hearing Fill The Silence, one feels as best and appalling at worst. At times one must though Goddard were an old aequaintancn ­wonder if there is in fact an alternative to the and a really nice guy. Skalcoholics. Fortunately, there is. Goddard, a St. The music: that supports Fill The Silence is sim­Louis native, has written and produced Fill The ple but effective. The performance is confident Silence, which is a quiet, beautiful exploration of and skillful. Chris Goddard can be found per­the self. forming his songs on and about campus which is With the minimal accompaniment of Evan also a great place to pick up the CD. Howard on percussion, Brian Goddard on bass and Chris himself on guitar, Goddard's words find a pleasantly welcoming home. The album's Photo courtesy of Chris Goddard/ascap shining track is "The Pretty Song," which skillful­ly blends the style of Jeff Buckley with the lyrical Stuart Smith 
+
+beauty of Jim Croce into a convincing love song. 
+Thursday, April 23, 1998 page 11 
+DiFranco De Facto 
+Ani rocks the little plastic bubble (aka the beautiful Stepan Center) 
+A 
+fter years of training and research in the field of jour­nalism, one crucial principle has become eminently clear to me: the story takes precedence over all other things. I c:ould certainly pep­per my roaction to the recent Ani DiFranco conc:ert with song titles and meaningless facts about the artist's career. I could also tPll outrageous tales of an opening act who magically trans­formed his rhythm sPction into a machine and. in the process, lost the attPntion of his audi­nnc:P. Such matters, howevor. do little j usticn to the real story: namely, Miss Ani DiFranco. 
+I havP to admit that I wasn't <~xactly abiding by my usual­ly impPccablo jour­nalistic methods as I entered thn Stepan Center on Wndnnsday night. Tlw lncrndible Hulk was in my pocket and delusions of Bookstore grandeur wero floating through my mind. I justi­liPd my approach by recognizing Ani's 
+W
+ith the <'.Xplosivr. popularity of Jon Favreau's 1996 film 
+Swingr.rs came a rovival of 
+1940s jump-jivP.. alley-cat hipstf'r r.ulturr.. While such groups as tlw Mighty Blue Kings, Cherry Poppin' Daddies. and the Brian Setzer Orchestra havo all gained tremendous momentum !'rom tlw 111m's rnlease, Ventura artists Hig Bad Voodoo Daddy jumped from an existenrP as an extremely talented California r.nsnmbiP to a national music sensation. In tlw midst of a cross-<~oun­try tour promoting their self-titled major-labr.l debut. BBVD made an unforgettable stop at thr. Chicago I louse of Blues this past Friday evening. 
+The show shot out of the gate sprint­ing with Mama Digdown's Brass Junetion. a Madison-based New Orloans-stylo band. The nine piece group got the crowd moving with and hour long set fillod with addictive shuf­l'les. catchy ril'fs and overpowering unisons. The house was lilled early in anticipation of BBVD's appearanco. but Mama Digdown prow~d themselves wor­thy of such an audienc~c. Their set was highlighted by a disappearance from stage left and a reemergence into the extreme clout in the concert industry. 
+Going to an ·Ani show is somewhat similar to seeing Phish. P-Funk, or any Third Wave ska band: You can have a fantastic time without being totally familiar with the artist's work. So then, as I entored the center and pickod up my tieket. I was pretty much 
+prepared for any­thing. Which is exactly what I got. 
+The scene inside Stepan was every dogmatic feminist's and teenage boy's 
+
+dream  come  true;  
+scores  of  young  
+ladies  filled  the  
+arena.  although  I  
+was  not  sure  
+
+whether they were awaiting the appear­ance of Ani or preparing for some sort of ritualistic male sacrifice. The anticipation seemed to stem from the for­mer, however. as the crowd jumped to its collective feet and roared its approval as Ani. accompanied by a bassist, drummer and organ player, took the stage. After a surprisingly funky open­ing number and some idle talk about 
+the Stepan Center's similarity to the inside of a brain, the ·real excitement began. While glancing at the masses Ani must have seen my angelic face, because · 
+
+;;he sud­a perfect 
+d e n I y conclu­
+decided sion to 
+to drop an ener­
+her top g e t i c 
+and play evening. 
+the rest When 
+of the first 
+show in entered 
+I i t t I e t h e 
+m o r e Stepan 
+than her Center 
+bra. This I a s t 
+w a s W e d ­
+undoubt­ncsday 
+edly an night, I 
+
+a d d e d bonus (for me, anyway), but the real stand­outs of the show were the songs. 
+Moving from slow. acoustic numbers to longer, more improvisational jams, Ani kept the crowd excited and alive throughout the evening. Her experi­ence as a truly seasoned performer became obvious as she picked just the right moments to interact with the crowd or switch the pace of a song. By the time the band had left the stage, my sense of joyous awe could only be tempered by two simple questions: 
+The Observer/John Daily WaS a 
+
+m e r e child in the Ani DiFranco universe, filled with a cornucopia of misconcep­tions and doubts. By the time I left. however. I was a man. I gained a new appreciation for her music, her fans. and even her choice in undergarment apparel. On an otherwise cold and uninteresting night in South Bend, Ani DiFranco lit a fire in my soul that has yet to be extinguished. Take it from the Kid: Until you have seen Ani DiFranco live in concert, you really don't know what you're missing. 
+By Matt
+
+They're so money baby 
+Big Bad Voodoo Daddy "swings" into Chicago's House of Blues 
+
+crowd for their final three numbers, N'awlins funeral-march style. 
+The P.A. blared Nat "King" Cole and Albert Collins tunes between sets and gradually dissipated into a jump-swings blues combo number. The curtain opened, the crowd roared with delight, and Big Bad Voodoo Daddy tore into their opening tune, "The Boogie Bumper." Trumpeter and featured soloist Glen "The Kid" Marhevka ripped out a scorching series of multi-octave 
+Tori Amos 
+Sonic Youth 
+Van Halen/Kenny Wayne Sheppard 
+Foo Fighters/Ben Folds Five 
+Dave Matthews Band/Poi Dog Pondering 
+Jimmy Page & Robert Plant April 3D May 16 May 16 
+May20 May30 June9 
+runs and Dizzy Galespie-esque blast. 
+Percussionist Kurt Sodergren, bassist Dirk Shumaker, and keyboardist Joshua laid down and infec­tious groove that kept the kids dancing all night long. These three, coupled with the accentual guitar licks from lead vocal­ist and guitarist Scotty Morris, kept the pace fast and furi­ous all throughout the show. Their rock solid 
+
+foundation gave BBVD's talented horn section the oppor­tunity to showboat all evening, much to the crowd's approval. Tenor saxophonist Karl Hunter, baritone saxophonist Andy "The Golden Smog" Rowley, trombonist Jeff Harris, and Marhevka collectively stole the show. Whether in crisp unisons, complex heads, imaginative solos. or hysterical stage antics. these four are the perfect touch to the talented BBVD rhythm section. Frontman Scotty 
+By DJ Spak 
+
+Where did all the time go, and why is that girl behind me such a terrible dancer? The crowd was not completely satisfied until two encores were per­formed. 
+ButteI  
+Morris proved to be as entertaining an  
+emcee as he is a guitarist, and while his  
+voice was a bit raw at times, he piloted  
+the group through an entertaining show.  
+The majority of the set consisted of  
+tunes from their initial CD. "Mr.  
+Pinstripe Suit," "Mambo Swing" and  
+"King of Swing" were all new tunes that  
+impressed the audience, while Swingers  
+staples "You and Me and the Bottle  
+Makes Three Tonight (Baby)" and "I  
+Wanna Be Like You" were familiar tunes  
+to everyone in attendance. A terrific  
+cover of Cab Calloway's "Minnie the  
+Moocher" paid proper homage to the  
+Hidey-Ho man. and the set closed with a  
+Dixieland group improvisational num­ 
+ber. "So Long-Farewell-Good-bye" (with  
+a tease of Nirvana's "Smells Like Teen  - 
+Spirit" thrown in).  
+The band returned to chants of "Go­ 
+Daddy-0!" for their final number, the  
+tune that made them famous. The crowd  
+danced itself senseless as each musician  
+took verses with everything they had.  
+Clad in fedoras, two-tone wing tips and  
+vintage pinstripe suits. Big Bad Voodoo  
+Daddy demonstrated that while the 40s revival may come and go. they'll be  - 
+playing crowds for years to come.  
+
+upcoming concerts in the area 
+-
+Park West (Chicago) Riviera Theatre (Chicago) Rosemont Horizon (Rosemont, IL) 
+Deer Creek (Indianapolis) New World Theatre (Tinley Park, IL) Market Square Arena (Indianapolis) 
+~p>gc 12 ·-T_h_e_O~b s-er-v~er_•_S_,P_O...R_T_S~-Thur-sd->y,~p,il 23, 1998
+---..... 
+~~------------------------------------------------~~~~~~~~~~=---------------------------------------~~~-------­
+Valpo 
+continued from page 20 
+fielder J.J. Swiatkowski threw Pereonte out at tlw platP in a nearly identical play to Porzl'l's rnr tiH• Irish in the second. Percontn and Ust, when he scored the 
+Classifieds 
+ing a run home. In the second, Jeff Wagner led off with a double and was joined on base when Porzel walked two batters later. Leatherman then hit a tow­ering fly ball that just cleared the fence in right field for a three-run horne run. It was the first baseman's eighth of the sea­son and fifth in his last 13 games. 
+Those would be all the runs the Irish would need. Starter 
+bases, then got catcher Scott Lockhart to to us has been all these games during the fly out to right field to end the game. week as well as on the weekends," 
+Since the three-game massacre to McKeown said. "It gives everybody a Miami when the Irish allowed 54 earned chance to get out there. It's just a matter runs in 24 innings, Notre Dame's team of ·getting our grooves. Everybody's doing ERA has fallen from 9.31 to 3.91. In the well and getting the job done. The two last nine games, the Irish staff EHA is a victories put Notre Dame at 22-1 in their microscopie 0.36. last 23 games. the best record of any Irish 
+"One of the best things that's happened program over a stretch with only one loss. 
+
+Sales/Marketing Internships NOTICES University Directories is hiring stu­dents to sell yellow page advertis-THE COPY SHOP -ing for the official campus tete-LaFortune Student Center phone directory this summer. Paid WE'RE OPEN EARLY. LATE. internship. Training program. AND WEEKENDS!!! Excellent sales/marketing & man­Mon-Thur 7:30am -Midnight agement experience. Call Fri 7:30am -7:00pm 1-800-743-5556 Ext. 143 or visit Sat Noon -6:00pm www.universitydirectories.com Sun Noon -Midnight CALL 631-COPY Rec Sports is hiring student supervisors for next academic "To Be CONtinued ... " year. Freshmen and sophomores  FREE SUMMER STORAGE '98-"99. 4-6BED. 2-CAR GAR. WID. V-BALL CT. VERY SAFE. 234-3831/273-0482 4BR house close to ND. grad students only unfurnished. 233-1727 1 .300 ROOMS AVAILABLE GRADUA­TION & FOOTBALL WEEKENDS. LESS THAN 2 MILES FROM CAM­PUS, CONT. BRKFST INCL. CALL  2 bedroom furnished Turtle Creek townhouse" for summer rent. Price negotiable. Women preferrably. Call 273-9249 FOR SALE Beautiful brass bed. queen size, with orthopedic mattress set and deluxe frame. New, never used, still plastic. $225 219-862-2082  PERSONAL Come on out and dance with UMPHREY'S McGEE at STONEHENGE this afternoon from 4-5 p.m.  ADOPTION IS LOVE Happily married ND Alumni couple. with adopted 3 year old daughter. wants to shower a new baby with Jove. Artistic full-time mom. athletic lawyer dad, and a sister to play with. Friends on the swingset. trips to the zoo, grandma, play groups. lullabies, too. This is a home where wishes come true. We"d like to get to know you. Call Shawn & Meg 800-767-4257. Legal/Medical/Allowable exp. paid.  
+General SF convention April 24-26. preferred. Must qualify for work/ Ramada Inn, 52890 US 31/33. study. Sports interest and/or 272·5220 for rooms, or 272-7399 background helpful. Apply by for info on the con. Guests: April 23. Rec Sports office.  277-8340 Bed & Breakfast for ND graduation & Football. 3 miles from ND. 287­ 94 GEO PRIZM 29K $8900 obo, 1­7563  UPS UPS UPS Shipping stuff home?  Earn Free Computer, Monitor and Printer. Call:255-6455 South Bend's annual outdoor event  
+- Geoffrey Landis, Rick McCollum, Diana Stein, Michael Longcor. Panels. Art Show. Dealer's Room. MODELS NEEDED! Female and Costume contest. Dance. open Male Models for an upcoming gaming area. A VEDA production. Model calls are http://www.nd.edu/-rjervls being held now. Have fun and get a great new look. Please call 1-800­356-5533 ext 1209 for information. ILOST & FOUND I Want to live in Turtle Creek Fall Semester? LOST WOMEN'S GOLD AND SIL-We want to live there in the spring. VER SEIKO WATCH SINCE TUES­Let's share a lease.  4545 HOUSE LEASE 4BR 2BA PT FURN W/D/ D/W WALK-ND AVAIL 6/1 GRAD PREF (773)288-8822 Room for rent in 5 bdrm house. Kitch. Washer, Dryer. Safe Nghbrhd, close to campus. All Util. incl. $200. avail. now. Paul Roy-232-2794  FOR SALE!! Very cute, very strong loft. I must sell this thing by Saturday 8:00 am. Only $40 or best offer. Help. Call Colleen @ x1509. GOD BLESS YOU!! "COMPUTER: Mac laptop w/ modem &printer included $1,200 OBO "BIKE: Huffy mountain b. $100 OBO  Best UPS rates on campus! COUNTRY HARVESTER X1-6714 LaFortune Extended hours during finals Opert Senior Week thru May 20 ALIBABA'S TAHINI Come see South Bend's most  of the year will be taking place this Saturday at Turner's American, just east of Ironwood on the south side 9f the toll road. Gates open at 10:00 am and the music starts soon thereafter with STOMPER BOB at 11:00 am GRAVITY HILL at 1:30pm  
+--- DAY APRIL 14th x2985 IF FOUND PLEASE CALL DINO @4633 I'm looking for a place to stay this YOU'LL BE HAPPY!! summer. I need to be able to move in right after senior week. x-4732 Lost-Birthday photo of Jessica Dettmann. if you find it let us Student seeking fall '98 only hous­know... ing. Close to campus. Single or WANTED I shared;~;s~NT Anyone interning in Chicago looking L~-------------..J 4 a roommate? Now Renting Call Mike X3584 Campus View 1 & 2 Bedrooms 2 Blocks from campus Looking for a Room for the sum­272-1441 mer? Cheap Sublet... call x1569 Summer and or Fall 3 bdr home. 2 blks from campus 273-1566 Volunteer in Africa or Mexico. One COLLEGE PARK APT.-spotless­year placements in various sectors: cheap rent for summer-call 243­human rights, community develop­9309 ment. youth. journalism, microenter· prise, health, refugee relief, more. Internships 1n our Washington DC CHEAP SUMMER HOUSING­office. Visions in Action. large. furnished house for any num­(202)625-7403. Visions@igc.org ber (3+) spotless w/ entertainment Web:www.igc.org/visions system, WD, and deluxe kitchen. Rent negotiable. 289-7136 Jack or Need a fulfilling job? N.D. families Dave look1ng for responsible, caring, energetic students to work w/ spe­ALL SIZE HOMES cial needs children during summer CLOSE TO CAMPUS and next year. Ideal for anyone 232-2595 interested in Education, Speech. OT, or Sensory. All families are in 1.2,3&4 BDRM HOMES NEAR need of reliable. trusting students CAMPUS. GILLIS PROPERTIES with a special interest in helping 272-6551 kids. Please call Kim Lawton @ 277-4552 or 5 bedroom house for rent for 98-99,  NICE 3-4 BEDROOM HOMES FOR NEXT SCHOOL YEAR NORTH OF ND 2773097 COLLEGE PARK APT AVAIL FOR SUMMER BEST OFFER 4-1314 3 BDRM HOME, SAFE AREA. NEAR ND & UP MALL. AVAIL 8//20-5/20. $1000 PER MO. & UTIL. CALL 407-673-1779. Furn. Rm Wash/Dry Private Bath Kitchen $350/Eiec Karen 284-6257, 273-4517(eve) SUMMER SCHOOL STUDENTS: College Park Apt. for lease this summer. Fully furnished. Reasonably priced. To inquire. call 243-7720. 6 BDRM HOME NEAR CAMPUS. FURN. ALARM W/D, $180/PER­SON. 272-6551 OFF CAMPUS STUDENT RENTAL 3 NEW PROPERTIES PROPERTY-1...4-5 STUDENTS PROPERTY-2 ... 6-8 STUDENTS PROPERTY-3 ....... 2 STUDENTS SECURITY SYSTEMS, STOVE AND REFRIGERATOR. NICE CONDITION. CALL DAVE OR CAROLYN 291-2209  "NINTENDO for SALE! 271-7677 Maria 93 Toyota Corrolla LE. 67K, great condittion, $8800.00 219 656-4255 92 Lincoln Continental, 67K, excellent conditition $9300.00 219 656-4255 Gateway PC Laptop -Pentium 75, CDROM, Color Printer-$1900­Call Kristin 271-7458 Brand new Tl-92 calculator with manual and cables. best offer. Call Todd at 634-1683 84 Nissan Sentra 4dr. $1200. Greg 288-3408 1575 OAKHILL 2 BDRM 2 BATH CONDO VAULTED GREAT ROOM W/ FRPL FOR SALE. TO SEE CALL JONI/REMAX 235-3145. OPEN HOUSE SUNDAY 4/261-3 PM SPACIOUS CONDO walk to campus Diane Killilea 272-5444 97 Mitsu Eclipse. CD, pwr sunrf, loaded, alum whls, warranty. Best Offer. Chris 291-4307 or 1­9795 TICKETS GRADUATION TIX NEEDED  promising musical talent. The fabu­lous ALIBABA'S TAHINI will be per­forming their unique blend of funk, rock, and naturally-induced grooves at the IRISH CONNECTION tonight. Show starts at 10:30, check it out. IRISH CONNECTION -Where the pimps run free Looking for person to transcribe five 50-minute classes; must use WordPerfect; $30 per class; call evenings, 291-9398; ask for Mark Hey -did you know... We're open early, late. and week­ends for your convenience! -­THE COPY SHOP --LaFortune Student Center Phone 631-COPY ADOPTION: Hugs, daisies and babbling brooks in summer. Snuggles, skisuits and a toasty fire­place in winter. Love and joy for your baby all year long. Happy, car­ing professional couple would love to provide a newborn with love, joy and security. Call Ed and Ellen at 1­800-484-7011 Pin #4523 Los Angeles ­You've done a fine job with every­thing. This paper is in good hands. Keep it real, sucka b-. So, are we on for next Tuesday/Wednesday after I put my last Observer to bed? My treat. -San Antonio  and UMPHREY"S McGEE at 4:00pm Come out and celebrate the area's best music, best party and best day of the year! Ok Dettmann, I screwed up again..There was supposed to be a big ol' picture of you in the observer today but I was too late...(as usual) Anyway, Happy B-Day, Your money baby, money! Love-B.B. "Slats" Look Kushto. Just because you are older !han me now, doesn"t mean I can't still kick your A .. is RA. Dancin' Days are here again!!! Dettman·s 21!! So if your ready to get Jiggy with it. go to Finnegan·s tonight and join us in throwin down!! Mabye if your nice, I'll even buy you a drink...but probably not... later ... B.B."stats" FOR SALE!! Very cute, very strong loft. I must sell this thing by Saturday 8:00 am. Only $40 or best offer. Help. Call Colleen@ x1509. GOD BLESS YOU!! This is the work of the Guelah Papyrus For Sale: Bed Lice. Best offer. Call Matt at 1968.  
+273-4848. 1 05 Marquette 232-6964  CALL LAURIE @ 243-4788  
+
+THE OBSERVER 
+
+Students rally in support of homosexual rights in front of the Golden Dome one year ago tomorrow. 
+Stories by Michelle Krupa • Photography by Rob Finch 
+
+ince the University denied the themselves Catholic, feel slighted by the student-run group Gays and administration's apparent expectation that Lesbians of Notre Dame and they deny a very real part of themselves ­Saint Mary's College sexuality. Some feel safest in silence; others 
+(GLND/SMC) the rightto prefer to speak out and openly confront the meet on campus in 1993, the difficulty of being gay on these campuses, debate surrounding the sta­and doing so without rejecting the religion tus of homosexual students on both cam­that some feel rejects them. puses has been ongoing and, in some cases, Here, in the second of a three-part series, heated. The Observer hopes to illuminate the 
+Administrators adhere to Catholic doc­homosexual experience at Notre Dame trine, accepting homosexual orientation in through the stories of those who live it, for and of itself, but not condoning the accom­beyond doctrine, policy and controversy lie 
+/ panying sexual or romantic attractions. people trying to assert their rights in the But the students, many of whom consider face of real and theoretical obstacles. 
+S p e c a S e c t o n 
+
+Anonymous student 
+The Observer 2 Special Section 
+------,~----------------------------~~--------------~------~-------~~~-.---~,~---~~--------~~~----r---~----------------------~--~ 
+student profile 
+
+
+ast year around this time, a confused sophomore sat alone in his room, 
+plagued by the pain of ceaseless migraines and body aches. 
+Sleep, his one possible refuge, eluded him; night after night a frustrat­
+ing and terrifying insomnia kept him tossing and turning. 
+The burden of the hopes, dreams and future plans that so many 
+others wanted him to live out -his parents, professors and friends 
+weighed upon him, but there was something heavier on his mind that he could not push aside. 
+He knew, beyond all doubt, that he was gay and that he could not tell anyone; the 
+"terror, stress and anxiety" that accompanies com­ing out would be too much, he said. 
+So he buried his secret deep within himself, be­neath the six, seven or eight shots of vodka he needed every night before bed. And then he could sleep. 
+"I discovered alcohol, and I found it as a way to escape. My whole sophomore year, I drank every day -hard alcohol. I was suffering from depres­sion and the reason I was depressed was because I was gay, and no one could know," he said. "By the end of sophomore year, I had tried other drugs, not hard stuff. I did marijuana. I needed a drug. 
+"I didn't try to kill myself, but I put myself in a dangerous situation with medication and alcohol. It was kind of a non-suicide suicide. I would be dead now if I kept at the rate I was going last year," he said. 
+The ordeal lasted almost an entire academic year, during which hid the truth under a mask of the expected. No one ever saw his addiction. No one ever knew of his homosexuality. 
+No one ever suspected anything self-destruc­tive or even remotely unusual about this conserv­ative, Republican student whose history mirrored so many others on Notre Dame's campus. He had been "an honors student with a 4.0 in high school and in a zillion activities." His parents thought he was having a happy, well-balanced experience dur­ing his second year away at school. 
+"My mom would call, and my roommate never knew anything, and he would tell her honestly that he thought I was OK He never saw me drink any­thing," he said. 
+But even from his substance-induced comfort­zone, he saw his life spiraling out of control and into an abyss of drugs and booze. Every day, he sank deeper. 
+"I knew I had a problem. People just didn't drink like I did," he stated. "I got counseling. I took anti-depressants and made personal changes. I was ready to admit to myself that I was gay, and I was ready to start living my life the way I should live it" 
+He thought back to his childhood, coming to terms with the fact that "I've known I was gay my entire life. Even in the first grade, I liked guys. I didn't even like girls. I mean, I love girls, platoni­cally, but not romantically." 
+So he returned to Notre Dame for his junior year a revitalized and courageous young man. He had fought the alcohol, the drugs and the depres­sion; now, he had to end the silence. 
+"I came out to my best friend at the beginning of this year," he recalled. "I went to a GLND/SMC meeting and saw that there were happy, function­ing gay people out there-that to be gay and to be happy weren't mutually exclusive things. 
+"GLND/SMC has shown me that there are real people who are gay and who go to school and do their homework and get law degrees and aren't depressed and don't need drugs to get by. There are ways out besides death and drugs," he said. 
+Steadied by new friends, personal strength and conviction, he continued to come out to a small group of friends, one by one. The responses he got were mostly positive. 
+"It feels good to hear them say 'we still love you,"' he said, "but it's kind of like, 'Yeah, you'd better, I've been your friend for nine years."' 
+But that familiar terror raged inside him when he contemplated coming out to his parents, who had known him his entire life without truly know­ing him-they assumed he was heterosexual. 
+Finally, he planned to set them straight. 
+"I got so anxious and upset and sick to myself about it that I thought I was going to die. The only thing I can liken it to for a straight person is telling your parents your pregnant or that you got your girlfriend pregnant. They [your parents] are sup­posed to say they support you, but they can tell you to get an abortion, and that can kill you in­side," he said. 
+"But when you're gay, it's not like you got some girl pregnant or you have a problem that you actu­ally did something to bring about. It's being, and I knew my mom and dad couldn't accept that." 
+He was right. 
+
+'They said, 'You're not gay.' They said I had to go to rehabilitative therapy. They said I couldn't go to Notre Dame if I was gay. I got, 'How could you 
+The Observer 3 Special Section 
+do this to us?' My mom said she'd rather hear a lie than the truth. She said I was killing her inside.'' 
+That conversation was a few months ago, and the threat remains. Ifhe is gay, he cannot be a part of the Notre Dame family because his parents will not pay for it. His only option was bury the truth, so he said he must have been mistaken -that he must be heterosexual and that he didn't know what he was thinking. 
+"My parents used to know, now they don't know, and they can't know or I'm walking," he said. 
+His anonymity and deception are his only pro­tection against being forced from the University for good. He said he can keep up the disguise, and he is trying to understand his parents' reasoning. 
+"I've come to learn that my mom's from a dif­ferent time period, and she has her own preju­dices," he said. "If they're going to be like that, I have to be smarter and tell them that I'm straight. I'm sure I'll tell them the truth again in like 10 years, when I'm financially secure. Now, I'll have to just deal." 
+He also must deal with the newness and anxi­ety of being out of a closet that served as his tiny home for almost two decades. He still harbors the fears that kept the door tightly shut for that time, but holds strongly to his conviction. 
+"Whether people leave when you enter the shower or they don't invite you to dinner or you don't get picked for that basketball team-that's what keeps you in the closet, but I've learned that it's better to be out and dealing with all of this than to be in the closet and depressed or have low self­esteem or worse," he said. 
+Now, he concentrates on his schoolwork and the organizations in which he participates, a few of which work to aid those who deal with oppressive and difficult situations of abuse similar to that which he suffered. 
+He also reconciled his homosexuality with his Catholic faith, seeing the Catholic Church as an accepting and nurturing institution where he can feel welcome. 
+"It was hard to integrate the Catholic and gay stuff. I believe in all Catholic beliefs on all issues but homosexuality, and I believe, like many priests believe, that the Church really needs to catch up to the times," he said. 
+"I still don't believe in premarital sex," he 
+added. "I don't think homosexuals get any special 
+rights, but I know I want to be with someone for 
+the rest of my life in a marriage kind of thing.'' 
+The only closet that still hides him is that of his parents' construction, but he hopes that the truth can resurface in the future. He continues to come out to friends and associates, which each day helps him and those around him grow more com­fortable with his sexuality. 
+He notes that "it [homosexuality] is all over the 
+place," as he glances at a down arrow above an el­
+evator in LaFortune. The arrow shines with a pink 
+hue when the car stops on the third :floor. 
+"See-it's everywhere," he said. 
+PRIDE AT NOTRE DAME 
+
+Alyssa Hellrung 
+The Observer 4 Special Section 
+----rrr~ 
+student profile 
+
+
+
+ore than 400 Notre Dame and Saint Mary's students may remember the girl who, standing on the steps of the Main Building last year, proclaimed her lesbianism to a vast array of total strangers. 
+That figure is Alyssa Hellrung, who has come to stand for strength and pride in Notre Dame's gay com­
+munity in her four semesters here. 
+"I've kind of become the poster girl for homosexuality at Notre Dame," Hellrung said. "Ifthey need someone to pin it on, that's OK because they know me as 'that gay girl 
+who's totally normal and like everyone else.' I'm not combat-boot-wearing. I don't exactly fit the stereotype." 
+But "totally normal" might not be the best de­scription of the Breen-Phillips sophomore, be­cause while so many students struggle with sexu­ality and identity at Notre Dame, Hellrung arrived with a self-accepting image of her lesbianism. 
+"Not only am I a lesbian, but I'm a feminist, a vegetarian and a liberal Democrat. Do you think I'm not used to defending myself?" she said, with pointed sarcasm. 
+But it is less a defense of her lifestyle than an ex­planation, which she offers in forums, discussion groups, articles and committees for those who lis­ten -and sometimes, those wary of listening. Hellrung firmly believes she can increase stu­dents' understanding of both her choices and those of peers not yet ready to speak out. 
+Hellrung said she dated guys in high school without giving one thought to being gay, until one weekend at the beginning of her junior year she "just looked at [her friend] a different way." 
+After "collecting data-remembering things, analyzing," she completed "the most terrifying year of my life," and she understood the differ­ence. 
+'The way I was supposed to feel about boys ­that was what was missing when I was with boys. They just weren't girls. The first time I kissed a girl, that's when I knew forever. People ask me, 'How do you know you're gay?' I ask them, 'How do you know you're straight?"' Hellrung said. 
+"My junior year of high school was a really hard time, when I would cry myself to sleep every night and I didn't know what I was," she continued. "I understand that people right now on this campus are going through that very same thing, and I want them to know they aren't alone. When I got here, I thought I was alone. 
+"One time last year, I cried for all those people who think they're the only one going through it. That's how I know I have to speak out for them." 
+In her hometown of Gainesville, Fla., she can openly be a lesbian. She goes to gay clubs when she is home and hangs out with friends who are not afraid to be out of the closet. 
+Notre Dame is the flip-side of the coin for her. 
+"I knew that Notre Dame would be conserva­tive, but I thought, 'How conservative could it be?' I learned real fast. There are people here who have never had to defend themselves before be­cause they've just followed their conservative Catholic background," Hellrung said. 
+She began to understand that homosexuals are not always open about it at Notre Dame, first dur­ing band camp before freshman year, and later when she moved into her dorm. 
+'The first week of freshman year, a dozen roses showed up outside my door and my roommates just figured they were from my boyfriend," she said. "When I told them they were from my girl­friend, right off the bat, both of them were like, 'Hey, that's OK,' and they kept up the guise of being cool with it. There was a week of awkward­ness, and finally they asked me questions and the whole rest of the year, they were completely OK and great about it. 
+'They'd be helping me with my girl problems, and I was helping them with their guy problems. It ended up being an idyllic relationship at the end," she.said. 
+But she was not sure that positive coming-out experience would repeat itself each time. She learned the history of GLND/SMC's ejection from the Counseling Center and knew then that not everyone in the community accepts homosexuali­ty with an open mind. 
+"It scared me at first. It was like, 'Geez, this is a huge deal to people.' On this campus, being gay seems so taboo and it shouldn't be. It's like I was feeding off of that and making it a real big deal be­cause I was all of a sudden coming out to people one by one, which is a really nerve-wracking situa­tion," she said. 
+The best way to curb that anxiety, according to Hellrung, was to come out to people in droves ­dozens, hundreds, even thousands at once. 
+"When I started speaking, that's when I got strength," she said of her first discussion session last spring in Breen-Phillips, where the audience asked about her sexuality, her dating life and her faith. 
+"I learn a lot from people whose minds are open­ing around me," Hellrung stated. "Mostly the peo­ple who seem to come to hear me speak are the straight students who need their minds opened too. I wanted to show them that we're not mon­sters and we're not out to get anyone. 
+"I'm not a psycho stalking poor, innocent straight girls. I want people to hear me speak and then see me walking to class, going to the dining hall, going to work out at the Rock," she said. 
+She says her main objective is not a social over­haul, but to increase understanding about gay is­sues, both political and emotional; her strategy is to foster small but noticeable attitude adjustments in her audience. 
+''You never know how people are going to inter­pret what you say. They could never learn or they could ignore it and one day they will learn and they'll feel bad for things they've said or done that discriminated against others. 
+"It's like when someone says, That was so gay,' I want to stop and say, 'Hey, do you know who I am? Let me talk to you for a second,' because all people really need is to understand that it hurts," she stated. "I think it's great when people catch themselves on that for the first time and try to break the habit because now they know it can hurt." 
+She also fields questions about the difficulty of integrating the Catholic faith with homosexuality -both her own and that of others. 
+•!• Turn to PAGE 10 
+
+The Observer 5 Special Section 
+
+
+
+
+"I said to myself back before I came to college, 'I'm going to act how I've always wanted to act,' so I came out to everyone in the program. Most of them were cool about it, but there were a few guys who referred to me as 'that gay guy' and who started rumors that I was sleeping with my room­mate, who was straight. Good call, huh?" he said. 
+So it was other minority freshmen who gave Starnes his first taste of the student reaction to ho­mosexuality, just months before the first day of his freshman year. 
+He had high hopes of meeting individuals in what he expected would be an established black community, something that barely exists in his hometown where less than 12 in his graduating class of near 70 were black. 
+When he began classes and met other African­American students on campus, he said he realized that acceptance into this community would mean masking his true identity. 
+"It's difficult to be in the black community and to be gay and to be open about it. The guys, many of them are athletes. When I walk by the 'black table' in the dining hall, I can feel them glaring at me," he said. "It [being gay) goes against the macho image. I really want to be part of the black community, but there's so much competition be­tween this group and that that I don't feel com­fortable." 
+Because he refused to conceal his sexuality, Starnes said he felt ostracized from the black com­munity and made other friends. 
+"I have a lot of straight friends who know I'm gay. My section-mates last year were great. They tried to get me to bring a guy to my dances, and when I was interested in someone, they wanted me to bring him over so they could 'approve,"' he recalled. 
+He said many of his friends have been very supportive of his lifestyle, which excludes alcohol and promiscuity, and that a close friend even de­cided once to set him up at a club. 
+"My New Year's resolution was to stop chasing after men, to get them to come to me. So I did. I was out one night with a friend, and I was looking at this guy, and she told me to go over and ask him to dance," recalled Starnes. "I said, 'I can't do that,' so she went over and said, 'If that guy over there 
+•:• Turn to PAGE 10 
+
+The Observer 6 Special Section 
+student profile 
+Karl Eichelberger 
+
+e stepped out of his car with the ND license plates and strolled into Lula's, clad in blue jeans, an ND sweatshirt and an ND lAW hat. 
+Karl Eichelberger was a walking ad for the spirit of the Fighting Irish. 'We grew up singing the fight song," he says in a slight 
+but noticeable Southern drawl from his years growing up in Georgia. 
+He came to talk about his role as this year's president of Gays and Lesbians of Notre 
+Dame and Saint Mary's (GLND/SMC), but he considers that leadership role to be just 
+one of many facets of his life. 
+"I'm more concerned with my receding hairline "I wasn't going to tell anyone I was gay, popping than I am about being gay. I go about my life more up at the preeminent, Catholic school in the Mid­concerned with the football team or more con­west and all," he said. "I've never not know I was cerned with my classes," he said. gay, but it's just one aspect of who I am, and since 
+As a matter of fact, until the 1993 alumnus re­I didn't want to deal with what people say and the turned to Notre Dame for law school after a year of whole 'people being afraid of me in the shower' working, people at the University didn't really as­scene as an undergrad, I stayed in the closet to sociate the name Karl Eichelberger with gay poli­everyone but a few close friends." tics at all. During his academic break, Eichelberger came out to his parents. 
+"I was scared shitless," he recalled. 
+His father's reaction was, "You could have spent all weekend jumping out of closets, playing cha­rades, and we would have guessed what you were doing." 
+He learned that not everyone would be judg­mental and harsh about his sexuality. 
+After living in Atlanta and being open with co­workers and neighbors, Eichelberger decided that "there was no way I was going to let Notre Dame throw me back into the closet again" when he re­turned to study law. 
+"I didn't show up in a tutu running around the lobby in the law school, but when people ask, I tell them that I'm gay," he said. "I'm much happier now." 
+He began attending GLND/SMC meetings in an effort to find other gay and lesbian students on campus and to understand better the political ac­tions the group took in response to the adminis­tration pulling the organization from its meeting space in Counseling Center. 
+After GLND/SMC's departure from campus, the administration formed ad hoc committee to de­termine needs of homosexuals on Notre Dame's campus. Eichelberger said GLND/SMC was os­tracized from the plans, and ultimately it was not recognized as a student group, despite strong sup­port from other student-run groups. 
+With these events fresh in his mind, Eichel­berger took control of the unofficial organization last fall as a "reluctant leader because of the high graduation rate last year." He felt strongly that the group needed to continue, but altered this year's focus toward a more support-oriented structure. 
+"GLND/SMC made a lot of difference for me and I thought, 'It's time to give back,"' he remem­bered. "When I got here a few years back, it was very political and activist-oriented. I saw this as a rebuilding year to concentrate on support and so­cial activities, to talk about issues that really affect us." 
+With nearly 50 active members, including stu­dents, faculty, staff and clergy, and over 200 names on the e-mail list under Eichelberger's leadership, GLND/SMC continues to grow despite the lack of administrative recognition, which he says hurts 
+•!• Turn to PAGE 10 
+
+The Observer 7 Special Section 
+student profile 
+
+... 
+Kelli Harrison 
+
+hen she entered Saint Mary's College in the fall of 1994, Kelli Harrison expected a pretty typical four years. She planned to major in something practical, get a 
+good job and, just maybe, meet a man with whom to share her life. Four years later, Harrison has become that happy, well-balanced, educated woman, 
+but she sees her path as far from typical. During same city as Jen Warner, her life partner. her years at the College, she dealt with personal "I'm very convinced that I would have eventual­struggles and relationship matters that she'd ly come to this conclusion," Harrison said. "It never considered as an incoming freshman. came to the point where I was so in love with her 
+She never thought she would leave Saint that I could not deny those feelings any longer." Mary's in search of an apartment and a job in the Harrison met Warner in a class freshman year. 
+The Observer 8 Special Section 
+Their started out being platonic, hanging out or doing homework, but as Harrison stated, ''you just can't deny those feelings." 
+The two began dating, but for Harrison the rela­tionship pushed the boundaries of her future plans. And in the coming years, she experienced more challenges that tore at the foundations of her family, her relationship with Warner and, more pervasively, her self-understanding and evalua­tion . 
+"Discovering that I was a lesbian was the biggest challenge I've faced thus far in my life. The easiest solution was to try not to be gay, but that didn't work," she said, adding that despite her Catholic upbringing, she simply could not deny being gay. 
+"Physically, I am more attracted to women. Falling in love, if you took away all of the other things, my emotional bonds are more fulfilling with a woman. I've never reached the same level of intimacy with a man as with a woman," she stated. 
+"It's not all about sex. It's about intimacy, both spiritually and emotionally. It's about flowers and romance. It's about being best friends," she said. 
+Her candid words come easily now, but Harri­son swears her self-assurance and strength were non-existent a few years ago. 
+"You're suspect of your body because it's trying to force you to be gay," she continued. "A lot of the acceptance [of one's homosexuality] has to do with self-concept, but it turns into self-hatred, and if I hate myself for being gay, I'm going to have some negative feelings toward my love-interest be­cause she's gay too." 
+Harrison recounted the pain of coming to terms with her feelings for Warner, with whom she has shared her entire lesbian experience. She says "the worst of it" was not knowing where to turn or what to do. 
+•!• Turn to PAGE 11 
+
+P-------------~~~----~-------------~-.----~-----~--~~----~~--~----------------~-----~z--.-..~~-~-----=~~~...---------~----~ 
+student· profile 
+
+
+
+hannon Vieth did not know what to expect when he arrived at Notre Dame for his orientation in August. 
+He read newspaper articles on the football team and visited the home page on the World Wide Web, but as for really knowing about the school and its students, Vieth was ready to write on a blank slate. 
+As he moved his belongings into his St. Edward's Hall quad, he 
+knew he was embarking on a new phase of his life and vowed to be honest, liberated, 
+and true to himself at Notre Dame. 
+"When I got to college, I wanted to be as free as I wanted with my expression. I'm trying to live the life that I want to live and the life I believe that God created me to live," Vieth said. 
+Although his vow pertained to all aspects of his life, Vieth was concentrating on one in particular -his homosexuality. 
+"I had decided that if anyone asked me outright [if I was gay], that I would say, 'Yes.' I wouldn't lie," Vieth said. 
+The first few weeks at Notre Dame were filled 
+The Observer 9 Special Section 
+with excitement and comfort for Vieth. A dedicat­ed Catholic, he attended dorm Mass regularly and was overjoyed to discover a very welcoming and inviting message there. 
+"My rector at St. Ed's, Father David Schielder, talked about acceptance and homosexuality every night of freshman orientation," he said. "He talked about how we should all be open and accepting. 
+"But it only lasted through freshman orienta­tion, which was ironic," Vieth stated. 
+Ironic, because as the message of acceptance faded in his dorm, so did his feelings of comfort and welcome at Notre Dame. Yet he refused to be­tray his vow of openness and honesty, finding him­self at a GLND/SMC meeting during the first week of September. 
+"I asked myself, 'Do Iwant to go in? Do I want to make this statement?'" he recalled. "I had trouble walking in the door because I thought, 'What if it's the wrong door, and I walk in and ask where the ­meeting for gays and lesbians is?"' 
+After talking to upperclassmen and professors, Vieth knew that the issue of homosexuality had a long and arduous history at the conservative Catholic school, but he buried his nerves and en­tered the meeting. There, he found other young people, many of them freshmen like himself, try­ing to reach a conclusion about both the personal and political state of homosexuals at Notre Dame. 
+-
+
+He made friends with the same decisions to make and situations to face as he did. He found a comfort-zone. 
+But when the meeting was over and Vieth re­turned to his dorm, he entered a zone that was far less reassuring. 
+"On Solidarity Sunday [Oct. 4], they handed out 
+.... 
+
+rainbow ribbons. I wore one on the top of my shirt, and my roommate came up to me and asked if I knew what it meant," remembered Vieth. "I said I 
+•!• Turn to PAGE 11 
+
+~------------------..~~----~---~--------------------.. ..~--·-----.---------~-----~------~--------­
+Alyssa Hellrung, from paRes 
+PRIDE AT NOTRE DAME 
+"I have never had a doubt in my faith in God, but I don't want to deal with this Bible stuff," she said. "I don't think God would have made something he hated. I don't think there can be so much love in a relationship that God hated. 
+"I just can't handle Catholicism any­more," Hellrung continued. "It's not that I feel that I don't belong. I just don't think it's right for me to be taking communion with all these people who believe that everything the Catholic Church is saying is right." 
+But she refuses to give up on religion. Hellrung frequently prays, thanking God for the happiness in her life and asking for the strength to continue fighting for those afraid to leave the closet. 
+"I want the people who are still hiding in the closet to know that there's some­body's out there fighting for them. IfI can touch one life, that's all I care about," she said. 
+And she wants to show Notre Dame what it means to her to be a lesbian. 
+''I'm in a unique position," she admit­ted. "I'm in the workings of the Catholic Church at a university, and if I can change the perceptions of the students and faculty and the congregation, then maybe it will move up [the hierarchal lad­der] for once." 
+But Hellrung's life is not solely about being in the spotlight. She often consid­ers her future -working at Club Med and writing -but she's not sure whether she'll find anyone at Notre Dame with whom to share it. 
+"There are so many people on this campus who I'll never meet, or if I do meet them, I'll never know they're gay. It's really hard when my two roommates have boyfriends on Valentine's Day, and I can't believe that girl I like is straight. It's really hard here. It's like, 'Should I acci­dentally-on-purpose run into her?' She's probably straight anyway, and that's a lot of heartache," she said. 
+For now, Hellrung is embracing her on-campus activism. She has been quoted in The Observer, Scholastic Magazine, Notre Dame Magazine, on local television stations, serves on the Standing Committee for Gay and Les­bian Student Rights, NETWORK board and is a team leader at various campus retreats. 
+She will always speak her mind and even explain why she is the way she is; indeed, Hellrung will speak to anyone who questions the rainbow sticker on her backpack, or asks if she was that girl who stood at administration building and came out to a crowd of strangers. 
+
+Quincy Starnes, from page 6 
+asks you to dance, will you?"' He paused, blushing, before relating the rest of the exchange. 
+"She came back and said he said, 'Yes,' but of course then I couldn't ask him," he said. 
+"She went over again and said, That guy's too shy to ask you to dance, so go over and ask him yourself,' and he did. And now we're dating." 
+His boyfriend is a Goshen resident in his 20s, and their relationship is in many ways typical: Starnes gets concerned that their phone calls are long distance, and 
+-. speaks excitedly about their weekend date. But he hates the fact that, unlike many Notre Dame couples, they can't walk around campus as a couple when he comes to visit. "When you're on campus, you want to act like the straight couples with PDA, hand-holding and kissing, but you can't because it's not socially acceptable. You can tell that from the way guys relate to each other on this campus,'' he said. ''You rarely see guys touch each other even though girls can hug and kiss each other on the cheek and it's no big deal. If you see guys do anything like that, it's like, 'Hmm, what's that all about?"' And Starnes has had to deal with some of those critics. "My roommate this year moved out 
+lot of pain and heartache on both sides." 
+after last semester. He actually said it was­
+So Starnes sticks to his friends, those
+n't the lifestyle he was uncomfortable 
+he's met in classes and those whom he's 
+with," Starnes said, indicating disbelief 
+gotten to know through GLND/SMC
+with a roll of his eyes. 
+meetings and functions, which he attends 
+"In general, you can tell that they 
+when he's not practicing for a show or
+[straight people] are afraid for them­
+busy with other commitments. 
+selves. They're afraid you're going to put 
+His race and sexuality aside, he has po­
+the moves on them. They're afraid they 
+litical opinions that hinge on the fact that 
+are going to get taken advantage of at a 
+he is a very religious man, despite the fact 
+weak moment," he said. ''I'm not that kind 
+that he cannot easily practice the Baptist 
+of person. It's like most of us, if we know 
+faith without transportation off campus. 
+-you're straight, we're not going to go 
+"I do believe that this is a Catholic uni-
+there and ask you out because it causes a versity and they should uphold the Catholic doctrine, but there are some things that have been disproven in the doctrine, and I think they should consider that," he said. 
+
+"I believe that God created me this way and so it's not an evil or a sin," he added. "I pray every night. I figure that love is love. I don't think that love can be a sin." 
+So the self-proclaimed "minority among minorities" goes about his life as a St. Edward's Hall resident, an actor, a stu­dent and a member of two small aud sometimes-oppressed groups. 
+Starnes refused to let his race or sexual orientation prevent him from making friends; indeed, as he spoke, nearly half a dozen people stopped our discussion to say hello or tap him on the shoulder in greeting. 
+"I've always come from a place just like this. You try not to upset someone and if you do, it's not the end of the world. You can either be friends or go your separate ways. It's a big campus." 
+Starnes has found his niche. 
+
+playing ground for the students," Kath­members get necessary support for is­leen Biddick, department chairman of sues like alcoholism or depression that 
+Karl Eichelberger, from page 7 
+Gender Studies said. can be associated with oppression and "Things are stacked against them discrimination, but that GLND/SMC is [gay and lesbian students] as far as the not trained to handle. the group financially. But the issues of support and accep­academic handbook and in the way of fi­His main concerns are still school, 
+"We're trying to bring a couple of high tance that Eichelberger tries to bring to nancial support. These issues need to be friends, family and his "receding hair­profile speakers to campus to counter GLND/SMC are not completely unno­addressed fairly on campus, and we just line,'' but now he's added another line to the Strake Foundation, but it's hard with­ticed by faculty at Notre Dame. In fact, happen to be helping the group by ad­this list: He is trying to get students who out the money,'' he stated. the Gender Studies department helped dressing them," she continued. need support from their peers to find 
+That foundation has brought speakers the group in its pursuit of increased Now, Eichelberger is working to plan GLND/SMC or other places like the to campus who give students a conserva­knowledge of gay and lesbian issues. a spring formal and various other events Counseling Center or Campus Ministry. tive perspective on homosexuality and "We get speakers, so they get speak­like bowling nights and the recognition 'To me, I see it as the more the mer­religious issues, one suggesting that ho­ers. We help to facilitate the group in any­of current issues to keep the energy and rier," he said. "Now there's all this com­mosexuals can be "converted" to hetero­way we know how because, for example, spirit of the group alive. He continues petition about 'Where are all the queers sexuality. the Strake Foundation is not an even discussion sessions and tries to help going to go?' It's wonderful." 
+The Observer 10 Special Section 
+•=w"* a .;; z :;au a as • u a a a s z
+• 
+
+PRIDE AT NOTRE DAME 
+Kelli .Hart~iS011, from page 8 
+and falling in love, but when you say homosexual, people think about sex, and of course you don't like to think about other people having sex." 
+In an effort to help Saint Mary's 
+· women -heterosexual and homo­sexual-Harrison, Warner and other women tried to form The Al­liance for Lesbian, Bisexual, Straight and Questioning Woman of Saint Mary's College. The group was accepted by the College's Board of Governance last year, but new College president Marilou El­dred denied the club official recog­nition early in 1998. Before Eldred handed down her decision, Harrison spoke of what she perceived as the benefits of a group like The Alliance. "It [The Alliance] is not sepa­ratist in any way because it's also for the heterosexual students. It forms alliances between all the women on this campus. While we're waiting for a change; people are still suffering." Harrison hopes that through open dialogue, all College women will understand the implications of the pain people endure because of confusion about one's self. She also believes that professors can take it upon themselves to foster discussion of the homosexuality, but experience tells her that option might not be a likely one. "I brought it [homosexuality] up in a class once. It got one sen­tence, no one said anything, and then the professor moved on. I think he was afraid for the class to discuss it or he didn't think we 
+could discuss it without getting emotional about it," she said. 
+"Ifthey don't think we can intel­lectually handle it, we need to just close the school down and move on," she added. "If you can't dis­cuss homosexuality in the class­room, professors are sending the message that it isn't legitimate." 
+but Harrison's life is quite legit­imate; right now, she is planning for her future with Warner, with whom she's made a commitment to share the rest of her life. 
+Regardless of where they start this new phase, Harrison and Warner will look back at Saint Mary's as the place they met, the place they first began a life togeth­er and the place they worked to make better for women of future generations. 
+And as their college years come to a close, their focus becomes their future as life partners. 
+"We're trying to find a place where she can go to school and I can work and we can live togeth­er," Harrison said. "We've already committed our lives to each other. For me, there's no such thing as 'my future,' it's 'our future."' 
+The couple wants to have a fami­ly somewhere along the line, but express concern over how their community will respond to a les­bian couple raising a children. 
+"I think my girlfriend and I would make wonderful parents, but I have the fear that any human being would have about raising a child," Harrison said. "I don't want to have kids unless I'm damn sure that they will be happy and safe." 
+/ 
+-
+
+"When you really start to doubt yourself-that's the worst of it. You seriously wonder ifyou're the one with the problem," she said. 
+A dedicated Catholic, Harrison found that her Church was not the resource she needed to survive a difficult period of growth and ex­ploration. 
+"My Catholic identity is an im­portant part of my life, but alto­gether, I was emotionally and spiri­tually distracted by constantly try­ing to figure out who to be," she said. "Sometimes I sit in Mass and concentrate on God, and some­times I sit in Mass and worry about what other people are think­ing of me in this place that is shut­ting out some of her loyal children. 
+"How can I have· an affection for a Church that sometimes doesn't have an affection for me?" she said. 
+Harrison also grappled with fa­milial issues when her parents dis­covered her homosexuality. A rela­tive noticed Harrison giving Warn­er a kiss on the cheek after Thanksgiving dinner, and Mrs. Harrison repeatedly asked her daugher if there was "something you wanted to tell mt' ," but Harri­son kept her feelings hidden. 
+Until one day, "I dropped the bomb," and the shrapnel flew. 
+"I felt a lot of guilt before I came out to my family, but when I did, they were very reluctant to send me back to school," she recalled. "Money issues compounded the decision, but it was their sincere belief that if they didn't send me back, I would have a happy life with a husband and kids. They had to lay blame somewhere, so they said that school made me gay." 
+The couple broke up several times while Harrison dealt with her parents' confusion and anxiety, but again, denial of feelings did not help the situation. 
+"Parents often get painted as the bad guys, but they genuinely want what's best for their kids, and they just don't think that being gay will make them happy," Harrison said. "We have to be patient. Now I know my mom and I can handle anything. It [discussion of my ho­mosexuality] opened up lines of communication in our relation­ship. 
+"My dad is a different story," Harrison continued. "He's not ready on this issue yet. My belief is you've got to push people a little bit so they can grow a little. I'm trying to be delicate with my dad, to push him beyond his comfort-zone." 
+The Harrisons now accept their daughter's choice, and the couple worked actively in the Saint Mary's community to call for ac­ceptance of all women regardless of sexual orientation. 
+"If a girl is sprawled out on a couch with her boyfriend, no one stares at them like they're freaks, but if I passionately kiss my girl­friend on this campus, I don't want anyone to freak out and have a heart attack," Harrison said. 
+"People are much more tolerant of heterosexual PDA than they are of homosexual PDA. I think it's be­cause for some reason, when someone says heterosexual, peo­ple think about flowers and candy 
+
+ShannonVieth, from page 9 
+Vieth recalled. "After a ton of screaming and yelling all break, we didn't even say goodbye to each other on Sunday night." 
+So after a long Thanksgiving "vacation," Vieth returned to Notre Dame, where his life as a gay man was little easier than he found at home. By this time, he had come out to all his room­mates, most of whom ttook the in­formation with little understand­ing or compassion. 
+To avoid spending time in his room, Vieth turned to friends he met through GLND/SMC-peo­ple with whom he "just felt com­fortable." 
+"Sometimes, when [my room­mates] were having friends over, they would make gay jokes and make me want to leave," he said. ''When I would, they would say to each other, 'Good job, you got the fag out of the room."' 
+Not allowed to have friends at his home -the one for which he pays almost $5,000 in room and board charges -and not wel­come there himself, Vieth only went to his St. Ed's room a few times daily to switch books and change clothes. 
+But as the most stressful part of the semester drew closer, he found he could not handle the did, and he asked if I was gay or something. I said, 'Yes."' 
+
+From that day on, Vieth's other quad-mates discovered this part of his sexual identity in many ways -from his writing it over e­mail to their finding books he was using for a class research project on the subject. 
+''The first one [roommate] who found out was pretty cool about it, but it got worse. When one of my roommates found out, he told me to remove books from the room because he didn't want any trash in the room," Vieth said. 
+"He said I could not have any gay peopie in the room because he wanted to feel comfortable," he added. 
+As he felt the effects of disclos­ing his sexual orientation to his roommates, Vieth decided to tell his mother, who lives in Milwau­kee. 
+"I told my mom in November in a three-hour conversation on the phone, but it was hard to talk about it because I didn't have any place in my dorm where I could go to have a conversation like that," he said. "I didn't feel totally comfortable in my room, but I stayed there and told her. 
+"A few days later, I got a letter from her saying that she couldn't see where I was coming from. 'Wasn't I destroying any religious beliefs I ever had?' It said to de­stroy the letter. It said that I was gay because I wanted attention," he said. 
+Uncomfortable in his own room and unable to discuss the subject with his mom, Vieth continued at­tending GLND/SMC meetings and spoke with staff members at the University Counseling Center. 
+"Other people taught me that my mom really does love me but that she doesn't understand what she's going through," he said, ex­plaining his present understand­ing of his mother's situation. "It took me a long time to deal with it. I have to give her that time too." 
+The agonizing spiral of family and daily life continued to take its toll on Vieth, who wanted to keep focusing on his studies as well. 
+"During Thanksgiving break, my mom and I were playing the game of 'Life.' Ironically I didn't have to get married or have chil­dren any of the three times we played, but my mom asked if I had to get married, in really life, if I'd marry a boy or a girl," he said. 
+"I didn't say anything for a while. Then she said, 'If you're going to marry another man, I'm not going to put you in the will,"' pressure. 
+"Over finals, I had a pillow, a blanket, all my books, an alarm clock and even a plant, and I lived in the basement of LaFortune be­cause one night, I came home and my roommates were watching a straight porno and drinking beer," he said. "I was distracted, but of course when I asked them to be quiet, the rules that I couldn't have friends in the room didn't apply to them. 
+"I was completely frustrated be­cause I was uncomfortable in that situation, and they didn't care at all, so I left to study," Vieth said. 
+His finals camp-out lasted for six days, after which he returned to his Wisconsin home where his homosexuality was ignored as if it did not exist. Before the end of the semester, he "filed a petition 
+
+---.
+to get out of my room, which for some reason failed." Through all his hardship, Shan­non acts and looks like any other 
+
+• freshman guy at Notre Dame. He goes to class. He hangs out. He finds places that make him com­fortable. He looks for a way to make the world better. 
+"I certainly don't want to leave Notre Dame. The worse it gets, the more likely I am to stand up and say something," he said. 
+
+The Observer 11 Special Section 
+~ 
+
+-
+
+EXPLORING CAMPUS ISSUES 
+Pride at Notre
+Darne 
+Editor: Heather Cocks Assistant Editor: Matthew Loughran Photography and Design: Rob Finch Writing and researching: Michelle Krupa Additional Photography: john Daily 
+Printed in The Observer on April 22, 23 and 24, 1998. 
+~IT£ Off 
+M f THAN YOU 
+
+
+CAN eH£W. 
+Jersey Mike's is loca-ted in Mishawaka a-t 
+
+5719 N. Main S-tree-t in The family Video ~uilding nex-t -to -the Indiana Toll ~ad 
+Consider this fair warning: Jersey Mike's has arrived. we call the Authentic Jersey Sub. So stop by your nearest Besides the best meats and cheeses and the freshest bread Jersey Mike's, on Main Street in Mishawaka and remember sliced while you watch, you'll find 40 years of Jersey Shore to bring an appetite. Or two. tradition goes into every sandwich. It all adds up "to what 
+
+-
+
+I I 
+~·--, I I 
+J~e~ 
+J~e~MIJ. 
+$2 OFF 
+
+$1 OFF any Giant Sized Sub any Reg. Sized Sub 
+Nor vand wilh any o1her offers or spetials.  Not valid wnh any other offers or spetiols.  
+Mishowoko location only.  Mishawaka location on~­ 
+One coupon per customer per vis~.  One coupon per customer per visit.  
+ExpiresJu~ 1,1998  Jersey Mil:is. Aulhernic ~rsey S<i>s &nee 1936.  Expires Ju~ 1, 1998  Jersey Mike's. Aulhernic Jersey S<i>s &nee 19>6.  
+- 
+
+page 14 The Observer· SPORTS Thursday, April 23, 1998 
+• BOOKSTORE BASKETBAll XXVII 
+Ranked teams continue to dominate Stepan courts 
+Primetime, No Limit advance to round of 16 
+By BRIAN KESSLER 
+Assistant Sports Editor 
+llow sweet it is. 
+Last night. 16 teams played their way into the next round of Bookstore XXVII with only one unseeded team earning the right to play in the Sweet 16. 
+In a very loosely officiated game. No. 9 No Limit tangled with No. 24 Dirty Sanchez last night before No Limit finally opened up a big lead and cruised to victory, 21-14. 
+Dirty Sanchez broke out to an early 7-4 lead, but No Limit scored five unanswered points and took a I 1-9 lead into half­time. 
+In the second half it was all Eric Chapelle, who put on a clinic with his crossover drib­bles and quick moves to the basket. 
+"They [Dirty Sanchez) were really quick, but Eric just took over the game," said teammate Joey Getherall. "I think he's the best player in the whole tourna­ment." 
+Getherall was a last minute addition to the team after Benny Guilbeux and Raki Nelson were sidelined with injuries. 
+"I think these guys have a good chance of winning it all," added Getherall. 
+"It was a very physical game, but their athleticism was the difference," said Dirty Sanchez's Dave Allen. 
+"When they're playing foot­ball on the basketball court, it doesn't give us much of a chance," added another Dirty Sanchez player. 
+In the final game of the evening, Primetime, who retained the number one seed, found themselves in a close game throughout the first half. 
+"We knew they would come out and shoot well," said Raam Jani of Primetime. "We didn't play our type of game in the first half." 
+
+-
+doing service after 
+--
+.-!F!W!!T.•0• graduation!?!
+.~~ 
+
+SOCIAL 
+
+
+CONCERNS Class of 1998 
+please register for commencement weekend's VOLUNTEER SEND OFF 
+-
+CEREMONY which will be held Saturday, May 16th; 10:00 a.m. at Washington Hall 
+REGISTRATION DEADLINE: Monday, April 27th FORMS AVAILABLE AT THE CENTER FOR SOCIAL CONCERNS. 
+You do not need to have decided which program you will 
+access
+be volunteering with in order to register. 
+the second half, Primetime stepped up their defense and pulled away for good, ending the game on a 10-1 run. 
+"We were able to turn it on in the second half," said Jani. "Our defense led to a lot of open looks and we were able to knock them down." 
+Jani used those looks and 
+converted them into quick points. He turned his game up a notch and went on a tear, scor­ing four straight points to put the game out of reach. 
+In the round of 16, Primetime will take on unseeded Absolut Irish. who defeated Leso Legion: Our Boy's Wicked Smart, 21-10. The game will be played on Stepan 2 at 10 p.m. 
+"I think we're playing well despite our injuries," said Jani. "We're looking forwarding to playing. This is when it starts to get fun." 
+The fun will continue as the round of.:I6 gets underway at 
+9:15 p.m. on the Bookstore courts. 
+
+
+J.\ 13 L 0 C I( t\ N1J J.\ H1-\ L F W E S T 0 F THE HJ.\ L L 0 F FMI. E 
+
+PROBLEM :YouR FAVORITE COMPUTER CLUSTER CLOSES AT 2AM AND YOU STILL HAVE AT LEAST 4 HOURS OF 
+1
+
+WORK BEFORE YOU LL BE DONE. 
+hour 
+SoLUTioN: UsE ONE oF ouR UNSTAFFED, 24~HOUR 
+1
+
+ACCESS COMPUTER CLUSTERSj YOU LL PROBABLY NEED A DOOR CODE TO GET IN, SO STOP BY THE STAFFED CLUS~ TER DURING THE DAY, SHOW THE CONSULTANTS YOUR ID., AND ASK FOR THE DOOR CODE TO ANY OF THE FOLLOWING CLUSTERS! 
+C()mputer 
+CCMB  210  25 Macs, 10 Suns  
+CCMB  G015  12 Windows  
+Fitzpatrick  177  99 Suns, 7 Macs  
+Nieuwland  132  16 Macs, 12 SGis  
+Nieuwland  202  52 Suns  
+Riley  211  18 Macs  
+
+Thursday, April 23, 1998 
+The Observer· SPORTS page 15 
+Softball 
+continued from page 20 
+has had an outstanding impact on the team's performance this weekend. The trio of Lizzy Lemire, Klayman have com­bined to account for 32 percent of this season's hits and 41 per­cent of the team's RBI. 
+On the mound, the pitching duo of Alkire and Jennifer Sharron have combined for more than half of the team's innings pitched and 17 of the 27 wins this season. Sharron leads the team in wins (12), complete games (13), shutouts (7) and innings pitched (128). 
+After playing their double­header against Toledo, the team will return back to the friendly confines of Ivy Field for a three­game series against division rival Villanova. In order to clinch the division title, the Irish must win at least two of the three games against the Wildcats, 
+For now, however, the dou­bleheader between the Irish and the Rockets is set to begin at 3 
+p.m. this afternoon at Carter Field. 
+B R U N 0 r'S·· 
+PIZZA NOR·TH 
+US 31 North 273-3890 
+Hours: 
+
+Delivery 
+'Till 1 AM Sun­
+273-3890 
+Thurs nch and Regular 
+'Till 2 AM Fri Hours and Sat Lunch 11-2 
+2 14" pizzas with one topping for $10.50 
+CALL THE SOUTH STORE FOR WEEKEND RESERVATIONS 
+288-3320 
+Driver 
+continued from page 20 
+be at his best," said McMahon. Yet with the setup of Notre Dame's sec­ondary, the competition may be altogether nonexistant. 
+"In our multiple defensive backfield," said McMahon, "He [Driver] is a starter and will be on the field." 
+Driver's transition to safety was not as easy as his athletic abilites would have one believe. Not only has Driver switched the sides of his game, but also the type of defense that he has been used to playing. 
+"I ran defense in high school, but we ran a man to man style. So this spring, I had to get used to the backpeddling [necessary in a zone defense]," commented Driver. "It's still giving me some problems. 
+"The first few day I was struggling, I didn't know when I was gonna play defense, I've been running the ball far too long." 
+But the Irish's top recriut last year for tail­back isn't limiting himself to a backpeddling pace. Even with freshman Darcey Levy and sophomore Jay Vickers stepping in to replace Clement Stokes as the backup tailback, Driver is counting on coming in to relieve Denson from time to time. 
+"''ll be back [on offense] a little to help them out," Driver said. 
+But as the spring season wraps up this week­end with the annual Blue-Gold game, Driver is focused on working in his new position on the defense. 
+"I expect him to play hard and hit somebody, making the tackles and not getting beat," said McMahon. 
+For a player at a new postion, Driver is taking the same attitute that has thus far made him a rising star· on the Irish squad. After the spring season has cleared a new path for him, Driver will look to clean up the opposition in the fall. 
+WORKED ON CHRISTMAS IN APRIL APRIL 18 YOU ALL DID AN OlJTSTANDING JOB!!! 
+-
+
+THE CHRISTMAS IN APRIL STEERING COMMITTEE THANKS YOU AS WELL AS THE BUREAU OF HOUSING AND ESPECIALLY THE HOMEOWNERS WHO COULD NOT DO IT WITHOUT YOU!!!!!!! 
+-
+
+
+-
+page !G The Observer • SPORTS Thursday, April 23, 1998 
+• SMC TENNIS • CRICKET 
+
+The Belles hope that they can break their slump with a win over Albion. 
+Belles take on Albion in last ho01e 01atch 
+By VICTORIA BUTCKO 
+Spans Writer 
+Sometimes luck is not written in the stars. 
+Things have not fallen into place for the Saint Mary's ten­nis team as they have unfortu­nately added another loss to their record. After dropping a match 6-:~ against Kalamazoo Colleg!) on Tuesday, Saint Mary's (5-l 0) is quickly approaching the end of their season. 
+"Kalamazoo was a difl'ieult team to !'are," said head coach Hobin llyreko, "especially with sophomore Mary Woodka still out of the line up. The girls played tough, but we just couldn't pull it ofT." 
+Winning their doubles match was the N.o. I team of co-cap­tains sophomore Katie Vales and junior Betsy Gemmer. The dynamic duo played a solid, invigorating match and finally defeated their counterparts, 4­6, 6-4. 6-4. 
+The No. 2 doubles team of sophomores Becky Krcmmer and Krista Eastburn put up a good fight. but lost momentum after losing a tie breaker in the first set, 7-6 (7-5), 6-4. 
+The only singles victory came as a result of Vales' continued strong play. Vales put her No. 1 singles opponent in place, . winning 6-2, 6-3. 
+Although they are not taking 
+their recent slump with ease, 
+hopes are still very high for the 
+upcoming conference meet. 
+"We have really grown as a 
+team," said Kremmer. "We feel 
+good about the upcoming con-· 
+ference meet and we have been 
+well prepared." 
+The only drawback for the 
+team as they look toward con­
+ference play is that Robin 
+llyrcko will not be attending. 
+That weekend, instead of 
+cheering for her Belles she will 
+be hearing bells, as she walks 
+down the altar to say "I do." 
+"She [Hyrcko] has prepared 
+us all season for conferences," 
+said Kremmer, "We wish she 
+could be there, but I think we 
+are ready for the competition." 
+The No. 1 doubles team of 
+Vales and Gemmer have an 
+excellent shot at winning the 
+conference. The team has only 
+lost one match all season and 
+will earn a high seed in the 
+tournament. 
+The Belles step on to their 
+home court for the last time 
+this season on Thursday, as 
+they take on Albion College. 
+Australia takes India in match 
+Associated Press 
+SI-IARJAII, United Arab Emirates 
+Michael Bevan smashed his third one-day century Wednesday to help Australia set a tar­get of 284 for seven against India in a crucial match of the Coca Cola Cup. 
+Bevan, rated as one the top one-day special­ists in the game by skipper Steve Waugh, cracked nine boundaries in his unbeaten 101 from 103 balls to add to the worries of the Indian team, which needed a victory to advance the final. 
+Bevan reached his Gentury on the second-to­last ball of the final over, striking paceman Harvinder Singh for a boundary to square leg. 
+Bevan and Mark Waugh, reinstated as the 
+openers Wednesday. put on !JO runs !'or thn fourth wicket from 1(> ovors to lirt Australia from S7 for three to 177 for 4 when Waugh was dismissed for 81. 
+Mark Waugh, the twin brother of' the Australian skipper, had snven boundarins and two sixes in his !J9-ball stand as Australia made the most of the opportunity of batting first. 
+Australia, with three victories in the day-night tournament, has already qualified for Friday's final, leaving India and New Zealand, who have one victory each. to battln for thn linal spot. 
+If India were to lose Wednesday's match, the second finalist was to be decided on the net run rate. 
+India needs to scorn an avnragn 5. 7 per ovnr to win the match. 
+
+Tuesday, April 21, 6:3() p.m., Carroll Auditorium, Saint Mary's College 
+· OR 
+rhursday, April 23, 5:30p.m., lleshurgh Library Auditorium, Notre Dame 
+Saint Mary's 
+sEt1ESTER AROUND THE WORLD PROGRAh 
+Open to all ND/SMC students 
+Challenging academic program at Sacred Heart College in Cochin, India, focusing on the Asi11n world 16 semester credits applicable towards core or major requirements 
+
+
+I:'\FOR1'1AT!O:'\ AND Al'I'I.ICATIO:'\S AVAII.AH!.E SHORT VIDEO 0~ HIG!II.IGIITS AUJ/>1:\1 TO ANSWER QL'ESTIONS 
+Any question.\, call Dr. C Pullapilly, 284-4468. 
+
+TaJ Mahal 
+~l:R~O···..•. N.··.··E··.
+·: li I ..::~~ )) 
+Opportunity for travel and stud)' in many countries of the Far East, Southeast Asia, South Asia, Eastern Europe and Western Europe 
+
+
+TEACHING AND RESEARCH ABROAD!! 
+Announcing The Fulbright Competition for 1999-2000. 
+All first year students, sophomores and especially juniors interested in Graduate Study Abroad, don't miss the informational meeting with Professor Alain Toumayan 
+Thursday evening, April23, 1998 at 6:30pm in room 126 DeBartolo. 
+
+Used, rare and  
+out-of-print books  
+Initial cost of $2.00  
+Nationally -circulated ad  
+Success rate of 5CJ'Ia  
+Time required: 2 months  
+- 
+ERASMUS BOOKS  
+Open noon to six  
+•  Tuesday through Sunday  •  
+1027 E. Wayne  
+South Bend, IN 46617  
+- (219) 232-8444  
+
+251-0674 
+IIATUBA 
+
+JAPANESE REST AU RANT 
+•Authentic•Healthy•Delicious 
+
+Robert is the BEST Chef in Town! 2930 E. McKinley Ave• South Bend, IN 
+
+
+
+page 18 The Observer· SPORTS Thursday, April 23, 1998 
+• BOOKSTORE BASKETBAll XXVII 
+thing." 
+
+Canna appreciates just having 
+the chance to play this late in the 
+tournament. 
+"It was a lot of fun. last year I 
+got knocked out in the first 
+round when I just played with 
+my roommates so it's nice to get 
+involved in this." Canna said. "It 
+was a ton of fun and a r11al 
+scrappy game." 
+That scrappiness paid off for 
+Burn 'n' Shoot underneath the 
+boards as Consuming Fire had 
+the size advantage. 
+"We concentrated on rebound­
+ing because they have a ton of size on us," Canna said. "Our .post players played really great tonight I was rnally glad with the 
+way we played. But most of all it 
+was fi.m." 
+
+Another player who was cer­
+tainly enjoying himself was Off 
+Shore Drilling's Tim Ridder, who IPd his squad to 21-10 win over Cabo Wabo. "It was a little rough," Ridder 
+said. "Like the games in the past 
+we had times where we played 
+well and times when we didn't 
+play well. Those guys played
+tough though. We ended up win­
+ning so I guess that's all that matters." Bidder also won with a certain 
+style as spectators enjoyed the 
+way he simply checked the ball. with his noggin. But the highlight was Hidder's rim rattling jam and his run back on defense that 
+really cannot be described in 
+words. 
+
+''I've got problems, I think 
+that's about it," Hidder com­
+mented. "I can't explain it. It's 
+just kind of a spur of the moment 
+excitement thing I guess." 
+The excitement will only 
+increase with tonight's eight 
+games as Bookstore Basketball 
+XXVII nears its conclusion. 
+
+Reckless Drivers def Stroke and Dribble We're the Monahans... def Five Girls Who Know Bad Girls of Cavanaugh def Team 13 Team 8 def Red Stripers Listless def We'll Take On You and Your Mama Cage Gause def Hot Shots J.T. and the Trash Talkers def Basketball Powers 
+Malibu Barbie and the Sunshine Girls def The Clap Fox Force Five def Julie's Angels 
+
+By JOE CAVATO 
+A~sociare Sports Editor 
+:\s Bookstoro Basketball draws morn studPnts from thnir books to tlw courts. tlw gamns contin­ue to grow in intensity as the liPid narrowed to a very Sweet 
+I 6. 
+In orw of last night's Parly eon­tPsts. So Solid held ofl' unseeded 
+From 625 to Sweet 16 
+Bookstore field narrows, intensity picks up 
+charm as Wills seornd in the post to put his team into the Sweet 16. 
+"lie's our bread and butter." Schiavone said. "We had the hnight advantage so we just got th11 ball inside and when it gets Jato in the gamn and you lose your legs you have to go to the big man underneath." 
+Burn 'n' Shoot had a little too 
+Bookstore Basketb 
+
+Round of 32 Results 
+~-=---..,-1-=P=-r.,..im-e.,.,ti_m_e~~~-~=-~n-n-a~S""'h_o_o~t~A=-I::--:::----:-y-=-o-u~1:-:0:--I 
+o. 2 Mickey's 21, No. 31 5 Guys Who Prefer Eating Out 12 No. 3 Off Shore Drilling 21, No. 30 Cabo Wabo 11 No. 4 Still Muddy 21, No. 29 RSVP 17 No. 5 Malicious Prosecution 21, Russell the Mussel 12 No. 6 Wax 21, No. 27 Tastefully Done 12 No. 7 SFR3 21, No. 26 Stir It Up 13 No. 8 Bolivian Yaks 21 I No. 25 Grumpy Old Dudes 9 No. 9 No Limit 21, No. 24 Dirty Sanchez 14 No. 10 So Solid 21 I No. 23 Slow Your Roll No. 14 Your Mom21, Coast to Coast 17 
+No. 15 In Memory of McConn 22, Pretrial Diversion 20 No. 16 Burn N1 Shoot 21, No. 17 Consuming Fire 18 No. 20 Show Me the Money 21 I Punching Clown 15 
+No. 21 Soldiers 21 I B Diddy & the Fam 17 Absolut Irish 21 Leso 
+Wicked Smart 1 0 
+Slow Your Hull 21-IIJ. So Solid lwld the lmtd from the start. but Slow Your Boll knottml things up at 16 and tlwn took the lead 17­
+I CJ. 
+"They playml great. you have to give them credit." A . .l. Schiavorw of So Solid said. "They really play well as a team and they gavn 110 pPrePnt." 
+Behind some sharp shooting and strong inside play by Nick Wills. So Solid stornwd right back. Wills missed a frnn throw but rnadn up for it as he hit a jumper in the paint to give his squad tlw lead. 
+When facnd with a 20-IIJ d!'ficit, Slow Your Boll rmnainnd patif'nt on oll'ense as they did not want to make any mistakes. So Solid had several chances to win the ganw but strong defense by Ben .Johnson and .John Nakajima tunwd thmn away. 
+Third time proved to be the 
+-
+-
+much fire for Consuming Fire as they outlasted Consuming Fire 
+21-1 H. 
+
+Kory Minor and company could not take advantage of the second chance given to them by the disqualification of Serpico last night. 
+Burn 'n' Shoot held the lead at half and maintained the lead until a spectacular fast break lay-up by Minor brought his team within striking distance. 
+Consuming Fire took the lead at 17-16 but Mighty Mouse point guard Matt Canna helped lead his team to get back on top 19­17 before he drained a free throw for the 21-18 win.. 
+"At the end we kind of went in a funk," said Canna, who despite his small stature took the ball strong to the hole time and time again. "I wanted to draw a foul and try to pound it inside and get a reaching foul or some-
+Bookstore Basketball The Road to the Championships 
+1. Primetime 10 p.m. Stepan 2 
+11~:JWSZ!ilmd..!w..tiiii!UJ 
+7.SFR3 
+10:45 p.m. Stepan 2 
+'----l 
+10.SoSolid 
+
+
+B. Wax 
+~t 
+l 
+
+5. Off-5hbre
+Drilli .N 
+10 p.m St4mn3 
+2. Bun niShoot 
+~~5~~7~---~ 
+
+13. Your 1\/loril ·,. ~...~ · 
+' · f 
+l 
+\ !i 
+I ~ 
+·,·.·::. 
+. ::=:{::~..',.
+
+··c;:: 
+:, .. •2p.m. : \ · \ 
+\ ;, ..'; 
+...,. 
+Q Bulivian Yaks 
+
+1 
+3.Malicious Prosecution 
+9:15 p.m. Stepan 3
+.....,._--! 
+14. Soldiers 
+
+Gw~~~~~d~re~~P~~me~~n~fue~~~~:~:-~~-~·~/-=:·~·=~~·-~~=~~~~·~-,~··~·~--·-·~j-·-~~--~~~~~·~--~·~·~1_._____.~_··-~-~.~~~·~·-~-~ 
+
+Thursday, April 23, 1998 The Observer • TODAY page 19 
+MEN ABOUT CAMPUS 
+
+
+MOTHER GOOSE & GRIMM 
+DILBERT 
+
+CROSSWORD 
+ACROSS 32Swelling 63 Lease again 
+1 Polling unit reducer 64 1964 Roger 36 Cosmetician Miller hit 
+7 "Pathetique," 
+Lauder
+
+e.g. 37 Roping target 
+13 Teacher of the 
+DOWN
+
+deaf 38 Climbed. as a 15 Reporter, at pole 1 Disperse times 41 Spring time 
+2 "Exodus" hero 16 Sway 43 Brilliantly 
+3 Tubular pasta 17 Lennon classic colored bird shells 18 Dvorak's 45 Lacrosse team 4 Drop suddenly: Symphony­
+46 Crazed Var. 
+
+minor No.9 
+51 Final say? s Meat dish 
+
+19 Kind 
+52 Wholly 6 Journal ending 
+
+21 Med. service 
+53 Corrode 7 Ampersand, 
+
+providers 
+e.g.: Abbr. 
+54 18th-century
+
+22 Sudden 
+hairpiece 8 Spanish swell 
+
+acceleration 27-Jima 57 Hebrew prophet 9 Cabaret 
+28 Colorful flowers 
+61 Exalt 10 Jung's inner self 
+
+.29 Unpretentious 62 N.B.A. Raptors' food city 11 Jan Peerce was one 12"Giveit-!" ANSWER TO PREVIOUS PUZZLE 14 Twelvesome of Israel 15 Beach attraction 2080's merger inits. 22 Kids 23 "A Dream Is -Your Heart Makes" 24Copyr.:-t~:+.;+.-;1 25 Behavioral trait 26 Rundown 30 Uncertain r-:-+:-+:-+.--t:-1 31 Actress Olin et al. L...:....L---L.......a................. 33 Rabble-rousing 
+Barry Williams (Greg Brady) Lecture 7:30-9:30PM 
+to the public. Please ,call 1 ~620Lfor more informa~ tion.. ..Jt~f: · 
+Gary Cox will pres~nt a lecture today entitled "Mobilization, Social Networks, and Turnout: Evidence from Japan;' held· in C-103 ·of the Hesburgh Centetfor International Studies at 4:15pm 
+1999-2000 Fulbright Information Session: Students intending to apply for the 1999-2000 Fulbright competition must attend an information ses­sion today at 4:15 pm in the Notre Dame Room of 
+LaFortune Student Center. 
+•MENU 
+Notre Dame 
+North 
+
+Roast Chicken with Gravy 
+Whipped Potatoes 
+Mixed Vegetables 
+Tortilla Soup 
+34 Something hard to drink? 35 New Hampshire city 39 Former Spanish queen 40 1992 Louis Malle film 41 Dry red wine 42 Compass line 44"My-Sal" 46 Sulking sort 47 White poplar 
+
+DAN SULLIVAN YOUR HOROSCOPE Aries: Payoff time gets closer today. Staying on course is easy when the end is in sight. The more you lose focus, the longer you will delay your richly deserved reward. Taurus: You shine with intense energy today. Everyone is aware of your beauty and how fantastic you feel. Venus gives you a wink and a nudge in the direction of romance. Gemini: Use patience and focus to your advantage when dealing with others. You draw out someone's secret today. This is a time to gather and hold informa­tion rather than spend it. Cancer: Unique ideas are well received today. The Taurus Moon gives you enough charm to make you a credible leader. Your tal­ents might be wasted. Leo: A sudden rebellious streak may get the better of you today. Do not sabotage your career over a whim of instant gratification. SCOTT ADAMS 
+Virgo: You are the master of finding practical solu­tions. Problems seem obvi­ous to you even though they may have others completely stumped. 
+Libra: The presence of beauty and luxury makes 
+
+South 
+
+48 More 56 Sheraton's 
+Breaded Cheese Sticks 
+extreme parent 
+Grilled Tuna with Lemon 
+49"Doi­58 Hunk's pride 
+Tortilla Soup 
+
+Waltz?" 59 Cash so Wore dispenser, for 
+Pepperoni Calzone 
+55 Lacking short color &o Weed remover 
+Wanted: Reporters, photogra, 
+Answers to any three clues in this puzzle are available by touch-tone phone: 1-900-420-5656 (75¢ per minute). 
+phers and editors. Annual subscriptions are available for the best of Sunday crosswords from the last 50 years: (800) 762-1665. 
+Join The Observer staff. 
+entertainment, karyoke, & games 4:00-7:00PM Fieldhouse Mall (Rain Location: LaSun Ballroom) 
+Brady Dining Hall Theme Dinner 4:00-7:00PM NOH & SOH 
+As Good As It Gets 8:00PM Cushing Auditorium 
+$2 
+70s Dance Party 9:00PM-12:00AM LaFunk Ballroom 
+EUGENIA LAST you a little greedy today. The lure of the physical world is extremely strong. Get over your issues about sharing. Scorpio: Power and inten­sity make this an exhaust­ing, but hopefully fulfilling, day. Remain flexible within a relationship. Possessions or ownership issues are your biggest obstacles at the moment. Sagittarius: You are obliged to help someone whose problem normally would not concern you. Learn a basic lesson from the details of another per­son's mistakes. Capricorn: This is a day to give your emotions full and free range. Shout out your feelings. Both work and play yield excellent results. Relaxation happens easily in natural settings. Aquarius: Old magic stirs you in ways you might never have guessed. Reconnect with your past instead of separating your­self from it. Pisces: Your bag of tricks is filled with poetic lan­guage and hypnotic imagery. You captivate an audience of potential lovers with that ineffable Pisces mystery. 
+Saint Mary's Pizza Bar Turkey Melt Jambalaya Green Peas 
+--· 
+
+• 
+~ 
+l 
+~ 
+J 
+j 
+i 
+1 
+l 
+j l 
+1 
+
+
+-
+-
+I' 
+~ 
+t 
+I 
+SPORTS 
+page 20 
+• SOFTBALL 
+Irish aim for 3rd Big East title 
+By BILL HART A.sistant Spom Editor 
+Aftnr rallying to the top of their division, the Notre Dame softball team has their eyes set on a third consncutive South Division titln. 
+Tlw Irish still havn a large part of their schedule left to be played. but nach victory makes it that much harder for their rivals to dose the gap. 
+Tho Irish were originally scheduled to play Northwestern on Thursday, but the Wildcats were l"orced to cancel due to a scheduling conflict. Thernfore. NotrP Dame will travel to Toledo to play a doublnheader that was rained out in late March. 
+Despitn thnir unimpressive 8-31 record. the Hockets haVP won two of their last three games. Offensivdy, they arc led freshman Laurie Nagel with a .349 average, while Amy Lukowski carries a 2.31 EllA and three wins under her belt. 
+On the other end of thn field, thn Irish have cer­tainly lived up to their nickname, fighting their way baek to the top of thn Big East South Division. 
+
+Last week, the team went a perfect 8-0, sweeping four opponents and shutting each out in at least one game. 
+On Sunday, the Irish completed their perfect week with a sweep of St. John's. Sophomore Lisa Tully went 4-8 with two triples in the series to lead the Irish, while freshmen Melanie Alkire and Danielle Klayman each went 3-8. Offensively, Klayman leads the Irish with a .346 average at the plate. 
+For the second straight week, Notre Dame play­ers have been showered with Big East honors. Tully was named Big East player of the week after hitting 11-24 with three runs, three doubles, and two HBI triples in the eight games the Irish played. 
+Alkire was named the Big East rookie of the week with a 10-21 performance that included two doubles, a horne run, five RB!s and a . 714 batting average. She also went 2-0 on the mound over the week with a 1.40 ERA. 
+The freshman class on the Irish softball team 
+The Observer/John Daily 
+
+see SOFTBALLI page 15 
+On the road to Toledo, the Irish hope to steal two non-league games . 
+• SPRING fOOTBALL 
+• BASEBALL 
+
+Good 'ol pitching and 
+(Cll~Ciill.lftl])?B Ih®ill~~ 
+Driver joins Irish secondary as team 
+defense extends wins 
+looks to hit hard in the fall 
+By ANTHONY BIANCO Sports Writer 
+Its spring time at Notre Dame. Just like anywhere else, the Irish are taking care of some spring cleaning even 
+the football team. 
+
+One of the biggest changes for Bob Davie's Irish this spring involves moving current freshman Tony Driver from t.hc offensive backfield to the defnnsive sec­
+ondary. 
+
+The tailback, who rushed for 133 yards on 35 carri11s with 3 touchdowns bnhind Irish starter Autry Denson, is working for a starting spot as a safety. 
+"Tony Driver's a fine running back," said c:oad1 Bob Davie on moving the 6­l"oot-2, 210 pounder to frne safety. "lie's a contact football playnr. rnally an aggrnssive football player. But we nmlly rwod to gPt him on tho field." 
+Drivnr will join an already talented ser.ondary that will be without tlw ser­viens of last year's starting safeties Allen Hossum and Ivory Covington, who com­birwd for 1I!) tackles last season. 
+"You'd like to have both these guys [Bossurn and Covington I back. but the truth is we don't and we've got some young guys that have to step up and become players," said dnfensivn back eoaeh Tom McMahon. 
+Adding to the secondary shift is the absence of D1!ke Coopnr. who started at two games at free safoty last year, due to academic concerns. In addition, adding Driver to the safety depth chart allows Deveron Harper to jump from saf'nty to his natural position of' corner­back. 
+When all the dust has settled on the Irish's spring cleaning moves. Driver will work on a safnty corps that includes snniors-to-be Benny Guilbeaux and A'Jani Sanders. Splitting the starting 
+
+~: 
+xw 
+~ 
+wf 
+
+By DAN CICHALSKI Senior StaffWrirer 
+At Eck Stadium Wednesday, Notre Dame and Valparaiso pro­vided a perfect example of that old baseball saying, "Pitching and defense win ballgarnes." 
+The Irish took two games from the Crusaders by 1-0 and 3-1 scores. Both contests featured tight pitching and spectacular defense to keep the run totals low and nxtcnd Notre Dame's winning streak to 12 games, the longest in head coach Paul Mainieri's four years guiding the Irish. 
+"If you look at the great 
+
+
+teams, they have consis­tent pitching and defense," Mainieri said. "Your hitters won't hit 
+
+
+every day. Porzel Their pitchers were crafty and after an emo­tional win against Michigan, I think we did not come out as intense. Great pitching and defense gives you a chance to win these games." 
+In the first game, the Irish broke a scoreless tie in the ninth when Alec Porzel drove in Brant Ust -who had reached on an error and stole second -with a two-out single to left center field. It was Porzel's third hit of thn game and 23rd RBI of the sea­son. 
+"With two strikes on me, I was just trying to put the ball in play," Porzel said. 
+But most of the fireworks occured before extra innings in thn field. not at the plate. As a result, Notre Dame left six men on base and Valparaiso stranded nine.
+Courtesy of Notre Dame Sports Information 
+In the top of the second,
+A'Jani Sanders will be competing against Tony Driver and Benny Guilbeaux for a starting safety spot. Valparaiso's Brian O'Connor 
+doubiP-d with one out. The rwxt hitter. Hyan Pewpard ripped a single to left field and Porznl threw O'Connor out at the platn with a one-bounce throw to .Jell' Wagner. 
+"I wasn't sure he was going to [try to score!." Porzol said. "But I was prepared to throw him out. Thoy had hit a hard liner to mo before. so I knew I had a chance and I knP-w I had to throw through Brant I the cutofl" man1." 
+Notre Damn had its b11st scor­ing chance in the third when Dan Leatherman and Allen Grnene led ofT with singles. With 
+J.J. Brock at the plate, Mainieri sent the runners and Brock swung on the hit-and-run. Valpo seccmd baseman Josh Mcintyre caught tho linn drive and tossed the ball to Billy Finn covering second base, who threw to Todd Poepard at first for tho triple play. 
+"I wish I could say it was tlw first time l'vo had a team hit into a triple play," Maininri said. "But their sneond bas11man made a grnat lc1ap at tlw ball. It happens once in a whilo. 
+In Valparaiso's hall" of" the firth, thrnn singlns, a pickoff, a Jly out and a hit batter led to a bases­loaded, two-out situation. Cleanup hitter Todd Poepard ­batting .333 entering the gamo -hit a f"ly ball to center that Greene caught with a backhand dive. Only one other Crusader baserunnnr would get as far as second base the rest of the game. 
+Notre Dame had another scor­ing chance in the seventh inning. Jeff Perconto reached on an error with two outs and stole second on the third pitch to Porzcl. After Porzel walked. Todd Fryn slappnd a singln between third and short that Pcrconto had to let pass before heading to third. Crusader left 
+see V ALPO I page 12 duties at strong safetly last year, they regis­tered a combined 126 tackles in 400 minutes of play. Driver, Guilbeaux and Sanders will compete for the two safety starts this upcom­ing season. But the competition is definetly not dirtying the spring cleaning efforts. 
+
+"The competition is really helping me a lot," said Driver. ''I'm still learning the defense, and A'Jani knows a lot of positions. I'm trying to get as much experience as pos­sible at the position." 
+The switch and the resulting competition should also cleanup Sanders' game as well. "A'Jani can look around and see that he's got to be ready everyday for every practice to 
+see DRIVER/ page 1 5 
+at Seton Hall (DH) Big East at Miami Saturday, Noon 
+Friday-Sunday
+
+l! a) •Bookstore field narrows to 16
+, 
+Big East at Miami at Toledo (DH) see pages 14, 18;;W Thursday-SundayToday, 3 p.m. 
+
+'-=
+...... 
+Tennis vs. Albionat Harvard 
+
+\1•f11" •SMC Tennis loses to Kalamazoo
+u...~ ~ 
+Today, 3 p.m. 
+Saturday, 1 p.m. 
+see page 16 Softball vs. Defianceat Columbia 
+
+s.("~
+Tomorrow, 3 p.m. Sturday, Noon 
+~ 
+
+
+
+
+

@@ -1,0 +1,1700 @@
+
+THE INDEPENDENT NEWSPAPER SERVING NOTRE DAME AND SAINT MARY'S 
+ND graduate offers Catholic software to public 
+By GWENDOLYN NORGLE 
+Assistant News Editor 
+Computerized prayer called "Catholic prayerware" is in the beginning stages of being shipped, it was announced last week by Aquinas Software President Daniel Emmons, Notre Dame Class of 1990. 
+Catholic prayerware is a mul­timedia traditional prayer application for the Microsoft Windows operating environ­ment. It includes over 20 pre­loaded traditional Catholic prayers, like the "Act of Contrition," the "Our Father," and prayers of Saint Thomas Aquinas, according to Emmons. 
+There is, also, a separate sec­tion for writing notes where an infinite number of personal prayers can be recorded by the user onto the screen with a mi­crophone. With an automated prayer scheduler, prayers can be programmed to "pop up" on the screen and be viewed and heard at designated times of the day. 
+Other important information about Catholicism is accessible, as well. 
+With its motto, "Blending 2000 years of tradition with multimedia," Aquinas, a three­month old supplier of educa­tion, information, and enter­tainment multimedia applica­tions for personal computers, is marketing Prayerware directly from its headquarters and via the Information Superhighway for $20.00. 
+A shareware version is avail­able where buyers can try it and buy it if they like it. 
+According to Emmons, Catholic prayerware is targeted at two consumers -parents who encourage their children to use "wholesome" and educa­tional computer programs and people who work on their com­puters all day. 
+Thus far, the early adopters of Catholic prayerware have been "the more religious types" of people, Emmons said. 
+Emmons, who majored in management at Notre Dame 
+Computing teams finish 7th, 12th in east region 
+By KATE CRISHAM 
+Associate News Editor 
+Six Notre Dame students were recently given the oppor­tunity to transfer the knowl­edge gleaned from their lec­tures, books, and homework into a "real world" experience by participating in the annual Association of Computing Ma­chinery Programming competi­
+-tion held at the University of Waterloo in Ontario, Canada . Notre Dame sent two teams of three students each to com­pete in the Eastern Central Re­
+gion championship on Novem­ber 12. Of the 78 teams who participated in the competition, the Notre Dame teams cap­tured seventh and 12th place. Placing sixth or above would have enabled the Notre Dame team to advance to the world championships. 
+According to first-year grad­uate student Jeff Squyres, both teams put in an impressive per­formance. 
+"We were really pleased with how we did," said 
+see TEAMS I page 4 
+
+The Observer/ Kyle Kusek 
+Two students read a flyer from Pax Christi, an organization that proposes an alternative to ROTC as a means to earn scholarship money, on Saturday morning outside Pasquerilla Center. 
+and received his masters in ed­ucation at Boston College in 1994, said that Catholic prayer­ware "inclines one to pray more," especially "those who are tangled in work." 
+It makes it "easier" for them to pray, Emmons said, adding that "it is useful for my own life." 
+Sally Vance-Trembath, as­sistant professional specialist in the theology department, is im­pressed with the innovation. 
+"In principle, I think ifs great any time the Catholic Church makes an effort to communi­cate with the modern world," especially since the Church is "out of touch with using tools, like the computer, to communi­cate with the modern world," she said. · 
+"In terms of parenting," she said, "it seems like a good idea." 
+However, Trembath ques­tioned Emmons intentions in labeling his software "Catholic prayerware." 
+"Does he (Emmons) meet the standard of Catholicity? Is it (the prayerware) theologically sound? Does it reflect the char­acter of God who is worthy of our worship?" Trembath asked. 
+Trembath mentioned a Latin saying that she said was signifi­cant when considering prayer -Lexorandi, Lex Crendendi , which translates as "law of prayer, law of belief." What this saying means, according to Trembath, is that the way you pray reflects what you believe. 
+Trembath said that Emmons should be careful in calling his computer application "Catholic prayerware" because "prayer can be abusive." 
+She mentioned, as an ex­ample, that the Act of Contrition comes from a time in history when people believed that they could con God into things, that if they said certain prayers a certain number of times, they would experience "a magical transformation" by God. 
+Because of these reasons, Emmons must be careful in 
+choosing what prayers to in­clude in his Catholic prayer­ware application, Trembath said. 
+She also mentioned that the Notre Dame Center for Pastoral Liturgy has a computer pro­gram similar to Emmons' Catholic prayerware in that "it is a huge computer database that has millions of pieces of information" on prayer and teaching kids to pray. · 
+However, it is free on Internet, according to Trembath. 
+In speaking of Catholic prayerware, Sr. Regina Coli, professional specialist in the Theology Department, said, "My first reaction is one of un­easiness." 
+Coli agreed with Emmons in that "we do need some re­minder to pray," and she men­tioned her approval of re­minders that were on bulletin boards or in literature handed out by churches, but Coli said, 
+see PRAYER I page 4 
+
+
+Shutdowns hurt more students 
+Planned shut­down to be scheduled in near future, Sud/ow says 
+By BRIAN FITZPATRICK News Writer 
+Rich Sudlow has watched computer usage at Notre Dame expand from virtually non-exis­tent five years ago to over eight thousand active accounts today. While happy to see technology integrated into the daily lives of Notre Dame students, he said the increased usage results in a Catch-22. 
+"Now, whenever something needs to be fixed or upgraded, many more people are affected by a shutdown of computer ser­vices," said Sudlow, a senior programmer in the Office of University Computing. 
+From time to time, computer shutdowns do occur and for a variety of reasons. Usually, computer outages will affect only specific services available on either the Macintosh, DOS, or UNIX systems. For exam­ple, e-mail or the news servers will be inoperative for a few hours on a particular day. 
+Sometimes, however, the en­tire computer complex is shut­down. 
+"Such major outages usually occur only twice a year," Sud­low said, "typically, in the sum­mer and over winter break." 
+Purposes for the major out­ages include operating system upgrades and hardware addi­tions. The major outages entail shutting down the file servers used by the computers on campus, such that students and faculty are unable to access their computer accounts. 
+Sudlow gave a testament to the tremendous growth of com­puter usage on campus: "We even get calls from people on Christmas Day wondering why they are unable to access their computer files." 
+
+II). the near future, probably for a few hours on a Saturday morning, the e-mail servers will be shutdown, disabling the entire campus from accessing their e-mail. 
+Sudlow said the day for the planned shutdown has not be determined. 
+The purpose of the outage is to reorganize the disks used for e-mail accounts. The e-mail shutdown will affect only Mac­intosh and DOS machines and will disable the finger and 'ph services' as well. 
+"Although the e-mail ser­vices will be shutdown," Sudlow reassured, "no one will lose any e-mail that is sent to them during the outage. If unable to send a message, e­mail systems usually retry for up to three days." 
+Occasionally, individual ma­chines, rather than whole ser­vices such as e-mail and news, are shutdown for hardware additions like new disks and augmented memory. Software upgrades, which occur from time to time for programs like Maple, Mathematica, and Mat­lab, do not require outages. 
+Keeping the computer system running with as few errors as possible is a full time job; someone monitors the entire computer network for major breakdowns twenty-four hours a day, seven days a week. 
+
+"In addition," Sudlow said, "the computer administrators cannot all leave town togeth­er-someone must always be on-call in the case something happens." 
+For Sudlow and his band of troubleshooters, the goal is "100% uptime, all the time." 
+
+...-----------------------------­
+page 2 The Observer • INSIDE Monday, November 21, 1994 
+• INSIDE COLUMN 
+Morality doesn't Trickle down either 
+Everyone in America wants to live in the good society, but no one seems to want to focus on the fundamental principles that would lead to one. Communication, moral harmony, and the equilib­rium that once existed between civilization and its environment are severely lacking from the American agenda. 
+American life centers 
+
+around the market rather than the society in 
+which people interact. Slowly Americans 
+realize that their ideal society is a far cry from 
+the reality of their lives and search for solu­
+tions to their dissatisfaction. 
+According to critics of the current economic view, human lives have no measurable value beyond the value their possessors give them in market terms. Something is inherently wrong with evaluating human life in dollars and cents. American economics discredits itself by using the human being as a market tool. Surely life takes precedent over profit. Morals bind a society together and universally benefit the human race. Money, on the other hand, pushes humanity against its natural tendency to unite in the name of the common good. 
+As the representation of American wants, the political arena fails as well. The collective resources society has to offer reach far beyond taxes and a vantage point from whfch to look out for number one. Policy needs to support and promote American interdepen­dence rather than acting for the elite and pity­ing the poor masses. 
+Following the path of greed and obeying an appetite for money, politics has doggedly fol­lowed the market model and ignored the demands of the democratic one upon which American politics was intended to rest. The common good withers as private interest thrives; institutions are forced to ignore the public plea in order to instead play puppet to administrative demands. 
+The sentiment of indifference has escalated to such a point that it has trickled down from the rich to the poor. The welfare system actu­ally encourages young mothers to be compla­cent with their poverty rather than actively seek wages. The monthly check brings with it the essential medical care that a part-time job cannot provide; even a woman willing to work is dissuaded by the economic consequences. The American system serves the probtem at the surface but never addresses the society from which the dilemma arises. The solution to the welfare, situation, for example, needs to begin with the motivation fundamental to any lifestyle. 
+When America wises up to its misguided direction, perhaps society will focus again on its true members, not its economic and politi­cal constituents. Wealth does not necessarily imply a collection of material goods, rather, it may rest in the happiness and consequent productivity of the American people. The col­lective goal of America needs to be reworked to include more of the individual needs of its members and less of the explicit wishes of the men and women in power and the few who place them there. 
+The views expressed in the Inside Column are those of the author and not necessarily those ofThe Observer. 
+
+• TODAY'S STAFF 
+News Production Brad Prendergast Tara Grieshop Melanie Laflin Elizabeth Harnisch 
+Sports Graphics Mace Casey Robert Bollman 
+The Obsc:rver (USPS 599 2-4000) is published Monday through Friday except during exam and vacation periods. The Obsc:rver is a member of the fusociated Press. All reproduction rights are resc:rved. 
+• WORLD AT AGLANCE 
+
+Government Soldiers Attacked in Northwest Bosnia 
+SARAJEVO.----------------, News Agency reported. Renegade Muslim forces and Serbs NATO authorized There was no confirmation from the were attacking government soldiers to attack Croatia United Nations, but the announcement Sunday in northwest Bosnia, appar-appeared to be an indication the Serbs ently trying to recapture lost territo-would stop their offensive around Bihac ry before the United Nations could in hopes of averting a NATO attack. react. A U.N. official in Zagreb earlier Senior U.N. officials met in Zagreb, reported heavy fighting around Velika Croatia, to consider using NATO Kladusa, Abdic's former headquarters warplanes to attack Serb forces near Bihac. Government forces there under expanded powers granted are surrounded and the official, who Saturday by the U.N. Security spoke on condition of anonymity, said Council. the Abdic forces appeared to have the Government troops in Bihac, in upper hand. Bosnia's northwestern corner, were The official HINA news agency of under attack by rebel Muslim forces Croatia reported the "whole border and Serb armor, according to the between Bosnia and Croatia is on fire ... United Nations and both sides in the under joint attack by the Abdic forces fighting. Serb artillery in neighboring 0 Bosnian Serb and Bosnian Serb forces." Croatia was firing across the border • Muslim-Groat It said they were supported by at the government forces. federation artillery and tanks firing from Serb-held Serbs captured the waterworks for 0 U.N. designated Croatian territory. 
+"safe zones" 
+Bihac, a city of 48,000 people, giving L.E:~~~~~~=~~~!:==:!.J Croatian President Franjo Tudjman, 
+them control of the water supply, who recently has become an ally of 
+said U.N. sources, who spoke on condition of anonymity. Bosnia's Muslim-led government, invited the United 
+The assaults reflected the determination of the Serbs Nations on Friday to bomb rebel Serbs in his country to 
+and of Muslims loyal to warlord Fikret Abdic to cripple stop the cross-border attacks. 
+the government army, which defeated Abdic in August In Batnoga, Croatia, just across the border from Velika 
+and broke through Serb lines in a stunning advance last Kladusa, refugees who fled with Abdic in August were 
+month. waiting on Saturday to return. 
+Late Sunday, the Bosnian Serb military command "Each shell means our return home is closer," said 
+claimed it recaptured all of the territory it lost in the one, Minka Hadzic, while listening to explosions from the 
+recent government offensive, the Belgrade-based Tanjug fighting. 
+Crosby gets seven hour transplant 
+LOS ANGELES 
+David Crosby of the rock group Crosby, Stills and Nash received a new liver Sunday in a seven-hour operation and was in critical condition. The musician's condition was normal for organ transplant patients, said Warren Robak, spokesman for the University of California at Los Angeles Medical Center. Dr. Ronald Busuttil, who head­ed the transplant team, said surgery went well. "We will watch his progress closely for several days and I am op­timistic that he will do well," Busuttil said. Robak said he had no details on the donor. Crosby, 53, was admitted to the hospital with a deteriorating liver on Nov. 2. His publicist, Elliot Mintz, blamed Crosby's failing liver on decades of drug abuse, including heroin and cocaine. 
+Ice cream can kill 
+
+MINNEAPOLIS 
+More than 6,000 customers who agreed not to sue the maker of ice cream linked to a nationwide salmonella outbreak will receive an average of $158 each, the com­pany said today. Another 2,611 people accepted gift cer­tificates and 4,662 customers declined compensation from Liberty Mutual, the insurance company represent­ing Schwan's Sales Enterprises Inc. The nearly $1 mil­lion settlement of claims by people who say the contami­nated ice cream made them ill was filed Thursday, said Dave Jennings, a spokesman for the Marshall-based ice cream manufacturer. A judge was expected to rule this afternoon on a request by people suing Schwan's, who want the company to stop making such settlements until claimants can consult a lawyer. The Centers for Disease Control and Prevention in Atlanta said the illness was confirmed in about 645 cases in 28 states. State health officials estimated that 32,000 Minnesotans became ill during the outbreak in September and October. Salmonella causes nausea, vomiting, abdominal cramps, diarrhea, fever and headaches 
+Turkey survives Thanksgiving 
+PITTSBORO, N.C. 
+Seven plump turkeys were the main attraction at Karin Yates' pre-Thanksgiving dinner, and they weren't even the main dish. They were among more than 100 turkeys rescued in August after their containers fell off a truck on the highway. A group called Farm Sanctuary, based in Watkins Glen, N.Y., raised the turkeys as pets for its national "Adopt-A-Turkey" program, and brought them to what's been the nation's top turkey-growing state for a decade, producing 61 million birds just this year. The adoptees arrived at Yates' house Saturday. She was run­ning a little late, but before anybody could squawk, she whisked the meal out to a table in the yard and her guests dived into the spaghetti with soy margarine sauce, lettuce and cranberry salad, corn and pumpkin pie. The human guests, that is. 
+Footloose revisited 
+TRUMANN, Ark. 
+You can drink and shake a leg in Trumann now, but you better keep your fists to yourself. The City Council lifted a 21-year-old ban on dancing at three taverns where alcohol is served. However, Alderman Donnie Taylor warned that the bars could lose their dancing privileges if patrons throw punches instead of kicking up their heels. Jerry's Tavern owner Jerry Pillow, who pro­posed lifting the ban, acknowledged that dancing and drinking years ago created problems, including fights. That's all in the past. "Dancing should not be against the law, but the police should be allowed to stop it if there is fighting," Pillow said. The council lifted the ban Nov. 14 in a 9-1 vote. The town has only four taverns; the owner of one wasn't interested in allowing dancing. There is hardly room in Jerry's Tavern to dance. Pillow said he does not plan to expand, or hire any live bands to play. But, he says, "I felt like people just have a basic right to be able to dance." 
+•INDIANA WEATHER • NATIONAL WEATHER 
+Monday, Nov. 21 Accu-Weather"'forecast for daytime conditions and high temperatures The Accu-Weather~ forecast for noon, Monday, Nov. 21. 
+
+FRONTS: 
+OHIO jlndianapoli3 58° I 
+............................ ...,..ay.. 
+COLD WARM STATIONARY C 1994 Accu-Weather, Inc. 
+Pressunt ~ ~ r-1'\
+H L rn &'SJ !Til 0 ~§ ¥ L-i~ 
+HIGH LOW SHOWERS RAIN T..STORMS FLURRIES SNOW ICE SUNNY PT. CLOUDY CLOUDY 
+
+Adanta 71 50 Dallas 72 63 New Orleans 73 53 BaHimore 59 45 Denver 30 17 New York 59 50 Boston 56 54 Los Angeles 60 47 Philadelphia 63 52 Chicago 58 31 Miami eo 64 Phoenix 59 41 Columbus 62 31 Minneapolis 39 21 St. Louis 62 40 
+---·-----------~---------------------­
+Monday, November 21, 1994 The Observer • NEWS page 3 
+
+
+
+Senators: School prayer Noises heard on 427's first leg 
+gers said they heard was not filed, U.S. District Judge
+amendment doubtful 
+Lawyer says passen­
+detailed in the depositions, Cor­Charles Norgle Sr. denied 
+By JIM ABRAMS 
+Associated Press 
+WASHINGTON 
+
+Senators from both parties voiced doubt Sunday that a constitutional amendment allowing school prayer could pass, and indicated they would prefer to steer away from such social issues. 
+"I don't think we ought to get bogged down" on such divisive matters, Minority Leader Bob Dole, R-Kan., said on ABC's "This Week With David Brink­ley." 
+"If we're going to bring about change, we better bring up some measures we can pass, so the American people will get the message that we're serious about it," said Dole, who is ex­pected to become majority leader next year. 
+House Speaker-to-be Newt Gingrich has promised a vote on a school prayer amendment by next July 4. While most Re­publicans, including Dole, sup­port the principle, many say the new majority party must first concentrate on economic matters. 
+Sen. Orrin Hatch, a conserva­tive Republican from Utah, said on CBS' "Face the Nation" it is more important to pass consti­tutional amendments on a bal­anced budget, unfunded feder­al mandates on the states and a line-item veto. 
+"On school prayer, I really don't believe the votes are there for a vocal prayer amendment." 
+He said that while there was support for a silent prayer or reflection amendment, "I would prefer to solve the eco­nomic problems first." 
+Sen. Christopher Dodd, D­Conn., appearing with Hatch on CBS, said there was a "real reluctance to have this Congress be the first Congress in 205 years to amend any part 'of the Bill of Rights." He said most Americans would "just as soon the federal government stay out of questions like church and prayer in their 
+schools." 
+
+The Supreme Court ruled in 
+1962 that organized prayer in 
+public schools violated the First 
+Amendment's separation of 
+church and state. For years 
+Republicans, backed by the re­
+ligious right, have sought to re­
+introduce voluntary prayer in 
+schools. 
+
+Ralph Reed, president of the 
+conservative Christian Coali­
+tion, said on CBS that the gov­
+ernment had "taken \he phrase 
+'freedom of r!3ligion' and 
+turned into 'freedom from reli­
+gion."' 
+
+But Arthur Kropp of the lib­
+eral People for the American 
+Way retorted that "most people 
+are stunned that one of the 
+first initiatives out of the box 
+for this new leadership is 
+prayer.... We are in a situation 
+in this country where we've got 
+some serious issues to deal 
+with. I don't think we can 
+afford to pit one American 
+against another." 
+The importance of tackling 
+economic issues first was also 
+stressed by four Republican 
+governors appearing Sunday 
+on NBC's "Meet the Press." 
+The four -William Weld of 
+Massachusetts, Christine Todd 
+Whitman of New Jersey, 
+Tommy Thompson of Wiscon­
+sin and Pete Wilson of Califor­
+nia -said they had no objec­
+tion to a moment of silence be­
+fore starting the school day, 
+and were not necessarily op­
+posed to legislation or a consti­
+tutional amendment as long as 
+prayer was voluntary. 
+gers heard strange sounds as plane flew from Charlotte to 
+Chicago 
+
+By F.N. D'ALESSIO 
+Associated Press 
+
+CHICAGO 
+At least three passengers on 
+an earlier leg of USAir Flight 
+427 complained of strange 
+noises before the jet took off on 
+its final, fatal flight, according 
+to a lawyer representing vic­
+tims' families. 
+
+Philip Carboy, a lawyer suing 
+USAir on behalf of some of the 
+families, said reports of com­
+plaints were filed Thursday in 
+depositions in federal court. 
+The three passengers said 
+they had heard an odd noise ·during the Sept. 8 flight from Charlotte, N.C., to Chicago, he 
+said. 
+
+The jet left Chicago for Pitts­
+burgh later that day and 
+crashed a few miles from the 
+Pittsburgh airport, killing all 
+132 people aboard. Investiga­
+tors have not determined what 
+caused the crash. 
+
+The type of noise the passen­boy said, nor was it clear why they thought it was unusual. 
+USAir's chief maintenance foreman in Chicago, Gerald Fox, was told about a report of unusual noise but allowed the plane to take off without inves­tigating because the pilot told him the craft was fine, USAir spokesman Richard Weintraub said Sunday. 
+Fox is a defendant in the law­suit filed by Cor boy on behalf of some victims' families, along with USAir and Boeing Co. 
+Weintraub said the jet had two routine pre-flight checks before taking off for Pittsburgh, but no special maintenance. 
+The USAir mechanic in charge of the plane's departure said in one of the depositions that he was never told of the complaints, the Tribune­Review of Greensburg, Pa., reported Sunday. If he had been, he said, the Boeing 737 would not have left Chicago. 
+In Washington, telephone messages left with National Transportation Safety Board spokesman Mike Benson on Sunday were not immediately returned. 
+After the depositions were USAir's request to move three lawsuits resulting from the crash to federal court from Chicago's Cook County Circuit Court. 
+The Pittsburgh crash and one in Charlotte, N.C., in July that killed 37 of the 57 people aboard, have raised questions among some travelers about USAir's safety. USAir has had seven accidents, six of them deadly, in the past five years. 
+Also Sunday, USAir an­nounced it has hired a retired commander of U.S. Air Forces in Europe to become the air­line's new vice president of cor­porate safety. 
+Robert Oakes, 58, left his military post earlier this year, ending a 35-year career. He also is a former chief of the Air Force's training organization, the Air Training Command. 
+Oaks will start his position Dec. 1. He will oversee all fly­ing and ground safety activities at USAir and report directly to Chairman Seth Schofield. 
+The airline also said it has asked PRC Aviation, a Tucson, Ariz.-based consulting firm, to conduct an independent audit of safety practices and policies. 
+
+Jigsaw puzzle highlights service 
+By LAUREN WINTERFIELD 
+News Writer 
+
+Saint Mary's College is adding another part to their sesquicen­tennial celebration this week. Tomorrow at 10:00 a.m., a sesquicentennial prayer service will be held in the Regina Chapel for all of the St. Mary's faculty and staff. 
+An important element in this celebration is a jigsaw puzzle constructed by David Sommer-
+Student Health Insurance 
+Do you know what your insurance covers? Are you concerned about what is not covered? The policy is up for renewal, what would you like to see changed? 
+The Graduate Student Union needs your input. What changes you would like to see in the policy and what things you would like to see stay the same. 
+Open Forulll on Health Insurance Concerns Tuesday Nove111ber 22, 7:00 Montgolllery Theater Lafortune Center 
+field of the Maintenance De­partment and commissioned by the Sesquicentennial Prayer Service committee to publicize the mass. 
+The puzzle made an appear­ance in LeMans, Haggar College Center, Cushwa­Leighton Library, and Madeleva during the past couple of weeks to make people aware of the event. 
+Sommerfield, as part of the five person committee, received the job. 
+The prayer service. is being held in an effort to ensirre that everyone in the Saint Mary's community has a part in the sesquicentennial celebration. 
+The puzzle will be displayed on an easel during the mass, and afterwards will be laid flat so faculty and staff members can take a piece as a memento on the way out. 
+The puzzle is made of one­eighth of an inch thick balsa wood and portrays the Saint Mary's seal in exactly two hun­dred and fifty-two pieces. Balsa wood was chosen because it is light weight and manageable.. 
+Several faculty and staff members expressed an interest in drilling a hole in their piece of the puzzle and wearing it as a medallion. 
+
+
+page 4 The Observer • NEWS Monday, November 21, I 994 
+puter science and engineering sisted of Luense, senior Joe department at Notre Dame," George, and senior Mike Nahas. 
+Teruns Deadly storm Gordon
+said Squyres. Squyres, junior Jun Lei, and 
+continued from page 1 
+Squyres. "It was a big event and it was definitely a big improvement over last year." 
+According to Squyres, each team was given five hours to devise computer programs to solve eight problems. One question, considered by most to be the hardest problem, was solved by only three teams­both Notre Dame teams and York University. 
+"I think our performance shows the quality of the com-
+
+Senior mathematics major Brian Luense agreed with Squyres' assessment of Notre Dame's Department of Com­puter Science and Engineering. 
+"Even though I'm a math major, I've taken some classes in the department," said Lu­ense. "It's a younger depart­ment, but it's putting forth some quality work. 
+"Hopefully this will serve to further earn it the recognition I think it deserves," he said. 
+The seventh place team con-senior Brian McCandless made up the 12th-place team. 
+The teams were accompanied by Dr. Raymond Sepeta, a pro­fessor in the Freshman Year of Studies, and Dr. Andrew Lumsdaine, an associate pro­fesssor of Computer Science and Engineering. 
+Squyres hopes that this year's performance only por­tends success in future competitions. 
+"We did good this year, but next year we hope to do even better," he said. 
+Federal judge orders retrial 
+Associated Press 
+HOUSTON 
+A federal judge ordered a new trial for a Mexican sen­tenced to death in Texas, say­ing prosecutors and police botched their investigation. 
+"These men and women, sworn to uphold the law, aban­doned their charge and became merchants of chaos," said U.S. District Judge Kenneth lloyt said in ordering a new trial for 12-year death row inmate Hi­cardo Aldape Guerra. 
+Prayer 
+continued from page 1 
+''I'm wary of the automative nature of prayer" involved with the Catholic prayerware application. 
+"It's not just stopping to say formalized words that gives us a relationship with God," she said. "Canned prayers are not organic to one's life." 
+According to Emmons, Catholic prayerware has been selling well in its first weeks on the market. 
+Aquinas, which is based in Chestnut Hill. Massachusetts, "is committed to providing our customers with family-oriented multimedia products," Emmons said. 
+"VVe are pleased to present Catholic Prayerware and look forward to offering many more multimedia packages that en­liven the intellect and will." 
+Emmons said that a Christian version of Catholic prayerware is being planned for release in the spring. 
+In the future, Emmons said, Aquinas wants to develop a "more graphical, more com­plex" Catholic prayerware ap­plication that may include the prayers of the rosary. 
+8-20/30
+MINUTE PACKAGES 
+or 
+
+1 MONTH/3 MONTH UNLIMITED PACKAGES 
+Uak~~t ll;air nntia~Jt (~a.@ 
+
+5804 Grape Rd., Mishawaka 
+2n-7946 
+
+HOURS. 9 to 8 Sat. 9 to 6 Sun. I 1·5 
+Aldape Guerra, 32, was con­victed in the July 1982 death of a Houston policeman killed af­ter he stopped a car carrying Aldape Guerra and Roberto Carrasco Flores. 
+He maintains the fatal shots were fired by Carrasco, who was killed in a shootout with police. Evidence linked bullets that killed the-officer and a by­stander to a pistol found under Carrasco's body. 
+During the trial, prosecutors theorized that Aldape Guerra had somehow switched guns with Carrasco, killed the officer and later the motorist with the 9mm pistol, then handed the murder weapon back to Car­rasco as they fled. 
+"Their misconduct was de­signed and calculated to obtain a conviction and another 'notch in their guns' despite the over­whelming evidence that Car­rasco was the killer and the lack of evidence pointing to Guerra," Hoyt said. 
+The order last week gives the state 30 days to retry or release Aldape Guerra. 
+Israeli spy remains threat to security 
+CIA says Pollard's mind, instability present a risk 
+Associated Press 
+WASHINGTON 
+
+Convicted Israeli spy Jonathan Pollard, who is eligi­ble for parole next year, has tried to reveal classified infor­mation from prison and re­mains a security risk, according to CIA documents. 
+"He retains the ability to harm our national security be­cause of his intelligence, his power of recollection, his his­tory of significant emotional in­stability, his history of drug abuse and his overriding loyalty to another country," the Cen­tral Intelligence Agency wrote in documents cited in Monday's edition of Defense Week, a weekly newsletter that covers the defense industry. 
+The declassified documents were provided to the Senate Select Committee on Intelli­gence, which asked the CIA and the Defense Intelligence Agency to assess the potential national security damage if Pollard were released, the newsletter said. 
+Pollard's attorney, Theodore Olson, responded that the CIA's accusations of drug abuse and continued attempts to reveal classified information are un­founded. 
+Pollard, a former Navy intelli­gence analyst. was sentenced to life in prison in 1987 after pleading guilty to selling secrets to Israel. He admitted 
+Happy Birthday 
+IFJl(J)J]l~ 
+From kindergartner to Notre Dame senior. 
+Love, Your Family &Friends 
+.Summer Engineering Program in London 
+selling classified information to Israel from 1984 until his arrest in November 1985, receiving as much as $2,500 a month. President Clinton refused to reduce Pollard's sen­tence last year. 
+Pollard is in a medium-secu­rity inmate at a federal prison in Butner, N.C. He is eligible to be considered for parole in November 1995, and under federal sentencing guidelines must be released after 30 years -in 2015. 
+"Mr. Pollard is capable of dis­closing information that could still cause serious damage to national security," said the CIA in its response to the Senate committee. 
+A CIA official wrote that Pol­lard has tried to reveal classi­fied information from prison "many times." 
+But Olson said Pollard wrote just one letter that was cen­sored by Navy intelligence offi­cers, who review all Pollard's mail. He sent that letter to 14 different individuals. 
+Olson also said that the CIA has no basis for accusing Pol­lard of drug abuse. 
+
+'3S r 30 Days 
+Unlimited Tanning
+• 
+
+Around the Corner
+SUl}StUdIO{7ml~~~~u~ Area,s Newest & Friendliest Salon 
+UNIVERSITY OF NOTRE DAME 
+INTERNATIONAL STUDY PROGRAM IN 
+
+TOLEDO, SPAIN 
+INFORMATION  MEETING  
+WITH  
+PROFESSOR  CARLOS  JEREZ-FARRAN  
+
+Monday November 21, 1994 4:30pm 116 O'Shaughnessy 
+Returning studenls will be on hand to answer questions 
+dissipates over Florida 
+By JOHN PACENTI 
+Associated Press 
+MIAMI 
+
+Gordon zigzagged back to Florida on Sunday as a dwin­dling weather system, nothing like the hurricane and tropical storm blamed for hundreds of deaths. 
+"It's just a swirl and low clouds and patchy rain. No deep heavy thunderstorms," said Max Mayfield, a meteorol­ogist at the National Hurricane Center in suburban Coral Gables. "It's not the same sys­tem it was three days ago." 
+At 4 p.m., the depression was centered at 28.1 degrees north latitude and 79.2 degrees west longitude, or 85 miles east of Cape Canaveral. It was moving west over Florida at 11 mph and was expected to continue weakening. 
+Its strongest winds were about 30 mph, down from the 80 mph it hit after reaching hurricane strength last week off the coast of North Carolina. 
+Gordon formed Nov. 8 off Nicaragua, zigzagged east 
+through the Caribbean as a tropical storm, and snaked west alongside the Florida Keys and then northeast across the Florida Peninsula. Once in the Atlantic, it strengthened and headed north to North Carolina, then reversed course. 
+"I've never seen one last this long and make as many turns and loops as this system has," Mayfield said. 
+It was blamed for more than 500 deaths in Haiti and eight in Florida. 
+On Saturday, 19 scuba divers had to be rescued off Palm Beach after their boat capsized in Gordon's high seas. A woman fishing at Boynton Inlet was washed off a pier by a high wave and carried out to sea be­fore being rescued. 
+Gordon's damage to Florida agriculture was estimated at $336 million. 
+While the Atlantic hurricane season ends Nov. 30, Mayfield noted that meteorologists were still watching a weather system called a tropical wave off the north coast of Puerto Rico. 
+
+Monday, November 21, 1994 The Observer •WASHINGTON NEWS page 5 
+Dole: Clinton effective as commander-in-chief 
+For about adollar aday,·
+both will give you tqe power you need to 
+·surnve this semester. 
+Only $33.00 a month.* 
+
+Macinlosb hrforma' 636CD 8MB IIAMI250MB barddrive, CD-ROM drive, I(' ro/Qr tnonllvr, 
+lreyboarrl, mouse and aU Jhe soj/wartyourt likely IV need. 
+With the Apple Computer Loan and 90-Day Deferred Payment Plan, you can take advantage of conducive to saving money. In fact, they can leave you broke. But }UU can still buy the computer already great student pricing on aMa(-for about $33 per month· with no payments for 90 days: Students who qualify can take home any Macintosh• personal computer, printer, CD-ROM drive or :~l:~~~~t~~~:::~~~~~:~:~:~~t~:e~~!~ ~:s~~~~nare down. The , other peripherals with no hassle and no complicated forms. Let's face it, the holidays aren't exactly that gives you the power every student needs. The power to be your best~ Apple. 
+PAY NOTHING FOR 90 DAYS 
+Notre Dame Computer Store Room 112 CCMB 631-7477 
+Hurry in today and shop before the holidays!
+'fJe/m:dApple ~!Dan offer e:rpirts February 17, 1995. No paymenl ofin/eresl or principal will he requiredfor 90 days. (Some resellm may requirt a deposilto bold merchandise while loan is being approved) ln/erest acxrulng during Ibis 90-dayperiod will be added IV prtnctpa( anti/he prtnctpal amount, as so increasai, willihertafter bear inleresl which will he included in the rtpayment schedule. 'Monlblypaymenl is an estimate basal on apurr:ha.re price of11,93152, which includes 85% sales lax, for lhe Macinlosh Performa 636CD sys/em sboun abot~. Including loan fees the /Via/loan amount is $2 044.00 which resulls in a tnonlh/ypayment obligation of13350 '!be tnontb/y paymenlabove wascalcu/all!d using an eslimateofsales lax in San Francisco. /[the applicable sales lax is8.75% (OJicago) or 7.0% (Pbiladelphia), /he tnonthlypaymenl would~ $3358or 133.04, respeciiV:,Iy, Co-systemprlas, loan amountrantisales taxes may~. See your aulhorlzedApple Campus Reseller or rtpresenla/Wefor curren/sysmn prtas, loan and lax amfX!nls. Loans artfor a mrmmum of$1,000 lo a maximum of$10,000. lbu may Jake oul mort /ban one loan, bul /he lola/ ofaU loans cannot exceed $10,000 annually. A55% loan originalionfee will be added IV /he requested loan arnounl. '!be in/eresl rale IS vanable, based on lhe commemalpaper ra/e plus 535%. For /he tnonlb ofNotoember, 1994, /he ln/eresl ra/e was 10.85% and lhe Annual Pm:mlage Ra/e was /2.44%. 8-yeor loan 1erm wiih no prepaymen1penally. '!be tnonlbly paymenl and /he annualpercenlage ?Zie shown ~the 90-day defermenl ofprincipal and inleresl described above and no olher defermen/ ofprincipal or inleresl. SludeniS may defer principal paymentr up IV 4years, or unlilgradualion. Deferment will d!ange your monlh/y paymenls. '!be Apple Compuler Loan IS subject IV credil approval. Apple Compuler Loan and 90-Day Deferred Paymenl Plan offers mwrlable only /o qua/if:J,ng sludentr, facully and slaff. Offers available onlyfrom Apple or an aulhorizedApple Campus Reseller or represenlalive. ©1994 Apple Compuler, Inc. AU righ/s reserved Apple, /he Apple logo, Macinlosh, hrforma and "The power to be your hesl" art regislered lrademarks ofApple Compuler, Inc. Mac is a Jrademark ofApple Compuler, Inc. 
+
+GOP discusses replacing income tax 
+By H. JOSEF HEBERT tax, calling it a "hidden tax" two years of the 104th Associated Press buried in the price of products Congress that begins in Jan­and, therefore, more easily uary. WASHINGTON manipulated by government. "I find it difficult to believe 
+The incoming chairman of The Taxpayers Union is a vocal that the work for such a mas­the House's tax-writing com­advocate for lower taxes and sive change can be done and mittee acknowledged Sunday more government accountabil­actually put into law in this that his goal of replacing the in­ity in tax policy. Congress," said Archer. But he come tax with a national sales Sen. Bob Dole, R-Kan., who maintained the tax system must tax is so radical that it won't be will probably be Senate major­undergo dramatic change to accomplished easily or quickly. ity leader in January, said that make it inore simple "and to 
+Meanwhile, two other top high on the GOP agenda will be get the IRS out of our personal congressional Republicans reducing the size of the federal lives and our businesses." made clear they intend to push government, including elimi­He said a consumption tax next year for a reorganization nation of some entire depart­would make it ease the prob­of the government itself and ments. He mentioned the de­lem of dealing with unreported perhaps shut down several partments of Energy and of income, make the tax system Cabinet-level departments such Education and the Interstate more "user friendly" and in­as Energy and Education. Commerce Commission as be­crease the international com­
+The leaders spoke as the GOP ing vulnerable. petitiveness of U.S. businesses 
+prepares to take control of the These agencies were targeted since a tax would automatically House and Senate in January during the Reagan administra­be placed on imports. for the first time in four tion, but survived largely be­Critics have argued against decades. cause of Democratic support in over-reliance on sales, or con­
+Rep. Bill Archer, R-Texas, Congress. sumption, taxes because they who will head the House Ways "If we're going to limit or re­tend to place a greater financial and Means Committee next limit government, we have to burden on lower and middle in­year, said he plans to have do it. We can't talk about it, we come taxpayers than on the hearings on replacing the in­have to do it," said Dole on wealthy. come tax as the country's pri­ABC's "This Week With David Shortly before meeting with mary revenue source. But he Brinkley." the taxpayers' group, Archer said such a shift is not likely to Addressing the taxpayers seemed a bit more cautious be tackled next year, or even in group, Sen. Phil Gramm, R­during ABC's "This Week With the 104th Congress. Texas, also singled out the Edu­David Brinkley" about doing 
+"It's not going to happen cation Department, saying law­away with the income tax. overnight," Archer told a meet­makers should find out if the He said he planned "to cre­ing of the conservative National department's Washington atively look" at how to replace 
+Taxpayers Union. "But I hope offices are leased and give no­the tax, but added it "will be a some time during my tenure in tice "that we will not renew the massive departure and we're the Congress that we will be leases." going to have to look at it very able to replace the income tax Archer, who has made his carefully ... to be sure that it completely as we know it to­concerns about the current in­helps the economy and doesn't day." come tax known previously, hurt the economy." 
+Archer said the likely substi­said there are "innumerable Archer also reiterated that 
+tute would be "some form of designs" of a consumption tax the Republican-led Congress 
+broad-based consumption tax" scheme that might be accept­will send to President Clinton a 
+such as a direct sales tax or able. He said he was confident tax package that includes a cut 
+"value-added" tax, which is one could be worked out. in the capital gains tax, a 
+added to the price of goods as But in an interview, Archer phase-out of the so-called 
+they are being produced. said he does not expect to push "marriage penalty" in current 
+Several members of the audi­the matter this year and doubts tax law, and new tax credits for 
+ence scoffed at a value added it could be accomplished in the dependent children. 
+ByJIM ABRAMS 
+Associated Press 
+
+WASHINGTON 
+Republican leader Bob Dole joined the nation's top military officer Sunday in disputing Sen. Jesse Helms' claim that Presi­dent Clinton is not capable of leading the U.S. armed forces. 
+"I had some reservations early on, but I think he's up to the job now," Dole, the next Senate major­ity leader, 
+
+
+said on Dole ABC's "This Week With David Brinkley." 
+
+White House Chief of Staff Leon Panetta fired back, saying Helms' views usually represent "a very narrow range of the political spectrum" that "don't reflect the mainstream of what this country is about." 
+Speaking on CNN's "Late Edition," Panetta warned that such remarks would strain White House relations with Helms, who is likely to be Sen­ate Foreign Relations Commit­tee chairman beginning in Jan­uary. And he said that Helms must decide whether he owes Clinton an apology. 
+"I(we're going to be able to have a strong relationship in the future in which we work effectively to try to promote this nation's interests both here and abroad, I think there's no room for those kind of com­ments," Panetta said. 
+Clinton's ability as comman­der in chief, long an issue be­cause of his Vietnam era anti­war activities, was questioned again Friday by Helms, a North Carolina Republican, who al­leged during a CNN interview that military leaders share his view that the president is not "up to the job." 
+That drew a quick response Saturday from Joint Chiefs of Staff Chairman Gen. John Sha­likashvili, who called The Washington Post and The New York Times to defend Clinton. "I think it's important to me that this view not be represent­ed as that of the military lead­ership, or for that matter, the view of the military as a whole," he said. 
+Shalikashvili said he did not want to "pick a fight" with Helms. 
+But Sen. Christopher Dodd, D-Conn., a member of the com­mittee, charged that Helms was "corning close to aiding and abetting insubordination" of the nation's chosen com­mander in chief. 
+"I think it's very, very reck­less. I regret deeply that he said it and I would hope he would apologize," Dodd told CBS' "Face the Nation." 
+Dole, R-Kan., who has been a sharp critic of the administra­tion in such areas as Bosnia and Haiti, said, "Jesse was just giving his opinion." Dole said his view is that "he is the com­mander in chief. I think he's done a little better with Haiti, maybe with the Mideast. I think he's doing better all the time." 
+
+.-----------~--~-----------------------------------------------------------------------------------------------­
+page 6 The Observer· INTERNATIONAL NEWS Monday, November 14, 1994 
+Militants threaten Israel; Rabin sends extra troops to Gaza 
+Troops also sent to West Bank to prevent riots 
+By SAID GHAZALI Associated Press 
+GAZA CITY, Gaza Strip 
+
+Trying to ease tensions, PLO leader Vasser Arafat released 31 Islamic militants from jail Sunday, and Muslim funda­mentalist political leaders vowed to redirect their anger at Israeli soldiers and settlers. 
+But one armed group of Mus­lim radicals threatened civil war unless the Palestine Liberation Organization chief expelled top Palestinian police officials and punished others. 
+Prime Minister Yitzhak Habin responded to the threats by sending extra troops to the Gaza Strip to protect Jewish settlements and to the West Bank to prevent riots. 
+The PLO and the Islamic fun­damentalist groups of Hamas and Islamic Jihad blame each other for Friday's bloodshed, when Palestinian police opened fire on rioting worshipers, killing 13 people and wounding more than 150. 
+Only isolated outbreaks of violenc~ occurred Sunday in Gaza, where a shaky truce between the PLO and the mili­tants held. 
+But lzzedine al-Qassam, Hamas' military wing, said it would attack officials of 
+Arafat's government and start a civil war unless its conditions were met. 
+In a leaflet distributed in Gaza, the group demanded Arafat fire two senior police of­ficials and Justice Minister Freih Abu Medein. It demanded the release of jailed Islamic activists and said those respon­sible for Friday's bloodshed must be tried and executed. 
+Arafat suggested Sunday night that Israel had a role in Friday's violence. He told a del­egation from Jerusalem that some people had been shot by plastic and soft-nosed bullets, which he implied are used by Israeli soldiers. 
+Nabil Shaath, the PLO's top negotiator, said the rioting was the outgrowth of anger over Rabin's banning of Palestinians from jobs in Israel and the fail­ure of international donors to make good on aid pledges. 
+"This Palestinian land has been under siege and collective punishments by the Israelis for weeks, preventing our workers from attending their jobs, pre­venting our products from be­ing exported, preventing our fishermen from going to sea, and this has resulted in a cata­strophe," he said. 
+"The donors have given us nothing but a trickle." 
+Israel imposed the closure on Gaza after a wave of suicide bombings and other attacks by IslamiC militants that killed 30 Israelis in the past two months. Rabin has warned that Pales­tinian elections and the expan­sion of autonomy would depend 
+
+AP 
+
+on whether the violence con­tinued. 
+At a Cabinet meeting Sunday, Israeli Foreign Minister Shimon Peres proposed that, to ease the economic hardship, Israel advance the PLO $13 million in tax money collected from Palestinians working in Israel. 
+Separately, Arafat and Rabin said every effort would be made to preserve the peace process. 
+But Arafat's ability to press ahead could be seriously dam­aged because Islamic leaders made clear that they would mount attacks on Israeli tar­gets. 
+"The Islamic forces don't want to make a struggle against the (PLO) authorities, but they want to wage a big 
+IRA admits members behind killing but says murder was not condoned 
+Associated Press 
+LONDON 
+
+The Irish Republican Army admitted on Sunday that its men were behind a killing that violated a cease-fire, but it said the murder wasn't sanctioned by the IRA leadership. 
+Three gunmen shot and killed postal worker Frank Kerr when he resisted a robbery in the Northern Ireland town of Newry on Nov. 10. 
+The shooting was the first violation of a cease-fire 
+tense scuffle with one of our volunteers, and we take this opportunity to offer sincere apologies to his family and friends. 
+"Those carrying out the rob­bery were 'acting on instruc­tions' but the so-called opera­tion had not been sanctioned by the IHA leadership. 
+"Hesponsibility for this inci­dent lies with an identified problem in the Army's chain of command and not with the vol­unteers involved. This has now been rectified." 
+It did not elaborate. But the announcement seemed timed to respond to a report in the Sunday Times newspaper that hard-line rebel factions of the IRA were threatening to carry on the armed struggle. 
+The newspaper quoted unidentified senior British po­lice officers as saying the rebels posed a threat to efforts by the IRA leadership to maintain the peace process' momentum. 
+observed by the IRA since Sept·.----------------...---------,
+1 and Protestant paramilitary groups since Oct. 13. 
+The Catholic-based IRA seeks the union of Northern Ireland with mostly Catholic Ireland. Protestant groups want North­ern Ireland to remain within Britain. 
+The Irish government can­celed early releases of IRA pris­oners after the killing. Legisla­tors with Britain's ruling Con­servative party said the shoot­ing indicated that the IHA was­n't serious about the peace pro­cess. 
+In a statement issued in Dublin, the IHA said: "We have established that Frank Kerr was shot in the midst of an in-
+SPECIAL OFFER! 
+STUDENTS ONLY! 
+
+Autograplu:d by Joe Theismann, award-winning book NotTe Dame Football Today, reg. $49", now just $3500• Says Coach Lou Holu: "It's the finest and most dramatic coffee­table book ever produced on NO football." A must for every student and an ideal gift for all Irish fans. 
+Call Kyle Dory: 
+(219)634~1740 
+
+LAFAYETTE SQUARE TOWNHOMES 
+"THE FINEST IN OFF-CAMPUS HOUSING" 
+• 
+FOUR AND FIVE BEDROOM TOWNHOMES 
+
+• 
+TWO BATHROOMS 
+
+• 
+SECURITY SYSTEMS 
+
+• 
+KITCHENS WITH DISHWASHER, GARBAGE DISPOSAL, REFRIGERATOR AND RANGE 
+
+• 
+WASHER AND DRYER IN EACH UNIT 
+
+•GAS 
+HEAT 
+
+• 
+CENTRAL AIR CONDITIONING 
+
+• 
+PROFESSIONAL MANAGEMENT • 24-HOUR MAINTENANCE 
+
+• 
+ONE MILE FROM THE NOTRE DAME CAMPUS 
+
+
+NOW LEASING FOR NEXT SCHOOL YEAR 232-8256 
+battle against the Israeli sol­
+diers," said Sheikh Abdullah 
+Shami, leader of the Islamic 
+Jihad, or Holy War, who is 
+wanted by both PLO and Israeli 
+authorities. 
+
+Asked if pushing ahead with 
+attacks on Israel would heat up 
+the conflict with the PLO, he 
+told The Associated Press: "You 
+ask the Palestinian Authority 
+this question. Our strategy was 
+and will be to attack the Is­
+raelis, and we are not respon­
+sible if (PLO leaders) put chains 
+around their own necks." 
+He rejected Arafat's accusa­
+tions that Iran was funding and 
+supporting Islamic groups, say­
+ing the PLO leader was seeking 
+a "justification to hide the 
+crime he committed on 
+Friday." 
+
+Israel Television reported Sunday that Rabin and Arafat would meet Thursday in Spain to discuss Arafat's shaky hold on the Palestinian leadership in Gaza. 
+Rabin, who is on a week-long 
+visit to the United States, told 
+Israeli reporters in New York it 
+was necessary to "eliminate" 
+the militants attacking Israeli 
+targets. 
+
+But Rabin said he planned to press ahead with the peace process, noting that Arafat was Israel's only possible partner in the Palestinian camp. 
+"It would be a serious mis­take to stop the peace process because this would constitute a prize for the enemies of peace," ·Rabin said. 
+Hamas spokesman Ibrahim Ghosheh, speaking on the Paris-based Arabic service of Radio Monte Carlo, called on Arafat to test his support in an election in the Gaza Strip "and then whoever wins these elec­tions can lead the people dur­ing this critical stage." 
+In a statement, Arafat's office said he had freed 31 Islamic militants who had been round­ed up after the riots Friday in which about 300 people were detained. "Anybody who did not participate in the rampage will be released," Shaath said. "Nobody will be held for politi­cal reasons." 
+PLO statements blamed Is­lamic militants for provoking the confrontation on Friday, claiming Hamas activists had come to the mosque armed with knives, firebombs and guns. 
+Speaking to supporters out­side his seaside headquarters, Arafat said he was "still calling for national unity," but talks with Hamas leaders stalled over their demands that Arafat's self-rule government take responsibility for the bloodshed on Friday. 
+Rabin ordered more Israeli troops be sent to protect Jewish settlements in the Gaza Strip, where more than 1,500 are re­portedly stationed to protect about 5,000 settlers. 
+However, Israeli officials made clear there were no plans to move back into Arab areas of Gaza. 
+"Any intervention on our part will create the impression that it is a conflict for or against Is­rael. The conflict is for the unity of the Palestinian nation," Peres said on Israel Hadio. 
+
+Happy Birthday 
+You 
+
+Nasty Boy! 
+Love, 
+L,B, &K 
+
+Better Late than Never! 
+On Campusfor Thanksgiving Weekend? 
+We welcome your participation in the community's opening celebration ofthe year-end holidays at South Bend's Century Center. 
+
+Volunteers are needed for a variety of assignments from decorating trees to cashiering to helping children at Teddy Bear Teas. Proceeds benefit the medically underserved of Saint Joseph's Chapin Street Health Center. 
+Come join us. We'd love to have you. 
+FESTIVAL '94 (219) 232-2121 
+CAMPUSES 
+Monday, November 21, 1994 page 7 
+Cornell develops new HIVIAIDS policy 
+By MARCY DINIUS Cornell AIDS Action coordi­considered a disability by fed­Campuses Editor nator Sharon Dittman said to eral, state and local laws, the Cornell student newspaper. Cornell developed its policy ac­
+In an effort to promote a the Chronicle, that in her deal­cordingly, stipulating confiden­"more compassionate environ­ings with students and staff tiality, equal opportunity, and ment" for those with AIDS on about HIV and AIDS that "most guidelines for reasonable ac­campus, the Provost's Office people want to be part of a safe commodations. 
+and the Gannett Health Center and supportive community." As a result, no one with at Cornell University expanded Dittman added, "But they HIV/AIDS is required to tell the school's HIV/AIDS policy need more information and anyone that they have the dis­from three paragraphs to guidance about Cornell's insti­ease and anyone that learns of twelve pages in length. tutional expectations. It is my someone having the disease 
+The new policy was devel­hope that this policy will be the must keep it confidential. For oped after the concern that stu­ground that nurtures an envi­employees of the university, the dents and staff needed more ronment growing in compas­person would not have to tell information about the disease sion." supervisors or co-workers that was raised. Since the HIV/AIDS virus is they have the disease. Students 
+UC students push for vegan meals 
+By ZOE MARIN Brown said. "We're not trying would welcome the healthy, Assistant Campuses Editor to take away any options, but to low-fat vegan dishes for other just let people take advantage reasons, such as those trying to Students at University of Cali­of a healthy choice when it suits lose weight or even improve
+fornia, Berkeley, are pushing 
+them." their diet. 
+their dining services for an­
+So far, the students haven't "We're not talking bark and
+other option for dining besides 
+convinced Nancy Jurich, the grass here, but delicious meals
+the meat and potato dishes cur­
+assistant director of Housing like vegetable curry. black beanrently offered, instead request­and Dining Services, that there enchiladas, pasta fagioli oring regular vegan entrees. 
+Both vegan and vegetarians is a need for the new option. hummus pita pockets," said avoid meat, but vegans exclude According to a survey taken Jacobi. all meat products, including in 1993, only one percent of the 
+dairy products such as milk, students that responded said Another problem with adding eggs, and some breads from they were vegans. "Sixteen per­a vegan dish is the cost, said their diet. 
+cent of the students in the halls Jurich. Either a current meal 
+Although vegetarian entrees were vegetarian, and we al­option would have to be cut out are served on a regular basis, ready have vegan options at 90 entirely, or there would have to students complain that they are percent of the meals," Jurich be an increase in the cost of the high in fat and unhealthy. said in the Daily Californian. meals. 
+"Our goal is to have a meal Jurich added that the univer­As far as the edibility of the added that will be healthy and sity doesn't make exceptions for current entrees offered, Jurich also satisfy ethical environmen­students with special diet said "We do ask for recipes tal and religious concerns," needs. from students and are always 
+Berkeley student Eric Brown However, the students do not open to recipe adjustments," said to the Daily Californian. agree with Jurich's defmition of said Jurich. a vegan dish. As an added persuasion, the
+Brown and several other 
+Berkeley students formed the "Baked potato, toast, tater SISA has gathered 1,500 signa­
+Coalition of Students for tots or a bagel," said SISA tures from the 4,000 students 
+Healthy Dorm Food and have member Leor Jacobi to the who live in the student resi­
+been campaigning for the ve­Daily Californian. "Mrs. Jurich dence halls. The coalition in­
+gan entree on a regular basis. and I don't have the same idea tends to show these directly to 
+"We're not expecting to have of what constitutes a vegetarian Jurich. squash fritattas and have peo­option." ple come running from miles Although most of the students Reporter Trista Tramposch of 
+around -nothing outlandish," at Berkeley are not vegan, the Daily Californian con­Jacobi argues that students tributed to this article. 
+Court urges desegregation English prof's hotline gives 
+at Louisiana universities 
+NEW ORLEANS filed, Southern and Grambling the final word 
+A federal judge Monday were 99 percent black, and the MOORPARK, Calif. approved a plan to end a 20-others were 89 percent to 97 Each week, hundreds of year desegregation battle by percent white. callers from around the world 
+dial (805) 378-1494 for help in encouraging enrollment by Money will be spent on build­
+repairing syntax, spelling
+blacks and whites alike at all ings and programs to draw something or placing commas. 
+Louisiana universities while whites to Grambling and 
+"These people are proud to
+preserving two historically Southern, and to draw more be seeking out information,"
+black schools. blacks to Louisiana State said Michael Strumpf, a profes­The proposal is aimed at re­University and the state's eight 
+sor of English at Moorpark
+solving a 1974 lawsuit in which other mostly white universities. 
+College who began the service the U.S. Justice Department ac­Gov. Edwin Edwards per­in 1971. "They are tired of cused Louisiana of running a sonally presented the plan to being ignorant." dual system of higher education the judge. Strumpf said he runs the hot -one for blacks and one for The settlement has wide­line for love, not money. He whites. spread support, including also teaches Ventura County It was the department's first agreement from officials of all sheriff's deputies how to write 
+airtight reports and testifies as
+lawsuit to desegregate a state's the universities. 
+an expert witness in cases thatentire higher education system. 
+hinge on the language in docu­
+U.S. District Judge Charles The state chapter of the ments.
+Schwartz said a three-member National Association for the "Just a simple semicolon cancommittee will be appointed to Advancement of Colored People make the difference between 
+monitor the settlement, which objects, but it is not a party to guilt and innocence," Strumpfsucceeds a 1981 agreement the suit and would have to start said. 
+that was abandoned after the new legal action. Sometimes, the callers are 
+state had spent $100 million. The 1981 settlement was people Strumpf thinks should 
+abandoned after a judge de­know better, such as one of 
+The historically black cided it wasn't working. President Carter's secretaries. 
+Southern University system, 92 In the current settlement, the "This secretary asked me ­
+and this was done with a
+percent black in 1993, will re­state has agreed to big expendi­straight face -should she endmain intact. And Grambling tures again, including $65 mil­
+this letter with the word
+State University will not be lion to finish buildings 'respectively' or 'respectfully
+merged with other schools. promised to historically black 
+yours,"' Strumpf said. "And
+Grambling was almost 95 per­campuses. 
+this is at the highest level of 
+cent black in 1993. Other aspects of the new pro­
+government.'At the time the lawsuit was gram include removal of a 
+would not have to inform peers or advisors as well. Any breaches of this confidentiality could result in action taken by the university, including ha­rassment and discrimination charges. 
+Members of faculty and staff cannot denied educational or employment opportunities, including hiring, training, pro­motion, or tenure if they have the disease. 
+Also, students with HIV/AIDS cannot be discriminated against in admission, financial aid, resi­dential situations, and extracurricular activities. 
+The university is also ex­pected to make according ac­commodations for people with HIV/AIDS as with any other dis­ability. The policy states that since the disease is a disability, "a person infected with HIV must be afforded the same respect, understanding, consid­eration, and compassion given any others who have a disabil­ity." 
+Chronicle reporter Lisa Bennett contributed to this arti­cle. 
+
+
+VIEWPOINT 
+page 8 
+THE OBSERVER 
+
+NOTRE DAME OFFICE: P.O. Box Q, Norre Dame, IN 46556 (219) 631-7471 SAINT MARY's OFFICE: 309 Haggar, Norre Dame, IN 46556 (219) 284-5365 
+1994-95 General Board 
+Editor-in-Chief Jake Peters Managing Editor Bwiness Manager John Lucas Joseph Riley 
+News Editor ................................ David Tyler Advertising Manager ............................. Eric Lorge Viewpoint Editor ........................ Suzanne Fry Ad Design Manager ...................... Ryan Maylayter Sporu Editor .................... George Dohrmann Production Manager .................. Jacqueline Mos.r Accc:nt Editor............................... Mary Good Systems Manager ............................ Don Kingston Photo Editor....................... Scott Mendenhall Observer Marketing Director ............... Tom Lillig Saint Mary's Editor ............... Elizabeth Regan Controller ..................................... Kristen Martina 
+The Observer is the independent newspaper published by the studenrs of the Universiry of Notre Dame du Lac and Saint Mary's College. It does not necessarily reflect the policies of the administra­tion of either institution. The news is reported as accurately and objectively as possible. Unsigned edi­torials represent the opinion of the majoriry of the Ediwr-in-Chicf, Managing Edimr, News Edimr, Viewpoint Editor, Accent Editor, Photo Editor, Sports Editor, and Saint Mary's Editor. Commentaries, lcncrs and Inside Columns present the views of the amhors, and not necessarily those of The Observer. Viewpoint space is available to all members of the Notre Dame/Saint Mary's com­muniry and to all readers. The free expression of varying opinions through letters is encouraged. 
+Observer Phone Lines 
+Editor-in-Chief 631-4542 Business Office 631-5313 Managing Editor/Viewpoint 631-4541 Advertising 631-6900I 8840 Sports 631-4543 Systems/Marketing Dept. 631-8839 News/Photo 631-5323 Office Manager 631-7471 Accent/Saint Mary's 631-4540 Fax 631-6927 Day Editor/Production 631-5303 E-Mail Observer. Viewpoint.1@nd.ed u Genera11nformation 631-7471 Unix observer@boron.helios.nd.edu 
+• RIGHT OR WRONG? 
+If they break this contract, throw 'em all out 
+Do you fear the first 100 days of the new Congr~ss? If so, it may serve to decrease-or perhaps increase-your apprehension to note some details of the "Contract with America," which 340 Republican House candidates signed on the Capitol steps. "If we break this con­tract," they said, "throw us out. We mean it." The Contract is significant for what it pledges and also for what it does not. 
+On the first day of the new Congress, 
+
+
+Charles Rice 
+the Hepublicans pledge to reform proce­dures; force Congress to live under the same laws as every other American; hire a major accounting firm to audit Congress for waste and fraud; cut the number of committees; cut the staffs by one-third; and make Congressional doc­uments available on computer networks. During the first 100 days the Republicans promise to bring to a House vote the following bills: 
+1. Fiscal Hesponsibility Act, including a balanced budget constitutional amend­ment and a statute to give the President a line-item veto. Congress has been considering balanced budget amend­ments since 1936; the closest one ever came to passage was in 1986 when it lost in the Senate by one vote. The new Republican proposal would allow an unbalanced budget by a three-fifths vote of the House and the Senate or in case of a threat to national security. The line­item veto, possessed by 43 of the nation's governors, would allow the President to strike from any bill "any appropriation or. . . tax provision. . .that provides special treatment to a particular taxpayer or limited class of taxpayers." 
+2. 
+Taking Back Our Streets Act, limit­ing habeas corpus challenges where convictions have been upheld on appeal; providing "a mandatory minimum sen­tence of 10 years for state or federal drug or violent crimes that involve pos­session of a gun;" mandating restitution by criminals to their victims; allowing introduction of evidence obtained during a search or seizure "conducted with the objectively reasonable belief' it was con­stitutional, whether or not a warrant had been issued; expediting deportation of an alien convicted of crime; restrict­ing frivolous or malicious lawsuits by prisoners; and providing grants to states for law enforcement and prison con­struction. 
+
+3. 
+Personal Responsibility Act, to pro­hibit Aid for Dependent Children pay­ments and housing benefits to unwed mothers under 18; deny increased bene­fits to AFDC mothers for additional chil­dren born out of wedlock; require moth­ers to establish paternity, in most cases, to receive AFDC; require AFDC recipi­ents to work; cap spending on welfare programs; and provide grants to states to reduce illegitimacy, whose funds can­not be used for abortion or abortion counseling. 
+
+4. 
+Family Heinforcement Act, to pro­vide a tax credit of up to $5,000 to fami­lies adopting a child; increased penalties for child pornography and sexual offens­es against children; and a $500 tax credit for families caring for a depen­dent elderly parent or grandparent. 
+
+5. 
+American Dream Restoration Act, to authorize tax-deductible individual retirement accounts; eliminate the "marriage penalty" under which 52 per­cent of married couples this year will pay more taxes than if they were divorced, and provide a $500 per child (under 18) tax credit for families with income under $200,000. "The tax cred­it,"claim the Hepublicans, "will benefit approximately 50 million families, 90 percent of which earn less than $75,000 per year." 
+
+
+6. National Security Restoration Act, to restrict placement of U.S. troops under foreign command; prevent diver­sion of Department of Defense funds to other agencies for social programs; mandate deployment of anti-ballistic missile systems for the defense of the U.S.; strengthen the American commit­ment to NATO; and work toward NATO partnership for former Communist nations "that are striving to embrace democracy, enact free market economic reforms and place their armies under civilian control." 
+7. 
+Senior Citizens' Equity Act, to allow them to earn more without losing Social Security benefits; and provide tax incen­tives for individuals to buy private long term-care health insurance. 
+
+8. 
+Job Creation and Wage Enhancement Act, would cut the capital gains tax rate by 50 percent and index capital gains for inflation; allow small businesses to deduct the first $25,000 of investment each year; enhance invest­
+
+
+'some reflect the principle of 
+subsidiarity, pursuant to which, as John Paul II views it, "Neither the state nor any soci­ety must ever substitute for the initiative and responsibility of individuals and of intermediate communities at the level on which they can function, nor must they take away the room necessary for their freedom ... "' 
+ment depreciation; increase the estate tax exemption; allow taxpayers to desig­nate up to 10 percent of their federal tax liability to be used to reduce the national debt and require Congress to reduce spending in the amount of such designations; and provide a "Citizens' Bill of Rights" to protect against abuses in inspections or investigations by feder­al agencies. 
+9. Common Sense Legal Reforms Act. to require the loser in some federal cases to pay the winner's legal fees up to the amount of the loser's own fees; and restrict, in product liability cases, recov­ery of punitive damages and damages for "non-economic" losses such as men­tal distress and pain and suffering. 
+10. Citizen Legislature Act, proposing a constitutional amendment imposing term limits on members of the Senate and House of Representatives. 
+These Contract proposals are debat­able, especially on welfare. Some reflect the principle of subsidiarity, pursuant to which, as John Paul II views it, "Neither the state nor any society must ever sub­stitute for the initiative and responsibili­ty of individuals and of intermediate communities at the level on which they can function. nor must they take away the room necessary for their freedom," Instruction on Christian Freedom and Liberation, No. 73. The Contract, how­ever, says very little about abortion, and nothing about assisted suicide, vouchers or other "school choice" plans, homo­sexuals in the military, experimentation on embryos, and other "social issues," although Newt Gingrich, prospective speaker of the House, has added a com­mitment to a constitutional amendment on school prayer. The "big tent" philos­ophy stresses economic issues while avoiding stands on the "social issues." Those "social issues," however, will not go away. The Oregon approval of anini­tiative allowing doctors to help patients kill themselves ensures that euthanasia will be a continuing political issue. Legalized abortion, of course, is a defin­ing and irrepressible question, as is the homosexual issue in its various manifes­tations. 
+The Republican party has an unex­pected opportunity to define the public debate. If it ignores the issues beyond the economic, however, it may ultimate­ly justify columnist Samuel Francis' description of it as "The Stupid Party." 
+Professor Rice is on the Law School Faculty. His column appears every other Monday . 
+GARRY TRUDEAU
+• 000NESBURY 
+• QUOTE OF THE DAY 
+
+
+----~----~-~~-­
+
+DEFENSE To THE BONE 
+• Notre Dame's defense handled 
+
+
+
+the Falcons' tricky option offense. 
+-page 3 
+
+Finally, a fond farewell 
+Irish squelch disturbing trend in seniors' home finale 
+By GEORGE DOHRMANN Sports Editor 
+The 1994 Notre Dame football season has been at times terrible and sometimes a bit disgusting. But if the Irish plan to remember something from the year, Saturday's 42-30 win over the Air Force Falcons might be it. 
+This one is a keeper not because of Notre Dame's domination, that took place for only half the game. nor for the records broken, (Ron Powlus and Derrick Mayes breaking the season records for scoring passes and scoring catches) but for the simple fact that in their last game in Notre Dame Stadium, a much maligned group of seniors left with their heads held high. 
+"This group's been a tremendous group that has been through some pretty hard times," Notre Dame coach Lou Holtz said. "But. . . they keep hanging in there." 
+In the face of last season's crushing defeat to Boston College, a Joss that created the last­ing image of seniors strewn across the field in agony. Saturday's field rush by the student body was a refreshing change, even if the motivation was a bit cloudy. 
+Junior cornerback Bobby Taylor planted the 
+see IRISH I page 2 
+• JocK StRIP 
+Memories are 
+miSSIDg 10 
+
+home finale 
+I
+t wasn't supposed to end this way. Not with four losses. Not with the team scraping just to play somewhere insignificant on New Year's Day. 
+But that was the sce­nario for the members of the Class of '95 as they Associate Sports Editor
+played their final game at Notre Dame Stadium. 
+Saturday's scuffie against Air Force had none of the symptoms of a typical farewell tour. It was not a day for memories. Notre Dame's eyes are focused forward, search­ing for some good fortune. 
+"There's no turning back now," Zellars said. 
+It was supposed to be a day to turn back, to celebrate the survival of four years of toil and turmoil. 
+"This group has been tremendous," Irish coach Lou Holtz said. "They've been through some pretty hard times, but they keep hanging in there." 
+But the toughest times are not yet 
+The ObserverKJake Peters 
+see KELLY I page 3 
+
+Ray Zellars was one resurgent senior who boosted the Irish offense in Saturday's home finale. 
+~--------------------------~ 
+Monda,y, November 21, 1994 
+Broken 'Bone 
+
+Irish defense handles tricky Falcon formations 
+By TIM SHERMAN Assistant Sports Editor 
+In more ways than one this season, it has been a year of adjustments for the Irish, partcularly the defense. ·Saturday was one of the biggest. 
+Early in the season, the Irish faced a rash of teams who favored the run such as Michigan, Michigan St., and Purdue. The past month has brought the Irish up against the antithesis of this smash-mouth Big Ten football, the pro-style aerial assaults of Brigham Young and Florida State. 
+Air Force brought an entiely new set of problems to Notre Dame and subsequent­ly, a new series of adjustments. The wish­bone attack was something the Irish hadn't really seen. At least for a good part of the game, the necessary adjustments were carried out. 
+"Everyone had a assignment to carry out," said senior defensive end Germaine Holden. "They are so disciplined, we had to be too. If anyone misses their assign­ment, they could hit a big play on us." 
+That is exactly what happened a few times in the second half, but when it mat­tered, the defense played well, especially against the run. 
+"They did a great job shutting down the run early," said Air Force coach Fisher DeBerry. 
+Holtz was also impressed with the per­formance of his run defense. "The wishbone presents a lot of prob­lems. We played the run very, very well." In particular, Oliver Gibson, Paul 
+Irish 
+continued from page 1 
+------~--~-----·------·-~ 
+The Observer • SPORTS EXTRA page 2 
+
+seed at Friday's pep rally, and Mayes­to-Powlus connections made it possible. The junior wide receiver finished the day with two touchdowns to go along with eight receptions for 163 yards. Jack Snow's record of nine scoring grabs in 1964 now ranks second in the books and soon will Rick Mirer's mark of 18 TD passes in 1991 which Powlus can break next Saturday at Southern Cal. 
+Notre Dame (6-4) sits one win from a bowl bid, a fact that was clear midway through the third quarter of Saturday's game, even if the Irish did their best in the final quarter to give Falcon fans a good show. 
+Leading 35-3 early in the second half, Notre Dame's defense clicked on the cruise control and allowed a blowout to transform into a tight win. 
+"For the first 35 minutes of the foot­ball game, we played well on offense and defense," Holtz said. "It was a typi­cal Notre Dame-Air Force game." 
+The typical Falcon "wingbone" attack 
+• is designed to counter superior talent, but in the first half it garnered just 97 yards andproduced only a Handy Hoberts field goal from 23 yards out. 
+Notre Dame's offense, not needing to close any sort of talent gap, let Powlus go to work in the first 30 minutes. lie hit Mayes on scoring catches of 25 and seven yards and then galloped in from 17 yards out, sprawling into the end­zone just inside the right marker for his first career touchdown. 
+The sophomore linished 13-of-18 for 227 yards and got a much needed boost of self-esteem. "I have been playing head games with myself," Powlus said. "I know I can play the game. I just went out there and was confident." 
+Also confident in Mayes, who in addi-
+The Observer/Jake Peters 
+Notre Dame solved Air Force's tricky option offense. 
+Grasmanis, and Holden were strong. 
+
+Gibson recorded nine stops, while Grasmanis and Holden chipped in 5 and 4 respectively. 
+During Air Force's first drive, it looked like it would be another embarrassingly long afternoon for the Irish, as the Falcons drove the length of the field for a field goal. 
+However, after some slight adjustments, Notre Dame settled down and established themselves. 
+"The thing about the first drive was the speed adjustment,"Holden said. "Our scout team tries to imitate the things they do, but you still can't be completely ready for the speed that you see in the game. Once we had a chance to get used to the speed, it was easier for everybody to do their job." 
+tion to his scoring grabs caught a 45­yard pass to set up Notre Dame first score, a 3-yard Ray Zellars run. 
+Leading 7-3 after Zellars' burst, the Irish were on the favorable end of a ref­eree's flag, when Air Force's LaRon Hudgins was called for holding Notre Dame's Allen Rossum out of bounds during a punt. The Falcon defense had held the Irish at the Air Force 40-yard line, but as Brian Ford's punt sailed into a overcast South Bend sky, so did a bright yellow flag. Notre Dame got the ball back and three plays later Mayes' was dancing in the endzone with his first score. 
+"Probably as big a play as there was in the the ballgame was hen we had them stopped and let a personal foul out of bounds hurt us," Air Force coach Fisher DeBerry said. "We realized we had them stopped and then we let them take the ball in." 
+Trialing 14-3 on its next possesion, Falcon quarterback Beau Morgan threw an errant option pitch which was recov­ered by Irish linebacker Kinnon Tatum. This time it took six plays before Powlus found Mayes for the score. 
+After Powlus' scoring run and half­time, Air Force picked up where it left off-shooting itself in the foot. Notre Dame walked out of the locker and then marched 68 yards in 11 plays on the opening drive of the half. Zellars plunged in from one-yard out and, (sound familar) Mayes keyed the drive with a 35-yard catch. 
+'We let them come out in the second half and establish dominance in the running game," DeBerry said. 
+N"tre Dame scored again late in the game on a 10-yard run by Lee Becton, but that came in the face of three straight scores by the Falcons, who, unlike the Irish, understood the game lasted a full four quarters. 
+"We're not happy with the way the second half turned out," senior Jeremy Nau said. "But a win's a win." 
+• GAME NOTES 
+By TIM SHERMAN Assistant Sports Editor 
+Fisher DeBerry is a smart man. Not only does he pore over the scout­ing reports to find advantages for his Air Force squad, he must also keep a close eye on the weather reports. 
+Realizing that the South Bend area had not significant rain all last week (amazingly enough), he DeBerry expected the turf of Notre Dame Stadium to be relatively dry. Much to his surprise, and dismay, the track was anything but dry. In fact, the Falcons found footing to be quite a problem. On numerous occasions, the boys from Colorado Springs had open field in sight only to find them­selves slipping on sod. 
+The Irish agreed. 
+"The field was really wet," Irish running back Lee Becton noted. "There were certain things you couldn't do on it." 
+So, if the skies were clear and the sun was out for a good portion of the week, why such the discrepancy? 
+DeBerry had a very interesting the­ory. 
+"I imagine the water bill is going to be pretty high here at Notre Dame this week," DeBerry insinuated. 
+A slow and muddy track defintely benefitted the Irish, as it slowed down the AFA's wishbone attack and made it tough to make the cuts nec­essary to deceive. 
+So, did Lou Holtz have a quick chat with Bob Thomas, the head groundskeeper of the stadium, before the game? 
+When asked about the possible impropriety, Holtz could only laugh. "Absolutely not," Holtz responded. "I mean, give me a break." It may have well been the Irish 
+defenders who got that break on Saturday. 
+AKERS ACHING: Just as the Irish seemed to be developing a bit of the much-needed stability on the offen­sive line, injury hit Joe Moore's crew again. The victim this time was Jeremy Akers. Akers, who has been one of the only mainstays up front, dislocated his shoulder. lie will miss the remaining regular season game and in allliklihood, the bowl game. 
+BITTERSWEET: In recent years, the last home game for the Irish seniors has been packed with emotion. Penn Stat in 1992 and Boston College last year ran the gamut of emotions. So, with a rather ho-hum victory over an unranked opponent, one would think that there would be little reason for tears this time. That was not the case. 
+"I had a little tear in my eye when I came out of the tunnel at the start," Irish linebacker Jeremy Nau admit­ted. "Some of my teammates did too" 
+As a reminder of his last game in Notre Dame Stadium, Nau left the locker room with his game jersey in hand. When asked did he take a piece of the sod as a momento, he raised the shirt and quipped "I have plenty right here." 
+PASS THE SLIM-FAST: Los Angeles Dodgers manager Tommy Lasorda was spotted in the press box during the game, but he wasn't there to interview for the post of team nutri­tion coach. He simple wanted to take in an Irish football game. 
+Lasorda, defintely a fighting Italian, took in the game with new Irish and ex-AFA manager Paul Manieri. 
+• GRADED POSITION ANAlYSIS 
+QUARTERBACK A 
+Finally, Notre Dame fans again got to see why Ron Powlus was supposed to be so special. With his cofidence shaken, Powlus defintely needed a stellar performance. 13-18,227,2 and a 17 yard TO gallop qualifies. 
+RUNNING BACKS A-
+It was nice to see the Becton/Zellars tandem back together and healthy. Becton's per­formance was reminiscent of 1993, while Zellars did what he does so well, find the end zone. Emmett Mosley continues to shine, so much so that Randy Kinder touched the 
+ball just twice. 
+RECEIVERS 8+ 
+Derrick Mayes. What else really needs to be said. Well, maybe the fact that besides Mayes, this group caught just two passes. Depth, or lack thereof, is pretty scary. 
+OFFENSIVE LINE 8+ 
+Just three sacks, 6.1 yards per play, and the fact that Powlus was coherent at the end of the game this week is enough improvement for this incessantly-insulted, or, if you prefer, much-maligned group. 
+. DEFENSIVE LINE 8+ Oliver Gibson, Germaine Holden,and Paul Grasmanis combined to record a impressive total of 18 tackles. This group did a nice job stopping the wishbone running attack, but failed to generate any QB pressure when Air Force was rolling late. 
+LINEBACKERS 8 
+Sophomore Lyron Cobbins could not quite bring the emotion that is Justin Goheen but his play was just as intense. Classmate Kinnon Tatum, when given the opportunity just seems to make plays. Like the rest of the defense, they seemed to leave something on the field after the game. 60 minutes is needed. 
+SECONDARY C+ 
+Senior Shawn Wooden's final performance indicated just how far away he came from fulfilling his expectations. He was beat in every which way. Often. Bobby Taylor was like a good referee, since you didn't realize was out there, he was doing his job well 
+SPECIAL TEAMS 8 
+Nothing noteworthy, but this season, that is good. Decent coverage and average returns throughout. 
+COACHING 8 
+Once again, Holtz shockingly allowed his team to become complacent and let the opponet make the game respectable. He seemingly lacks a killer instinct. The only thing that is killed is his team's momentum heading into the next game. 
+OVERALL GRADE 3.22 
+Offense clicked like it was meant to from the start of the season. But the disturbing reality that the defense packs it in once the vicory cigar is lit has gone too far. It is somewhat reflective of the sometime apparent lack of pride on this season's squad. 
+-TIM SHERMAN 
+~~------------•""'A....,.____.,.___ 
+~--------~----­
+page3 The Observer • SPORTS EXTRA 
+Never ceases to A-Mayes 
+Derrick Mayes scores two TDs in a record-breaking afternoon 
+By JASON KELLY season, a 25-yard strike from Associate Sports Editor Ron Powlus. 
+As promised, Dockery took So that's where Derrick the pigskin to Mayes' parents. Mayes got those sticky hands. After the game, with his par­
+He got them from his mom, ents at his side-and with Ann Ann, who clung to Derrick's still clutching the football-he 
+record-breaking football wore a hat that said"Hard As Saturday with the same adhe­They Come." It obviously didn't sivness that helped her son refer to his hands. 
+catch more touchdown passes It was his soft mitts that in a single season than any re­earned him the warm recep­ceiver in Irish history. tion. 
+turned to his early season form
+From the moment NBC side­Mayes was moved by the 
+Saturday, completing 13-of-18
+line reporter-turned-messenger moment, mentioning how much 
+passes for 227 yards and two
+John Dockery delivered it to it meant to him to break the 
+touchdowns. He needs just one
+Mr. and Mrs. Mayes in their record at home. 
+more touchdown pass to break
+seats near the top of section 7, "I wanted the record to go 
+Rick Mirer's single-season
+until they joined Derrick for a down today," he said. "It would 
+record.
+
+few post-game pats on the have meant just as much if it 
+But despite numbers that
+back, the ball never escaped had happened at Florida State 
+rival some of Notre Dame's
+her grasp. or USC, but it's a special feeling 
+most revered quarterbacks, his
+"Before the game, John to do it at home with all those 
+record hasn't impressed the
+Dockery came up to me and people cheering for you." 
+fans who expected him to be
+said that when I caught my Mayes finished with a career­
+their ticket to a title.
+
+touchdown pass he'd find me high eight catches for 163 yards 
+He listened a little too closely
+and he would take the ball to and two touchdowns, including 
+to the critics that panned his 
+my parents," Derrick said. "He a diving catch in the first quar­
+performance in recent weeks,
+said, 'Try not to think about it, ter that set up Notre Dame's 
+allowing the outside influences
+though.' I said, 'Too late, you initial score. 
+to infect his confidence. 
+already brought it up.' " "He's incredible," Notre 
+"I was letting everybody, in­
+He didn't have to think about Dame quarterback Ron Powlus 
+cluding myself, play head
+it for very long. It became a re­said. "He makes it so easy from 
+games with me," he said. "I
+ality early in the second quarter my end, and so much fun." 
+just decided to go out and play
+when Mayes snared his record Powlus, a victim of failing 
+the way I know how." 
+ninth touchdown pass of the confidence in recent weeks, re­
+~..,..,.=.,.--~·.--~----------r-~-'4111111 
+Monday, November 21, 1994 
+
+-
+
+
+
+RECORD POINTS IOUS 
+11-0-0 1526 1 10-0-0 1507 2 11-0-0 1411 4 9-1-0 1349 3 9-1-0 1289 5 10-1-0 1057 7 9-1-0 1202 8 10-0-1 1076 9 9-1-1 1037 6 10-1-0 957 1 0 8-2-0 938 11 9-3-0 924 12 8-2-0 786 16 9-3-0 678 22 9-2-0 631 21 7-3-0 539 19 7-3-0 462 13 8-3-0 455 14 7-3-0 436 23 7-4-0 328 15 8-3-0 316 7-3-0 187 
+
+Kelly 
+continued from page 1 
+behind them. Notre Dame still needs a victo­ry next week to assure itself a spot in a major bowl. 
+No greater stigma could be attached to a senior class than the failure to play on New Year's Day. Allowing their minds to cloud with memories would have diverted atten­tion from more immediate concerns. 
+"You can't make tackles with tears in your eyes," Holtz likes to tell his seniors to cau­tion them about becoming too emotional about the horne finale. "The best way to rep­resent Notre Dame is to win." 
+In that sense, this senior class represented 
+-· 
+the school better than .some of its recent predecessors on its last Saturday in South Bend. A win over Air Force left a better taste in their mouths than previous season­ending losses to Tennessee and Boston College. 
+But this is a fractured group. Justin Goheen watched from the pressbox, nursing an injured rotator cuff. Mark Zataveski's sprained neck kept on the sideline and away from the offensive line. And Mike Miller is worrying about plea bargains, not pass pat­terns. 
+More members of the original group seem to be missing in action rather than making an impact. Remember Paul Failla? 
+But on the fmal horne football Saturday of the season, Notre Dame played like the Irish of old. Ray Zellars rumbled through the line. Derrick Mayes made circus catches. And Lee Becton ran like he hasn't since last season. 
+Becton may be the best symbol of Notre Dame's 1994 misfortune. 
+He was supposed to be hurdling Heisrnan hype by now, not hobbling on an aggravated groin. He, like the rest of the Irish, recov­ered just in time to make the home folks happy one last time. 
+"It was a relief to finally be effective," 
+Becton said. 
+It wasn't supposed to end this way. 
+TEAM 
+1. Nebraska (39) 
+2. 
+Penn St. (22) 
+
+3. 
+Alabama (1) 
+
+4. 
+Florida 
+
+5. 
+Miami 
+
+6. 
+Colorado 
+
+7. 
+Florida St. 
+
+8. 
+TexasA&M 
+
+9. 
+Auburn 
+
+10. 
+Colorado St. 
+
+11. 
+Kansas St. 12.0regon 
+
+
+13. Virginia 14.0hio St. 15.Utah 16.Arizona 
+17. Southern Cal 18.Virginia Tech. 
+19. 
+Mississippi 
+
+20. 
+Michigan 
+
+21. 
+North Carolina 
+
+22. 
+Syracuse 
+
+
+23. Bringham Young 9-3-0  186  20  
+24. Washington St.  7-4-0  166  
+25. Boston College  6-3-1  145  17  
+
+• STATISTICS 
+SCORE BY QUARTERS 
+Air Force  3  0  13  14  30  
+Notre Dame  7  21  7  7  42  
+TEAM STATS  AFA  NO  
+First downs  19  22  
+Rushes-yards  50-174  56-225  
+Passing yards  193  227  
+Comp-att-int  9-22-0  13-18-0  
+Return yards  176  65  
+Punts-average  7-36  6-33  
+Fumbles-lost  3-1  2-1  
+Penalties-yards  6-44  4-40  
+Possession time  26:54  33:06  
+
+INDIVIDUAL STATS RUSHING-Notre Dame: Becton 19·113 TO, Zellars 16-50 2TD, Mosley 5-25, Klusas 1-14, Kinder 2-7, Powtus 11-6 TO, Stafford 1-5, Blunt 1-5. Air Force: Maloy 17-68, Morgan 14-61 
+• SCORING SUMMARY 
+FIRST QUARTER Air Force 3, Notre Dame 0 (13 plays, 60 yards, 4:21) 
+10:39 -Randy Roberts 23 yard lield goal. Key Play: Jake Campbell's 20 yard catch to Irish lve. Notre Dame 7, Air Force 3 (6 plays. 58 yards, 2:1 B) :31 -Ray Zellars' 3 yard run (Schroffner PAD. Key Play : Derrick Mayes' diving grab for 45 yards to three. SECOND QUARTER Notre Dame 14, Air Force 3 (B plays, 57 yards, 3:55) 
+10: 13-Derrick Mayes 25 yard catch (Schroffner PAT). Key Play: Air Force was flagged for 15 yard penalty on a punt that gave the Irish a first down. 
+Notre Dame 21, Air Force 3 (6 plays, 26 yards, 2:22) 7:35--Mayes 7 yard catch (Schroffner PAT). Key Play: Kinnon Tatum's fumble recovery at Air Force 26. 
+Notre Dame 28, Air Force 3 
+(11 plays, 91 yards, 4:08) Ron Powlus 17 yard run (Schroffner PAT). Key Play-Powlus to Mayes twice for 37 yards. 
+THIRD QUARTER Notre Dame 35, Air Force 3 (9 plays, 68 yards, 3:29) 11 :31-Zellars one yard plunge (Schroffner PA). Key Play: Mayes' 35 yard snag. 
+Notre Dame 35, Air Force 1 0 
+2TD, Campbell 6-23, Johnson 5-28, Addison 8­24 TO. 
+PASSING-Notre Dame: Powlus 13-18-0-227 2TD. Air Force: Morgan 9-22-0-193 TO. 
+RECEIVING -Notre Dame: Mayes 8-163 2TD, Stafford 1-34, Becton 1-12, Blunt 1-12, McBride 1-9, Zellars 1-(minus 3). Air Force: Johnson 3-38, Marsh 2-64, Campbell 2-30, Hancock 1-51 TO, Pupuch 1-10. 
+TACKLES-Notre Dame: Gibson 9, Wooden 9, Sample 7, Magee 6, Cobbins 5, Davis 5, Grasmanis 5, Holden 4, Saddler 4, Tatum 4 (1 fum. rec.), Mclaughlin 2, Wagasy 2, Covington 1, MacDonald 1, Maiden 1, Mitoulas 1, Nau 1, Rossum 1, Taylor 1. Air Force: Walker 11, Russ 9 (1 sack), King 8, McCray 8, Williams 7, Harrison 6, Davis 5, Tone 4, Watkins 3, 
+(2 plays, 54 yards, :13) 8:23-Craig Hancock 51 yard catch that made Shawn Wooden look awfully silly (Roberts PAD. Key Play: Leon Blunt's fumble that gave AFA the ball on their 46. 
+
+Notre Dame 35, Air Force 16 (1 play, 21 yards, :12) 8:23-Beau Morgan 21yard run (pass failed) Key Plays: Wooden's pathetic attempt to tack­le Morgan which made him look even sillier. 
+FOURTH QUARTER Notre Dame 35, Air Force 24 (4 plays, 43 yards, 1 :22) 3:03-Nakia Addison 1 yard run (hancock catch for 2). Key Play: Richie Marsh 35 yard catch. 
+Notre Dame 42, Air Force 24 (4 plays, 51 yards, 1:05) 1:58-lee Becton 10 yard scamper. Key Play: Charlie Stafford's 34 yard snare. 
+Notre Dame 42, Air Force 30 (6 plays, 59 yards, :53) 1 :05--Morgan 6 yard run (pass failed). Key Play: Marsh 29 yard reception. 
+Monday, November 21, 1994 The Observer • SPORTS EXTRA page 4 
+F 
+-
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+I 
+~ 
+I I 
+I 
+! 
+
+
+Ron Powlus bends over backwards to help the Irish win. · 
+
+• fROM THE LENS 
+Notre Dame 42 Air Force 30 
+Notre Dame Stadium November 19, 1994 
+
+.. 
+,. 
+-~ 
+• 
+t .., ""'....... 
+
+
+
+-
+ACCENT 
+Monday, November 21, 1994 page 9 
+Flying the friendly skies 
+By LESLIE FIELD 
+Accem Columnist 
+Take your walkman off. Put your book away. Prepare for take off. As we approach another vacation filled with turkey and Christmas lists, and I once again prepare for another three hour plane ride, I can't help but remember all of the people I have met on airplanes. 
+It always amazes me that people who don't know me feel totally comfortable telling me the cliff note version of their life stories, coupled with bits of advice for this young college stu­dent. I think it's great. I seem to learn a lot more from listening to them than from listen­ing to yet another Phish bootleg on my walk­man. Take Mrs. Hoffman for example. 
+As I stumbled into my aisle seat after literally stuffing my over flowing carry-on into the over head compartment, I was greeted with a hand shake accompanied by a face that beamed with friendliness saying. "Do you go to Saint Mary's or Notre Dame?" I looked down at my lap, eyed the Observer, and replied, "I attend Saint Mary's." 
+With that, Mrs. Hoffman went on to tell me that she went to Wellsley years ago. We talked about the advantages of attending an all women's college as the plane was taking off. As she was talking, I noticed that she spoke impeccably. She dressed in a navy blue warm up outfit with white tennis shoes, wore no make up and commanded total respect. She was intriguing. 
+Once we had leveled off, a flight attendant came by with a drink cart. I had a diet coke while Mrs. Hoffman ordered a glass of wine. She explained to me why she ordered the wine. She said the people today worry too much about the little things. Her doctor told her that drinking a glass of wine every day was good for you-good for the circulation, that is. I almost felt guilty as I sipped my Diet Coke. 
+Over our varied beverages, I asked her where she was from and why she was visiting Seattle. The answers were fascinating. Mrs. HotTman was from Martha's Vineyard. She was visiting Seattle to interview some people for the book she was writing on assisted sui­cide. 
+She turned the questions around to me. I told her that I lived in Seattle and was an English major with a minor in Secondary Education-the typical graffiti dance conversa­tion. She went on to tell me about her days teaching high school in Europe. She and her husband had lived in several places all over the world. She told me that she believed in year round schooling because students forget too much in a period of three months. 
+She loved teaching in Europe. She said, however, that life is too short to only do one thing. There is so much to experience and try that tying yourself down to one way of life smothers your drive and sense of creativity. Mrs. Hoffman was sort of a Renaissance woman. Though I would guess her age to hover around 60, her thirst for knowledge is like that of a curious child's. 
+We looked out the window of the plane and saw a glistening body of water below us. I asked her if she did any sailing on Martha's Vineyard. Of course she did. Not only did she sail, but she started a sailing club for children who needed a little financial assistance to learn how to sail. She was the President of Sail Martha's Vineyard and had some super people on her board, one of whom was Walter Cronkite. Over our dinner, we got into politics. 
+It wasn't the typical right versus left conver­sation that would normally take place. Instead, it was an exchange of ideas. Mrs. Hoffman was more concerned with the state of the nation than with politics as usual. She seemed to have a lot of empathy for people in power and supported elected officials on both ends of the spectrum because in the end, they were all working towards similar goals and working for the nation as a hole. I found this to be quite refreshing, considering all of the hype that was surrounding the elections last month. 
+As we approached Seattle, I looked down and saw my untouched walkman and book. Mrs. Hoffman gave me a new way to look at life. I'll always bring along my walkman and a book to read, but I'll turn to the person sitting next to me before I engage in either of them. After all, you just never know who you're going to meet when you "fly the Friendly Skies." 
+There's no place like home 
+ByPAITI CARSON 
+Saint Mary's Accent Editor 
+
+You've seen the ads-"Need a ride to New Jersey for break, will pay gas and tolls." Whether it's Thanksgiving break or any other vacation, students want to get home for the holidays. And they'll do virtually anything to get there, even ride home with a complete stranger (if they're lucky enough to find someone heading in their direction, that is). So they look in the personals, they use the rider board, they post signs, and they do whatever else it takes. 
+McCandless Hall sophomore 
+
+"I ended up paying over $35, but I figured that he'd pay on the way home," she said. 
+He didn't. And Erin only had $15 cash with her on the way back to school. "At the first stop, he asked for some money. I told him that I had none. Then he said he didn't have money either. so he took my last fif­teen dollars." O'Malley said. They had no money and a very long way to go. "To this day, I don't know how we made it. We were on 'empty' for two hours in Indiana." 
+It happens now and it happened 
+
+then. John Shaughnessy, a 1977 graduate of Notre Dame, shared his driving story. He took a ride back to school from Philadelphia with two fel­low students after Christmas vacation of his senior year. That vacation had consisted of one of the greatest bliz­zards in our history. When the group reached the Ohio turnpike, the car broke down. 
+The snow continued to fall. It was bitterly cold and we had no heat, Shaughnessy recalled. Finally, an Ohio state trooper came to the res­cue. He took the three students to a 
+rest stop. 
+"We were still 150 miles 
+Sarah took Jane home for October break. The night before returning to school from Kansas City to school for the Navy game, Jane went to a party. Jane felt "pretty sick" the next morning. 
+"We were cruising along at 82 mph on a major highway when Jane decided that she was going to be sick," Sarah said. Jane pleaded with Sarah to pull over, but her begging only served as amusement for Sarah until it happened. 
+Jane rolled her window down and proceeded to dispose of her breakfast. "It didn't just hit the side of the car. Some of it flew into the back seat," Jane said. Jane apologized profusely to Sarah. of course. 
+"If she would've been a com­plete stranger, I would have been upset. Since I knew her, I thought it was pretty funny. In any case, I'll always carry a vomit bag in my car now," Sarah said. 
+Siegfried Senior Erin O'Malley recalls her sophomore year "dri­ving horror story." She ar­ranged a ride home to Connecticut with a transfer stu­dent through the Rider Board. "The twelve hour trip started off great," she said. Although the two agreed to share expenses, Erin ended up paying every time they stopped. 
+from South Bend and it was already nine or ten o'clock at night," he said. Then a truck driver stopped at the rest shel­ter. "We asked for a ride to South Bend since he was head­ing in that general direction." But, he only had room for one passenger. 
+Since the other two men were friends and knew each other well, they let Shaughnessy take the ride. The driver talked with John about life on the road for a while. Then he offered him some "Wacky Tobacci," which was the driver's term for mari­juana. Shaughnessy declined and continued the discussion about life on the road. 
+Finally, the driver dropped him off at one of the South Bend exits. Carrying his one suitcase, he trudged through the snow to the nearest hotel so that he could call one of his roommates at his Campus View ·apartment. 
+The line was busy. One of the guys was talking to his girlfriend on the phone. Finally, Shaughnessy had to have the operator break through the line. His room­mate came and picked him up, but Shaughnessy didn't get the rest of his clothes for about a month. 
+
+The options: staying at ND or trying to get home 
+By SHANNON FORBES 
+Accent W;iret 
+
+Panic! It's a common occurrence these days ... it can be heard any time of the day and any place on cam­pus-the universal Notre Dame complaint: "The week after break is terrible for me! I have fourteen tests, seventy-two papers that are all sixty-three pages long and I'm going to have to pull five all-nighters to get it all done!" The awful end-of~the-semester-crunch seemingly gets worse and worse with each passing protest. 
+As a result, many students feel that Thanksgiving break will be better spent at school catching up on old work and preparing for the last week of the semester. Junior, Julie Hodapp spent Thanksgiving break on campus last year and plans to do so again this year. She said, "The break is really short and it's not worth it for me to go home. I have an unbelievable amount of work to do, and I plan to try to get a lot of it done." 
+Even if this is unrealistic, other events on campus will provide enjoyable study breaks. South Bend's Century Center welcomes students' participation in the commu­nity's opening celebration of the year-end holidays. They will be sponsoring a Festival of Trees. Lights, and Peace. Volunteers are needed for a variety of assign­ments and proceeds benefit the medically undeserved of Saint Joseph's Chapin Street Health Center. · 
+In addition, North Dining Hall offers a traditional Thanksgiving buffet on Thursday November 24, from 
+12:30 to 3:30. The buffet includes Roast Tom Turkey, Candied Ham with Raisin Sauce, Mashed Potatoes, Cranberry Sauce, Pumpkin Pie, Warm Chocolate Cake, Vanilla Ice Cream and other delicious items typically found in a Thanksgiving Day feast. South Dining Hall employee, Joe Toth, is excited about the buffet. He said, "We promise excellent food and service." 
+Thanksgiving Break promises to be a productive and enjoyable time for those staying on campus. Good food and fun activities will be plentiful; and maybe, just maybe ... the tremendous amount of work due the week 
+By MYRNA MALONEY 
+Assistant Saint Mary's Editor 
+As the holiday season draws near and spring break plans begin to take shape, business at the travel agencies on the Notre Dame and Saint Mary's campuses flourishes. Travel consultants representing Travelmore/Carlson Travel Network on the Saint Mary's campus and Anthony Travel at Notre Dame invite students to take advantage of their convenient services and special student fares. 
+"Because we are located on a college campus, we are usually aware of any discounted student travel offers. In addition, since the Carlson Company is so large. we can sometimes give a discounted rate compared to other agencies since we have so many resources from which to draw the lowest fare," said Tara Slaven, a travel consul­tant from Travelmore located in the Haggar College Center. 
+The consultants at Anthony Travel office on the lower level of LaFortune Student Center also compare all ticket prices and find the lowest ones possible for students. 
+"In addition to youth fares on certain airlines, we have just incorporated a new program with American Airlines which offers discounted travel rates between South Bend and just about any city, and can include group fares for up to four people," said John Anthony, president and CEO of Anthony Travel. 
+"The special will last through August of 1995 and includes discounts of $45 off any ticket priced from $175­225; $60 off a ticket which regularly costs from $226-299; and $75 off a ticket costing $300 or more," Anthony said. 
+He also notes that Anthony Travel offers 5 % discounts for flights to campus special weekends, including Junior Parent's Weekend, home football games, and graduation, which parents or friends may take advantage of. 
+"I know how crazy the students' schedules are when they're trying to plan a trip and I think we understand their needs better than an off-campus agency,» said Jennifer Barth, Travel Consultant at Travelmore. This also holds true for last minute Thanksgiving plans. So for students desperate to leave, help is still available. 
+page 10 The Observer· SPORTS Monday, November 21, 1994 
+... • NFL ROUNDUP 
+Weekend highlighted by upsets of division leaders 
+By RICHARD ROSENBLA IT 
+Associated Press 
+
+It was a bad day to be in first place in the NFL. 
+Four of the five division leaders who played Sunday afternoon were losers, and most of the teams doing the chasing made up valuable ground. 
+The losers were Miami in the AFC East, Cleveland in the AFC Central, San Diego in the AFC West and Minnesota in the NFC Central. 
+The AFC winners included Buffalo and the New York Jets in the East, Pittsburgh in the Central and Kansas City in the West. Chicago moved within a game of the Vikings in the NFC Central. 
+As Vikings safety Vencie Glenn said: "My momma said there would be days like this, but we'll bounce back." 
+Here's the rundown: 
+
+In the NFC, the Vikings' loss, coupled with Chicago's win over Detroit, left the teams tied for first in the NFC Central at 7-4. Marcus Turner returned one of his three interceptions of Warren Moon 90 yards for a TD and Boomer Esiason had three touchdown passes to lead the Jets to a 31-21 victory. 
+But Dallas extended its lead in the East by routing Washington 31-7, despite losing quarterback Troy Aikman. Runner-up Philadelphia lost 12-6 to Arizona. 
+On Sunday night, the Los Angeles Rams were at San Francisco, the other NFC division leader. 
+The AFC is more complicated. 
+
+In the Central, Gary Anderson kicked a 39-yard field goal with 4:41 left in overtime and the Steelers beat the Dolphins 16-13, moving Pittsburgh (8-3) into a first-place tie with Cleveland. 
+In the East, Jim Kelly and Andre Reed hooked up on two TD passes, giving the Bills a 29-20 victory over the Green Bay Packers and moving Buffalo a game behind Miami (7-4) in the East. The Jets are tied with the Bills. 
+In the West, Kimble Anders scored from the 1 in the fourth quarter as the Chiefs beat the Browns 20-13 and moved within a game of first-place San Diego (8-3) after the Chargers lost to the New England Patriots 23-17. 
+In other games it was Denver 32, Seattle 28; Los Angeles Raiders 24, New Orleans 19; Chicago 20, Detroit 1 0; Indianapolis 17. Cincinnati 13 and Seattle 22, Tampa Bay 21. 
+The New York Giants are at Houston on Monday night. 
+Jets 31, Vikings 21 
+
+Turner's TD came off a deflected pass on the opening possession and Esiason (22-of-29) had scoring passes of 11 yards to Ryan Yarborough, 5 yards to Rob Moore and 14 yards to Art Monk. 
+Turner got his second interception late in the first half. With New York leading 17-14 and Minnesota (7-4) at the Jets' 25, Turner intercepted a pass intended for Cris Carter in the end zone. Turner's final pickoff came with Minnesota dri­ving again with 2:53 to play. 
+"This is one of those games you think about as a kid, when you're walking home from school tossing the ball to yourself," Turner said. 
+Moon finished 33 of 50 for 400 yards and two touchdowns. 
+Steelers 16, Dolphins 13 (OT) 
+
+At Three Rivers Stadium, Pittsburgh (8-3) played its third OT game in its last four and won when Anderson made his 19th straight field goal. 
+Pittsburgh may have found an offense behind Mike Tomczak, who made his first start in 27 games and was 26 of 42 for 343 yards. Barry Foster ended a Steelers' streak of 13 consecutive quar­ters without an offensive TD with a tO­yard score midway through the fourth quarter. 
+Dan Marino (31 of 45 for 312 yards and a TO) led the Dolphins (7-4) to a game-tying, 48-yard field goal by Pete Stoyanovich on the final play of regula­tion. 
+"They're playing as well as anybody in the league," Marino said. "But it just seems we can't get enough things going to give our defense the opportunity to make some plays. We're not scoring like we need to." 
+Buffalo 29, Packers 20 
+At Orchard Park, N.Y., Kelly hit Reed for first-half scores of 10 and 15 yards and the receiver finished with a team­record 15 catches for a career-best 191 yards. Kelly's total of 365 yards was his best in 2 1/2 years and the fourth-best of his career. 
+"We didn't get where we're at by arguing," Reed said of his publicized verbal feud with Kelly during the week. "I think Jim has enough confidence in me ... that when it's put-up or shut-up time, and it's time to get the ball down­field and make the first down, when it's third-and-5 or third-and-6, he's looking to me." 
+Green Bay (6-5) trailed 24-6, but pulled within 27-20 as Brett Favre hit Sterling Sharpe with two second-half TDs. The Bills (6-5) clinched the win when Green Bay's Joe Sims was called for holding Phil Hansen in the end zone, giving Buffalo a safety with 1:51 to go. 
+Bruce Smith missed the game for Buffalo with an injured shoulder, while Green Bay lost Reggie White in the third quarter to a sprained left elbow. 
+Chiefs 20, Browns 13 
+
+At Kansas City, Mo., the Chiefs (7-4), playing without seven starters, took advantage of Mark Rypien and Vinny Testaverde's ineffectiveness to beat Cleveland, which was called for 15 penalties for 142 yards. 
+Browns coach Bill Belichick caHed it "our worst game of the year." 
+Anders' 1-yard plunge with 7:46 left capped a 69-yard, fourth-quarter drive. The Browns (8-3) were driving in the final minute when Derrick Thomas sacked Rypien and stripped the ball, which Kansas City recovered. 
+Patriots 23, Chargers 17 
+
+Marion Butts let San Diego (8-3) know he's still a force as he ran for 88 yards and a TD to lead New England (5-6) at home. 
+Butts, obtained in a draft-day trade to add power and consistency, averaged just 42 yards in his first 10 games. Natrone Means, who replaced Butts for the Chargers, was held to 59 yards, but he's now at 1,006 for the season. 
+Drew Bledsoe, who set NFL records of 45 completions and 70 attempts last week, was 21-for-36 for 224 yards and one TO, while Stan Humphries was intercepted three times and sacked five times. 
+Cowboys 31, Redskins 7 
+
+Dallas coasted as Emmitt Smith ran for 85 yards and two TDs and went over 1,000 yards for the season. But Aikman left the game with a sprained knee in the first half. 
+His backup, Rodney Peete, threw a TD pass to give the Cowboys (9-2) a 24-7 lead before he went out in the third period with a sprained thumb, replaced by Jason Garrett. 
+The Observer accepts classifieds every business day from 8 a.m. to 3 p.m. at the Notre Dame office, 314 LaFortune and from 12 p.m. to 3 p.m. at 309 Haggar College Center. 
+Deadline for next-day classifieds is 3p.m. All classifieds must be prepaid. The charge is 2 cents per character per day, including all spaces. 
+Classifieds 
+NOTICES 
+$$ FOR TEXTBOOKS 10-6m-sat pandora's books NO ave & Howard st 1 0-6 m-sat 233-2342 cool stuff cool store 
+
+Anybody need a ride to St. Louis lor Thanksgiving? I'm leaving Wednesday (11/23) at 2pm. If inter­ested, call Alex at X3946. 
+Lost: Black mountain bike-broken front reflector, letters "Silver Ridge• 
+FOR RENT 
+on the side. Stolen on Thurs. out­side of South Dining Hall after din­ner. Return to Stanford-no ques-Looking for a male I female room-lions asked 4-2087 mate at Castle Point. 
+$ 280/mo + all utilities, with cable TV, until may of '95 
+WANTED 
+call272-1663 
+
+Zepfest House '95-96. Free maid Driving to Pittsburgh forT-giving? serv., sand V-ball ct.,6-bedrm. Two students seeking rides. Will 273-0482 234-3831 '85 Toyota Corolla, 4dr, 5-speed, A/C, Am/FM, 89k miles, many new parts. $2,200. Call Susan at 631­7505. 
+For Sale: Doc Marten's boots, black, size 9. Recieved as a gilt, they just don't fit. $30. obo. Leave message lor Perry. 234-3034. 
+TICKETS 
+
+Top 20 from the 20 Ann, 
+20. Smoker's Circle Hope your nose is doing better! 19.The Irish Guard guy who always You're going to have to hold off on loses his feather that shotgunning for awhile. Oh 
+18. HOOOEEEI well, at least we have some good 
+17. Yard Stick Sprinter dude(GOI drinking stories. GO!) Tara 
+16. Techno Cheer 
+15. "There's my woman Sandra" HEY J & E !Ill 
+14. The NBC orange glove guy Green hats, Mountain Dew (ABC! ABC!) I amwierd 
+13. The Clapper And so are you. 
+12. "MMMAAGEEI" Pitch til dawn, 
+cover food and gas.  11. "EMOI"  We'll stop at 4  
+SOPHOMORE SIBS WEEKEND IS  Call Mark 271-1400; Bob 4-1661  USC tickets for sale  10. the silly LEPRECORN  Lookl S & S are at the door.  
+APRIL 7,8,&91 If you want to help  Moving OC? Looking for 2-5  Call Jen x2338  9. "WE...ARE...WETI"  Auto writing,  
+plan the activities for the weekend  women for a house.X4853 Angela  8. "Go clock. Go Clock, GO  Done it, seen it.  
+and get involved call Andrea at  In need of a ride to Indianapolis  CLOCK!"  Anybody want a peanut?  
+(x4822) or (1-5117)1  for Thanksgiving. Will pay gas.  6 BDRM HOME NEAR CAMPUS.  Menudo Tickets!  7. Cymbal-mania during the nat'l  OH NO A FORK'S STUCK IN MY  
+Please call Mary S. at x3736  FALL 95. 272-6306  Big Menudo Renunion  anthem.  HEAD!  
+AN OPEN ADOPTION  Dec. 3 at Soldier Field  6. The official ladder holders of the  I've lost my mind ...  
+I am a little girt whose mom and  TRAVEL FREE! SPRING BREAK  1,2 & 3 BDRM HOMES. AVAIL- Tickets are limited  marching band  It's probably under Josie's bed.  
+dad would love to give me a baby  '951 LOWEST PRICES I JAMAICA,  ABLE NOW. GILLIS PROPERTIES  Call Mark Counselman if interested  5. Dig those 2 foot tall fuzzy white  
+sister or brother for my third birth- CANCUN, FLORIDA, PADRE.  272-6306  272-4215  hats  Feeling Sheltered?  
+day. We know you have many  BOOK EARLY AND SAVE $$$1  4. Quote by V.H. "He (D.M.) is the  Then let Crazy Joe and Friends  
+tough decisions to make, so come  ORGANIZE GROUP,TRAVEL  Bed 'N Breakfast Registry -Private  SO. CAL GA'S FOR SALE.  Lord"  every M-W-F @ 4:30 p.m. inform  
+and meet with us at our home, to  FREEl SUN SPLASH TOURS1­ Homes-JPW, Graduation 219-291­ 288-1186.  3. ULTIMATUM  you of the news, sports, and enter- 
+see if we are the family that you  800-426-7710  7153  2. #88!  tainment happening on our cam- 
+would choose to raise your child.  Need USC ticket  1. the MACK DADDY (aka THE  pus, nation, and world. Only on  
+Be assured that we want you and your baby to be a part of our lives. Help us increase our immediate and extended family. Support and counseling available. Please call  EARN INCOME HAVE FUN MARKETING ENVIRONMENTALLY FRIENDLY PRODUCTS, HOLIDAY GIFT  FOR SALE I Spring Break Early Specials! Bahamas Party Cruise, 6 days & 12  Tom4-1786 PERSONALI  SECRET WEAPON) • • • AN ODE TO SLAMMING: • • • Oh, I think that I shall never see  your new music station WVFI 640AM. Barefoot Bahamas Spring Break Sailing Cruise! Free brochure  
+my mom and dad (Laurie and Tony)  BASKETS..CALL ME TODAY,  meals $2791 Panama Cily  Did you know there are lesbians in  Football coaches lovely as our 3.  1 (800)359-9808  
+anytime. 1-800-840-0PEN  START MAKING MONEY  Oceanview Kitchens $129! Cancun  your management class, dorm,  With eyes so blue and blue (and  
+TOMORROW -674-9634.  & Jamaica $3991 Daytona $159!  engineering class, and all over  brown)  •••• AUDITIONS!!! ••••  
+Christmas cash? We buy used Air  Keys $2291 CocoaBeach $15911­ Campus I Aren't they Wonderful!  That twinkle when we get first  3 Men needed for a Notre Dame  
+Jordans 85-91 editions and late  ATIENTION AMBITIOUS, SELF­ 800-678-6386  downs.  Student Players production of David  
+70's & early 80's NIKE running  MOTIVATED Students. The  Mamet's "American Buffalo"  
+shoes. pay up to $2001 1-800-873­ ColorWorks Collegiate Painters is  Top 10 quotes as we macked &  I I ! I ! ! I BREAKDOWN II t II II I I  Performance will be held on the  
+3538 ext. 3  currently interviewing students for  EA HOCKEY for IBM  drank on way 2 Crooked Lake!  !!  Washington Hall Main Stage, Feb.  
+ILOST & FOUND I Summer '95 management posi­lions. Earn money in excess of $10,000. Call now, 1-800-477-1001  1994 players with trades, etc ... almost brand new, has all books and the registration form.  Who the hell cares, we've got loss & damage control! Exit 150 Lake James Crooked  mud-slidin', flag-pullin' Marce-pantzin', Slammer-dancin' trash-talkin', end-zone-walkin'  2-4 Auditions will be in the Dillon Lounge on Monday and Tuesday,  
+for a campus representative.  best offer; call Tom at 4-1712  Lake-OOps that's coming from Ft.  DISMEMBERIN'I  Nov. 21&22, 7-9:30 pm  
+found-{)ulside of Hesburgh about  Wayne!  This one guy's name is Dave;  Crew and technical positions need- 
+a week ago, a woman's tennis bracelet. ca11634-3918.  ......................................  FOR SALE: 1978 OLDS 98 RUNS VERY WELL.  Guys put beer bottles away-toll man approaching .  Hear the Slammers rave. The other one is Matt;  ed ­call Stephen at 255-3545  
+I NEED A RIDE TO MIDWAY APT  CALL CHRIS @ 273-9083  God damn it Jill, pay attention!!  He is where it's at.  Morgs.  
+Lost a Casio calculator in a metal  11/23 for 5: 15 flight -can you help?  Pull over I gotta piss!!  Finally, we got Chris,  Hope your feeling better. Now what  
+pencil box on Saturday (12 Nov).  ...PLEASE CALL BRIAN x1058'..  PITISBURGHERS-I have 1 round- Hey hand me the beer  Inspiring Kate to kiss  was your story about the toilet on  
+My name is written on the box and  trip ticket on NO club of Pgh.  bottles. That's illegal. ..so what!!  (and the offense to SLAM!)  Saturday night? I? You're going to  
+on the back of the calculator.  Thanksgiving bus. Call Kurt 4-1005  If we were to get pulled over right  WE FEEL GOODI  have to control your shilling Jrom  
+Reward. Contact Kris Rianto  Need an used 35:70 AF lens  now we would be S.O.L.I  OH, WE FEEL SO GOOD-UNHI  now on.  KY  
+x-1868.  Minolta Maxxum preferred  I have 10 FREE TICKETS to Duke  Keeler-hand me another brew!  Hey Dave, Matt, & Chris­ 
+Call1-8245  home basketball game this year-call  You're cooler than shit for driving!  Thanks for all the fun!  Kate.  
+Please Helpl I lost my skirt and a  Jeff Wigfield x41 00  Where's my underwear! I  Ya'll are #1.  In case you were wondering, it was  
+pair of pink panties at CJ's. I will  SAAB TO SEA TILE.  Love,  not your presence that made me  
+give $$$ for their return! Call Mark  Need driver of car any1ime. Call  1 way plane ticket to Boston for  NEED ride to PHILA. for Thxgvn.  the TEAM that loves you.  sick.  
+Counselman at 272-4215  234-0849.  Dec2Q-best offer-JP@4013  Please call CHRIS, 273-6488  (p.s. Happy 21st b-day, B~Z!)  _I_  
+
+Monday, November 21, 1994 The Observer • SPORTS page 11 
+• COLLEGE fOOTBAlL 
+Top teams may not meet ... 
+
+By RICK WARNER 
+Associated Press 
+They're undefeated, untied and unable to play each other in a bowl game. 
+Top-ranked Nebraska, No. 2 Penn State and No. 3 Alabama each needs one victo­ry to complete a perfect regular season. But they'll be heading to different bowls, frustrating fans who would like to see the national championship decided by head­to-head competition instead of the polls. 
+If Nebraska beats Oklahoma on Friday, the Big Eight champion Cornhuskers will go to the Orange Bowl for a likely matchup against No. 5 Miami. 
+Penn State, which plays Michigan State on Saturday, has already clinched the Big Ten title and a Rose Bowl date against No. 12 Oregon. 
+Alabama would play in the Sugar Bowl if it beats No. 4 Florida in the Southeastern Conference championship game Dec. 3. 
+Several teams remain in the running to play the SEC champion in New Orleans. If Alabama is there, the Tide will probably play No. 7 Florida State. But the Seminoles won't play Florida in the Sugar because the teams meet Saturday in Tallahassee, and nobody wants a rematch. 
+The leading candidates to play Florida in the Sugar are Notre Dame and No. 13 Virginia. The Irish might get the bid with a win over No. 17 Southern Cal, which would give them a 7-4 record. If Notre Dame loses, Virginia could go with a vic­tory over North Carolina State. 
+Texas Tech can go to the Cotton Bowl with a win over Texas Christian. The other spot could be filled by Notre Dame, Virginia or Southern Cal. 
+
+Several bowl berths were filled Saturday, but many others won't be set­tled until next weekend. 
+Oregon gained its first Rose Bowl bid in 37 years by beating Oregon State 17-13, and No. 10 Colorado State locked up a Holiday Bowl trip with a 44-42 victory over Fresno State. Colorado State will play No. 20 Michigan, which lost to Ohio State 22-6 Saturday. 
+The No. 14 Buckeyes will face the Alabama-Florida loser in the Citrus Bowl. 
+Wisconsin earned a berth in the Hall of Fame Bowl by beating Illinois 19-13. The Badgers will play an Atlantic Coast Conference team, probably Duke or North Carolina State. 
+Illinois will meet East Carolina in the Liberty Bowl. 
+UNLV, which defeated Nevada 32-27 to win the Big West, will meet Mid­American champion Central Michigan in the Las Vegas Bowl. 
+No. 6 Colorado is headed for the Fiesta Bowl, where it could play Florida State, Virginia or Southern Cal. 
+A look at other potential bowl matchups: Gator (Tennessee vs. Virginia Tech); Carquest (South Carolina vs. Syracuse, West Virginia or Boston College); Peach (North Carolina vs. Mississippi State); Independence (Duke or Virginia-N.C. State loser vs. Georgia, South Carolina, West Virginia or Indiana); Aloha (Kansas State vs. Boston College or Syracuse); Freedom (Arizona vs. Utah or BYU); Copper (Oklahoma vs. Utah or BYU); Sun (Texas-Baylor winner vs. Virginia-N.C. State winner or Southern Cal); Alamo (Washington State vs. Texas-Baylor loser). 
+November 13, 1993 
+Notre Dame 31 Florida State 24 · 
+~~I~R~ISI I IMOPAC'I' II 
+RJElTIVJE THJE TRTIUJMIJPH~ ~ ~ 
+November 13, 1993... #1 vs. #2... The Game of the Century ... cap­tured in a full-color poster depict­ing the Irish defense shutting down the Seminoles. Irish Impact II post­ers now available at the Bookstore, the LaFortune Info Desk, and the South Bend Center for the Home­less. Only $10 each. Makes a great holiday gift! 
+All proceeds benefit the South Bend Center for the Homeless 
+Advertisement space donated by Notre Dame Student Government ­
+
+page 12 The Observer· SPORTS Monday, November 21, 1994 
+• PROFESSIONAL TENNIS • SMC SWIMMING 
+Belles continually improving times 
+Sampras clinches ATP title 
+By NESHA STARCEVIC pened," Becker said. "I lost my and earned a career-high 10th Associated Press touch for five minutes and he title of the season. took advantage of the opportu­An ankle injury slowed him FRANKFURT, Germany 
+nity." after Wimbledon, but he came Top-ranked Pete Sampras 
+Sampras had lost to Becker in back strongly at the end of the survived a barrage of aces and 
+two sets in the round-robin season. Sampras won the EEC beat Boris Becker 4-6, 6-3, 7-5, portion of the tournament, and Championship last week. 6-4 Sunday, winning his second 
+had lost to him at the He is the first player to rank IBM-ATP Tour World 
+Stockholm Open three weeks No. 1 for the entire year since Championship title. 
+ago. Ivan Lend) in 1987. Sampras, who also won in 
+"It's a great accomplishment, 1991, became the first two-time 
+He only advanced from the especially since I missed six champion since the inception of round-robin group when events," he said. the tour-ending event in 1990. Becker beat Stefan Edberg In winning this tournament, 
+"This ends the year on a Friday. Sampras warded off challenges great note," he said. "I want to thank you Boris for by his closest pursuers, Becker letting me be here," Sampras and No. 2 Andre Agassi, whom 
+Sampras earned $1.225 mil­
+
+told Becker after the awards he beat in the semifinals. lion for his victory over Becker, ceremony, and promised to buy Although beaten by Becker in who rose two places to No. 3 in him "an apartment, anything five of their previous six indoor the rankings despite the loss. you want. matches, Sampras rose to the Sampras increased his 1994 "I needed a lucky break and I occasion Sunday, even as 9,000 
+winnings to $3,607,812. 
+got it this week," Sampras said. fans in the Festhalle cheered Sampras lost his serve only 
+"I was due. I didn't have much for his rival. once, in the first set. Once he luck in the last 4-5 months." He ended the year with a 7 4­broke Becker in the second set, 
+Becker had no regrets. "I am 11 record, and is 6-5 against he took command of the match. 
+a professional and I go out to Becker in his career. The critical moment came in 
+win every match," he said. Becker, who also was seekingthe sixth game, when Becker Sampras played the kind of his second title after winning in served five double-faults and tennis that he had displayed in 1992, collected $640,000. suffered his first break. winning the Australian Open Becker ripped 30 aces past
+"I can't explain what hap-and Wimbledon titles this year, Sampras, who only had 9. 
+
+By JENNIFER LEWIS 
+Saint Mary's Sports Editor 
+The Saint Mary's Swim team keeps on improving. Over the weekend the Belles placed third out of six teams in the Wabash Invitational. Last year they fin­ished sixth place out of six teams at the same meet. 
+"Everyone worked extremely hard the entire meet," coach Greg Janson said. "It was a great meet for us in terms of a confidence builder. 80-85% of our swimmers swam their sea­son's best." 
+Freshman Allison Smith won the High Point Award, obtain­ing more points than any other swimmer in the meet. Smith won the 400 Individual medley (IM), and made the school record for the 500 (5:15.47) and 1650 (18:03.30) free. 
+"Saint Mary's has never had any swimmer of Allison's cal­iber before," Janson said. "At the next meet, she will proba­bly achieve a time that will guarantee her a spot in the 
+N.C.C.A. Championship in March." 
+Shannon Kelleher placed sec­ond in both the 200 fly and the 1650 free. Kelleher set the school record last year and sur­passed her own time by fifteen seconds in Saturday's Meet. 
+Natalie Cheesman had a per­sonal best in the 400 IM and 500 free. 
+"I was really excited about winning because it is still early in the season.. " said Cheeseman." It's really en­couraging because we have been working extremely hard in practice and it's starting to pay off." 
+Saint Mary's will face their next challengers December 1, in the National Catholic Championships at the University of Notre Dame. 
+• CoLLEGE FooTBALL 
+Oregon set for Rose Bowl with win over OSU 
+ByBOBBAUM Preseason forecasters picked win the conference title out­mon opponents, Iowa and back went 9-2 and lost to Associated Press Oregon anywhere from seventh right for the first time in the Southern California. Southern Methodist in the to lOth in the Pac-10. When the school's history. Penn State beat both at home, Cotton Bowl. 
+EUGENE, Ore. 
+
+Ducks got off to a 1-2 start, In three of its last five games 61-21 over Iowa and 38-14 Oregon's Rose Bowl appear­Nobody thought Oregon could with ugly, mistake-filled losses -against Washington, Arizona over Southern Cal. Oregon beat ance will be its first in 37 sea­make it to the Rose Bowl. Now to Utah and Hawaii, the heat and Oregon State -Oregon Iowa 40-18 at Eugene and beat sons and fourth ever for the that they've made it, nobody's 
+was on for Brooks to be fired. had to come from behind in the Southern Cal 22-7 at Los school. 
+giving the Ducks a shot in their Now he's a leading candidate second half to win. Angeles.
+Jan. 2 matchup against No. 2 
+for coach of the year. In 18 sea­"This team has a chance," The Southern Cal victory
+Penn State. 
+sons as Oregon coach, Brooks Brooks said. "It showed it's looms as perhaps the largest of Take a Break Nobody but the Ducks. 
+said he never gave up on his resilient. It can make plays." Oregon's improbable triumphs, "We're just going to go down belief that the Ducks could Still, he admitted the task because the Ducks won even from Exams! 
+there dumb enough to think we 
+make it to the Rose Bowl. against Penn State was very though they were without quar­
+have a chance," Oregon coach 
+"I always thought it was pos­formidable. terback Danny O'Neil, tailback Rich Brooks said. sible," he said. "I think this is "Penn State is almost on a Ricky Whittle and defensive DEPAUL
+Probably no Rose Bowl team 
+
+good news for everybody else in different level in college foot­back-punt returner Herman in recent history was a bigger this league who doesn't live in ball," Brooks said. "They're O'Berry. UNIVERSITY 
+longshot than the Ducks, who 
+those big cities like Los Angeles one of four or five teams that This is the first Ducks team to 
+ended their regular season 9-3 
+and Seattle." are just outstanding at every win nine games in a season,
+overall, 7-1 in the Pac-1 0 and 
+Oregon won eight of its last position." since the 1948 squad with 
+No. 12 in the national rankings. 
+nine games and its last six to The teams played two com-Norm Van Brocklin at quarter-
+ARST 246S 01 0974 ENOL 325 01 2068 
+LAW 695 02 1208 PSY 453 01 1181
+DART 
+
+
+ARST 292S 01 0526 ENOL 340A 01 3604 LAW 695 03 0776 PSY 463 01 4297 
+vs.
+
+ARST 297S 01 3487 ENOL 390 01 3607 LAW 695 04 0363 PSY 470B 01 3911
+Cl.QSfQ SfCTIQt-!S AS QF 
+
+BA 487 01 4011 ENOL 391C 01 3608 LAW 695 05 1773 PSY 487A Ol 39!0 
+NOTRE DAME 
+4:00 P.M. 11/20/94 
+
+BA 490 02 0169 ENOL 393C 01 3609 LAW 695 06 0025 PSY 488A 01 3912 BA 490 03 0388 ENOL 416C 01 3618 LAW 695C 01 2191 RLST 312 so 9550
+ACCT 473 01 !52! 
+
+BA 490 04 !888 ENOL 428B 01 4229 MARK 231 05 0782 RLST 351 56 9556ACCT 47S 01 2639 
+FIGHTING
+BA 490 OS OS19 ENOL 491 01 3630 MARK 382 Ol 4021 ROSP 49S 01 2003
+ACCT 479 01 2S31 
+
+BIOS 304 Ol 0626 ENOL S63 01 3641 MATH 103 01 1820 RU 496 Ol 36S7
+ACCT 480 02 2S72 
+
+BIOS 304L 01 1406 FIN 474 01 0668 MGT 482 01 1160 soc 202A 01 3946
+ACCT 48S 01 1030 
+
+BIOS 407 Ol 0398 FIN 475 01 2041 Ml 300 Ol 3820 soc 346 Ol 2736 
+IRISH
+AFAM 329 01 2840 BIOS 42lL 01 3264 FS !BOA 01 3646 Ml S9S 01 3848 soc 348 01 39SlAFAM 3S2 Ol 3429 
+
+Saturday,
+
+BIOS 421L 02 326S FS !BOA 03 3648 MUS 220 01 !S7S soc 370 01 1063AFAM 423 01 3430 BIOS 421L 03 3266 FS !BOA 04 3649 MUS 220 02 38S2 soc 374 01 2093
+AFAM 438 Ol 3431 
+
+December 10
+CAPP 331 01 096S FS !BOA 06 3651 MUS 222 01 0800 soc 419 01 279SAFAM 454 01 2729 
+CAPP 361 Ol 0609 GEOS 142L 03 2219 MUS 225 01 1022 soc 438 01 3954 
+2:00p.m.
+AFAM 486 01 3433 
+
+CE 470 01 2032 GOVT 316F 01 2963 MUS 226 01 1729 soc 462 01 432S
+AME 541 01 0959 
+
+CHEG 448 01 1881 GOVT 447 01 3704 MUS 229 01 3853 THEO 252 01 1321AMST 321E 01 3436 
+CHEM 120L 03 2702 GOVT 492C 01 1235 PHIL JOlT OS 42S7 THEO 262 01 4186 
+At Chicago's new
+AMST 347H 01 2726 
+
+COAT 340 01 3S20 GOVT 492E 01 3708 PHIL 22S 01 2769 THEO 26S 01 0773
+AMST 348H 01 263S COCT 306 01 3S39 GOVT 492K 01 3713 PHIL 226 02 386S THEO 290 01 2013 
+
+UNITED
+AMST 360 01 3439 
+
+COCT 307 01 3S40 GOVT 49S 01 4230 PHIL 227 01 2371 THEO 375B Ol 4329
+AMST 407E 01 3441 COCT 426 01 3S42 GOVT 678 01 3734 PHIL 240 Ol 4281 THEO 429 01 4194 
+
+II 
+
+CENTER
+AMST 452H 01 3443 
+
+COCT 460 Ol 3543 HIST lilT 03 0901 PHIL 241 Ol 4282 THEO 437 01 4196
+AMST 458E 01 2966 
+
+COMM 103 07 9707 HIST 112T 03 0690 PHIL 241 02 4283 THEO 460 01 4197
+AMST 49SE 01 3004 COMM 210 16 9716 HIST 240 01 4361 PHIL 243 01 3868 THTR 13S 58 97S8ANTH 328 01 2660 COTH 4S1 01 3SS3 HIST 3SO 01 3764 PHIL 244 Ol 0004 THTR 230 60 9760 
+
+Tickets
+ANTH 329 Ol 2842 
+
+COTH 4S3 01 3S54 HIST 413A 01 3768 PHIL 24S 01 2734 THTR 276 64 9764
+ANTH 36S 01 34S3 
+
+COTH 477 01 3SS7 HIST 422A 01 4240 PHIL 246 01 1335 
+$30•$25•$20
+ANTH 423 01 3458 ECON 312 01 3587 HIST 454 01 2728 PHIL 247 01 3869 CLASSES THAT WILLARCH 444 03 2616 
+
+$15•$12
+
+ECON 421 01 3590 HIST· 4S4A 01 2727 PHIL 2S6 01 3870 REO~EN AI :Z:QO P.M.
+ARCH 566 01 3155 
+
+ECON 447 01 3591 HIST 460A 01 2637 PHIL 261 01 0490 
+~
+ARCH S82 01 3157 ECON 487 01 1438 HIST 468A 01 3783 PHIL 261 02 0629 COCT 426 01 3542ARCH 584 01 3158 ENOL 101 01 3595 HIST 485A 01 3791 PHIL 265 01 3873 ECON 447 01 3591ARCH 585 01 3159 
+
+For Tickets Call 
+ENOL 301 02 1210 liPS 493 01 3993 PHIL S22 01 3888 ENOL 390 01 3607ARST 1345 01 0019 
+ENOL 316F 01 2965 LAW S92A 01 1021 PSY 211A 01 1946 LAW 695C 01 2191
+ARST 232S 01 0280 
+
+TICKETMASTER
+ENOL 319B 01 2970 LAW 615C 01 1328 PSY 405 OJ 1631 PHIL 261 01 0490
+ARST 242S 01 19S2 
+
+ENOL 324 01 3603 LAW 69S 01 0807 PSY 442 01 3906 PSY 442. 01 3906 
+312-559-1212 
+
+---~-~ ~--------------------­
+The Observer • SPORTS page 13 
+• Vou..EYBALL 
+
+NCAA berth accomplished 
+
+By BETSY BAKER Spons Writer 
+
+Destination -Austin, Texas. 
+That is the sight of the 1994 NCAA Final Four volleyball championship. The ninth ranked Notre Dame volleyball team won an automatic bid to the NCAA tournament this weekend winning the Midwestern Collegiate Conference tournament for the fourth year in a row. 
+The Irish accomplished this by knocking off Wisconsin­Green Bay and Loyola to arrive in the championship match of the tournament. The Irish be­came the official MCC champi­ons with a 15-2, 7-15, 15-3, 15­11 victory over host team Northern Illinois yesterday af­ternoon. 
+The four-game Irish victory was led by freshman Angie Harris who had 22 kills, with 
+The Observer/Eric Auethling 
+Bryan Welch and fellow defenders were not able to shut down the powerful trio of the Falcons of Bowling 
+Green last Friday as the Irish lost 5-1. 
+Our River front, 5 year old, all one level, seven rooms, 60' deck home on the north bank of the St. Joe is for sale. 22 minutes from Notre Dame. Boating, fishing, tennis. Large A.R.M.@ 6.04% Assumable in Place 
+$259,000.00 
+3000 White Oaks Lane 
+616-695-5958 
+
+Across from Orchard Hills C. C. in Buchanan, MI. 
+"The salmon are runnini!" 
+
+great scores ... 
+·-----· 
+I I I I I 
+
+Kaplan helps you focus ' your 
+MCAT studies and build your 
+confidence, so you can get 
+a higher score. 
+Classes begin Dec. 3 
+Call: 1-aoo-KAP-TEST Now! get a higher score 
+KAPLAN 
+
+Recycle The Observer 
+
+lt•s Hip To Trip. 
+London $438* Paris $518* Tel Aviv $770* Mexico City $198* Tokyo $845* Bangkok $935* 
+Fereso"' round~l'rom ChiaJ<Io. Rr:str1ctlonsopply, t.o<es oro: not lnducXd ond lares ""' subject to 
+chong£. Cell lor other worldwide dullnollons. 
+Couna1 Travel 
+1153 H. Dearborn Chicago, IL 60610 
+312•951•0585 
+Call for a FREE . Student Travels magazine!' 
+senior co-captain Nicole Coates, sophomore Jenny Birkner, and freshman Jamie Lee each adding 13 kills to the dominat­ing outside force. Junior setter Shannon Tuttle led the Irish defensively with 15 kills. 
+The Irish arrived in the championship game after a 15­13, 15-4, 15-3 first round vic­tory over Wisconsin-Green Bay Saturday morning and a 15-8, 15-1, 15-11 win over Loyola in the second semi-final match. Harris led the victory over Wisconsin-Green ~Bay with a match-high 16 kills and 15 digs. Coates also had 13 kills and nine digs for the Irish. 
+Saturday night's victory over Loyola was a battle at the net, with middle blockers Jen Briggs and Jamie Lee at the head of it with eight kills each. Briggs also led the team defensively with five total blocks. The out­side attack was sharp as out­side hitters Jenny Birkner and 
+• HOCKEY 
+
+Falcons' trio proves· too much for Irish 
+By MICHAEL DAY 
+Spons Writer 
+Too much to overcome. 
+
+The Notre Dame hockey team proved to be no match for a tal­ented Bowling Green squad on Friday night, as the Falcons crushed the Irish 5-1 before the largest crowd of the season at the Joyce Center. 
+Notre Dame knew they had their hands full going into the game. The falcons' trio of Brian Holzinger, Curtis Fry, and Tom Glantz composes one of the most potent offensive forces in the country. And they certainly lived up to their billing against the Irish. 
+The Falcons jumped on Notre Dame from the opening face­off, building a 2-0 lead in the opening minutes of the first period on goals by Fry and cen­ter Mike Hall. But it wasn't meant to be for the Irish. After Notre Dame shut out the Falcons for over 16 minutes in the second period, Glantz added a pair of late goals to give Bowling Green an in­surmountable 4-0 advantage. 
+"We had no one to offset Holzinger, Glantz, and Fry," said head coach Ric Schafer fol­lowing the game. "They are very creative and play hockey on a high level." 
+The lone score for Notre 
+Dame came in the opening min-Nicole Coates added seven kills a piece. 
+Coates, Harris, and Birkner were all named to the MCC con­ference All-Tournament team. 
+In addition to the success at the MCC tournament, the 32-2 Irish team received much recognition for their regular season success. Coach Brown was voted MCC Coach of the Year by the conference coaches for her fourth straight season. 
+Senior All-American Christy Peters was named MCC Player of the Year for the second straight year, and freshman outside hitter Angie Harris was named Newcomer of the Year. Peters was also named to the first-team All-MCC" along with Shannon Tuttle. Peters was one of two unanimous selec­tions to the first-team All-con­ference. Harris and sophomore Jenny Birkner were named to the second-team All-MCC. 
+utes of the final period. Senior right wing and team captain Brett Bruininks took advantage of one of the few Irish power play opportunities in the game. After receiving a pass from center Jamie Ling, Bruininks slid the puck past Falcon goal­tender Will Clarke to prevent the shutout. 
+Despite struggling, Schafer did see a silver lining in the loss to the Falcons. 
+"We showed spurts of life even after the game was de­cided," said Schafer. "I really appreciate that. They don't quit no matter what the score." 
+Friday's game marked the return of freshman goaltender Matt Eisler. After missing most of the last two weeks, Eisler earned the starting nod and played well despite facing an avalanche of Falcon shots on goal. 
+For the Irish to be able to bounce back, they must receive more consistent play at the of­fensive end. Ling and center Tim Harberts rank among the conference leaders in scoring, but Notre Dame is depending on more production from the quartet of left wing Terry Lorenz, center Steve Noble, right wing Lyle Andrusiak, and left wing Jamie Morshead. 
+"Some guys haven't gotten on 
+track yet," said Shafer. 
+Adventuresome! 
+Enjoy the Terrific Twenties! 
+Happy Birthday 
+~~@@~~ 
+Love g Hugs 
+from the Family! 
+
+
+~ 
+
+------------------------------~--------------------------~------------------------------~----· --­
+page 14 
+Lesson 
+continued from page 16 
+defense and appeared to have a one-on-one break against Carolina goalkeeper Tracy Noonan. The play was broken up, however. when Tar Heel freshmen Staci Wilson tracked down McCarthy five yards from the goal and gained possession after a slide tackle. 
+"That play was the key defen­sive play of the NCAA tourna­ment," North Carolina coach Anson Dorrance said. "Staci is one of the best defenders I've ever coached here and she should be a candidate for fresh­man of the year." 
+The Irish held the Tar Heels scoreless for the rest of the half. and went into the break down just 1-0. 
+' Despite Carolina's four goals in the second period, Petrucelli made some mid-game adjust­ments which forced a much more even contest. The Irish pulled fourth defender from the back and were able to press forward far more frequently during the second half. "We started slow again, but I thought in the second half we played pretty well." Petrucelli said. "That sounds odd be­cause we gave up four goals, but when you're attacking and moving forwards, the back 
+opens up and you're more vul­nerable." 
+The Irish controlled play for nearly the first thirty minutes of the half, giving up just on goal to all-American Tisha Venturini. Venturini, a lock for this season's player-of-the­years awards, rebounded the deflection of her own shot at 
+55:05 and blasted a 17 yard, left-footed shot past Renola to put the Tar Heels up 2-0. 
+"The difference between los­ing 2-0 and 5-0 doesn't mat­ter," Irish midfielder Cindy Dawes said, "so you can't sit back and play defense. We tried to press up, but that ex­posed our back." 
+The Irish offense did manage four corn~r kicks during the opening stretches of the second half, but Carolina's Noonan made several leaping grabs to stall the most serious threats. 
+Down 2-0, the Irish held mo­mentum and still seemed capa­ble of a rally until a television timeout at 70:40 broke the flow of the game. 
+With the constant attention on moving forward, the Irish defens.e was left exposed and gave up three goals in the game's fmal18 minutes. 
+"I don't think the 5-0 score indicates the game at all," Dorrance said. "The irony is that Notre Dame played better in the second half, but gave up four goals." 
+The Observer • SPORTS 
+Defeat 
+continued from page 16 
+In the midst of the Irish celebration the referee waved off the goal. After a conversation with the linesman they decided that the Irish were offside on the shot. A call that is still not clearly under­stood, and will go down as one'of the great mys­teries of the universe. 
+Yet. the Irish do not hold the referee responsi­ble for the loss. "It's not the ref that lost the game," Mathis commented. "We still have to play." "It could have been 1-0 at half," Berticelli said. "But that's the type of season we've had." 
+The near goal clearly rattled the Hoosiers as play continued. Yet, even their rattled midfield is still one of the best in the country. The Irish held their own against Brian Maisonneuve and company, and stopped every Hoosier advance and managed to end regulation tied at zero. 
+"We played a tremendous game," Berticelli said. "We came in relaxed and confident. You're playing great if you hold them to 0-0 after the game." 
+When the game entered overtime the Hoosiers struck early and, with luck, came away with the eventual winning goal as Tim Hardy flipped in a ricocheting ball. 
+"Luck is involved in the game," Mathis explained. "Missed assignments happen during a game, but this time luck was with them." 
+"Hardy's one of the most dangerous players," senior goalkeeper Bert Bader said. "They're a good team, and they took advantage of a mis­take." 
+The Irish struck the Hoosier defense hard in the remaining overtime, but to no avail. "We tried to be the best team for 90 minutes," Berticelli said. "But the game went 120." 
+Timeouts affect game play 
+ByRIAN AKEY 
+Associate Spom Editor 
+Televised coverage by Sportschannel and ESPN2 made this weekend's NCAA women's soccer final four accessible to fans who weren't able to make the trip to Portland for the games.'But for the teams on the field, the cov­erage introduced an entirely new factor to the games-tele­vision timeouts. 
+At the midpoint of each half of each game, players left the field during an official timeout while soccer sponsors adver­tised their wares. In the course of Notre Dame's two games, however, the television time­outs proved to be more impor­tant to the matches than merely an opportunity for the players to catch sixty seconds of rest. 
+In their semifinal match against Portland, the Irish opened play sluggish and ner­vous. A television timeout at 22:40, however, allowed the Irish to regroup. 
+"During the timeout I told the players that we were here because they had worked and fought and ran all year. and we weren't going to win by being pretty, we'd have to work for it," Notre Dame head coach Chris Petrucelli said. 
+The Irish responded quickly and got their first legitimate scoring opportunity immediate­ly after resuming play. A scramble near the goal drew Pilot goalkeeper Michelle Voiland away from the net, and junior forward Rosella Guerrero tracked down the ball but misfired wide right of the open net. 
+
+Despite her misfire. Guerrero's shot signaled a shift in the game as the well-condi­tioned Irish began to wear down the Pilots. 
+After finishing with a 1-0 win, Petrucelli acknowledged the importance of the timeout. 
+Against North Carolina in the title game, however, a second­half seemed to work against the Irish. 
+After falling behind 1-0 at halftime, the Notre Dame offense seemed to be gathering speed. Although the Irish weren't able to convert, the offense was creating chances and Notre Dame still seemed capable of a rally. 
+A television timeout at 70:40, however, broke the flow of the game, and the Irish struggled to recover their attack. North Carolina regained control of the game and scored three times in the final eighteen minutes of 
+play.
+
+------------------. 
+"Hey there, 
+Blimpy Boy!" 
+Happy Birthday 
+Sean Connolly! 
+Love, Mom, Dad, Amy, and Doogie 
+They're Hot. 
+Notre Dame's fall~s:po:rt:s~te:am:s;--..:::~~~ 
+are HOT-so far they have a combined overall record of 72-15-3, including four conference championships and three NCAA Tournament appearances. Almost as HOT as SUBWAY's Meatball, Steak and Cheese and Pizza Sub sandwiches. 
+~ 
+
+Monday, November 21, 1994 
+The Observer/Jake Patera 
+
+Aggressive play by the Irish was not enough to beat the top-ranked Hoosiers. 
+"I guess I should have prepared them for 120," he added with a laugh. 
+All in all the Irish have nothing to be ashamed of. They entered the season with three goals. They wanted to win the Midwestern Collegiate Conference, earn a bid to the NCAA tournament, and reach the final four of NCAAs. 
+SYRACUSE 
+SUMMER STUDY ABROAD PICK A PLACE UNDER THE SUN 
+• 
+AFRICA 
+
+• 
+EUROPE •ASIA 
+
+
+
+• CENTRAL AMERICA Internships • Language Programs 
+Study Tours Scholarships Available 
+Division of International Programs Abroad Summer Programs Office, 119 Euclid Avenue Syracuse, NY 132444170 
+1-800-251-9674 
+
+TOMORROW NIGHT 
+NOTRE DAME 
+BASKETBALL 
+vs. VERICH REPS 
+Monday, November 21, 1994 
+The Observer • TODAY page 15 
+
+FOUR FOOD GROUPS OF THE APOCALYPSE DAVE KELLETT THE FAR SIDE GARY LARSON 
+
+-. 
+CALVIN AND HOBBES BILL WATTERSON 
+CALVIN, fl'\ lWJ~G PIPE DOWN, ~IlL '{t>, R<YZ:.? '10\l'P£. NO\ ARE '{0\.1 18? 
+'f()(JR p~~ l>fnif ~S AI'-ID 1 CAN 1-lt>-ROL'{ S\J?P05ED '{()IJ COIJLI> GIT 
+1\.\\~! NO~ LIT ~ IN! 1-\Et>.R 1\.IE 1'/.' T08£ VS "IJE\Il\lSif'..N. 
+..Wfo.TC\1\N.G IJAMPIR£ 'II)(ENS".' 
+TELE.'I\'5\0\Il~ 
+
+DILBERT  
+THE COMPANY HIRED AN ET~ICS EXPERT TO HELP US T\-\ROUG\-1 THE GRAY AREAS  't'OUR CALLS TO THE ETHICS OFFICE ARE CO/'\PLET~LY CONFIDENTIAL  
+
+CROSSWORD 
+ACROSS 25 French painter 54 Cordial Jean 
+55 They get 1 Hypothetical 29 Hesitation smashedeccentricities in ·sounds
+
+time 56 Clumsy ships 30--di-dah
+e Competition 60 One of five 31 Sports sites 
+61 Oscar winner 33 Mr. Whitney for "Sayonara" 10 Jail unit 
+14 "-man with 
+35 Slippery one 63 Lease
+
+seven wives" 38Calms 64-Stanley
+15 Miss Cinders of medically Gardner
+old comics 40Cargear 65 Boundary
+11 Singer Guthrie 42 Mount St. 66 Advantage17 Brightly Helens spew 67 Philosophersunburned 
+43 "How dry-" A.J.­19 Leaning 
+44 Cylindrical 68 Versifiers 20 GO's space 
+45 Selfchimp 47 Pass receiver 
+
+DOWN
+
+21 Heroic legends 
+so "M*A*S*H" 22Teen woe character 1 Use Western Union
+23 Beelzebub 51 Flake material 2 Prayer's closing 
+3 Effect a makeover 
+
+ANSWER TO PREVIOUS PUZZLE 4 School orgs. 5 Airline to Stockholm 6 Cash back 
+"And 1say we go outside and we play with this ball!" 
+SCOTT ADAMS 
+THANK-5 FOR SHARING TI-\AT . I OWN YOU NOW, 
+WEASEL-BOY 
+
+• 
+~ver Get APol ~mashed! 
+
+25 Pedro's house 41 Baseball stat 55 Length x width, 
+7 Sour brew 
+
+for a rectangle
+2& Silver holders 4& Reproductive
+
+8 Under-the-sink 
+cell 56 Prefix with 
+27 It misleads item 
+
+sphere
+48 Kind of soup 
+
+&Sups 28 Broadway's 
+"Three Men 49 Not so clever 57 Judicial cover? 
+10 Poolside hut 
+-Horse" 51 Exposed 58 Mend, as bones
+11 Greenland settler 53 Houston sch. 59 Speedy planes 
+32 Ocean 
+
+
+12 Grassy plain 34Permit 54 Had been &2 Spigot 13 Mislay 3&This, in Barcelona 
+fRifNDS DON'T lH fRifNDS DRIVf DRUNK 
+Get answers to any three clues
+37 Amorous gaze 
+
+by touch-tone phone: 1-900-420­
+39 Place of 
+
+North refinement 5656 (75¢ each minute). 
+
+
+
+
+» """~~ 
+FOOTBALIY 
+-~ 1994 ~ 
+... 
+Irish clip Falcon's wings 
+SEE SPORTS EXTRA 
+SPORTS 
+page 16 
+The Observer/Eric Ruethling Holly Manthei and the women's soccer team were not able to shut down the tough play of the Tar Heels for the national championship. 
+• MEN'S SOCCER 
+... Crushing 
+
+Monday, November 21, 1994 
+
+Indiana dashes mens hopes of stunning upset 
+By THOMAS SCHLIDT Sports Wrirer 
+BLOOMINGTON, Ind. 
+Entering Bill Armstrong Stadium one could feel that this was something more than just another soccer match. The NCAA banners and the enormous crowd would usually·be the explanation, but there was more. 
+When the Notre Dame men's soccer team ran onto the field in green shorts and green trimmed jerseys that feeling was explained. This was not just anoth­er game, it was not just the NCAA tour­nament, it was a battle of pride for the Irish. 
+When the dust settled, Indiana emerged with the only goal and a 1-0 overtime win, but the Irish were the true victors. They wore the green well. 
+"In my heart, I believe we won this game," coach Mike Berticelli said. 
+Aside from the moral victory, a case can be made that the Irish exactly should have been the winners. Within the first three minutes of the match sophomore midfielder Chris Mathis took a back pass from senior midfielder Keith Carlson and proceeded to drive it past Hoosier goalkeeper Seott Coufal. 
+see DEFEAT/ page 14 
+• WOMEN'S SOCCER 
+Crushed ... 
+North Carolina teaches Irish championship lesson 
+by RIAN AKEY 
+Associare Sports Editor 
+Before yesterday's NCAA women's soccer championship game at the University of Portland, coaches and players from both Notre Dame and
+• 
+North Carolina debated whether the top­ranked Irish or the second-rated Tar Heels were the game's favorite. North Carolina's performance yesterday, how­ever, ended their discussion as the Tar Heels claimed their ninth consecutive NCAA title with a 5-0 trouncing of the Irish. 
+Notre Dame, in an attempt to counter the offensive firepower of North Carolina, opened the first half with four defenders, starting sophomore Amy Van Laeke in place of midfielder Julie Maund. The strategy met with limited success, as the Irish defense held the Tar Heels to one first-half, but they struggled to advance the ball past mid­field against the swarming Carolina attack. 
+The Tar Heel attack, in fact, dominat­ed first-half play from the opening sec­onds of the period. Irish goalkeeper Jen Renola held off two strong Carolina scoring opportunities in the first ten minutes of play, including a one-on-one where she forced all-American candi­date Debbie Keller to shoot wide right from six yards out. 
+The Irish held North Carolina on their first three corners kicks, but the Tar Heels finally were able to capitalize on their fourth corner of the half at 14:30. Keri Sanchez drilled her cross to the near post before Sarah Dacey flicked a header across the net to Angela Kelly for the score. 
+"Their first score was a great goal and great coaching," Notre Dame head coach Chris Pertrucelli said. "We were expecting balls to go to the far post or the top of the box, and the corner was driven to the front post." 
+The Irish were able to muster on solid scoring opportunity thirty minutes into the half when freshman Holly Manthei found Michelle McCarthy, who momen­tarily broke free from the Tar Heels 
+see LESSON/ page 14 
+
+of note...
+IRISH WIN MCC TITLE 
+• The women's volleyball team clinched a spot 
+The men's cross country team in the NCAA tournament by winning the 
+competes today in the NCM championship meet
+MCC tournament See page 13 
+WOMEN'S VOLLEYBALL 
+
+
+
+

@@ -1,0 +1,234 @@
+﻿I) e ^djnhiotic car.
+ZPTJJBI/ESEnElD WEEKLY AT NOTRE BAMTr.
+f mid t« the |uteeeate of the Jittdewts.
+“ LABOR OMNIA VnSTCIT.’*
+Vol. II. UNIVERSITY OF NOTRE DAME, IND.' DECEMBER 26, 1868. No. 16.
+
+Arithmetic.
+BY C. J. D.
+7------- [continued.]
+Numeration is the art of expressing in oral or written language quantity indicated by symbols. A Latin boy seeing the X would express it in words by decern, whilst one of the old Danes would ejaculate Tie. A Kamschatkan would express the same quantity by a species of grunt uphys, whilst one of the old Peruvian Incas would splurt out “ Chunca.” In some languages there are names for each number as high as nineteen, in others still further ; but in the majortiy of European languages the numbers after 10 are expressed by compounding ten. Our word 11— eleven—is, likely, derived from the Anglo-Saxon endlufor, leave one after 10, and twelve, tolfred, is derived from the same language. The words for 100 and 1,000 are derived from the old German, Eundert and Tausend. Between 12 and 100 the words are compounded. Thus, for 14 we say “ fourteen,” that is, a combination of the radix ten and four. 40 is expressed verbally forty. The ty, very probably is the old German zog. It would not be wonderful to see that word, in its peregrinations through the various ramifications of our language, take the shape which it has now, and when we remember the significance of he zog, that is, one drawn (from the heap or pile) ; the meaning of the word becomes very evident— a mark for four tens drawn out. When education was not so general as it now is—when the art of writing was confined to few, and it was considered honorable to be considered ignorant, men had of necessity to make use of many devices, or signs, to express their ideas. Hence, there is very little difficulty, and no absurdity, in imagining that they would note by a straw or
+pebble drawn from a pile and set aside as a mark, the fact of their having counted once round their fingers.
+We mentioned in a previous part of this article that our forefathers did not in all cases adopt the decimal system; still it was well known among them and held in high repute. Sir Thomas Herbert says that “Aristotle not without good reason, admitted that both Greeks and barbarians used alike Numeration unto ten; which seeing it was so universal could not be considered accidental, but rather a number that had its foundation in nature.” I believe that Aristotle was about right, for in a majority of lan-. guages we find the same system, although there are some races, as for instance, the inhabitants of New South Wales, who have no name for a number higher than 3—and when they wish to count five, hold up one hand—ten, two hands—and to express 15 they use one of their own and both hands of a bystander.
+But there, are languages in Europe in which the regular procession from ten to ten is not observed. The French boy does not think it out of the way to say to sixty-twelve—sixty-nineteen. Our smart Minims would laugh immoderately if they were to hear any of their number say such a thing. Still they should not do so, for every nation has its own peculiarities in counting as well as in manners. 80 in French, is quatre-vingt, that is, four twenties; and there are other peculiarities with which all students of French are familiar. Though we did not adopt all their peculiarities, still we did accept their method of dividing our numbers into periods of three places and of proceeding according to units and tens and hundreds and thousands; a thousand thousands making what we denominate a million. This word million is likely derived from the Latin. Bishop Tonstall speaks in his works of the word as being m use m the Latin nomenclature, but thinks it barbarous. The word was taken into
+123
+THE SCHOLASTIC YEAR.
+the German at a much later period than into English and French. It is said that it cannot be found in any German work up to the middle of the 16th century. Clavius, who wrote about 1583, is the first who made use of it in this country.
+There is quite a difference between the system adopted by the French and accepted by us, and the old English method of Numeration. Thus, for instance, the quantity 12345678942 we read now as 12 billion 345 mililon 672 thousand 942, whilst some of our English ancestors would call it 12345 million 678 thousand 942, and would not get to billions at all. Quite a difference in the application of the same word ! When the French system was generally introduced among us is a point that I leave for some of you historians to decide. To find it out you will likely have to search long and carefully, and when you do find it I wish you to inform me. Still there is no doubt that it is quite an ancient habit to divide either into periods of either three or six, and to proceed by hundreds, or up to hundreds of thousands, and then to give a new name—as millions, billions, trillions, etc.
+The Italians, it seems, proceeded by six places, and it may be that the English obtained their system from them. The Spaniards proceeded by three places.
+A study of the system of Numeration in the various languages of the world is very interesting, but as it requires an acquaintance, even if it be only a slight one, with the principles of these languages, which can scarcely be acquired in a lifetime, we, for the present, find ourselves compelled to halt, and to wait till our linguistic acquirements become more perfect than they at present are.
+It is sufficient for us to know that our present system of Numeration is very convenient, and easily acquired. The principal divisions, or fundamental operations of Arithmetic, according to the Hindoos, as given in the Bilamti, their principal authority, were eight: Addition, Subtraction, Multiplication, Division, Square, Square Root, Cube and Cube Root. To these two other sections on Duplation and Halving were introduced into Arabian books, and can be found in many of the works writterilin the sixteenth century. The Hindoos were not so particular about commencing at the right hand side when undertaking an example in addition. They commenced at the right or left as the notion seized them, and generally came out right. Some poor urchin may have failed occasionally, just as some
+members of our 1st Arithmetic are badly stuck in attempting to solve abstruse questions propounded by the “ man on the stairs.” Still if we understand the principles of addition, and follow them, it makes no difference in the world where we begin. Thus to add the sum of 345, 798, and 694, the sum of the hundreds is 16—the sum of the tens 22—and units 17, Writing them in their proper order of units, tens and hundreds,
+16 .	22
+17
+the sum of the sums, is 1837, a result any of our Juniors of the 6th class would have no difficulty in finding in the manner we proceed. The addition was right enough, but to perform Subtraction in the same way is a different thing altogether. Still it was customary in Europe so to perform Subtraction as late as the 16th century, and perhaps later.
+To say the least of it, it was very inconvenient, and it is somewhat singular that among so many persons who wrote such excellent treatise on Arithmetic, so many adhered to that method. Still there is “no disputing about tastes,” and if they like it we need not grumble. It is interesting to note how many methods of Multiplication were in common use. In the Silavati are eight—the majority of which are well known now. Thus to multiply 376 by 35 they would consider the number 35 as composed of three parts, 20,10, and 5 ; multiply by each part and add the products, or of the factors 5 and 7, by which they would multiply as we do now, or they might multiply the number by 40 and from the product subtract five times the number; all very rational methods and easily comprehended. The method by network is the queerest, and if only adopted among our vivacious Juniors would afford them many an opportunity of enjoying a fine game of “ Fox and Geese,” whilst waiting for the Professor to call round and see their work. We don’t think that it was as expeditious as our method is, but we find that it was popular among Eastern nations and was adopted by the Arabians and the Persians, among whom it was very popular. The same method was in use among the early Italian writers on the subject, and some imagine that a knowledge of its principles aided Napier in the construction of his rods. The method of proceeding was to form a series of equal squares— the number of these squares in length being the same as the number of digits in the multiplicand,
+
+THE SCHOLASTIC YEAR.	123
+and in depth equal to the multiplier. Then divide these squares by the diagonals and place the products in the divisions. The entire product will be found by adding the numbers found between the same diagonals. We don’t think the method very expeditious, but the principles of it require no explanation.
+The method of cross multiplication was also known by our ancestors. They could tell the product arising from multiplying 89 by 76 nearly as rapidly as the celebrated “Lightning Calculator,” but they did not seem inclined to practice it with more than two figures, and there is the point where the gentleman named above leaves them away in the lurch. He seems to be able to operate upon four, five, and even more figures, and I do not doubt that many of you could too if you would only practice. The principle of the thing is simply to take the numbers given above, 89 and 76. The product of 9 units by 6 is 54 units, or 5 tens and 4 units, the 4 only being set down ; 8 tens by 6 units gives 48 tens, and 7 tens by 9 units makes 63 tens. The sum of the tens (6348) and the 5 from the first product is 116 tens, or 11 hundreds and 6 tens. Then multiply 8 tens by 7, the product is 56 hundreds, to which add the 11, making 67. The total then is 6764 It takes a long time to explain this on paper, but in practice it is very expeditious and the method should be adopted by the higher Classes. It does not show well for the members of Algebra, Geometry and First Arithmetic Classee, to see them using the simple methods that their Junior brothers must adopt. Counting by the fingers the necessary amount to carry may do very well for a little Minim who is making his first attempt at calculation, but. when we become .“men we should put away childish things.” Of course we never notice in our Classes any such thing, but “an ounce of prevention is better than a pound of cure,” and hence we give the advice. Our present method of multiplication was introduced by the Italians, and since the beginning of the 16th century is the only one noticed by writers of Aritmetic. The process was precisely as ours is, but in matters arithmetical, as well as otherwise, our ancestors seem to have been much given to adornments, and hence they used, in this process, little squares, giving the appearance of a checker-board with some of its squares missing. It had a name indicating this resemblance.
+There were numerous other methods, eaeh of whim had its advocates, who expatiated to great lengths on the methods most agreeable to them.
+A method, called the method of Quarter Squares, deserves some notice, especially as it affords our Geometers an opportunity of exercising their ingenuity in proving its truth. To obtain the product of any two numbers, they found half the sum of the two, squared it, and from that subtracted the square of half the difference. The Geometrical principle, which no doubt any of our Geometers can elucidate, is, that the square of half the sum of any two lines diminished by the square of half the difference of the same two lines is equivalent to the rectangle of the two linesi
+We have talked long enough about Multiplication, and will pass on to the next fundamental rule, Division. Many no doubt are weary of the whole matter and would like to hear or read about something more entertaining. Well, they are likely justified in their weariness, and may be disgusted; but"-as Arithmetic in this country is considered of such importance, we did think that a review of the difficulties under which our ancestors labored, and a comparison of that labor with that of our own, would afford subject matter of reflection to some and feelings of thankfulness in the hearts of others towards those men who devoted a life-time of labor and spent immense amounts of money in simplifying and laying before them in such beautiful form the methods of making these calculations necessary to every business transaction. With this apology we will continue.	'
+If Multiplication was considered such a difficult piece of work, what must the ancients have thought of Division? We do not think anything about it, but some of the good old mathematicians fairly trembled when compelled to undertake an example at which our lowest Classea would laugh, and cry out: “ Professor, that’s too easy; give us a hard one.” And yet though they thought it so hard in itself, instead of simplifying, or endeavoring to simplify the methods in use, each one thought he had done a favor to posterity when he discovered some manner of proceeding more complicated than before. Hence, although it is very hard to understand, why the method called “ Galea” was in most repute, I don’t doubt that the method, in itself, was good, but I would just like to see the 1st Arithmetic wading through an example, putting down a figure here, scratching one there, piling some up, tumbling some down, until the whole, jammed up in glorious confusion, resembled, one of our iron-clad monitors, smoke-stack, turret, and all. I would like to show you one of their forms,—
+124
+THE SCHOLASTIC YEAR.
+the figures, almost numberless, formed into the galley, with its masts, sails and pennants, but it would take so long to work out an example,—it it so wearisome to attempt to wade through the sea of intricacies therein presented, that, for the present, I will not tire you by any problem solved in that (I was going to say mysterious) manner. The Arabian method, from which it is very probable that ours is a direct descendant, is not quite so difficult of comprehension, and the only objection to it in this fast age is, that on, account of the writing down of each step of the operation, it is too slow. We do everything in a hurry,—eat in a hurry, live in a hurry, and often die in a hurry; and this celerity of action enters into every act of ours. The air in this country, it seems, has more vitality than in other countries, and we live now a life in a few years, wherein it is stated that formerly it took people nine hundred years to die. It is easily understood, then, that that which was considered quite expeditious among the inhabitants of Eastern peoples, would be considered tedious in the extreme by our precocious American youth, and hence there is no danger of any of you adopting the manner of working Division, formerly so prized by the Arabians. However, it will not take much time to do just one example, to show you how they proceed. Each step in the operation is written down, and, we think, can be readily understood after a few minutes’ study. Di-
+vide 64,569 by 867 1 “		Write the Dividend as fol-				
+		1 co	7 — 1 —		4 9.	down next figure, and multi-
+lows, and the Divisor at the	6 5		5	6		
+-bottom of the	—	—	—			ply last digit of
+rectangle,—the		8	5			Divisor. The
+first -figure be-		4	2			total remainder
+ing placed one		—	—			is found to be
+section to right		4	3	6		387; annex last
+of the Divi-			4	9		figure of Divi-
+dend, since this		—	—	—	—	dend, advance
+1st quotient fig-		3	8	7	9	the terms of the
+ure cannot, in this example,		3	2			Divisor to the
+		—	—	—		right one place,
+be one. The			6	7		and proceed as
+1st quotient fig-			2	4		before, the final
+ure being f nd,			—	—		remainder be-
+write up at the top, in tens’			4	3	9	ing 411. It is
+				2	8	evident that
+place, multiply			—	—	—	the people of
+8byit,subtr’ct, affix next fig-			4	1	1	those days were
+		—	—	—	—	not as familiar
+ure of divid’nd,			8	6	7	with the Multi-
+then multiply		8	6	7		plication Table -
+6 by 7; bring	—	_ i	—	—	—	as we are, and,
+therefore, to prevent confusion, they multiplied each figure only by one figure at a time.
+Sacred Friendship.
+BY AN OLD CONTRIBUTOR.
+Light the weight that tips the heam, Small the sod that turns tae stream, Faint the whispered word may fall Which may turn sweet life to gall. ’Tis but vapor, in the cloud, But the radiant sun ’twill shrond, . And one little deed of guile, Hide the light of friendship’s smilo.
+Oh, on earth, where flowers most lair Meet the blight ere fruit they bear, Let us guard with earnest truth Holy friendships formed in youth. Bright exotics from the skies, None too well their worth can prize; For affections pure and strong, Mirror heaven; to heaven belong.
+- Spurn their mission: let the blast Of distrust sweep rudely past,’ Let debasing motives mar, Envy sully, falsehood war ’Gainst the calm, unselfish faith That true virtue always hath, And the glorious prince of heaven Unto thee as mentor given,	.
+Weeps that thou hast cast aside One blest power he gave to guide.
+Holy Friendship, but for thee, Bark, how dark this world would be, For, through true friends angels guide us, To give hope, whate’er betide us, While within our hands they place, Charitys sweet fund of grace.
+Wretch is he who counts thy worth, By the standards of the earth;
+Sordid, rude, and mean the heart, Who knows not thy heavenly art, But who learns thy source divine, He is faithful child of thine.
+Holy Friendship, but for thee, Cheerless would tke stern world be; Hence thou’rt given to keep the sonl Trustful till she finds her goal. '
+Trigonometry in a Nutshell,
+PLANE. a : 5 : : sin. A : sin.B. a-^b : a—: tan.X(A-|-B) :tan.^(A—B). Cos.^A^	-
+L oc J
+, SPHEBICAL.	.
+Rsin.M=tan.tan.(ADj.) or cos.cos.(opp.)\ sin.a : sin.& :: sin. A : sin.B.
+Cos.^A=	I
+I smAsm.c J ,
+. a, b, c, sides. A, B, angles. / R, radius, s, half sum of sides, / . M, middle part, adj., adjacent parts. - opp., opposite parts. /
+THE SCHOLASTIC YEAR.
+College
+Ajrx’i'val of Students at; W. Dame.
+December 10th.
+John Ryan,	Delevan, Hl.
+December 13th.
+John Costello, Hugh Gallagher, Francis Bish, Michael Welsh, James McCabe,
+Morris, HI. Brooklyn, N. Y. Lancaster, Ohio. Fort Wayne, Ind, Columbus, Ohio.
+December 15th.
+John Morrison,	Benton Harbor, Mich.
+William Gamble,	Springfield, Mass.
+s
+F
+I > t b
+Tables of Honor.
+Senior Department.
+D. A. Clark, J. Edwards, H. Eisenman, T. Lappin, W. Hoynes, E. Hagan, J. Lecompte, T. Heery, M. Hite, P. Fitzpatrick.
+P. McKeon, J. McGlynn, A. Arrington, H. P. Morancy, H. Schnelker, F. Crapser, T. O’Mahony, A. G. Chane, J. Monroe, J. Kloetzle.
+Junior Department.
+J. Alber, M. Ody, E. Lafferty, J. Dooley, J. Orb, C. Hutchings, C. O’Neil, J. Krauth, D. Eagan, A. Wile, D. Bell.
+H. Beakey, N. Mitchell, P. J. O’Connell, G. McCartney, G. Hug, F. Ingersoll, C. Duffy, J. Goodhue, D. Lauferty, M. McGinley, D. Bland.
+Honorable Mention.
+Natural Philosophy.
+H. Eisenman, T. O’Mahony.
+Chemistry.
+H. Eisenman, T. O’Mahony, A. B. White, J. O’Reilly. ■
+Geology.
+A. W. Arrington, F. Crapser, J. Dickinson, D.
+A.	Clarke, J. Lane, J. Coppinger.
+Zoology.
+F. Crapser, A. Arrington, J. Zahm, H. B. Keeler, A. J. Reilly, I. Buddeke.	L
+Choir.
+Soprani.—V. Hackmann, R. Staley, B. Heffer
+nan, C. Hutchings, M. Mahony, M. Ody, J. Campbell.
+Alti.—T. Ward, T. Crevoisier, F. Nicholas, M.
+Foote.
+Tenors:—F. Ingersoll, H. P. Morancy, L Buddeke, J. Moriarty, B. Vocke, D. J. Diemer.
+Bass :—J. Garhartstine, H. Keeler, P. McKeon, J. Vocke, R. Aikin.	.
+Instrumental Music.
+Piano.—J. Vocke, T. Crevoisier, D. Cooney, J. Wilson, L. Wilson, M. Ody, C. Wenger, A. Reilly, D. Lauferty. *
+Minims—W. Trusch, A. Trumpf.
+. Violin, Sr.
+B.	Vocke, H. P. Morancy, J. Duffy, J. Diemer, I. Buddeke, L. Schmeider, W. Coonce.
+Violin, Jr.
+N. Terrell, F. Ingersoll, Ben. J. Heffernan.
+Violin Minim.
+H. Jones.
+Piano.
+H. Wrape.
+Flute.
+L. Dupler, A. Maierhoffer, B. J. Heffernan.
+Cornet Band.
+J. Garhartstine, J. Lecompte, I. Buddeke, J. Vocke, B. Vocke, M. Hite, H. Wrape, D. Coonce, W. Bird, L. Schmeider, W. Sangster, J. Korb.
+Drawing Class.
+a J i
+I i
+s
+I J
+*
+।
+i
+J «
+It is always a source of pleasure to notice the improvement made by our young friends in their various studies. We experienced this lately on the occasion of a visit paid by us to the Drawing Class of the University, in observing the gentlemanly deportment of the students and the admirable specimens of art produced by them.
+We do not generally particularize, but in this instance we feel compelled to do so, and notice the following young gentlemen as deserving of honorable mention for the marked progress they exhibited in their respective styles:
+Architecture.—Messrs. E. Bahm, A. Hemsteger, D. J. Wile and N. MitchelL
+Figure.—N. Mitchell and D. Egan.
+Landscape.—J. Broderick and A. W. Arrington.
+Academic.—Ivo Buddeke, Lewis Schmeider and H. O’Neill.	.
+We congratulate the students of this class oh their success, and look forward to a rare treat in their Annual Exhibition at the end of the scholastic year.
+126	THE SCHOLASTIC YEAR.
+A Greeting
+From the Students of Notre Dame de Ste Croix (Parts) to the Students of Notre
+Dame.
+When Very Rev. Father E. Sorin left us in October last, on his way to France, where the temporal affairs of the Order demanded his presence, he intimated to the students at Notre Dame his wish of seeing a correspondence established between the students of the two most flourishing institutions under his control; and furthermore, he expressed a desire to see our advanced students and our graduates completing their studies, especially those relating to arts and sciences, at Notre Dame de Ste Croix There is a real worth in the proposal made, an occasion of which many ought to avail themselves. Rev. Father Cham-peau, Superior of Notre Dame de Sainte Croix, informs us that there are in Paris many American young men who come there every year to finish their studies, but being unacquainted with the capital, take their boarding in hotels or private dwellings, where distractions of every sort assail them and often deter them from the purposes they had in view. Now such a place as Notre Dame Ste Croix would exercise a most beneficent influence over the mind of the earnest student, and protect him from the many dangers and frivolities of Paris.
+Not far-distant from Notre Dame de Ste Croix is the famous Academy of Notre Dame des Arts, of illustrious fame, whose school of arts has attracted many pupils from Russia, England, and even America, and where the great masters of the capital give lessons.
+Among our exchanges is the Album of Notre Dame des Arts, published and illustrated by the young artists of the Academy.
+Letter from the Students of Notre Dame de Ste Croix (Paris).
+• Notre Dame de Ste Croix (Paris), i November 30,1868.	$
+Gentlemen and Fellow-Students .•
+. The interesting details which have been given us of the University of Notre Dame du Lac, by Very Rev. Father Sorin, have inspired us with the thought and desire of. opening with.you relations of friendship.
+We would have wished to do it in a language
+more familiar to you; but we are convinced that you are better skilled to read our letters in French than we to write them in either English or German.
+The Institution of Notre Dame de Ste Croix, of which you will find-here inclosed a prospectus, is attended by students, divided into three different Departments; Junior, Intermediate and Senior. .
+A part of the students follow the classical course and prepare themselves for the Examination of the University of France; the other part study exclusively the French branches, from the most elementary to the highest, such as taught in our Cours Superieur.
+We hope that attracted by the presence of Very Rev. Father Sorin in Paris, several among you will be pleased to come here to complete under his paternal direction and vigilant care their studies in French. Hence there will exist between us bonds of friendship and relations which will in future unite us as members of the same family and confraternity.
+In hope of the proximate realization of our wishes, wTe end this letter, begging you to accept the expressions of the interest and cordial sympathies which the students of Notre Dame de Ste Croix entertain for their fellow-students of Notre Dame "du Lac.
+In behalf of the Senior, students,
+Paul Piot.
+Bros. Simon, Jerome and Paul have just arrived- from France, after having escaped, death by shipwreck. The steamer St. Lawrence, upon which they had embarked, reached New York in a damaged condition, having encountered a terrific gale near the banks of Newfoundland. For nearlyvtwo days death seemed imminent, and it is only'by dint of superhuman efforts and endurance that we have not to deplore another disaster like the Hibernia’s.
+The flooding of the ice on St. Joseph’s Lake ought to be forthwith attempted by the' skating clubs of Notre Dame. It would be a pity to own nearly sixty acres of'the slippery element and turn it to no account. Indeed it would be a chapter on the effeminacy of our age. Let therefore the hardy and'healthy student forsake the heated room and seek the bracing air which good old winter gives so plentifully during the Christmas holidays.
+THE SCHOLASTIC TEAR.
+127
+The members of the Senior Department who belong to the Thespian Society, as well as some volunteeers, have appropriately desired to amuse their fellow-students and regale the community at large with the rare treat of the marvellous “ Burning of Bertrand.” We need something of the kind to help us to pass a merry Christmas.
+The noble band of St. Cecilia whose grand exhibition Tuesday night attracted so many visitors from town and the adjoining neighborhood, may well be proud of its wonderful acquirements and popularity. Mention your name young gentlemen of the Cecilia Philomathean, and those who have witnessed your literary and dramatic achievments will gladly hail you wherever they meet you, for they are full of good wishes for your future welfare. You are a vigorous Society, brimful of life and strength; and though last Tuesday evening you gave us unsparingly of your abundance, yet, we felt that there were reserves held back, and sacred fires which the moment did not call forth.
+Omni tulitpunctum qui miscuit utile dulci.
+A VISITOR.
+Debate in the St. Edward’s Society.
+On the evening of Tuesday, Dec. 8th, we had the pleasure of listening to a very well-prepared and spirited debate in the room of the St. Edward’s Society by the members of the same organization. The subject, namely, the respective merjts of the Classical and Scientific courses, had excited considerable interest in the college for some time previous, and was to have been discussed in a general debate by the united forces of the sister literary societies of the institution. But unforeseen circumstances having delayed the debate for several weeks it was conducted by the members of the St. Edward’s Society alone. Members of the College Faculty, both clerical and lay, were present, and took a visible interest in the proceedings.
+Mr. J. P. Rogers appeared first on the affirmative or classical side, and based his arguments on considerations of the highest order—on the noblest duties and destinies of mankind, endeavoring to show that a classical education was the best adapted to aid man in the fulfillment of the one and the attainment of the other. Mr. Rogers, in the course of his speech, expressed sentiments alike creditable to his head and heart. No one could doubt the force of his arguments, whatever question there might be as to their application. .	•
+Mr. A. B. White followed in an elegant address on the side of the negative, bringing forward irrrefragable arguments in favor of a scientific education, embellishing his logic with such judicious rhetorical ornaments as were calculated to make it strike the attention of his hearers most forcibly. Acknowledging the justice of his opponent’s general views, he completely set aside their application, and turned the scale in favor of science. Perhaps, in his wholesale consignment to oblivion of the classical authors, he may be thought to have gone a little too far, although not more than the warmth of argumentative disputation would naturally excuse.
+Mr. A. W. Arrington then came forward in support of the classics, and advocated their study from an ornamental point of view. He replied to Mr. White’s arguments with that forensic skill and tact which would be naturally expected of him, but he could not entirely obliterate the impression made by his adversary.	•
+Mr. H. B. Keeler, on the negative, applied himself first to the confuting of Mr. Rogers’ arguments against the sciences as tending to atheism. He showed that the pursuit of science, so far from having this evil tendency, is eminently calculated to elevate the mind of man to the Creator of all things. He adverted also to the superior utility of scientific pursuits, and to the good done to the human race in general by scientific inventions. He then proceeded to dispose of Mr. Arrington. Mr. Keeler’s arguments were solid and practical, and brought forward in a manner highly indicative of good common sense. His view of the utility of mathematics in forming the mind was particularly commendable.
+Volunteers were now called for, and none appearing, Mr. Rogers rose to close the debate. He endeavored to give an answer to each of the arguments of his adversaries in turn, and if not demolishing them, at least showed skill in selecting their weak points for attack.
+The Rev. President being called upon for his decision, proceeded to sum up the arguments on either side. The time, however, had slipped by imperceptibly, and the importunities of the college watchman were becoming annoying. Hence he begged to defer his decision to a future meeting. It was sufficiently understood, however, by the unanimous sentiment of those present, that Science had gained the day.
+The visitors present signified their approbation of the good spirit and able management of this debate, as indeed it well deserved. The St. Edward’s Society is at present in an eminently flourishing condition. The talent, diligence, and gentlemanly deportment of its members are a credit to the institution to which they belong. •	A Viskob.
+St. Aloysius’ Philodemic.
+Noise Dame, Ind., Dec. 18,1868.
+On the 17th inst. the St. Aloysius Philodemic Association met to take action with regard to the death of Rev. Fathers Patrick and James Dillon, formerly presidents of this Association. A committee was authorized to draw up a preamble and resolutions expressive of the feelings of the Association.
+The following preamble and resolutions were adopted:
+Whereas, It has pleased Almighty God to call from the field of their zealous labors in His divine service, Rev. Fathers Patrick and James Dillon,—be it therefore
+Resolved, By the members of this Association, that while recognizing the supreme wisdom of Providence, we cannot refrain from expressing our sincere sorrow and regret at the intelligence of their premature death; and from extending to the bereft relatives and friends our heartfelt sympathy and condolence for the irreparable loss they have sustained.
+Resolved, That the presidential chair be draped in mourning for the space of thirty days, and that the members attend the funeral in a body.
+Resolved, That a copy of these resolutions be published in the Scholastic Year, in the Chicago Times, and-also one be sent to the bereaved family.
+J. Cunnba, J. F. Edwards, J. A. O’Reillt, J. Monroe, A. J. Rehlt, W. P. McClain, W. Walker,
+Committee.
+128
+THE SCHOLASTIC YEAR.
+Notre Dame Chess Club.
+On Sunday evening, Dec. 13th, the Notre Dame Chess Club, which existed in the University last year, was reorganized, under the direction of Prof. Baasen, who has kindly accepted the Directorship of the Club. The members met on this occasion for the purposes of reorganization and the election of officers. The result of the election is as follows:
+President, H. B. Keeler; Vice-President, J. P. Bogers; Secretary, T. F. O’Mahony; Treasurer, H. L. Eisenman; 1st Censor, Jacob Eisenman; 2d Censor, D. A. Clark.
+It is a fact which no intelligent person will attempt to controvert, that chess occnpies the first rank among the games now played in the higher circles of society, not only for the innocent amusement which it affords, but also for beneficial mental exercise.	T. F. O’Mahony, Sec’y.
+e^AINT ^ARY’S ^CAOEMY.
+Saint Mary’s, Dec. 22d, 1868.
+-	-Arrivals.
+Miss Esther Lonergan, Batavia, Ill. .
+Table of Honor, Sr.
+Misses L. McManaman, H. Neil, H. Higgins, J. Lonergan, W. Corby, E. Simms, M. Clune, E. Kitter, J. Denny, L. English, M. Kirwin, K. Cunnea.
+Honorable MZention.
+Graduating Class:—Misses L. and L. Tong, E. Longsdorf, K. Livingston, A. Ewing, E. Crouch, F. Hosmer, J. Hindes.
+First Class Sr:—Misses A Carmody, A. Cunnea, A. Radin, A. Mulhall, N. Taber, O. Brady, E. Kirwin, M. Morrill, N. Tracy, J. Dobson, F. Grimes, M. Claffey, E. Ewing, M. Carraher, R. Mukautz, A. Darcy, M. Johnson, M. Walton, M. Chouteau, L. Lewis, M. Alexander, C. Bertrand, C. Davenport, E. Howard.
+Second Class Sr:—Misses M. Edwards, E. Bland, C. Thomson, R. Rettig, C. Foote, E. Lindsay, L. Ingersoll, L. Lewis, N. Leoni, A. Carpenter, M. King, A Sherburn, E. Carr, A. Heckman, S. Gleeson, T. Lafferty, L. Chouteau, K. Carpenter, A Walker, T. Van Horn, K. Armstrong, L. Corning, L. Chamberlain, B. Gardner, L. Smith, K. Young.
+Third Class Sr:—Misses M. Tuberty, A. Boyles, N.' Simmes, K. Kent, A. Fulwilder, S. Beebe, K. Joslin, F. Stevens, M. La Brash, M. Dillon.
+First Preparatory Class:—Misses J. Gettings, M. Foote, E. Cooney, M. Rumely, E. Henry.
+Second Preparatory Class :—Misses K. O’Toole,
+M. O’Toole, P. Smith, J. Davis, A. Minnick^ N Burridge, K. Zell, K. Cline, M. Minor..
+Third Preparatory Class:—Misses L. Blaizy, C. Hoerber, A. Dingers,. E. Seiler.
+French.
+First Class:—Misses C. Livingston, E. Londs-dorf, M. Walton. •
+Second Class;—Misses A. Mulhall, A. Alexander, C. Davenport, K. Carpenter. Second div.— Misses M. Twoony, K. Cunnea, K. Robisnow.
+Third Class :—Misses A. Cunnea, L. Corning, M. Chouteu, N. and L. Leoni.
+German.
+First Cicss :—Misses E. Crouch, M. Rumeley.
+Second Classi—Misses M. Johnson, E. Henry, H. Higgins.
+Music.
+Instrumental—Piano—First Class: Miss J. Hindes. Second div.—Misses A. Mulhall, A. Walker. Second Class: Misses L. and L. Tong, N. Thomspon. Second div.—Misses E. Phamon-don, A. Darcy. Third Class: Misses M. Edwards, L. English, E. Kirwin. Fourth Class: Misses M. Twooney, J. Lonergan. Second div.—Misses K. Kent, N. Burridge. Fifth Class: Misses F. Stephens, A. Sturgis. Second div.—Misses R. Joslin, K. Zell. Sixth Class: Misses A. and A. Boyles. Seventh Class: Misses A. Clark, A. Byrnes. Eighth Class: Miss J. Walton.
+Harp:—Misses C. Davenport, M. Shirland.
+Guitar:—Miss M. Simmes.
+Table of Honor, Jr.
+Misses A Clark, J. Walton, A. Woods, L. Neil, S. Dunbar, L. Jones, L. McNamarra, M. Moon, L. Thomson, M. Vaughn, B. Henry, N. Streiby.
+Honorable Mention.
+Second Preparatory Class:—Miss A. Boyles.
+Third Preparatory Class:—Misses B. Meyers, M Letourneau, A. Robson, A. Metzger.
+First Junior Class:—Misses A. Byrnes, M O’Meara, B. Frensdorf, M. Roberts, F. Taylor, A. Longley, M. McNamarra.
+Second Junior Class :—Misses A. DeCamp, R. Canoil, M. Gildersleeve, B. Wilson.
+- On last Sunday the “Children of Mary” held their annual election of officers. The following was the result. President, A Ewing; Vice-President. Lizzie Tong; Secretary, Laura Tong; Treasurer, M. Twomey; Sacristan, A. Mulhall; Librarian, M. Carraher; 1st Counselor, A. Carmody; 2d Counselor, M. Claffey; 3d Counselor, L. Lewis.
