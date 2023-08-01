@@ -11,8 +11,6 @@ This lab uses textual analysis methods to explore student newspaper coverage of 
 
 # Table of Contents
 
-## Abbreviated Table of Contents
-
 - [Background](#background)
 - [Introduction](#introduction)
   * [University Archive Digital Collections](#university-archive-digital-collections)
@@ -103,101 +101,13 @@ Developed by Laurence Anthony, <a href="http://www.laurenceanthony.net/software/
 
 # Oh, the Places You Could Go!
 
-SOMETHING ON PROGRAMMATIC WORKFLOWS
+In addition to the graphical-user-interface (GUI) based tools covered in the previous sections of the lab, we can also apply these methods using programmatic workflows.
 
 ## NLTK and Python
 
 To undertake large-scale text analysis, we would need to be able to download source material in bulk and eventually convert that source material to plain-text formats for various kinds of analysis and visualization in a programming environment. This section of the lab procedure includes Jupyter notebook (`.ipynb`) files with sample Python workflows for using text and data mining workflows with select collections of digitized material from the [University of Notre Dame Archives](http://archives.nd.edu/).
 
-CREATE A MASTER PYTHON PAGE
-
-[Link to this section of the lab](#)
-
-- [Bulk Download](https://github.com/kwaldenphd/football-text-analysis/blob/main/python-bulk-download.md)
-- [Optical Character Recognition](https://github.com/kwaldenphd/football-text-analysis/blob/main/python-ocr.md)
-- [NLTK](https://github.com/kwaldenphd/football-text-analysis/blob/main/python-text-analysis.md)
-
-Each Jupyter Notebook goes into more detail about the sample Python code presented.
-
-# Bulk Download
-
-Prof. Walden has built out Jupyter notebooks for bulk downloading PDFs for a variety of digital collections in the University Archive.
-
-NOTE: Prof. Walden has already loaded PDFs for these publications into Google Drive. If you want or need to download files to your personal computer, you can- but just know we're talking about gigabytes of material. My recommendation is for folks to make copies of the Jupyter Notebooks within Google Drive so you can run them through Google CoLab, mount the files in Google Drive, and not have to deal with storage and processing constraints/limitations on your personal computer. 
-
-[Link to this section of the lab](https://github.com/kwaldenphd/football-text-analysis/blob/main/python-bulk-download.md)
-
-# Optical Character Recognition
-
-Prof. Walden has built out a Jupyter notebook that outlines a preliminary optical character recognition (OCR) workflow, using the Scholastic Football Review publications as an example.
-
-The OCR workflow uses the following programs and Python modules:
-- `tesseract`
-- `pytesseract`
-- `opencv`
-- `pillow`
-- `pdf2image`
-
-The OCR workflow includes the following steps:
-- Creates sub-directories for each `PDF`
-- Converts each page in a `PDF` to a `PNG` file
-- Saves the image files for a single `PDF` in a sub-directory
-- Runs OCR on image files with sample code for `pytesseract` and `pytesseract`/`opencv` workflows
-- Writes OCR output to a `txt` file in the main directory, with one `txt` file for each `PDF`
-
-Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/ocr-roadmap.ipynb)
-- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/ocr-roadmap.ipynb)
-- [Google CoLab](https://drive.google.com/file/d/1WbGTAvs1WCGrC5XZeADyhminFn8QMEHT/view?usp=sharing) *ND users*
-
-[Click here](https://github.com/kwaldenphd/football-text-analysis/blob/main/python-ocr.md) to open this section of the lab.
-
-## Text Analysis in Python
-
-Prof. Walden has built out a Jupyter notebook that outlines a preliminary text analysis workflow, using the Scholastic Football Review publications as an example.
-
-The text analysis workflow is based on the back-end stack for Eric Lease Morgan's Distant Reader.
-- Morgan, Eric Lease. (2020, April 10). Distant Reader (Version Alpha). Zenodo. https://doi.org/10.5281/zenodo.3747777.
-
-The workflow uses the following Python modules:
-- `wordcloud`
-- `matplotlib`
-- `spaCy`
-- `nltk`
-- `gensim`
-
-The workflow includes sample code for the following steps or tasks:
-- Generate a word cloud using `wordcloud` and `matplotlib`
-- Analyze syntax using `spaCy`
-- Part-of-speech tagging using `spaCy`
-- Named entity extraction and visualization using `spaCy`
-- Tokenizing text and tag tokens using `nltk`
-- Named entity extraction using `nltk`
-- Generate unique word list using `nltk`
-- Plot term frequency and distribution using `nltk` and `matplotlib`
-- Generate dictionary and corpus from text file using `gensim`
-- Show word weights in corpus using `gensim`
-- Create bag of words from single text file using `gensim`
-- Create TD-IDF model and show TD-IDF weights using `gensim`
-
-Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/text-analysis-roadmap.ipynb)
-- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/text-analysis-roadmap.ipynb)
-- [Google CoLab](https://drive.google.com/file/d/1S2W6NQfLC_9kbcg7_RwYZ163yZ6R7n1K/view?usp=sharing)
-
-[Click here](https://github.com/kwaldenphd/football-text-analysis/blob/main/python-text-analysis.md) to open this section of the lab.
-
-### Additional Python Resources
-
-Steven Bird, Edward Loper and Ewan Klein (2009), [*Natural Language Processing with Python*](https://www.nltk.org/). O’Reilly Media Inc.
-
-*Digital Ocean* tutorials:
-- [Sentiment analysis](https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk)
-- [NLTK overview](https://www.digitalocean.com/community/tutorials/how-to-work-with-language-data-in-python-3-using-the-natural-language-toolkit-nltk)
-
-*Programming Historian* tutorials:
-- [Stylometry](https://programminghistorian.org/en/lessons/introduction-to-stylometry-with-python)
-- [Sentiment analysis](https://programminghistorian.org/en/lessons/sentiment-analysis)
+[Link to this section of the lab](https://github.com/kwaldenphd/football-text-analysis/blob/main/python-text-analysis.md)
 
 ## Natural Language Processing and Text Analysis in R
 
@@ -236,45 +146,5 @@ To learn more about Distant Reader:
 # Next Steps (aka, now it's your turn!)
 
 By this point in the lab we've covered a number of different tools for (computational) text analysis. Now it's your turn to come up with a small-scale question, topic, etc. related to the period of ND football history we've been looking at (or some of the broader themes we've been talking about) that you could explore using some of the primary sources and analysis/research methods covered in this lab.
-
-## Part I: Identify a research question (or topic)
-
-Background or context for the research question or topic you're exploring
-- At least 250  words (or 3 minutes audio/video) on how the question you're asking or topic you're exploring is grounded in the texts we've been reading and conversations we've been having about ND football history and cultural significance.
-  * To put it another way, this is a "background" section.
-
-## Part II: Build a corpus
-
-Sources and research/analysis methods you'll be using
-- At least 200 words (or 2 minutes audio/video) on how the specific sources you're engaging with and research/analysis methods you're using animate or connect to the question(s) you're asking or the topic(s) you're exploring.
-  * To put it another way, this is a "methods" or "methodology" section
-
-## Part III: Preliminary Findings
-
-What you found through the exploration/analysis
-- At least 250 words (or 3 minutes audio/video) on what you found through analyzing this source material using specific research/analysis methods. Folks are encouraged to include visualizations/screenshots/figures/etc in this section.
-  * To put it another way, this is a "findings" section
-
-## Part IV: Conclusions & Next Steps
-
-Conclusions and next steps
-- At least 250 words (or 2-3 minutes asudio/video) on how your findings relate to the broader context or background you outlined at the start of the report.
-- Questions to address:
-  * How can the work you did in this lab inform how we think about or understand ND football's history and cultural significance? How does it connect to the readings and conversations we've been having in class?
-  * Where would you go next with this research? What questions emerged through doing this work? What questions were you not able to address? 
-    * To put it another way, this is a hybrid "discussion" and "conclusion" section
-
-## Part V: Individual Reflection
-
-At least 200 words (or 2-3 minutes audio/video) from each member of the group, addressing the following questions:
-- Your contribution to the lab report
-- Challenges you faced in this lab and how you solved them
-- What you learned about text analysis through this lab
-- How you're thinking about text analysis (and ND football history/primary sources) differently after this lab
-- Other comments/questions/observations
-
-## Other Components
-- Any PDF or TXT files you created or worked with (that aren't already in the Lab 1 Google Drive)
-- Any Python scripts/Jupyter Notebooks (or RStudio/RMarkdown files) you created or used
 
 [Click here](https://github.com/kwaldenphd/football-text-analysis/blob/main/next-steps.md) to open this section of the lab.
