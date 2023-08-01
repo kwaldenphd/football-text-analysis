@@ -6,11 +6,10 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 ## Table of Contents
 
 - [Bulk Downloads](#bulk-downloads)
+- [Optical Character Recognition (OCR)](#optical-character-recognition-ocr)
 - [Text Analysis in Python](#text-analysis-in-python)
-- [Python Text Analysis Next Steps and Additional Resources](#python-text-analysis-next-steps-and-additional-resources)
-- [More documentation on the tools covered in this notebook](#more-documentation-on-the-tools-covered-in-this-notebook)
-- [On-Campus Resources and Workshops](#on-campus-resources-and-workshops)
-- [Other Tutorials, Packages, and Methods](#other-tutorials-packages-and-methods)
+- [Next Steps & Additional Resources](#next-steps--additional-resources)
+- [Reflection Questions](#reflection-questions)
 
 # Bulk Downloads
 
@@ -94,11 +93,11 @@ The workflow includes sample code for the following steps or tasks:
 
 [Click here to access the Jupyter Notebook via Google CoLab](https://drive.google.com/file/d/1S2W6NQfLC_9kbcg7_RwYZ163yZ6R7n1K/view?usp=sharing)
 
-## Python Text Analysis Next Steps and Additional Resources
+## Next Steps & Additional Resources
 
 [Click here](https://github.com/kwaldenphd/football-text-analysis/blob/main/python-next-steps.md) for more documentation and resources on some of the tools covered in this section of the lab.
 
-## Python Reflection Questions
+## Reflection Questions
 
 - What did you find engaging or interesting about the different aspects of these Python workflows?
 - What challenges, frustrations, or limitations did you encounter while using and/or modifying these Python workflows?
