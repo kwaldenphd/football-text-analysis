@@ -33,7 +33,7 @@ According to [its website,](https://databasic.io) “DataBasic is a suite of eas
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_5.jpg?raw=true" alt="Capture" /></p>
 
-6-Download a plain-text file for one of the Scholastic football reviews. [Link to Google Drive folder with sample files](https://drive.google.com/drive/folders/1zK99DK_Cd-w9tu2u2M5vlAOSidZYdVTd?usp=sharing).
+6-Download a plain-text file for the 1929 Scholastic football review ([Google Drive link](https://docs.google.com/document/d/13-NlJ40DzzFBUs2qe1uOpET1ZKEGs3I2DZLzKzulnSU/edit?usp=drive_link)).
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_6.jpg?raw=true" alt="Capture" /></p>
 
@@ -89,7 +89,7 @@ A comma-separated value file (CSV) is a structured tabular data format in which 
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_10.PNG?raw=true" alt="Capture" /></p>
 
-20-Take the single text file you used in the previous section of the lab, and compare it with the combined Scholastic football reviews from 1901-1931 (file name `Scholastic-Combined.txt`, [Link to download from Google Drive](https://drive.google.com/file/d/1Law1fb8c1xZOdwLyNCO-p3opI020kovn/view?usp=sharing)).
+20-Take the single text file you used in the previous section of the lab, and compare it with the 1931 Scholastic football review ([Google Drive link](https://drive.google.com/file/d/1cPcY6mXNLcXUoL27v3BxlMgNkB4pS4rT/view?usp=drive_link)).
 
 21-Click the Compare icon. 
 
