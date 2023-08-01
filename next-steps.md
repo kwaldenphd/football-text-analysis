@@ -146,7 +146,7 @@ The thought experiments in Jennifer Guiliano's "Toward a Praxis of Critical Digi
 
 # Lab Notebook Resources
 
-[Link to Google Drive folder with lab materials and resources, including notebook template](https://drive.google.com/drive/folders/1ewsgmrPNeWJYzi5f8EXr05VjPnlRCATz?usp=sharing) (ND Users)
+[Link to Google Drive folder with lab materials and resources, including notebook template](https://drive.google.com/drive/folders/1lvk2Vwah6ZZ69WC6TTbGZUIgXCqYSBi7?usp=drive_link) (ND Users)
 
 Components:
 - Reflections/observations from in-class work (Data Basic, Voyant Tools, AntConc)
