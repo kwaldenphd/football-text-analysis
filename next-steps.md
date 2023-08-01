@@ -20,32 +20,47 @@ By this point in the lab we've covered a number of different tools for (computat
 
 Now it's your turn to come up with a small-scale question, topic, etc. related to the period of ND football history we've been looking at (or some of the broader themes we've been talking about) that you could explore using some of the primary sources and analysis/research methods covered in this lab.
 
-This section of the lab will resemble a more "traditional" lab report:
-- Background or context for the research question or topic you're exploring
-  * At least 500 words (or 5 minutes audio/video) on how the question you're asking or topic you're exploring is grounded in the texts we've been reading and conversations we've been having about ND football history and cultural significance.
+## Part I: Identify a research question (or topic)
+
+Background or context for the research question or topic you're exploring
+- At least 250  words (or 3 minutes audio/video) on how the question you're asking or topic you're exploring is grounded in the texts we've been reading and conversations we've been having about ND football history and cultural significance.
   * To put it another way, this is a "background" section.
-- Sources and research/analysis methods you'll be using
-  * At least 200 words (or 2 minutes audio/video) on how the specific sources you're engaging with and research/analysis methods you're using animate or connect to the question(s) you're asking or the topic(s) you're exploring.
+
+## Part II: Build a corpus
+
+Sources and research/analysis methods you'll be using
+- At least 200 words (or 2 minutes audio/video) on how the specific sources you're engaging with and research/analysis methods you're using animate or connect to the question(s) you're asking or the topic(s) you're exploring.
   * To put it another way, this is a "methods" or "methodology" section
-- What you found through the exploration/analysis
-  * At least 500 words (or 5 minutes audio/video) on what you found through analyzing this source material using specific research/analysis methods. Folks are encouraged to include visualizations/screenshots/figures/etc in this section.
+
+## Part III: Preliminary Findings
+
+What you found through the exploration/analysis
+- At least 250 words (or 3 minutes audio/video) on what you found through analyzing this source material using specific research/analysis methods. Folks are encouraged to include visualizations/screenshots/figures/etc in this section.
   * To put it another way, this is a "findings" section
-- Conclusions and next steps
-  * At least 250 words (or 2-3 minutes asudio/video) on how your findings relate to the broader context or background you outlined at the start of the report. 
+
+## Part IV: Conclusions & Next Steps
+
+Conclusions and next steps
+- At least 250 words (or 2-3 minutes asudio/video) on how your findings relate to the broader context or background you outlined at the start of the report.
+- Questions to address:
   * How can the work you did in this lab inform how we think about or understand ND football's history and cultural significance? How does it connect to the readings and conversations we've been having in class?
   * Where would you go next with this research? What questions emerged through doing this work? What questions were you not able to address? 
-  * To put it another way, this is a hybrid "discussion" and "conclusion" section
-- Any PDF or TXT files you created or worked with (that aren't already in the Lab 1 Google Drive)
-- Any Python scripts/Jupyter Notebooks (or RStudio/RMarkdown files) used in the lab
-- Individual reflections
-  * At least 200 words (or 2-3 minutes audio/video) from each member of the group, addressing the following questions:
-    * Your contribution to the lab report
-    * Challenges you faced in this lab and how you solved them
-    * What you learned about text analysis through this lab
-    * How you're thinking about text analysis (and ND football history/primary sources) differently after this lab
-    * Other comments/questions/observations
+    * To put it another way, this is a hybrid "discussion" and "conclusion" section
 
-## Collaborating Well
+## Part V: Individual Reflection
+
+At least 200 words (or 2-3 minutes audio/video) from each member of the group, addressing the following questions:
+- Your contribution to the lab report
+- Challenges you faced in this lab and how you solved them
+- What you learned about text analysis through this lab
+- How you're thinking about text analysis (and ND football history/primary sources) differently after this lab
+- Other comments/questions/observations
+
+## Other Components
+- Any PDF or TXT files you created or worked with (that aren't already in the Lab 1 Google Drive)
+- Any Python scripts/Jupyter Notebooks (or RStudio/RMarkdown files) you created or used
+
+# Collaborating Well
 
 Collaboration is also your friend here- you don't have to come up with all the ideas or do all the work on your own. For example, folks with Python skills can focus on assembling a corpus of primary source materials as plain-text formats. Folks who are more comfortable with statistical analysis and/or data analysis/visualization can focus on those aspects of the project. Folks who are more comfortable with close reading approaches for analyzing primary sources can focus on the components of the lab that ask you to think about background/context/broader significance.
 
@@ -53,7 +68,7 @@ In short, leverage the group's strengths. And divide/conquer.
 
 Folks are welcome to meet with me (individually or as a group) to ask questions and think about next steps for how to approach this lab.
 
-## Where to Start: Articulating a Research Question or Topic
+# Where to Start: Articulating a Research Question or Topic
 
 Our end-point for this class is an open-ended final project that takes up course topics/themes/etc. This lab is not a final project.
 
@@ -68,7 +83,7 @@ The final project is a space where you take up more advanced computational metho
 
 For now, think about the questions you might be interested in asking or the topics you might be interested in exploring- we've already done some brainstorming in this direction with our in-class work.
 
-## Building a Corpus
+# Building a Corpus
 
 Then, thinking about the primary sources or materials that would be useful for exploring this question/topic.
 
@@ -81,7 +96,7 @@ We can extract plain-text from scanned documents using a process called "optical
 
 For folks with Python proficiency, the Python portions of the lab include a sample OCR workflow that converts digitized PDFs to image files, then takes the image files as binary data and extracts text. The notebooks provided in that section of the lab also include a number of resources for refining or further developing/customizing an OCR workflow.
 
-### Acrobat Adobe Pro
+## Acrobat Adobe Pro
 
 But, depending on the number of documents you're working with as well as the quality of OCR output needed for your project, Adobe Acrobat Pro will likely get you where you need to go.
 - NOTE: This is a different program than the Adobe Acrobat Reader DC free program you may have on your computer.
@@ -111,7 +126,7 @@ To export multiple PDFs as TXT files from Adobe Pro (using "Action Wizard"):
 - Source: StackOverflow, "[How to convert batch pdf files to text using Adobe Acrobat Pro?](https://stackoverflow.com/questions/25212228/how-to-convert-batch-i-e-huge-pdf-files-to-text-using-adobe-acrobat-pro)" *StackOverflow* (2015)
 - For more on Action Wizard: Adobe Acrobat User Guide, "[Action Wizard (Acrobat Pro)](https://helpx.adobe.com/acrobat/using/action-wizard-acrobat-pro.html#about_action_wizards)" *Adobe* (2 June 2020)
 
-## Addressing Your Research Question
+# Addressing Your Research Question
 
 Any of the tools and methods covered in this lab are fair game. Folks are also welcome to branch out and/or go more deeply into any of these areas, keeping in mind the limited assignment scope.
 
@@ -135,41 +150,15 @@ The thought experiments in Jennifer Guiliano's "Toward a Praxis of Critical Digi
 
 [Link to Google Drive folder with lab materials and resources, including notebook template](https://drive.google.com/drive/folders/1ewsgmrPNeWJYzi5f8EXr05VjPnlRCATz?usp=sharing) (ND Users)
 
-FOR NON-ND USERS: 
-- [Link to make a copy of the lab notebook template](https://docs.google.com/document/d/1mBiPpxjRfBlEZI9XIc8rzSpSuHfAlrfV6l5ivjih1Vo/copy) (Google Doc)
-- [Lab notebook template as a plain-text `.md` file](https://github.com/kwaldenphd/football-text-analysis/blob/main/lab-notebook-template.md)
-- [Lab notebook template as a PDF](https://github.com/kwaldenphd/football-text-analysis/blob/main/Text_Analysis_Lab_Notebook_Template.pdf)
+Lab notebook formats for non-ND users: 
+- [Google Doc](https://docs.google.com/document/d/1mBiPpxjRfBlEZI9XIc8rzSpSuHfAlrfV6l5ivjih1Vo/copy)
+- [Markdown](https://github.com/kwaldenphd/football-text-analysis/blob/main/lab-notebook-template.md)
+- [PDF](https://github.com/kwaldenphd/football-text-analysis/blob/main/Text_Analysis_Lab_Notebook_Template.pdf)
 
 Components:
-- Reflections/observations from Thursday 9/9 in-class work (Voyant Tools and Distant Reader)
-- Reflections/observations from Thursday 9/16 in-class work (AntConc and Python)
+- Reflections/observations from in-class work (Data Basic, Voyant Tools, AntConc)
 - Report from your own textual analysis experiment (outline below)
 - Any PDF or TXT files you worked with
 - Any Python scripts/Jupyter Notebooks used in the lab
 
 If you’re working in or using Google Drive, you can download the project folder as a compressed zip folder and submit to Canvas. You can also include a link to the Google Drive folder as part of the lab notebook. 
-
-Template/outline for the report:
-- Background or context for the research question or topic you're exploring
-  * At least 500 words (or 5 minutes audio/video) on how the question you're asking or topic you're exploring is grounded in the texts we've been reading and conversations we've been having about ND football history and cultural significance.
-  * To put it another way, this is a "background" section.
-- Sources and research/analysis methods you'll be using
-  * At least 200 words (or 2 minutes audio/video) on how the specific sources you're engaging with and research/analysis methods you're using animate or connect to the question(s) you're asking or the topic(s) you're exploring.
-  * To put it another way, this is a "methods" or "methodology" section
-- What you found through the exploration/analysis
-  * At least 500 words (or 5 minutes audio/video) on what you found through analyzing this source material using specific research/analysis methods. Folks are encouraged to include visualizations/screenshots/figures/etc in this section.
-  * To put it another way, this is a "findings" section
-- Conclusions and next steps
-  * At least 250 words (or 2-3 minutes asudio/video) on how your findings relate to the broader context or background you outlined at the start of the report. 
-  * How can the work you did in this lab inform how we think about or understand ND football's history and cultural significance? How does it connect to the readings and conversations we've been having in class?
-  * Where would you go next with this research? What questions emerged through doing this work? What questions were you not able to address? 
-  * To put it another way, this is a hybrid "discussion" and "conclusion" section
-- Any PDF or TXT files you created or worked with (that aren't already in the Lab 1 Google Drive)
-- Any Python scripts/Jupyter Notebooks (or RStudio/RMarkdown files) used in the lab
-- Individual reflections
-  * At least 200 words (or 2-3 minutes audio/video) from each member of the group, addressing the following questions:
-    * Your contribution to the lab report
-    * Challenges you faced in this lab and how you solved them
-    * What you learned about text analysis through this lab
-    * How you're thinking about text analysis (and ND football history/primary sources) differently after this lab
-    * Other comments/questions/observations
