@@ -27,12 +27,7 @@ This lab uses textual analysis methods to explore student newspaper coverage of 
   * [Track #2: Text Analysis Research Proposal](#text-analysis-research-proposal)
 - [Lab Notebook Components](#lab-notebook-components)
 
-[Link to Google Drive folder with lab materials and resources, including notebook template](https://drive.google.com/drive/folders/1ewsgmrPNeWJYzi5f8EXr05VjPnlRCATz?usp=sharing) (ND Users)
-
-Lab notebook formats for non-ND users: 
-- [Google Doc](https://docs.google.com/document/d/1mBiPpxjRfBlEZI9XIc8rzSpSuHfAlrfV6l5ivjih1Vo/copy)
-- [Markdown](https://github.com/kwaldenphd/football-text-analysis/blob/main/lab-notebook-template.md)
-- [PDF](https://github.com/kwaldenphd/football-text-analysis/blob/main/Text_Analysis_Lab_Notebook_Template.pdf)
+[Link to Google Drive folder with lab materials and resources, including notebook template](https://drive.google.com/drive/folders/1lvk2Vwah6ZZ69WC6TTbGZUIgXCqYSBi7?usp=drive_link) (ND Users)
 
 # Background
 
