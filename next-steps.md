@@ -6,13 +6,17 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 ## Table of Contents
 
 - [Next Steps (aka, now it's your turn!)](#next-steps-aka-now-its-your-turn)
-  * [Collaborating Well](#collaborating-well)
-  * [Where to Start: Articulating a Research Question or Topic](#where-to-start-articulating-a-research-question-or-topic)
-  * [Building a Corpus](#building-a-corpus)
-    * [Acrobat Adobe Pro](#acrobat-adobe-pro)
-  * [Addressing Your Research Question](#addressing-your-research-question)
-- [Lab Notebook Components](#lab-notebook-components)     
-
+  * [Part I: Identify a research question (or topic)](#part-i-identify-a-research-question-or-topic)
+  * [Part II: Build a corpus](#part-ii-build-a-corpus)
+  * [Part III: Preliminary Findings](#part-iii-preliminary-findings)
+  * [Part IV: Conclusions & Next Steps](#part-iv-conclusions--next-steps)
+  * [Part V: Individual Reflection](#part-v-individual-reflection)
+- [Collaborating Well](#collaborating-well)
+- [Where to Start: Articulating a Research Question or Topic](#where-to-start-articulating-a-research-question-or-topic)
+- [Building a Corpus](#building-a-corpus)
+  * [Acrobat Adobe Pro](#acrobat-adobe-pro)
+- [Addressing Your Research Question](#addressing-your-research-question)
+- [Lab Notebook Resources](#lab-notebook-resources)     
 
 # Next Steps (aka, now it's your turn!)
 
@@ -140,14 +144,9 @@ Some questions from [the "Distant Reader" documentation](https://distantreader.o
 The thought experiments in Jennifer Guiliano's "Toward a Praxis of Critical Digital Sport History" might also be a starting point.
 - Jennifer Guiliano, “Toward a Praxis of Critical Digital Sport History” *Journal of Sport History* 44:2 (2017): 146-159. [Link to online access via Hesburgh Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_crossref_primary_10_5406_jsporthistory_44_2_0146).
 
-# Lab Notebook Components
+# Lab Notebook Resources
 
 [Link to Google Drive folder with lab materials and resources, including notebook template](https://drive.google.com/drive/folders/1ewsgmrPNeWJYzi5f8EXr05VjPnlRCATz?usp=sharing) (ND Users)
-
-Lab notebook formats for non-ND users: 
-- [Google Doc](https://docs.google.com/document/d/1mBiPpxjRfBlEZI9XIc8rzSpSuHfAlrfV6l5ivjih1Vo/copy)
-- [Markdown](https://github.com/kwaldenphd/football-text-analysis/blob/main/lab-notebook-template.md)
-- [PDF](https://github.com/kwaldenphd/football-text-analysis/blob/main/Text_Analysis_Lab_Notebook_Template.pdf)
 
 Components:
 - Reflections/observations from in-class work (Data Basic, Voyant Tools, AntConc)
