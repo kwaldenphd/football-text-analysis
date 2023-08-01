@@ -3,45 +3,6 @@
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
-## Table of Contents
-
-- [Optical Character Recognition](#optical-character-recognition)
-  * [Hacking Google CoLab](#hacking-google-colab)
-  * [OCR Next Steps and Additional Resources](#ocr-next-steps-and-additional-resources)
-  * [Acrobat Adobe Pro](#acrobat-adobe-pro)
-
-# Optical Character Recognition
-
-Prof. Walden has built out a Jupyter notebook that outlines a preliminary optical character recognition (OCR) workflow, using the Scholastic Football Review publications as an example.
-
-The OCR workflow uses the following programs and Python modules:
-- `tesseract`
-- `pytesseract`
-- `opencv`
-- `pillow`
-- `pdf2image`
-
-The OCR workflow includes the following steps:
-- Creates sub-directories for each `PDF`
-- Converts each page in a `PDF` to a `PNG` file
-- Saves the image files for a single `PDF` in a sub-directory
-- Runs OCR on image files with sample code for `pytesseract` and `pytesseract`/`opencv` workflows
-- Writes OCR output to a `txt` file in the main directory, with one `txt` file for each `PDF`
-
-Jupyter Notebook:
-- [GitHub](https://github.com/kwaldenphd/football-text-analysis/blob/main/notebooks/ocr-roadmap.ipynb)
-- [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kwaldenphd/football-text-analysis/blob/main/notebooks/ocr-roadmap.ipynb)
-- [Google CoLab](https://drive.google.com/file/d/1WbGTAvs1WCGrC5XZeADyhminFn8QMEHT/view?usp=sharing) *ND users*
-
-## Hacking Google CoLab
-
-Given the scale of the processing jobs you may end up running, you will likely want to optimize Google CoLab's performance:
-- Under `Runtime`, select `Change runtime type`
-- Select `Python 3` for `Runtime type` and `GPU` for `Hardware accelerator`
-  * Source: Matthew Mayo, "[3 Essential Google Colaboratory Tips and Tricks](https://www.kdnuggets.com/2018/02/essential-google-colaboratory-tips-tricks.html)" *KD Nuggets* (February 2018)
-
-Let's see where we can get with enhanced Google CoLab functionality for this lab. But if folks need to go beyond what their personal computers or CoLab can handle, we do have access to high-performance computing (HPC) resources through Notre Dame's [Center for Research Computing](https://crc.nd.edu/). Contact Prof. Walden to learn more and discuss next steps.
-
 ## OCR Next Steps and Additional Resources
 
 There are a number of options and next steps for refining or further building out an OCR workflow.
