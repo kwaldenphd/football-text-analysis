@@ -105,10 +105,8 @@ Notre Dame students have access to the Adobe Pro software title through the Adob
 - NOTE: The full Adobe Creative Cloud suite is available on any [OIT lab computer](https://nd.service-now.com/kb_view.do?sysparm_article=KB0013524) and can be accessed through the OIT general purpose [Virtual Computer Lab](https://inside.nd.edu/task/all/virtual-computer-lab)
 
 Once you have access to Adobe Pro, you can use the expanded features to run an OCR workflow on a single PDF or multiple PDFs. 
-
-Adobe Pro also allows you to export the contents of a single PDF or multiple PDFs to plain-text (`.txt`) files.
-
-Adobe Pro also allows you to export the contents of a single PDF or multiple PDFs to plain-text (`.txt`) files.
+- Adobe Pro also allows you to export the contents of a single PDF or multiple PDFs to plain-text (`.txt`) files.
+- Adobe Pro also allows you to export the contents of a single PDF or multiple PDFs to plain-text (`.txt`) files.
 
 To run OCR within Adobe Pro:
 - University of Illinois Scholarly Commons, "[Introduction to OCR and Searchable PDFs: Adobe Acrobat Pro](https://guides.library.illinois.edu/c.php?g=347520&p=4116755)" *University of Illinois Library*
@@ -128,13 +126,9 @@ To export multiple PDFs as TXT files from Adobe Pro (using "Action Wizard"):
 
 # Addressing Your Research Question
 
-Any of the tools and methods covered in this lab are fair game. Folks are also welcome to branch out and/or go more deeply into any of these areas, keeping in mind the limited assignment scope.
+Any of the tools and methods covered in this lab are fair game. Folks are also welcome to branch out and/or go more deeply into any of these areas, keeping in mind the limited assignment scope. The tools you choose and the analysis methods you land on should be driven by your topic/question and what you want to know about it.
 
-But the tools you choose and the analysis methods you land on should be driven by your topic/question and what you want to know about it.
-
-For example, are we wanting to show relationships, similarity, difference. Or change over time. Or comparison. 
-
-The "Text Analysis Flow Guide" visual is a great place to start for thinking about your options.
+For example, are we wanting to show relationships, similarity, difference. Or change over time. Or comparison. The "Text Analysis Flow Guide" visual is a great place to start for thinking about your options.
 
 <p align="center"><a href="https://github.com/kwaldenphd/football-text-analysis/blob/main/text-analysis-flow-guide.png?raw=true"><img class="aligncenter size-full wp-image-582" src="https://github.com/kwaldenphd/football-text-analysis/blob/main/text-analysis-flow-guide.png?raw=true" alt="" width="791" height="597" /></a></p>
 
@@ -157,7 +151,7 @@ Lab notebook formats for non-ND users:
 
 Components:
 - Reflections/observations from in-class work (Data Basic, Voyant Tools, AntConc)
-- Report from your own textual analysis experiment (outline below)
+- Report from your own textual analysis experiment (outline above)
 - Any PDF or TXT files you worked with
 - Any Python scripts/Jupyter Notebooks used in the lab
 
