@@ -15,7 +15,7 @@ This lab uses textual analysis methods to explore student newspaper coverage of 
 - [Introduction](#introduction)
   * [University Archive Digital Collections](#university-archive-digital-collections)
   * [From Document to Character](#from-document-to-character)
-  * [Files Needed](#files-needed)
+  * [Files & Resources](#files--resources)
 - [Distant Reading with a Single Document: DataBasic](#distant-reading-with-a-single-document-databasic)
 - [Distant Reading with a Corpus: Voyant Tools](#distant-reading-with-a-corpus-voyant-tools)
 - [Distant Reading with a Concordancer: AntConc](#distant-reading-with-a-concordancer-antconc)
@@ -67,13 +67,12 @@ Looking at a specific document...
 - What topics are covered or addressed in this resource?
 - What kinds of research questions or topics could you analyze/explore using this resource?
 
-## Files Needed
+## Files & Resources
 
-SINGLE DOCUMENT
-
-CORPUS
-
-OTHER WORKFLOWS
+- [Google Drive folder](https://drive.google.com/drive/folders/1lvk2Vwah6ZZ69WC6TTbGZUIgXCqYSBi7?usp=drive_link) with sample files, Python notebooks, and lab notebook template
+- [1929 Scholastic Football Review](https://docs.google.com/document/d/13-NlJ40DzzFBUs2qe1uOpET1ZKEGs3I2DZLzKzulnSU/edit?usp=drive_link)
+- [1931 Scholastic Football Review](https://drive.google.com/file/d/1cPcY6mXNLcXUoL27v3BxlMgNkB4pS4rT/view?usp=drive_link)
+- [Folder with Scholastic Football Reviews](https://drive.google.com/drive/folders/1zK99DK_Cd-w9tu2u2M5vlAOSidZYdVTd?usp=drive_link)
 
 # Distant Reading with a Single Document: DataBasic
 
@@ -102,6 +101,8 @@ Developed by Laurence Anthony, <a href="http://www.laurenceanthony.net/software/
 # Oh, the Places You Could Go!
 
 In addition to the graphical-user-interface (GUI) based tools covered in the previous sections of the lab, we can also apply these methods using programmatic workflows.
+
+[Click here]() to open this section of the lab.
 
 ## NLTK and Python
 
