@@ -20,12 +20,7 @@ This lab uses textual analysis methods to explore student newspaper coverage of 
 - [Distant Reading with a Corpus: Voyant Tools](#distant-reading-with-a-corpus-voyant-tools)
 - [Distant Reading with a Concordancer: AntConc](#distant-reading-with-a-concordancer-antconc)
 - [Oh, the Places You Could Go](#oh-the-places-you-could-go)
-  * [NLTK and Python](#nltk-and-python)
-  * [Distant Reader](#distant-reader)  
-- [Next Steps (aka, now it's your turn!)](#next-steps-aka-now-its-your-turn) 
-  * [Track #1: Additional Skill Building](#option-1-additional-skill-building)
-  * [Track #2: Text Analysis Research Proposal](#text-analysis-research-proposal)
-- [Lab Notebook Components](#lab-notebook-components)
+- [Next Steps (aka, now it's your turn!)](#next-steps-aka-now-its-your-turn)
 
 [Link to Google Drive folder with lab materials and resources, including notebook template](https://drive.google.com/drive/folders/1lvk2Vwah6ZZ69WC6TTbGZUIgXCqYSBi7?usp=drive_link) (ND Users)
 
@@ -97,47 +92,7 @@ Developed by Laurence Anthony, <a href="http://www.laurenceanthony.net/software/
 
 In addition to the graphical-user-interface (GUI) based tools covered in the previous sections of the lab, we can also apply these methods using programmatic workflows.
 
-[Click here]() to open this section of the lab.
-
-## NLTK and Python
-
-To undertake large-scale text analysis, we would need to be able to download source material in bulk and eventually convert that source material to plain-text formats for various kinds of analysis and visualization in a programming environment. This section of the lab procedure includes Jupyter notebook (`.ipynb`) files with sample Python workflows for using text and data mining workflows with select collections of digitized material from the [University of Notre Dame Archives](http://archives.nd.edu/).
-
-[Link to this section of the lab](https://github.com/kwaldenphd/football-text-analysis/blob/main/python-text-analysis.md)
-
-## Natural Language Processing and Text Analysis in R
-
-Taylor Arnold and Lauren Tilton (2015), [*Humanities Data in R: Exploring Networks, Geospatial Data, Images, and Text*](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005141805). Springer.
-- [Supplementary material](https://humanitiesdata.org/)
-
-[CRAN Task View: Natural Language Processing](https://cran.r-project.org/web/views/NaturalLanguageProcessing.html)
-
-*Programming Historian* tutorials:
-- [Basic text processing](https://programminghistorian.org/en/lessons/basic-text-processing-in-r)
-- [Sentiment analysis](https://programminghistorian.org/en/lessons/sentiment-analysis-syuzhet)
-
-## Topic Modeling
-
-*Programming Historian* [Topic Modeling & MALLET tutorial](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet)
-
-[Prof. Walden's tutorial](https://github.com/kwaldenphd/topicmodeling-tutorial)
-
-[Link to download Stanford's Topic Modeling Tool](https://downloads.cs.stanford.edu/nlp/software/tmt/tmt-0.3)
-
-## Named Entity Extraction 
-
-[Prof. Walden's tutorial](https://github.com/kwaldenphd/NLP-NER-tutorial)
-
-[Link to download Stanford's Named Entity Recognition tool](https://nlp.stanford.edu/software/CRF-NER.shtml)
-
-## Distant Reader
-
-"The Distant Reader takes text as input, does analysis against it, and outputs sets of structured data called 'study carrels', which students, researchers, or scholars can use to do both close and distant reading...[it is] a tool intended to supplement the traditional reading process. Given a set of one or more texts acquired through a variety of means, the Reader: 1) applies different forms of text mining and natural language processing against the texts, 2) saves the results as a set of structured data amenable to computing, 3) summarizes everything in a set of interactive HTML reports, 4) compresses everything into a .zip file, and 5) provides the means for you to view the results online or download the whole thing to your computer. This resulting .zip file is affectionately called a 'study carrels."
-- Morgan, Eric Lease. (2020, April 10). Distant Reader (Version Alpha). Zenodo. https://doi.org/10.5281/zenodo.3747777.
-
-To learn more about Distant Reader:
-- [About](https://distantreader.org/)
-- [Getting Started](https://reader-toolbox.readthedocs.io/en/latest/)
+[Click here](https://github.com/kwaldenphd/football-text-analysis/blob/main/programming-workflows.md) to open this section of the lab.
 
 # Next Steps (aka, now it's your turn!)
 
