@@ -212,15 +212,17 @@ Taylor Arnold and Lauren Tilton (2015), [*Humanities Data in R: Exploring Networ
 
 ## Topic Modeling
 
-https://downloads.cs.stanford.edu/nlp/software/tmt/tmt-0.3/
+*Programming Historian* [Topic Modeling & MALLET tutorial](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet)
 
-TUTORIAL
+[Prof. Walden's tutorial](https://github.com/kwaldenphd/topicmodeling-tutorial)
+
+[Link to download Stanford's Topic Modeling Tool](https://downloads.cs.stanford.edu/nlp/software/tmt/tmt-0.3)
 
 ## Named Entity Extraction 
 
-https://nlp.stanford.edu/software/CRF-NER.shtml
+[Prof. Walden's tutorial](https://github.com/kwaldenphd/NLP-NER-tutorial)
 
-TUTORIAL
+[Link to download Stanford's Named Entity Recognition tool](https://nlp.stanford.edu/software/CRF-NER.shtml)
 
 ## Distant Reader
 
@@ -228,22 +230,12 @@ TUTORIAL
 - Morgan, Eric Lease. (2020, April 10). Distant Reader (Version Alpha). Zenodo. https://doi.org/10.5281/zenodo.3747777.
 
 To learn more about Distant Reader:
-- [About](https://distantreader.org/about)
-- [Getting Started](https://distantreader.org/getting-started)
-
-[Click here](https://github.com/kwaldenphd/football-text-analysis/blob/main/distant-reader.md) to open this section of the lab.
+- [About](https://distantreader.org/)
+- [Getting Started](https://reader-toolbox.readthedocs.io/en/latest/)
 
 # Next Steps (aka, now it's your turn!)
 
-By this point in the lab we've covered a number of different tools for (computational) text analysis. 
-
-TWO OPTIONS
-
-Now it's your turn to come up with a small-scale question, topic, etc. related to the period of ND football history we've been looking at (or some of the broader themes we've been talking about) that you could explore using some of the primary sources and analysis/research methods covered in this lab.
-
-# Track A: Learn New Skills
-
-# Track B: Develop a Research Proposal
+By this point in the lab we've covered a number of different tools for (computational) text analysis. Now it's your turn to come up with a small-scale question, topic, etc. related to the period of ND football history we've been looking at (or some of the broader themes we've been talking about) that you could explore using some of the primary sources and analysis/research methods covered in this lab.
 
 ## Part I: Identify a research question (or topic)
 
