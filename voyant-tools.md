@@ -25,7 +25,7 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 <p align="center"><a href="https://github.com/kwaldenphd/Voyant-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true"><img class="aligncenter size-large wp-image-549" src="https://github.com/kwaldenphd/Voyant-tutorial/blob/master/screenshots/Capture_1.PNG?raw=true" alt="" width="676" height="523" /></a></p>
 
 3-Upload the PDF you explored in the previous section of the lab and click Reveal.
-  * If you want to work with a collection of texts, download the zip folder included in this repository and upload that to Voyant. The zip folder includes Scholastic football review issues from 1901-1931. [Link to access this corpus via Google Drive](https://drive.google.com/drive/folders/1zK99DK_Cd-w9tu2u2M5vlAOSidZYdVTd?usp=sharing)
+  * If you want to work with a collection of texts, download the zip folder included in this repository and upload that to Voyant. The zip folder includes Scholastic football review issues from 1901-1931. [Link to access this corpus via Google Drive](https://drive.google.com/drive/folders/1zK99DK_Cd-w9tu2u2M5vlAOSidZYdVTd?usp=drive_link)
 
 <p align="center"><a href="https://github.com/kwaldenphd/Voyant-tutorial/blob/master/screenshots/Capture_2.PNG?raw=true"><img class="aligncenter size-large wp-image-550" src="https://github.com/kwaldenphd/Voyant-tutorial/blob/master/screenshots/Capture_2.PNG?raw=true" alt="" width="676" height="355" /></a></p>
 
