@@ -23,7 +23,7 @@ Developed by Laurence Anthony, <a href="http://www.laurenceanthony.net/software/
 
 ## Data
 
-1- Download the zip folder that includes Scholastic football reviews from 1901-1931 ([link to access this corpus via Google Drive](https://drive.google.com/drive/folders/1zK99DK_Cd-w9tu2u2M5vlAOSidZYdVTd?usp=sharing)). Extract the folder contents on your computer.
+1- Download the zip folder that includes Scholastic football reviews from 1901-1931 ([link to access this corpus via Google Drive](https://drive.google.com/drive/folders/1zK99DK_Cd-w9tu2u2M5vlAOSidZYdVTd?usp=drive_link)). Extract the folder contents on your computer.
 - PC users- open File Explorer (folder icon), right click on the zip folder (likely in Downloads), and click "Extract"
 - Mac users- click on the zip folder
 
