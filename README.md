@@ -60,13 +60,13 @@ Looking at a specific document...
 ## Files & Resources
 
 - [Google Drive folder](https://drive.google.com/drive/folders/1lvk2Vwah6ZZ69WC6TTbGZUIgXCqYSBi7?usp=drive_link) with sample files, Python notebooks, and lab notebook template
-- [1929 Scholastic Football Review](https://docs.google.com/document/d/13-NlJ40DzzFBUs2qe1uOpET1ZKEGs3I2DZLzKzulnSU/edit?usp=drive_link)
+- [1929 Scholastic Football Review](https://drive.google.com/file/d/1FSFr-T1H6UX3SMKysSwjPrU3lUa7UMpD/view?usp=drive_link)
 - [1931 Scholastic Football Review](https://drive.google.com/file/d/1cPcY6mXNLcXUoL27v3BxlMgNkB4pS4rT/view?usp=drive_link)
 - [Folder with Scholastic Football Reviews](https://drive.google.com/drive/folders/1zK99DK_Cd-w9tu2u2M5vlAOSidZYdVTd?usp=drive_link)
 
 # Distant Reading with a Single Document: DataBasic
 
-Something about computational methods, single document, what single document we're using, etc.
+We'll start off by exploring some foundational components of text analysis, starting with a single document.
 
 According to [its website,](https://databasic.io) “DataBasic is a suite of easy-to-use web tools for beginners that introduce concepts of working with data. These simple tools make it easy to work with data in fun ways, so you can learn how to find great stories to tell.” DataBasic is developed and supported by MIT’s [Center for Civic Media](https://civic.mit.edu/) and Emerson College’s [Engagement Lab.](https://elab.emerson.edu/) 
 
@@ -76,13 +76,20 @@ According to [its website,](https://databasic.io) “DataBasic is a suite of eas
 
 In focusing on a single document, we're able to get a granular sense of how computational methods are interacting with text information. But what if we want to use these methods on a collection of documents?
 
+In computational text analysis methods, a collection of documents is called **a corpus**.
+- *The plural version of corpus? Corpora.*
+
+We'll analyze a selection of Scholastic football reviews, building on some of the foundational methods we observed in the previous section of the lab.
+
 <a href="http://voyant-tools.org/">Voyant Tools</a> is an open-source web application developed by Stéfan Sinclair and Geoffrey Rockwell in 2003, with later contributions added by Andrew MacDonald, Cyril Briquet, Lisa Goddard, and Mark Turcato. While Voyant is one of the leading robust web-based textual analysis interfaces, it grew out of existing text analysis tools like HyperPo, Tapoware, and TACT. Voyant also offers <a href="https://github.com/sgsinclair/Voyant">open-source code</a> that can be used to deploy the program on a server. Voyant users can upload text files from their computer, link to online text sources, or scrape the text off a webpage for analysis and visualization. Unlike more advanced, programming-oriented textual analysis programs like R and R Studio, Voyant gives users access to a range statistical analysis and visualization features without requiring significant technical knowledge.
 
 [Click here](https://github.com/kwaldenphd/football-text-analysis/blob/main/voyant-tools.md) to open this section of the lab.
 
 # Distant Reading with a Concordancer: AntConc
 
-WHAT IS A CONCORDANCER
+Now that we have a sense of what's possible with a corpus and computational text analysis methods, we'll explore an alternate text analysis workflow using a concordancing software.
+
+"A concordancer is essentially a search engine tool which is used to examine a corpus (a collection of authentic texts) in order to view words in context and extract information about frequency, range (how many different texts a word/phrase is used in), collocation and grammar." (EAP Foundation, "[Guide to the Concordancer](https://www.eapfoundation.com/guides/concordancer/)")
 
 Developed by Laurence Anthony, <a href="http://www.laurenceanthony.net/software/antconc/">AntConc</a> is a free, closed-source program that runs on Windows, OS, and Linux. At the most basic level, AntConc is a concordancer, or a program that constructs a concordance based on terms in a text or collection of texts. AntConc also allows users to visualize concordance calculations and generate word and keyword lists based on terms present in the text. AntConc also supports cluster and collocation analysis and visualization. With Voyant, we explored a web-based graphical user interface option for conducting textual analysis, with a particular emphasis on visualization. AntConc is a software program (that runs on your own computer) that focuses more on corpus linguistics and statistical analysis methods.
 
