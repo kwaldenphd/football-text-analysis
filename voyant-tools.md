@@ -3,6 +3,7 @@
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
+- [Files](#files)
 - [Voyant Tools](#voyant-tools)
   * [Uploading Data](#uploading-data)
   * [Voyant Interface](#voyant-interface)
@@ -15,6 +16,12 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
   * [Interacting With Voyant Tools](#interacting-with-voyant-tools)
   * [Exporting in Voyant](#exporting-in-voyant)
   * [Final Voyant Reflection Questions](#final-voyant-reflection-questions)
+
+# Files
+
+- [Folder with Scholastic Football Reviews](https://drive.google.com/drive/folders/1zK99DK_Cd-w9tu2u2M5vlAOSidZYdVTd?usp=drive_link)
+
+# Voyant Tools
 
 ## Uploading Data
 
