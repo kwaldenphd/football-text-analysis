@@ -14,7 +14,6 @@ This lab uses textual analysis methods to explore student newspaper coverage of 
 - [Background](#background)
 - [Introduction](#introduction)
   * [University Archive Digital Collections](#university-archive-digital-collections)
-  * [From Document to Character](#from-document-to-character)
   * [Files & Resources](#files--resources)
 - [Distant Reading with a Single Document: DataBasic](#distant-reading-with-a-single-document-databasic)
 - [Distant Reading with a Corpus: Voyant Tools](#distant-reading-with-a-corpus-voyant-tools)
@@ -35,10 +34,6 @@ Discussion Questions:
 - Other questions/observations
 
 # Introduction
-
-## From Document to Character
-
-SOMETHING ON METADATA, OCR
 
 ## University Archive Digital Collections
 
