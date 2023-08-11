@@ -1,10 +1,11 @@
-# Lab #1: Text Analysis
+# Lab #1 (Text Analysis): Voyant Tools
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
 This tutorial is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 ## Table of Contents
 
+- [Files](#files)
 - [AntConc](#antconc)
   * [Data](#data)
   * [Downloading AntConc and Loading Data](#downloading-antconc-and-loading-data)
@@ -16,6 +17,10 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
     * [Exporting in AntConc ](#exporting-in-antconc)
     * [Collocates and Word Lists](#collocates-and-word-lists)
     * [Reflection Questions](#antconc-reflection-questions)
+
+# Files
+
+- [Folder with Scholastic Football Reviews](https://drive.google.com/drive/folders/1zK99DK_Cd-w9tu2u2M5vlAOSidZYdVTd?usp=drive_link)
 
 # AntConc
 
