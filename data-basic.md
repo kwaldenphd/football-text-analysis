@@ -5,9 +5,14 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 
 ## Table of Contents
 
+- [Files](#files)
 - [DataBasic](#databasic)
   * [WordCounter](#wordcounter)
   * [SameDiff](#samediff)
+
+# Files
+- [1929 Scholastic Football Review](https://drive.google.com/file/d/1FSFr-T1H6UX3SMKysSwjPrU3lUa7UMpD/view?usp=drive_link)
+- [1931 Scholastic Football Review](https://drive.google.com/file/d/1cPcY6mXNLcXUoL27v3BxlMgNkB4pS4rT/view?usp=drive_link)
 
 # DataBasic
 
@@ -33,7 +38,7 @@ According to [its website,](https://databasic.io) “DataBasic is a suite of eas
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_5.jpg?raw=true" alt="Capture" /></p>
 
-6-Download a plain-text file for the 1929 Scholastic football review ([Google Drive link](https://docs.google.com/document/d/13-NlJ40DzzFBUs2qe1uOpET1ZKEGs3I2DZLzKzulnSU/edit?usp=drive_link)).
+6-Download a plain-text file for the 1929 Scholastic football review ([Google Drive link](https://drive.google.com/file/d/1FSFr-T1H6UX3SMKysSwjPrU3lUa7UMpD/view?usp=drive_link)).
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_6.jpg?raw=true" alt="Capture" /></p>
 
