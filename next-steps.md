@@ -83,7 +83,7 @@ Given the limited scope of this assignment, I encourage folks to drill down and 
 - Or you could focus on a particular season or period of time. 
 - It could be a specific publication or type of source material.
 
-The final project is a space where you take up more advanced computational methods or engage in larger-scale, multi-faceted research questions- hanging out in the world of exploratory data analysis is absolutely fine for this lab.
+The final project is a space where you take up more advanced computational methods or engage in larger-scale, multi-faceted research questions- hanging out in the world of preliminary exploration and a research proposal is absolutely fine.
 
 For now, think about the questions you might be interested in asking or the topics you might be interested in exploring- we've already done some brainstorming in this direction with our in-class work.
 
