@@ -76,7 +76,7 @@ Folks are welcome to meet with me (individually or as a group) to ask questions 
 
 Our end-point for this class is an open-ended final project that takes up course topics/themes/etc. This lab is not a final project.
 
-We'll have in-class work time on Thursday 9/23 to continue working on this lab, and folks should anticipate spending 5-7 hours (total) outside class time working on this lab.
+We'll have in-class work time for this section of the lab (Thursday 9/28), and each member of the group should anticipate spending 5-7 hours (total) outside class time working on this lab.
 
 Given the limited scope of this assignment, I encourage folks to drill down and narrow their focus for what you want to analyze or explore.
 - This could be a particular player, team, or coach. 
