@@ -89,7 +89,7 @@ The workflow includes sample code for the following steps or tasks:
 - Generate dictionary and corpus from text file using `gensim`
 - Show word weights in corpus using `gensim`
 - Create bag of words from single text file using `gensim`
-- Create TD-IDF model and show TD-IDF weights using `gensim`
+- Create TF-IDF model and show TF-IDF weights using `gensim`
 
 [Click here to access the Jupyter Notebook via Google CoLab](https://drive.google.com/file/d/1S2W6NQfLC_9kbcg7_RwYZ163yZ6R7n1K/view?usp=sharing)
 
